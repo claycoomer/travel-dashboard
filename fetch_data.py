@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 os.makedirs('data', exist_ok=True)
 
-HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; TravelDashboard/1.0; +https://github.com/claycoomer/travel-dashboard)'}
+HEADERS = {'User-Agent': 'TravelDashboard/1.0 (contact: github.com/claycoomer/travel-dashboard)'}
 
 TOP_15 = [
     {"code": "ATL", "name": "Atlanta Hartsfield-Jackson"},
@@ -27,12 +27,25 @@ TOP_15 = [
     {"code": "IAH", "name": "Houston George Bush"},
 ]
 
+INTL_AIRPORTS = [
+    {"code": "ATL", "name": "Atlanta Hartsfield-Jackson"},
+    {"code": "LAX", "name": "Los Angeles International"},
+    {"code": "ORD", "name": "Chicago O'Hare"},
+    {"code": "DFW", "name": "Dallas/Fort Worth"},
+    {"code": "JFK", "name": "New York JFK"},
+    {"code": "SFO", "name": "San Francisco International"},
+    {"code": "SEA", "name": "Seattle-Tacoma"},
+    {"code": "MIA", "name": "Miami International"},
+    {"code": "EWR", "name": "Newark Liberty"},
+    {"code": "IAH", "name": "Houston George Bush"},
+    {"code": "MCO", "name": "Orlando International"},
+]
+
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
 
 # ─────────────────────────────────────────
 # STATE DEPT TRAVEL ADVISORIES
-# Fixed: country name is in <th> per row, not <td>
 # ─────────────────────────────────────────
 def fetch_advisories():
     print("  → State Dept advisories...")
@@ -44,43 +57,23 @@ def fetch_advisories():
 
         advisories = []
         table = soup.find('table')
-
         if table:
             for row in table.find_all('tr'):
-                # Country name is in a <th> element; advisory columns are <td>
                 th = row.find('th')
                 tds = row.find_all('td')
-
                 if not th or not tds:
                     continue
-
-                country = th.get_text(strip=True)
-
-                # Strip footnote numbers that sometimes appear (e.g. "Afghanistan1")
-                country = re.sub(r'\d+$', '', country).strip()
-
-                # First <td> is the advisory level text
+                country = re.sub(r'\d+$', '', th.get_text(strip=True)).strip()
                 level_text = tds[0].get_text(strip=True)
                 match = re.search(r'Level\s*(\d)', level_text, re.IGNORECASE)
                 level = int(match.group(1)) if match else 0
-
-                # Last <td> is the date updated
                 date = tds[-1].get_text(strip=True)
-
                 if country and level > 0:
-                    advisories.append({
-                        'country': country,
-                        'level': level,
-                        'level_text': level_text,
-                        'date': date
-                    })
+                    advisories.append({'country': country, 'level': level, 'level_text': level_text, 'date': date})
 
-        # Sort by level descending so highest-risk countries appear first
         advisories.sort(key=lambda x: x['level'], reverse=True)
-
         print(f"     {len(advisories)} advisories fetched")
         return {'last_updated': now_iso(), 'source': 'US Department of State', 'advisories': advisories}
-
     except Exception as e:
         print(f"     ERROR: {e}")
         return {'last_updated': now_iso(), 'error': str(e), 'advisories': []}
@@ -89,7 +82,6 @@ def fetch_advisories():
 # TSA THROUGHPUT
 # ─────────────────────────────────────────
 def load_tsa_archive():
-    """Load the cumulative TSA daily history file."""
     path = 'data/tsa_archive.json'
     if os.path.exists(path):
         with open(path) as f:
@@ -100,7 +92,6 @@ def load_tsa_archive():
     return {}
 
 def save_tsa_archive(archive, new_records):
-    """Append today's readings to the archive and save."""
     for r in new_records:
         if r.get('date') and r.get('travelers_current'):
             archive[r['date']] = r['travelers_current']
@@ -108,11 +99,9 @@ def save_tsa_archive(archive, new_records):
         json.dump(archive, f, indent=2)
 
 def prior_year_count(archive, date_str):
-    """Return traveler count for same date one year prior, with ±3-day fallback."""
     from datetime import timedelta
-    formats = ['%m/%d/%Y', '%-m/%-d/%Y', '%m/%d/%y']
     current = None
-    for fmt in formats:
+    for fmt in ['%m/%d/%Y', '%-m/%-d/%Y', '%m/%d/%y']:
         try:
             current = datetime.strptime(date_str, fmt)
             break
@@ -146,7 +135,6 @@ def fetch_tsa():
             header_row = table.find('tr')
             header_cells = header_row.find_all(['th', 'td']) if header_row else []
             print(f"     TSA columns: {[c.get_text(strip=True) for c in header_cells]}")
-
             for row in table.find_all('tr')[1:]:
                 cols = [td.get_text(strip=True).replace(',', '') for td in row.find_all('td')]
                 if not cols or not cols[0]:
@@ -158,21 +146,16 @@ def fetch_tsa():
                 })
 
         records = records[:30]
-
-        # Fill in prior year from archive wherever the page doesn't provide it
         for r in records:
             if not r.get('travelers_prior'):
                 r['travelers_prior'] = prior_year_count(archive, r['date'])
 
         save_tsa_archive(archive, records)
-
         print(f"     {len(records)} records fetched")
         return {'last_updated': now_iso(), 'source': 'TSA Checkpoint Travel Numbers', 'records': records}
-
     except Exception as e:
         print(f"     ERROR: {e}")
         return {'last_updated': now_iso(), 'error': str(e), 'records': []}
-
 
 # ─────────────────────────────────────────
 # FAA ATC DELAYS
@@ -180,84 +163,145 @@ def fetch_tsa():
 def fetch_faa_delays():
     print("  → FAA ATC delays...")
     delays = []
-
-    endpoints = [
-        "https://nasstatus.faa.gov/api/airport-delay-list",
-        "https://nasstatus.faa.gov/api/airport-status-list",
-    ]
-
-    for url in endpoints:
+    for url in ["https://nasstatus.faa.gov/api/airport-delay-list",
+                "https://nasstatus.faa.gov/api/airport-status-list"]:
         try:
             resp = requests.get(url, headers=HEADERS, timeout=20)
             print(f"     {url} → HTTP {resp.status_code}")
             if resp.status_code == 200 and resp.text.strip():
-                try:
-                    data = resp.json()
-                    if isinstance(data, list) and data:
-                        delays = data
-                        break
-                    elif isinstance(data, dict):
-                        for key in ('delays', 'Delays', 'GroundDelays', 'programs'):
-                            if data.get(key):
-                                delays = data[key]
-                                break
-                        if delays:
+                data = resp.json()
+                if isinstance(data, list) and data:
+                    delays = data
+                    break
+                elif isinstance(data, dict):
+                    for key in ('delays', 'Delays', 'GroundDelays', 'programs'):
+                        if data.get(key):
+                            delays = data[key]
                             break
-                except Exception as parse_err:
-                    print(f"     Parse error: {parse_err} | raw: {resp.text[:200]}")
+                    if delays:
+                        break
         except Exception as e:
-            print(f"     Request error for {url}: {e}")
+            print(f"     {url} error: {e}")
 
-    print(f"     {len(delays)} delay records found")
+    print(f"     {len(delays)} delay records")
     return {'last_updated': now_iso(), 'source': 'FAA NAS Status', 'delays': delays}
 
 # ─────────────────────────────────────────
-# FAA NOTAMs (requires API key)
+# NWS WEATHER DISRUPTION ALERTS
 # ─────────────────────────────────────────
-def fetch_notams():
-    print("  → FAA NOTAMs...")
-    api_key = os.environ.get('FAA_API_KEY', '')
+def fetch_weather_alerts():
+    print("  → NWS weather disruption alerts...")
+    try:
+        url = "https://api.weather.gov/alerts/active"
+        params = {
+            'status': 'actual',
+            'message_type': 'alert',
+            'severity': 'Extreme,Severe',
+            'urgency': 'Immediate,Expected',
+            'limit': 100
+        }
+        resp = requests.get(
+            url, params=params,
+            headers={**HEADERS, 'Accept': 'application/geo+json'},
+            timeout=30
+        )
+        resp.raise_for_status()
+        features = resp.json().get('features', [])
 
-    if not api_key:
-        print("     FAA_API_KEY not configured — skipping")
-        return {
-            'last_updated': now_iso(),
-            'note': 'FAA API key required. Register free at https://api.faa.gov/ then add FAA_API_KEY as a GitHub repository secret.',
-            'notams': []
+        # Filter for weather event types most relevant to travel disruption
+        travel_relevant = {
+            'Blizzard Warning', 'Winter Storm Warning', 'Winter Storm Watch',
+            'Ice Storm Warning', 'Freezing Rain Advisory', 'Heavy Snow Warning',
+            'Tornado Warning', 'Tornado Watch', 'Severe Thunderstorm Warning',
+            'Severe Thunderstorm Watch', 'Tropical Storm Warning', 'Tropical Storm Watch',
+            'Hurricane Warning', 'Hurricane Watch', 'High Wind Warning', 'High Wind Watch',
+            'Wind Advisory', 'Dense Fog Advisory', 'Freezing Fog Advisory',
+            'Flash Flood Warning', 'Flood Warning', 'Excessive Heat Warning',
+            'Dust Storm Warning', 'Dust Advisory'
         }
 
-    notams = []
-    for airport in TOP_15:
-        try:
-            url = f"https://external-api.faa.gov/notamapi/v1/notams?icaoLocation={airport['code']}&pageSize=10"
-            resp = requests.get(url, headers={**HEADERS, 'client_id': api_key}, timeout=20)
-            if resp.status_code == 200:
-                items = resp.json().get('items', [])
-                for item in items:
-                    props = item.get('properties', {}).get('coreNOTAMData', {}).get('notam', {})
-                    notams.append({
-                        'airport': airport['code'],
-                        'id': props.get('id', ''),
-                        'text': props.get('text', ''),
-                        'effectiveStart': props.get('effectiveStart', ''),
-                        'effectiveEnd': props.get('effectiveEnd', ''),
-                    })
-        except Exception as e:
-            print(f"     {airport['code']} error: {e}")
+        alerts = []
+        for f in features:
+            p = f.get('properties', {})
+            event = p.get('event', '')
+            if event not in travel_relevant:
+                continue
+            alerts.append({
+                'event':    event,
+                'severity': p.get('severity', ''),
+                'urgency':  p.get('urgency', ''),
+                'areas':    p.get('areaDesc', ''),
+                'headline': p.get('headline', ''),
+                'onset':    p.get('onset', ''),
+                'expires':  p.get('expires', ''),
+            })
 
-    print(f"     {len(notams)} NOTAMs fetched")
-    return {'last_updated': now_iso(), 'source': 'FAA NOTAM API', 'notams': notams}
+        # Sort: Extreme first, then Severe
+        severity_order = {'Extreme': 0, 'Severe': 1}
+        alerts.sort(key=lambda x: severity_order.get(x['severity'], 9))
+
+        print(f"     {len(alerts)} travel-relevant alerts")
+        return {'last_updated': now_iso(), 'source': 'NOAA / National Weather Service', 'alerts': alerts}
+    except Exception as e:
+        print(f"     ERROR: {e}")
+        return {'last_updated': now_iso(), 'error': str(e), 'alerts': []}
 
 # ─────────────────────────────────────────
-# ITA / i94 ARRIVALS (quarterly static)
+# CBP INTERNATIONAL ARRIVAL WAIT TIMES
+# ─────────────────────────────────────────
+def fetch_cbp_wait_times():
+    print("  → CBP international arrival wait times...")
+    results = []
+    try:
+        base = "https://awts.cbp.dhs.gov/AWT/getAirportWaitTimes.do"
+        for ap in INTL_AIRPORTS:
+            try:
+                resp = requests.get(base, params={'airportCode': ap['code']},
+                                    headers=HEADERS, timeout=15)
+                print(f"     {ap['code']} → HTTP {resp.status_code}")
+                if resp.status_code == 200 and resp.text.strip():
+                    try:
+                        data = resp.json()
+                        results.append({
+                            'airport_code': ap['code'],
+                            'airport_name': ap['name'],
+                            'status': 'ok',
+                            'data': data
+                        })
+                    except Exception:
+                        results.append({
+                            'airport_code': ap['code'],
+                            'airport_name': ap['name'],
+                            'status': 'unavailable'
+                        })
+                else:
+                    results.append({
+                        'airport_code': ap['code'],
+                        'airport_name': ap['name'],
+                        'status': 'unavailable'
+                    })
+            except Exception as e:
+                results.append({
+                    'airport_code': ap['code'],
+                    'airport_name': ap['name'],
+                    'status': 'error',
+                    'error': str(e)
+                })
+
+        print(f"     {len(results)} airports checked")
+        return {'last_updated': now_iso(), 'source': 'CBP Automated Wait Times', 'airports': results}
+    except Exception as e:
+        print(f"     ERROR: {e}")
+        return {'last_updated': now_iso(), 'error': str(e), 'airports': []}
+
+# ─────────────────────────────────────────
+# ITA / i94 ARRIVALS
 # ─────────────────────────────────────────
 def load_arrivals():
     print("  → ITA/i94 arrivals (static dataset)...")
-    source_file = 'data/arrivals_source.json'
-    if os.path.exists(source_file):
-        with open(source_file) as f:
+    if os.path.exists('data/arrivals_source.json'):
+        with open('data/arrivals_source.json') as f:
             return json.load(f)
-
     return {
         'last_updated': now_iso(),
         'data_period': '2024 Annual',
@@ -311,14 +355,17 @@ if __name__ == '__main__':
     with open('data/delays.json', 'w') as f:
         json.dump(fetch_faa_delays(), f, indent=2)
 
-    with open('data/notams.json', 'w') as f:
-        json.dump(fetch_notams(), f, indent=2)
+    with open('data/weather_alerts.json', 'w') as f:
+        json.dump(fetch_weather_alerts(), f, indent=2)
+
+    with open('data/cbp_waittimes.json', 'w') as f:
+        json.dump(fetch_cbp_wait_times(), f, indent=2)
 
     with open('data/arrivals.json', 'w') as f:
         json.dump(load_arrivals(), f, indent=2)
 
-    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.1'}
+    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.2'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
 
-    print("Done. All data files updated in data/")
+    print("Done.")
