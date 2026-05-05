@@ -247,52 +247,62 @@ def fetch_weather_alerts():
         return {'last_updated': now_iso(), 'error': str(e), 'alerts': []}
 
 # ─────────────────────────────────────────
-# CBP INTERNATIONAL ARRIVAL WAIT TIMES
+# STATE DEPT ACTIVE TRAVEL ALERTS
+# Event-specific emergency alerts, distinct from country-level advisories
 # ─────────────────────────────────────────
-def fetch_cbp_wait_times():
-    print("  → CBP international arrival wait times...")
-    results = []
+def fetch_state_dept_alerts():
+    print("  → State Dept active travel alerts...")
     try:
-        base = "https://awts.cbp.dhs.gov/AWT/getAirportWaitTimes.do"
-        for ap in INTL_AIRPORTS:
-            try:
-                resp = requests.get(base, params={'airportCode': ap['code']},
-                                    headers=HEADERS, timeout=15)
-                print(f"     {ap['code']} → HTTP {resp.status_code}")
-                if resp.status_code == 200 and resp.text.strip():
-                    try:
-                        data = resp.json()
-                        results.append({
-                            'airport_code': ap['code'],
-                            'airport_name': ap['name'],
-                            'status': 'ok',
-                            'data': data
-                        })
-                    except Exception:
-                        results.append({
-                            'airport_code': ap['code'],
-                            'airport_name': ap['name'],
-                            'status': 'unavailable'
-                        })
-                else:
-                    results.append({
-                        'airport_code': ap['code'],
-                        'airport_name': ap['name'],
-                        'status': 'unavailable'
-                    })
-            except Exception as e:
-                results.append({
-                    'airport_code': ap['code'],
-                    'airport_name': ap['name'],
-                    'status': 'error',
-                    'error': str(e)
-                })
+        url = "https://travel.state.gov/content/travel/en/international-travel/emergencies/travel-alerts.html/"
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
 
-        print(f"     {len(results)} airports checked")
-        return {'last_updated': now_iso(), 'source': 'CBP Automated Wait Times', 'airports': results}
+        alerts = []
+
+        # Strategy 1: same <th>/<td> table structure as advisory page
+        table = soup.find('table')
+        if table:
+            for row in table.find_all('tr'):
+                th = row.find('th')
+                tds = row.find_all('td')
+                if not th or not tds:
+                    continue
+                location = re.sub(r'\d+$', '', th.get_text(strip=True)).strip()
+                description = tds[0].get_text(strip=True) if tds else ''
+                date = tds[-1].get_text(strip=True) if len(tds) > 1 else ''
+                if location:
+                    alerts.append({
+                        'location': location,
+                        'description': description[:400],
+                        'date': date
+                    })
+
+        # Strategy 2: linked list items (fallback if no table)
+        if not alerts:
+            content = soup.find('main') or soup.find('div', id='content') or soup.find('article')
+            if content:
+                for item in content.find_all('li'):
+                    a = item.find('a')
+                    if not a:
+                        continue
+                    text = item.get_text(strip=True)
+                    if len(text) > 10:
+                        alerts.append({
+                            'location': a.get_text(strip=True),
+                            'description': text[:400],
+                            'date': ''
+                        })
+
+        print(f"     {len(alerts)} active alerts found")
+        return {
+            'last_updated': now_iso(),
+            'source': 'US Department of State — Active Travel Alerts',
+            'alerts': alerts[:30]
+        }
     except Exception as e:
         print(f"     ERROR: {e}")
-        return {'last_updated': now_iso(), 'error': str(e), 'airports': []}
+        return {'last_updated': now_iso(), 'error': str(e), 'alerts': []}
 
 # ─────────────────────────────────────────
 # ITA / i94 ARRIVALS
@@ -358,13 +368,13 @@ if __name__ == '__main__':
     with open('data/weather_alerts.json', 'w') as f:
         json.dump(fetch_weather_alerts(), f, indent=2)
 
-    with open('data/cbp_waittimes.json', 'w') as f:
-        json.dump(fetch_cbp_wait_times(), f, indent=2)
+    with open('data/state_alerts.json', 'w') as f:
+        json.dump(fetch_state_dept_alerts(), f, indent=2)
 
     with open('data/arrivals.json', 'w') as f:
         json.dump(load_arrivals(), f, indent=2)
 
-    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.2'}
+       meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.3'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
 
