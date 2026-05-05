@@ -1,5 +1,5 @@
 {
-  "last_full_update": "2026-05-05T17:00:55.360642+00:00",
+  "last_full_update": "2026-05-05T18:36:31.191767+00:00",
   "airports": [
     {
       "code": "ATL",
@@ -62,5 +62,5 @@
       "name": "Houston George Bush"
     }
   ],
-  "version": "1.0"
+  "version": "1.1"
 }
