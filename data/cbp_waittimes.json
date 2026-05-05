@@ -1,0 +1,72 @@
+{
+  "last_updated": "2026-05-05T19:46:01.629040+00:00",
+  "source": "CBP Automated Wait Times",
+  "airports": [
+    {
+      "airport_code": "ATL",
+      "airport_name": "Atlanta Hartsfield-Jackson",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=ATL (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "LAX",
+      "airport_name": "Los Angeles International",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=LAX (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "ORD",
+      "airport_name": "Chicago O'Hare",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=ORD (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "DFW",
+      "airport_name": "Dallas/Fort Worth",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=DFW (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "JFK",
+      "airport_name": "New York JFK",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=JFK (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "SFO",
+      "airport_name": "San Francisco International",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=SFO (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "SEA",
+      "airport_name": "Seattle-Tacoma",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=SEA (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "MIA",
+      "airport_name": "Miami International",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=MIA (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "EWR",
+      "airport_name": "Newark Liberty",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=EWR (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "IAH",
+      "airport_name": "Houston George Bush",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=IAH (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "airport_code": "MCO",
+      "airport_name": "Orlando International",
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='awts.cbp.dhs.gov', port=443): Max retries exceeded with url: /AWT/getAirportWaitTimes.do?airportCode=MCO (Caused by NameResolutionError(\"HTTPSConnection(host='awts.cbp.dhs.gov', port=443): Failed to resolve 'awts.cbp.dhs.gov' ([Errno -5] No address associated with hostname)\"))"
+    }
+  ]
+}
