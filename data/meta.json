@@ -1,0 +1,21 @@
+{
+  "last_full_update": "Pending first workflow run",
+  "version": "1.0",
+  "airports": [
+    {"code":"ATL","name":"Atlanta Hartsfield-Jackson"},
+    {"code":"LAX","name":"Los Angeles International"},
+    {"code":"ORD","name":"Chicago O'Hare"},
+    {"code":"DFW","name":"Dallas/Fort Worth"},
+    {"code":"DEN","name":"Denver International"},
+    {"code":"JFK","name":"New York JFK"},
+    {"code":"SFO","name":"San Francisco International"},
+    {"code":"SEA","name":"Seattle-Tacoma"},
+    {"code":"LAS","name":"Las Vegas Harry Reid"},
+    {"code":"MCO","name":"Orlando International"},
+    {"code":"EWR","name":"Newark Liberty"},
+    {"code":"CLT","name":"Charlotte Douglas"},
+    {"code":"PHX","name":"Phoenix Sky Harbor"},
+    {"code":"MIA","name":"Miami International"},
+    {"code":"IAH","name":"Houston George Bush"}
+  ]
+}
