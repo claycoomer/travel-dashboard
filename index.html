@@ -135,26 +135,31 @@
         </div>
     </div>
 
-    <!-- CBP Wait Times -->
+    <!-- State Dept Active Travel Alerts -->
     <div class="row g-3 mb-4">
         <div class="col-12">
             <div class="card chart-card p-4">
-                <div class="section-header">CBP International Arrival Wait Times — Major U.S. Gateways</div>
+                <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+                    <div>
+                        <div class="section-header mb-0">State Dept Active Travel Alerts</div>
+                        <div class="text-muted small mt-1">Event-specific emergency alerts — distinct from country-level advisories above</div>
+                    </div>
+                    <span class="badge bg-danger fs-6 px-3 py-2" id="alert-count-badge">—</span>
+                </div>
                 <div class="table-responsive">
-                    <table class="table table-hover align-middle mb-0">
+                    <table class="table table-hover table-sm align-middle mb-0">
                         <thead class="table-light">
-                            <tr><th>Airport</th><th>IATA</th><th>Standard Queue</th><th>APC / Global Entry</th><th>Status</th></tr>
+                            <tr><th>Location</th><th>Alert Details</th><th>Date</th></tr>
                         </thead>
-                        <tbody id="cbp-tbody">
-                            <tr><td colspan="5" class="text-center text-muted py-3">Loading CBP data...</td></tr>
+                        <tbody id="state-alerts-tbody">
+                            <tr><td colspan="3" class="text-center text-muted py-3">Loading alerts...</td></tr>
                         </tbody>
                     </table>
                 </div>
-                <div class="text-muted small mt-2">Source: U.S. Customs &amp; Border Protection &bull; International arrival airports from top 15 list</div>
+                <div class="text-muted small mt-2">Source: US Department of State &bull; <a href="https://travel.state.gov/content/travel/en/international-travel/emergencies/travel-alerts.html/" target="_blank" class="text-muted">travel.state.gov</a></div>
             </div>
         </div>
     </div>
-
     <!-- International Arrivals -->
     <div class="row g-3 mb-4">
         <div class="col-12">
@@ -386,44 +391,25 @@ function renderWeatherTable(list) {
     }).join('');
 }
 
-// ── CBP WAIT TIMES ────────────────────────────────────────────
-function renderCbp(data) {
-    const tbody=document.getElementById('cbp-tbody');
-    if(!data?.airports?.length){
-        tbody.innerHTML='<tr><td colspan="5" class="text-center text-muted py-3">CBP wait time data temporarily unavailable.</td></tr>';
+// ── STATE DEPT ACTIVE ALERTS ──────────────────────────────────
+function renderStateAlerts(data) {
+    const tbody = document.getElementById('state-alerts-tbody');
+    const badge = document.getElementById('alert-count-badge');
+
+    if (!data?.alerts?.length) {
+        badge.textContent = '0';
+        badge.className = 'badge bg-success fs-6 px-3 py-2';
+        tbody.innerHTML = '<tr><td colspan="3" class="text-center text-success py-3"><i class="bi bi-check-circle me-1"></i>No active travel alerts at this time.</td></tr>';
         return;
     }
-    function waitClass(mins) {
-        if(!mins||isNaN(mins)) return '';
-        if(mins<=20) return 'wait-good';
-        if(mins<=45) return 'wait-moderate';
-        return 'wait-long';
-    }
-    function fmtWait(val) {
-        const m=parseInt(val);
-        if(isNaN(m)||m<=0) return '<span class="text-muted">—</span>';
-        return `<span class="${waitClass(m)}">${m} min</span>`;
-    }
-    tbody.innerHTML=data.airports.map(ap=>{
-        if(ap.status!=='ok'||!ap.data){
-            return `<tr>
-                <td class="fw-medium">${ap.airport_name}</td>
-                <td><code>${ap.airport_code}</code></td>
-                <td colspan="2" class="text-muted small">Data unavailable</td>
-                <td><span class="badge bg-secondary">Offline</span></td>
-            </tr>`;
-        }
-        const d=ap.data;
-        const std=fmtWait(d.standardWait||d.standard_wait||d.wait_time_standard);
-        const apc=fmtWait(d.apcWait||d.apc_wait||d.wait_time_apc||d.expedited_wait);
-        return `<tr>
-            <td class="fw-medium">${ap.airport_name}</td>
-            <td><code>${ap.airport_code}</code></td>
-            <td>${std}</td>
-            <td>${apc}</td>
-            <td><span class="badge bg-success">Live</span></td>
-        </tr>`;
-    }).join('');
+
+    badge.textContent = data.alerts.length + ' Active';
+    tbody.innerHTML = data.alerts.map(a => `
+        <tr>
+            <td class="fw-semibold" style="min-width:140px;">${a.location}</td>
+            <td class="small text-muted">${a.description}</td>
+            <td class="small text-muted text-nowrap">${a.date || '—'}</td>
+        </tr>`).join('');
 }
 
 // ── ARRIVALS ─────────────────────────────────────────────────
@@ -462,7 +448,7 @@ async function init() {
         safeLoad('data/advisories.json'),
         safeLoad('data/delays.json'),
         safeLoad('data/weather_alerts.json'),
-        safeLoad('data/cbp_waittimes.json'),
+        safeLoad('data/state_alerts.json'),
         safeLoad('data/arrivals.json'),
     ]);
     if(meta?.last_full_update)
@@ -471,7 +457,7 @@ async function init() {
     renderAdvisories(advisories);
     renderAirports(delays);
     renderWeatherAlerts(weather);
-    renderCbp(cbp);
+    renderStateAlerts(cbp);
     renderArrivals(arrivals);
 }
 document.addEventListener('DOMContentLoaded',init);
