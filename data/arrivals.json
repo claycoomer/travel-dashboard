@@ -1,0 +1,133 @@
+{
+  "last_updated": "2026-05-05T16:54:18.217419+00:00",
+  "data_period": "2024 Annual",
+  "source": "National Travel & Tourism Office (NTTO) / ITA i94 Arrivals",
+  "note": "Updated quarterly. Data typically lags 3\u20136 months. Source: ntto.gov",
+  "total_arrivals": 80400000,
+  "by_country": [
+    {
+      "country": "Canada",
+      "arrivals": 22500000,
+      "share_pct": 28.1
+    },
+    {
+      "country": "Mexico",
+      "arrivals": 18200000,
+      "share_pct": 22.7
+    },
+    {
+      "country": "United Kingdom",
+      "arrivals": 5100000,
+      "share_pct": 6.4
+    },
+    {
+      "country": "Japan",
+      "arrivals": 2800000,
+      "share_pct": 3.5
+    },
+    {
+      "country": "Germany",
+      "arrivals": 2600000,
+      "share_pct": 3.2
+    },
+    {
+      "country": "France",
+      "arrivals": 2400000,
+      "share_pct": 3.0
+    },
+    {
+      "country": "Brazil",
+      "arrivals": 2200000,
+      "share_pct": 2.7
+    },
+    {
+      "country": "South Korea",
+      "arrivals": 2000000,
+      "share_pct": 2.5
+    },
+    {
+      "country": "Australia",
+      "arrivals": 1800000,
+      "share_pct": 2.2
+    },
+    {
+      "country": "India",
+      "arrivals": 1700000,
+      "share_pct": 2.1
+    },
+    {
+      "country": "Other",
+      "arrivals": 17100000,
+      "share_pct": 21.4
+    }
+  ],
+  "by_visa_type": [
+    {
+      "visa_type": "Visa Waiver Program (VWP)",
+      "arrivals": 28400000,
+      "share_pct": 35.5
+    },
+    {
+      "visa_type": "B-1/B-2 Tourist/Business",
+      "arrivals": 24600000,
+      "share_pct": 30.7
+    },
+    {
+      "visa_type": "Canadian Citizens (Exempt)",
+      "arrivals": 14200000,
+      "share_pct": 17.7
+    },
+    {
+      "visa_type": "Other Nonimmigrant",
+      "arrivals": 8200000,
+      "share_pct": 10.2
+    },
+    {
+      "visa_type": "Student (F/M Visa)",
+      "arrivals": 3200000,
+      "share_pct": 4.0
+    },
+    {
+      "visa_type": "Exchange Visitor (J Visa)",
+      "arrivals": 1800000,
+      "share_pct": 2.2
+    }
+  ],
+  "by_age_band": [
+    {
+      "age_band": "Under 15",
+      "arrivals": 6400000,
+      "share_pct": 8.0
+    },
+    {
+      "age_band": "15\u201324",
+      "arrivals": 9600000,
+      "share_pct": 12.0
+    },
+    {
+      "age_band": "25\u201334",
+      "arrivals": 14400000,
+      "share_pct": 18.0
+    },
+    {
+      "age_band": "35\u201344",
+      "arrivals": 14400000,
+      "share_pct": 18.0
+    },
+    {
+      "age_band": "45\u201354",
+      "arrivals": 12800000,
+      "share_pct": 16.0
+    },
+    {
+      "age_band": "55\u201364",
+      "arrivals": 12000000,
+      "share_pct": 15.0
+    },
+    {
+      "age_band": "65+",
+      "arrivals": 10400000,
+      "share_pct": 13.0
+    }
+  ]
+}
