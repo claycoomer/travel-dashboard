@@ -1,156 +1,156 @@
 {
-  "last_updated": "2026-05-05T18:36:30.184974+00:00",
+  "last_updated": "2026-05-05T19:05:13.728889+00:00",
   "source": "TSA Checkpoint Travel Numbers",
   "records": [
     {
       "date": "5/4/2026",
       "travelers_current": "2540806",
-      "travelers_prior": ""
+      "travelers_prior": "2762463"
     },
     {
       "date": "5/3/2026",
       "travelers_current": "2741375",
-      "travelers_prior": ""
+      "travelers_prior": "2102342"
     },
     {
       "date": "5/2/2026",
       "travelers_current": "2042664",
-      "travelers_prior": ""
+      "travelers_prior": "2659193"
     },
     {
       "date": "5/1/2026",
       "travelers_current": "2643938",
-      "travelers_prior": ""
+      "travelers_prior": "2744098"
     },
     {
       "date": "4/30/2026",
       "travelers_current": "2748380",
-      "travelers_prior": ""
+      "travelers_prior": "2300084"
     },
     {
       "date": "4/29/2026",
       "travelers_current": "2264608",
-      "travelers_prior": ""
+      "travelers_prior": "2067463"
     },
     {
       "date": "4/28/2026",
       "travelers_current": "2020266",
-      "travelers_prior": ""
+      "travelers_prior": "2601001"
     },
     {
       "date": "4/27/2026",
       "travelers_current": "2539040",
-      "travelers_prior": ""
+      "travelers_prior": "2829787"
     },
     {
       "date": "4/26/2026",
       "travelers_current": "2768606",
-      "travelers_prior": ""
+      "travelers_prior": "2203462"
     },
     {
       "date": "4/25/2026",
       "travelers_current": "2093949",
-      "travelers_prior": ""
+      "travelers_prior": "2766258"
     },
     {
       "date": "4/24/2026",
       "travelers_current": "2704682",
-      "travelers_prior": ""
+      "travelers_prior": "2757877"
     },
     {
       "date": "4/23/2026",
       "travelers_current": "2740418",
-      "travelers_prior": ""
+      "travelers_prior": "2343680"
     },
     {
       "date": "4/22/2026",
       "travelers_current": "2302381",
-      "travelers_prior": ""
+      "travelers_prior": "2266040"
     },
     {
       "date": "4/21/2026",
       "travelers_current": "2055863",
-      "travelers_prior": ""
+      "travelers_prior": "2783476"
     },
     {
       "date": "4/20/2026",
       "travelers_current": "2571543",
-      "travelers_prior": ""
+      "travelers_prior": "2591393"
     },
     {
       "date": "4/19/2026",
       "travelers_current": "2796984",
-      "travelers_prior": ""
+      "travelers_prior": "2156119"
     },
     {
       "date": "4/18/2026",
       "travelers_current": "2069600",
-      "travelers_prior": ""
+      "travelers_prior": "2658132"
     },
     {
       "date": "4/17/2026",
       "travelers_current": "2705217",
-      "travelers_prior": ""
+      "travelers_prior": "2821542"
     },
     {
       "date": "4/16/2026",
       "travelers_current": "2738409",
-      "travelers_prior": ""
+      "travelers_prior": "2359864"
     },
     {
       "date": "4/15/2026",
       "travelers_current": "2251197",
-      "travelers_prior": ""
+      "travelers_prior": "2114573"
     },
     {
       "date": "4/14/2026",
       "travelers_current": "2044781",
-      "travelers_prior": ""
+      "travelers_prior": "2565091"
     },
     {
       "date": "4/13/2026",
       "travelers_current": "2606811",
-      "travelers_prior": ""
+      "travelers_prior": "2747565"
     },
     {
       "date": "4/12/2026",
       "travelers_current": "2822290",
-      "travelers_prior": ""
+      "travelers_prior": "2271278"
     },
     {
       "date": "4/11/2026",
       "travelers_current": "2269365",
-      "travelers_prior": ""
+      "travelers_prior": "2743057"
     },
     {
       "date": "4/10/2026",
       "travelers_current": "2688395",
-      "travelers_prior": ""
+      "travelers_prior": "2720572"
     },
     {
       "date": "4/9/2026",
       "travelers_current": "2691308",
-      "travelers_prior": ""
+      "travelers_prior": "2302933"
     },
     {
       "date": "4/8/2026",
       "travelers_current": "2278770",
-      "travelers_prior": ""
+      "travelers_prior": "2087676"
     },
     {
       "date": "4/7/2026",
       "travelers_current": "2207180",
-      "travelers_prior": ""
+      "travelers_prior": "2532641"
     },
     {
       "date": "4/6/2026",
       "travelers_current": "2705640",
-      "travelers_prior": ""
+      "travelers_prior": "2735362"
     },
     {
       "date": "4/5/2026",
       "travelers_current": "2561932",
-      "travelers_prior": ""
+      "travelers_prior": "2240401"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T18:36:31.191431+00:00",
+  "last_updated": "2026-05-05T19:05:14.248356+00:00",
   "note": "FAA API key required. Register free at https://api.faa.gov/ then add FAA_API_KEY as a GitHub repository secret.",
   "notams": []
 }
