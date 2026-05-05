@@ -87,10 +87,53 @@ def fetch_advisories():
 
 # ─────────────────────────────────────────
 # TSA THROUGHPUT
-# Fixed: prior-year column dropped from TSA page in 2026
 # ─────────────────────────────────────────
+def load_tsa_archive():
+    """Load the cumulative TSA daily history file."""
+    path = 'data/tsa_archive.json'
+    if os.path.exists(path):
+        with open(path) as f:
+            try:
+                return json.load(f)
+            except Exception:
+                return {}
+    return {}
+
+def save_tsa_archive(archive, new_records):
+    """Append today's readings to the archive and save."""
+    for r in new_records:
+        if r.get('date') and r.get('travelers_current'):
+            archive[r['date']] = r['travelers_current']
+    with open('data/tsa_archive.json', 'w') as f:
+        json.dump(archive, f, indent=2)
+
+def prior_year_count(archive, date_str):
+    """Return traveler count for same date one year prior, with ±3-day fallback."""
+    from datetime import timedelta
+    formats = ['%m/%d/%Y', '%-m/%-d/%Y', '%m/%d/%y']
+    current = None
+    for fmt in formats:
+        try:
+            current = datetime.strptime(date_str, fmt)
+            break
+        except ValueError:
+            continue
+    if not current:
+        return ''
+    for delta in [0, 1, -1, 2, -2, 3, -3]:
+        candidate = current.replace(year=current.year - 1) + timedelta(days=delta)
+        for fmt in ['%-m/%-d/%Y', '%m/%d/%Y']:
+            try:
+                key = candidate.strftime(fmt)
+                if key in archive:
+                    return archive[key]
+            except Exception:
+                continue
+    return ''
+
 def fetch_tsa():
     print("  → TSA throughput...")
+    archive = load_tsa_archive()
     try:
         url = "https://www.tsa.gov/travel/passenger-volumes"
         resp = requests.get(url, headers=HEADERS, timeout=30)
@@ -100,11 +143,9 @@ def fetch_tsa():
         records = []
         table = soup.find('table')
         if table:
-            # Detect column count from header row
             header_row = table.find('tr')
             header_cells = header_row.find_all(['th', 'td']) if header_row else []
-            col_count = len(header_cells)
-            print(f"     TSA table has {col_count} columns: {[c.get_text(strip=True) for c in header_cells]}")
+            print(f"     TSA columns: {[c.get_text(strip=True) for c in header_cells]}")
 
             for row in table.find_all('tr')[1:]:
                 cols = [td.get_text(strip=True).replace(',', '') for td in row.find_all('td')]
@@ -117,12 +158,21 @@ def fetch_tsa():
                 })
 
         records = records[:30]
-        print(f"     {len(records)} daily records fetched")
+
+        # Fill in prior year from archive wherever the page doesn't provide it
+        for r in records:
+            if not r.get('travelers_prior'):
+                r['travelers_prior'] = prior_year_count(archive, r['date'])
+
+        save_tsa_archive(archive, records)
+
+        print(f"     {len(records)} records fetched")
         return {'last_updated': now_iso(), 'source': 'TSA Checkpoint Travel Numbers', 'records': records}
 
     except Exception as e:
         print(f"     ERROR: {e}")
         return {'last_updated': now_iso(), 'error': str(e), 'records': []}
+
 
 # ─────────────────────────────────────────
 # FAA ATC DELAYS
