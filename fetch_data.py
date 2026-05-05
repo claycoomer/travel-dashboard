@@ -349,7 +349,49 @@ def load_arrivals():
             {'age_band': '65+',      'arrivals': 10400000, 'share_pct': 13.0},
         ],
     }
+    
+# ─────────────────────────────────────────
+# TRAVEL NEWS RSS FEEDS
+# ─────────────────────────────────────────
+def fetch_travel_news():
+    print("  → Travel news RSS feeds...")
+    import feedparser
 
+    feeds = [
+        {'name': 'Skift',             'url': 'https://skift.com/feed/'},
+        {'name': 'Google News Travel', 'url': 'https://news.google.com/rss/search?q=US+travel+news+flight+disruption+travel+advisory&hl=en-US&gl=US&ceid=US:en'},
+        {'name': 'Travel Weekly',      'url': 'https://www.travelweekly.com/rss'},
+    ]
+
+    items = []
+    for f in feeds:
+        try:
+            feed = feedparser.parse(f['url'])
+            for entry in feed.entries[:8]:
+                title = entry.get('title', '').strip()
+                if not title:
+                    continue
+                # Strip HTML tags from summary
+                raw_summary = entry.get('summary', '') or ''
+                summary = re.sub(r'<[^>]+>', '', raw_summary).strip()[:280]
+                items.append({
+                    'title':     title,
+                    'link':      entry.get('link', ''),
+                    'published': entry.get('published', ''),
+                    'summary':   summary,
+                    'source':    f['name'],
+                })
+            print(f"     {f['name']}: {len(feed.entries)} entries")
+        except Exception as e:
+            print(f"     {f['name']} error: {e}")
+
+    print(f"     {len(items)} total news items")
+    return {
+        'last_updated': now_iso(),
+        'sources': [f['name'] for f in feeds],
+        'items': items[:30],
+    }
+    
 # ─────────────────────────────────────────
 # RUN ALL
 # ─────────────────────────────────────────
@@ -374,7 +416,10 @@ if __name__ == '__main__':
     with open('data/arrivals.json', 'w') as f:
         json.dump(load_arrivals(), f, indent=2)
 
-    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.3'}
+    with open('data/news.json', 'w') as f:
+        json.dump(fetch_travel_news(), f, indent=2)
+
+    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.4'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
 
