@@ -374,7 +374,7 @@ if __name__ == '__main__':
     with open('data/arrivals.json', 'w') as f:
         json.dump(load_arrivals(), f, indent=2)
 
-       meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.3'}
+    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.3'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
 
