@@ -32,6 +32,7 @@ def now_iso():
 
 # ─────────────────────────────────────────
 # STATE DEPT TRAVEL ADVISORIES
+# Fixed: country name is in <th> per row, not <td>
 # ─────────────────────────────────────────
 def fetch_advisories():
     print("  → State Dept advisories...")
@@ -42,22 +43,40 @@ def fetch_advisories():
         soup = BeautifulSoup(resp.text, 'html.parser')
 
         advisories = []
-        table = soup.find('table', attrs={'class': lambda c: c and 'table-data' in c})
-        if not table:
-            table = soup.find('table')
+        table = soup.find('table')
 
         if table:
-            for row in table.find_all('tr')[1:]:
-                cols = row.find_all('td')
-                if len(cols) < 2:
+            for row in table.find_all('tr'):
+                # Country name is in a <th> element; advisory columns are <td>
+                th = row.find('th')
+                tds = row.find_all('td')
+
+                if not th or not tds:
                     continue
-                country = cols[0].get_text(strip=True)
-                level_text = cols[1].get_text(strip=True)
+
+                country = th.get_text(strip=True)
+
+                # Strip footnote numbers that sometimes appear (e.g. "Afghanistan1")
+                country = re.sub(r'\d+$', '', country).strip()
+
+                # First <td> is the advisory level text
+                level_text = tds[0].get_text(strip=True)
                 match = re.search(r'Level\s*(\d)', level_text, re.IGNORECASE)
                 level = int(match.group(1)) if match else 0
-                date = cols[2].get_text(strip=True) if len(cols) > 2 else ''
-                if country:
-                    advisories.append({'country': country, 'level': level, 'level_text': level_text, 'date': date})
+
+                # Last <td> is the date updated
+                date = tds[-1].get_text(strip=True)
+
+                if country and level > 0:
+                    advisories.append({
+                        'country': country,
+                        'level': level,
+                        'level_text': level_text,
+                        'date': date
+                    })
+
+        # Sort by level descending so highest-risk countries appear first
+        advisories.sort(key=lambda x: x['level'], reverse=True)
 
         print(f"     {len(advisories)} advisories fetched")
         return {'last_updated': now_iso(), 'source': 'US Department of State', 'advisories': advisories}
@@ -68,6 +87,7 @@ def fetch_advisories():
 
 # ─────────────────────────────────────────
 # TSA THROUGHPUT
+# Fixed: prior-year column dropped from TSA page in 2026
 # ─────────────────────────────────────────
 def fetch_tsa():
     print("  → TSA throughput...")
@@ -80,17 +100,21 @@ def fetch_tsa():
         records = []
         table = soup.find('table')
         if table:
+            # Detect column count from header row
             header_row = table.find('tr')
-            headers = [th.get_text(strip=True) for th in header_row.find_all(['th','td'])] if header_row else []
+            header_cells = header_row.find_all(['th', 'td']) if header_row else []
+            col_count = len(header_cells)
+            print(f"     TSA table has {col_count} columns: {[c.get_text(strip=True) for c in header_cells]}")
 
             for row in table.find_all('tr')[1:]:
                 cols = [td.get_text(strip=True).replace(',', '') for td in row.find_all('td')]
-                if len(cols) >= 2:
-                    records.append({
-                        'date': cols[0],
-                        'travelers_current': cols[1] if len(cols) > 1 else '',
-                        'travelers_prior':   cols[2] if len(cols) > 2 else '',
-                    })
+                if not cols or not cols[0]:
+                    continue
+                records.append({
+                    'date': cols[0],
+                    'travelers_current': cols[1] if len(cols) > 1 else '',
+                    'travelers_prior':   cols[2] if len(cols) > 2 else '',
+                })
 
         records = records[:30]
         print(f"     {len(records)} daily records fetched")
@@ -106,28 +130,33 @@ def fetch_tsa():
 def fetch_faa_delays():
     print("  → FAA ATC delays...")
     delays = []
+
     endpoints = [
         "https://nasstatus.faa.gov/api/airport-delay-list",
-        "https://www.fly.faa.gov/flyfaa/flyfaaAPI.jsp",
+        "https://nasstatus.faa.gov/api/airport-status-list",
     ]
 
     for url in endpoints:
         try:
             resp = requests.get(url, headers=HEADERS, timeout=20)
-            if resp.status_code == 200:
+            print(f"     {url} → HTTP {resp.status_code}")
+            if resp.status_code == 200 and resp.text.strip():
                 try:
                     data = resp.json()
-                    if isinstance(data, list):
+                    if isinstance(data, list) and data:
                         delays = data
-                    elif isinstance(data, dict):
-                        delays = data.get('delays', data.get('GroundDelays', data.get('Delay', [])))
-                    if delays:
                         break
-                except Exception:
-                    pass
+                    elif isinstance(data, dict):
+                        for key in ('delays', 'Delays', 'GroundDelays', 'programs'):
+                            if data.get(key):
+                                delays = data[key]
+                                break
+                        if delays:
+                            break
+                except Exception as parse_err:
+                    print(f"     Parse error: {parse_err} | raw: {resp.text[:200]}")
         except Exception as e:
-            print(f"     Endpoint {url} failed: {e}")
-            continue
+            print(f"     Request error for {url}: {e}")
 
     print(f"     {len(delays)} delay records found")
     return {'last_updated': now_iso(), 'source': 'FAA NAS Status', 'delays': delays}
@@ -140,7 +169,7 @@ def fetch_notams():
     api_key = os.environ.get('FAA_API_KEY', '')
 
     if not api_key:
-        print("     FAA_API_KEY not configured — skipping NOTAMs")
+        print("     FAA_API_KEY not configured — skipping")
         return {
             'last_updated': now_iso(),
             'note': 'FAA API key required. Register free at https://api.faa.gov/ then add FAA_API_KEY as a GitHub repository secret.',
@@ -164,7 +193,7 @@ def fetch_notams():
                         'effectiveEnd': props.get('effectiveEnd', ''),
                     })
         except Exception as e:
-            print(f"     {airport['code']} NOTAM error: {e}")
+            print(f"     {airport['code']} error: {e}")
 
     print(f"     {len(notams)} NOTAMs fetched")
     return {'last_updated': now_iso(), 'source': 'FAA NOTAM API', 'notams': notams}
@@ -186,17 +215,17 @@ def load_arrivals():
         'note': 'Updated quarterly. Data typically lags 3–6 months. Source: ntto.gov',
         'total_arrivals': 80400000,
         'by_country': [
-            {'country': 'Canada',          'arrivals': 22500000, 'share_pct': 28.1},
-            {'country': 'Mexico',          'arrivals': 18200000, 'share_pct': 22.7},
-            {'country': 'United Kingdom',  'arrivals':  5100000, 'share_pct':  6.4},
-            {'country': 'Japan',           'arrivals':  2800000, 'share_pct':  3.5},
-            {'country': 'Germany',         'arrivals':  2600000, 'share_pct':  3.2},
-            {'country': 'France',          'arrivals':  2400000, 'share_pct':  3.0},
-            {'country': 'Brazil',          'arrivals':  2200000, 'share_pct':  2.7},
-            {'country': 'South Korea',     'arrivals':  2000000, 'share_pct':  2.5},
-            {'country': 'Australia',       'arrivals':  1800000, 'share_pct':  2.2},
-            {'country': 'India',           'arrivals':  1700000, 'share_pct':  2.1},
-            {'country': 'Other',           'arrivals': 17100000, 'share_pct': 21.4},
+            {'country': 'Canada',         'arrivals': 22500000, 'share_pct': 28.1},
+            {'country': 'Mexico',         'arrivals': 18200000, 'share_pct': 22.7},
+            {'country': 'United Kingdom', 'arrivals':  5100000, 'share_pct':  6.4},
+            {'country': 'Japan',          'arrivals':  2800000, 'share_pct':  3.5},
+            {'country': 'Germany',        'arrivals':  2600000, 'share_pct':  3.2},
+            {'country': 'France',         'arrivals':  2400000, 'share_pct':  3.0},
+            {'country': 'Brazil',         'arrivals':  2200000, 'share_pct':  2.7},
+            {'country': 'South Korea',    'arrivals':  2000000, 'share_pct':  2.5},
+            {'country': 'Australia',      'arrivals':  1800000, 'share_pct':  2.2},
+            {'country': 'India',          'arrivals':  1700000, 'share_pct':  2.1},
+            {'country': 'Other',          'arrivals': 17100000, 'share_pct': 21.4},
         ],
         'by_visa_type': [
             {'visa_type': 'Visa Waiver Program (VWP)',  'arrivals': 28400000, 'share_pct': 35.5},
@@ -238,11 +267,7 @@ if __name__ == '__main__':
     with open('data/arrivals.json', 'w') as f:
         json.dump(load_arrivals(), f, indent=2)
 
-    meta = {
-        'last_full_update': now_iso(),
-        'airports': TOP_15,
-        'version': '1.0'
-    }
+    meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.1'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
 
