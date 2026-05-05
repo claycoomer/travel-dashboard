@@ -7,32 +7,45 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     <style>
-        :root {
-            --level-1: #198754; --level-2: #e6a817; --level-3: #fd7e14; --level-4: #dc3545;
-        }
-        body { background: #f0f2f5; font-family: 'Segoe UI', system-ui, sans-serif; }
-        .stat-card, .chart-card { border: none; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-        .section-header { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #6c757d; margin-bottom: 1rem; }
-        .level-badge { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 0.78rem; font-weight: 600; }
-        .level-1 { background: var(--level-1); color:#fff; }
-        .level-2 { background: var(--level-2); color:#fff; }
-        .level-3 { background: var(--level-3); color:#fff; }
-        .level-4 { background: var(--level-4); color:#fff; }
-        .severity-extreme { background: #dc3545; color:#fff; }
-        .severity-severe  { background: #fd7e14; color:#fff; }
-        #advisory-table-container { max-height: 420px; overflow-y: auto; }
-        .sticky-thead thead { position: sticky; top: 0; background: #fff; z-index: 1; }
-        .alert-row td { vertical-align: middle; }
-        .wait-good   { color: #198754; font-weight: 600; }
-        .wait-moderate { color: #e6a817; font-weight: 600; }
-        .wait-long   { color: #dc3545; font-weight: 600; }
+        :root { --level-1:#198754; --level-2:#e6a817; --level-3:#fd7e14; --level-4:#dc3545; }
+        body { background:#f0f2f5; font-family:'Segoe UI',system-ui,sans-serif; }
+        .stat-card, .chart-card { border:none; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); }
+        .section-header { font-size:0.72rem; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:#6c757d; margin-bottom:1rem; }
+        .level-badge { display:inline-block; padding:3px 10px; border-radius:20px; font-size:0.78rem; font-weight:600; }
+        .level-1{background:var(--level-1);color:#fff;} .level-2{background:var(--level-2);color:#fff;}
+        .level-3{background:var(--level-3);color:#fff;} .level-4{background:var(--level-4);color:#fff;}
+        .severity-extreme{background:#dc3545;color:#fff;} .severity-severe{background:#fd7e14;color:#fff;}
+        #advisory-table-container { max-height:420px; overflow-y:auto; }
+        .sticky-thead thead { position:sticky; top:0; background:#fff; z-index:1; }
+        .news-card { border:none; border-radius:10px; box-shadow:0 1px 6px rgba(0,0,0,0.07); transition:box-shadow 0.2s; height:100%; }
+        .news-card:hover { box-shadow:0 4px 14px rgba(0,0,0,0.12); }
+        .news-card .card-body { display:flex; flex-direction:column; }
+        .news-card .card-title { font-size:0.9rem; font-weight:600; line-height:1.4; flex-grow:1; }
+        .news-card .card-text { font-size:0.78rem; color:#6c757d; }
+        .source-badge { font-size:0.68rem; font-weight:600; padding:2px 8px; border-radius:20px; }
+        .source-skift         { background:#e8f4fd; color:#0d6efd; }
+        .source-google        { background:#fef3e8; color:#fd7e14; }
+        .source-travel-weekly { background:#e8f8f0; color:#198754; }
+        .source-other         { background:#f0f0f0; color:#555; }
+        #refresh-btn.loading  { opacity:0.7; pointer-events:none; }
+        .spin { animation: spin 1s linear infinite; }
+        @keyframes spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
     </style>
 </head>
 <body>
 
-<nav class="navbar navbar-dark bg-dark px-4 py-3">
+<nav class="navbar navbar-dark bg-dark px-4 py-2">
     <span class="navbar-brand fw-bold fs-5"><i class="bi bi-globe2 me-2"></i>Travel Trends Dashboard</span>
-    <span class="text-secondary small" id="last-updated">Initializing...</span>
+    <div class="d-flex align-items-center gap-3">
+        <span class="text-secondary small" id="last-updated">Initializing...</span>
+        <button class="btn btn-sm btn-outline-light" id="refresh-btn" onclick="refreshDashboard()">
+            <i class="bi bi-arrow-clockwise me-1" id="refresh-icon"></i>Refresh
+        </button>
+        <a href="https://github.com/claycoomer/travel-dashboard/actions/workflows/update.yml"
+           target="_blank" class="btn btn-sm btn-outline-warning" title="Trigger a new full data fetch via GitHub Actions">
+            <i class="bi bi-lightning-charge me-1"></i>Force Update
+        </a>
+    </div>
 </nav>
 
 <div class="container-fluid py-4 px-4">
@@ -69,7 +82,7 @@
         </div>
     </div>
 
-    <!-- TSA Chart + Advisory Donut -->
+    <!-- TSA + Advisory Donut -->
     <div class="row g-3 mb-4">
         <div class="col-12 col-lg-7">
             <div class="card chart-card p-4 h-100">
@@ -96,9 +109,7 @@
                         <thead class="table-light">
                             <tr><th>Airport</th><th>IATA</th><th>Delay Status</th><th>Reason</th><th>Avg. Delay</th></tr>
                         </thead>
-                        <tbody id="airport-tbody">
-                            <tr><td colspan="5" class="text-center text-muted py-3">Loading...</td></tr>
-                        </tbody>
+                        <tbody id="airport-tbody"><tr><td colspan="5" class="text-center text-muted py-3">Loading...</td></tr></tbody>
                     </table>
                 </div>
                 <div class="text-muted small mt-2">Source: FAA NAS Status</div>
@@ -118,31 +129,27 @@
                         <option value="Severe">Severe Only</option>
                     </select>
                 </div>
-                <div id="weather-alert-container">
-                    <div class="table-responsive">
-                        <table class="table table-hover table-sm align-middle mb-0">
-                            <thead class="table-light">
-                                <tr><th>Severity</th><th>Event</th><th>Affected Areas</th><th>Onset</th><th>Expires</th></tr>
-                            </thead>
-                            <tbody id="weather-tbody">
-                                <tr><td colspan="5" class="text-center text-muted py-3">Loading weather alerts...</td></tr>
-                            </tbody>
-                        </table>
-                    </div>
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm align-middle mb-0">
+                        <thead class="table-light">
+                            <tr><th>Severity</th><th>Event</th><th>Affected Areas</th><th>Onset</th><th>Expires</th></tr>
+                        </thead>
+                        <tbody id="weather-tbody"><tr><td colspan="5" class="text-center text-muted py-3">Loading...</td></tr></tbody>
+                    </table>
                 </div>
-                <div class="text-muted small mt-2">Source: NOAA / National Weather Service &bull; Filtered to travel-disrupting event types only</div>
+                <div class="text-muted small mt-2">Source: NOAA / National Weather Service &bull; Travel-disrupting event types only</div>
             </div>
         </div>
     </div>
 
-    <!-- State Dept Active Travel Alerts -->
+    <!-- State Dept Active Alerts -->
     <div class="row g-3 mb-4">
         <div class="col-12">
             <div class="card chart-card p-4">
                 <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
                     <div>
                         <div class="section-header mb-0">State Dept Active Travel Alerts</div>
-                        <div class="text-muted small mt-1">Event-specific emergency alerts — distinct from country-level advisories above</div>
+                        <div class="text-muted small mt-1">Event-specific emergency alerts — distinct from country-level advisories</div>
                     </div>
                     <span class="badge bg-danger fs-6 px-3 py-2" id="alert-count-badge">—</span>
                 </div>
@@ -151,15 +158,14 @@
                         <thead class="table-light">
                             <tr><th>Location</th><th>Alert Details</th><th>Date</th></tr>
                         </thead>
-                        <tbody id="state-alerts-tbody">
-                            <tr><td colspan="3" class="text-center text-muted py-3">Loading alerts...</td></tr>
-                        </tbody>
+                        <tbody id="state-alerts-tbody"><tr><td colspan="3" class="text-center text-muted py-3">Loading...</td></tr></tbody>
                     </table>
                 </div>
                 <div class="text-muted small mt-2">Source: US Department of State &bull; <a href="https://travel.state.gov/content/travel/en/international-travel/emergencies/travel-alerts.html/" target="_blank" class="text-muted">travel.state.gov</a></div>
             </div>
         </div>
     </div>
+
     <!-- International Arrivals -->
     <div class="row g-3 mb-4">
         <div class="col-12">
@@ -179,7 +185,7 @@
                 <div id="arrivals-country"><canvas id="country-chart" height="100"></canvas></div>
                 <div id="arrivals-visa" class="d-none"><canvas id="visa-chart" height="100"></canvas></div>
                 <div id="arrivals-age" class="d-none"><canvas id="age-chart" height="100"></canvas></div>
-                <div class="text-muted small mt-3">Source: NTTO / ITA i94 Arrivals Data &bull; Updated quarterly</div>
+                <div class="text-muted small mt-3">Source: NTTO / ITA i94 Arrivals &bull; Updated quarterly</div>
             </div>
         </div>
     </div>
@@ -206,17 +212,40 @@
                         <thead class="table-light">
                             <tr><th>Country / Territory</th><th>Advisory Level</th><th>Last Updated</th></tr>
                         </thead>
-                        <tbody id="advisory-tbody">
-                            <tr><td colspan="3" class="text-center text-muted py-3">Loading...</td></tr>
-                        </tbody>
+                        <tbody id="advisory-tbody"><tr><td colspan="3" class="text-center text-muted py-3">Loading...</td></tr></tbody>
                     </table>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- Travel News -->
+    <div class="row g-3 mb-4">
+        <div class="col-12">
+            <div class="card chart-card p-4">
+                <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+                    <div class="section-header mb-0">U.S. Travel News</div>
+                    <div class="d-flex gap-2 align-items-center flex-wrap">
+                        <select class="form-select form-select-sm w-auto" id="news-source-filter">
+                            <option value="">All Sources</option>
+                            <option value="Skift">Skift</option>
+                            <option value="Google News Travel">Google News</option>
+                            <option value="Travel Weekly">Travel Weekly</option>
+                        </select>
+                        <span class="text-muted small" id="news-updated"></span>
+                    </div>
+                </div>
+                <div id="news-grid" class="row g-3">
+                    <div class="col-12 text-center text-muted py-4">Loading news...</div>
+                </div>
+                <div class="text-muted small mt-3">Sources: Skift &bull; Google News &bull; Travel Weekly &bull; Refreshed daily</div>
+            </div>
+        </div>
+    </div>
+
     <div class="text-center text-muted small pb-4">
-        Data: US Dept of State &bull; TSA &bull; FAA NAS Status &bull; NOAA/NWS &bull; CBP &bull; NTTO/ITA i94 &bull; Auto-updated daily via GitHub Actions
+        Data: US Dept of State &bull; TSA &bull; FAA NAS Status &bull; NOAA/NWS &bull; NTTO/ITA i94 &bull; Skift &bull; Travel Weekly
+        &bull; Auto-updated daily via GitHub Actions
     </div>
 
 </div>
@@ -240,6 +269,14 @@ const TOP_15 = [
     {code:'IAH',name:'Houston George Bush'}
 ];
 
+// Chart instance registry — enables clean destroy/re-create on refresh
+const CHARTS = {};
+function mkChart(id, config) {
+    if (CHARTS[id]) { try { CHARTS[id].destroy(); } catch(e){} }
+    CHARTS[id] = new Chart(document.getElementById(id), config);
+    return CHARTS[id];
+}
+
 async function safeLoad(url) {
     try {
         const r = await fetch(url + '?_=' + Date.now());
@@ -251,104 +288,93 @@ async function safeLoad(url) {
 function fmtNum(n) { const v=parseInt(n); return isNaN(v)?'—':v.toLocaleString(); }
 function fmtM(n)   { const v=parseInt(n); return isNaN(v)?'—':(v/1000000).toFixed(1)+'M'; }
 function fmtDate(iso) {
-    if (!iso) return '—';
+    if(!iso) return '—';
     try { return new Date(iso).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'2-digit',minute:'2-digit',timeZoneName:'short'}); }
     catch { return iso; }
 }
 function fmtShortDate(iso) {
-    if (!iso) return '—';
+    if(!iso) return '—';
     try { return new Date(iso).toLocaleString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}); }
     catch { return iso; }
+}
+function fmtNewsDate(str) {
+    if(!str) return '—';
+    try { return new Date(str).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
+    catch { return str; }
 }
 
 // ── TSA ──────────────────────────────────────────────────────
 function renderTsa(data) {
-    if (!data?.records?.length) return;
-    const records = [...data.records].reverse();
-    const latest = data.records[0];
-    if (latest) {
-        document.getElementById('tsa-yesterday').textContent = fmtNum(latest.travelers_current);
-        const c = parseInt(latest.travelers_current), p = parseInt(latest.travelers_prior);
-        if (c && p) {
-            const pct = ((c-p)/p*100).toFixed(1);
-            const cls = pct>=0?'text-success':'text-danger';
-            document.getElementById('tsa-vs-prior').innerHTML =
-                `<span class="${cls}">${pct>=0?'+':''}${pct}%</span> vs same day 2025`;
+    if(!data?.records?.length) return;
+    const records=[...data.records].reverse();
+    const latest=data.records[0];
+    if(latest) {
+        document.getElementById('tsa-yesterday').textContent=fmtNum(latest.travelers_current);
+        const c=parseInt(latest.travelers_current), p=parseInt(latest.travelers_prior);
+        if(c&&p) {
+            const pct=((c-p)/p*100).toFixed(1), cls=pct>=0?'text-success':'text-danger';
+            document.getElementById('tsa-vs-prior').innerHTML=`<span class="${cls}">${pct>=0?'+':''}${pct}%</span> vs same day 2025`;
         }
     }
-    new Chart(document.getElementById('tsa-chart'), {
+    mkChart('tsa-chart',{
         type:'line',
         data:{
-            labels: records.map(r=>r.date),
+            labels:records.map(r=>r.date),
             datasets:[
-                {label:'2026',data:records.map(r=>parseInt(r.travelers_current)||null),
-                 borderColor:'#0d6efd',backgroundColor:'rgba(13,110,253,0.07)',fill:true,tension:0.3,pointRadius:2},
-                {label:'2025',data:records.map(r=>parseInt(r.travelers_prior)||null),
-                 borderColor:'#adb5bd',borderDash:[5,4],fill:false,tension:0.3,pointRadius:2}
+                {label:'2026',data:records.map(r=>parseInt(r.travelers_current)||null),borderColor:'#0d6efd',backgroundColor:'rgba(13,110,253,0.07)',fill:true,tension:0.3,pointRadius:2},
+                {label:'2025',data:records.map(r=>parseInt(r.travelers_prior)||null),borderColor:'#adb5bd',borderDash:[5,4],fill:false,tension:0.3,pointRadius:2}
             ]
         },
         options:{responsive:true,
             plugins:{legend:{position:'top'},tooltip:{callbacks:{label:c=>c.dataset.label+': '+fmtNum(c.parsed.y)}}},
-            scales:{y:{ticks:{callback:v=>fmtM(v)}},x:{ticks:{maxTicksLimit:10}}}
-        }
+            scales:{y:{ticks:{callback:v=>fmtM(v)}},x:{ticks:{maxTicksLimit:10}}}}
     });
 }
 
 // ── ADVISORIES ────────────────────────────────────────────────
-let allAdvisories = [];
+let allAdvisories=[];
 function renderAdvisories(data) {
-    if (!data?.advisories) return;
-    allAdvisories = data.advisories;
-    const counts={1:0,2:0,3:0,4:0};
-    allAdvisories.forEach(a=>{if(counts[a.level]!==undefined)counts[a.level]++;});
-    document.getElementById('advisory-high-count').textContent = (counts[3]||0)+(counts[4]||0);
-    document.getElementById('advisory-breakdown').innerHTML =
-        `<span class="text-danger fw-semibold">${counts[4]} Level 4</span> &bull; <span class="text-warning fw-semibold">${counts[3]} Level 3</span> of ${allAdvisories.length} countries`;
-    new Chart(document.getElementById('advisory-donut'),{
+    if(!data?.advisories) return;
+    allAdvisories=data.advisories;
+    const cnt={1:0,2:0,3:0,4:0};
+    allAdvisories.forEach(a=>{if(cnt[a.level]!==undefined)cnt[a.level]++;});
+    document.getElementById('advisory-high-count').textContent=(cnt[3]||0)+(cnt[4]||0);
+    document.getElementById('advisory-breakdown').innerHTML=
+        `<span class="text-danger fw-semibold">${cnt[4]} Level 4</span> &bull; <span class="text-warning fw-semibold">${cnt[3]} Level 3</span> of ${allAdvisories.length} countries`;
+    mkChart('advisory-donut',{
         type:'doughnut',
         data:{labels:['Level 1','Level 2','Level 3','Level 4'],
-              datasets:[{data:[counts[1],counts[2],counts[3],counts[4]],
-                         backgroundColor:['#198754','#e6a817','#fd7e14','#dc3545'],borderWidth:2}]},
+              datasets:[{data:[cnt[1],cnt[2],cnt[3],cnt[4]],backgroundColor:['#198754','#e6a817','#fd7e14','#dc3545'],borderWidth:2}]},
         options:{responsive:true,cutout:'58%',plugins:{legend:{position:'right',labels:{boxWidth:12,font:{size:12}}}}}
     });
     renderAdvisoryTable(allAdvisories);
-    document.getElementById('advisory-level-filter').addEventListener('change', filterAdvisories);
-    document.getElementById('advisory-search').addEventListener('input', filterAdvisories);
+    document.getElementById('advisory-level-filter').addEventListener('change',filterAdvisories);
+    document.getElementById('advisory-search').addEventListener('input',filterAdvisories);
 }
 function filterAdvisories() {
-    const level=document.getElementById('advisory-level-filter').value;
-    const search=document.getElementById('advisory-search').value.toLowerCase();
-    renderAdvisoryTable(allAdvisories.filter(a=>
-        (level===''||String(a.level)===level)&&(search===''||a.country.toLowerCase().includes(search))
-    ));
+    const lv=document.getElementById('advisory-level-filter').value;
+    const q=document.getElementById('advisory-search').value.toLowerCase();
+    renderAdvisoryTable(allAdvisories.filter(a=>(lv===''||String(a.level)===lv)&&(q===''||a.country.toLowerCase().includes(q))));
 }
 function renderAdvisoryTable(list) {
-    const tbody=document.getElementById('advisory-tbody');
-    if(!list.length){tbody.innerHTML='<tr><td colspan="3" class="text-center text-muted py-3">No matching advisories.</td></tr>';return;}
-    tbody.innerHTML=list.map(a=>`<tr>
-        <td>${a.country}</td>
-        <td><span class="level-badge level-${a.level}">${LEVEL_LABELS[a.level]||'Unknown'}</span></td>
-        <td class="text-muted small">${a.date||'—'}</td></tr>`).join('');
+    const tb=document.getElementById('advisory-tbody');
+    if(!list.length){tb.innerHTML='<tr><td colspan="3" class="text-center text-muted py-3">No matching advisories.</td></tr>';return;}
+    tb.innerHTML=list.map(a=>`<tr><td>${a.country}</td><td><span class="level-badge level-${a.level}">${LEVEL_LABELS[a.level]||'Unknown'}</span></td><td class="text-muted small">${a.date||'—'}</td></tr>`).join('');
 }
 
 // ── AIRPORTS ─────────────────────────────────────────────────
 function renderAirports(delays) {
-    const delayMap={};
-    if (delays?.delays) {
-        delays.delays.forEach(d=>{
-            const code=(d.ARPT||d.airport||d.code||'').toUpperCase();
-            if(code) delayMap[code]=d;
-        });
-    }
-    let activeDelays=0;
+    const dm={};
+    if(delays?.delays) delays.delays.forEach(d=>{const c=(d.ARPT||d.airport||d.code||'').toUpperCase();if(c)dm[c]=d;});
+    let active=0;
     document.getElementById('airport-tbody').innerHTML=TOP_15.map(ap=>{
-        const d=delayMap[ap.code];
-        let badge, reason='—', avg='—';
-        if(d){activeDelays++;reason=d.Reason||d.reason||d.Type||'Delay';avg=d.Avg?d.Avg+' min':'—';badge='<span class="badge bg-danger">Delay</span>';}
+        const d=dm[ap.code];
+        let badge,reason='—',avg='—';
+        if(d){active++;reason=d.Reason||d.reason||d.Type||'Delay';avg=d.Avg?d.Avg+' min':'—';badge='<span class="badge bg-danger">Delay</span>';}
         else badge='<span class="badge bg-success">On Time</span>';
         return `<tr><td class="fw-medium">${ap.name}</td><td><code>${ap.code}</code></td><td>${badge}</td><td class="text-muted small">${reason}</td><td class="text-muted small">${avg}</td></tr>`;
     }).join('');
-    document.getElementById('delay-count').textContent=activeDelays;
+    document.getElementById('delay-count').textContent=active;
 }
 
 // ── WEATHER ALERTS ───────────────────────────────────────────
@@ -356,66 +382,52 @@ let allWeatherAlerts=[];
 function renderWeatherAlerts(data) {
     if(!data?.alerts){
         document.getElementById('weather-alert-count').textContent='—';
-        document.getElementById('weather-tbody').innerHTML='<tr><td colspan="5" class="text-center text-muted py-3">Weather data unavailable.</td></tr>';
+        document.getElementById('weather-tbody').innerHTML='<tr><td colspan="5" class="text-center text-muted py-3">Unavailable.</td></tr>';
         return;
     }
     allWeatherAlerts=data.alerts;
-    const extremeCount=allWeatherAlerts.filter(a=>a.severity==='Extreme').length;
-    const severeCount =allWeatherAlerts.filter(a=>a.severity==='Severe').length;
+    const ex=allWeatherAlerts.filter(a=>a.severity==='Extreme').length;
+    const sv=allWeatherAlerts.filter(a=>a.severity==='Severe').length;
     document.getElementById('weather-alert-count').textContent=allWeatherAlerts.length;
-    document.getElementById('weather-alert-breakdown').innerHTML=
-        allWeatherAlerts.length===0
-        ? '<span class="text-success">No active disruption alerts</span>'
-        : `<span class="text-danger fw-semibold">${extremeCount} Extreme</span> &bull; <span class="text-warning fw-semibold">${severeCount} Severe</span>`;
+    document.getElementById('weather-alert-breakdown').innerHTML=allWeatherAlerts.length===0
+        ?'<span class="text-success">No active disruption alerts</span>'
+        :`<span class="text-danger fw-semibold">${ex} Extreme</span> &bull; <span class="text-warning fw-semibold">${sv} Severe</span>`;
     renderWeatherTable(allWeatherAlerts);
-    document.getElementById('weather-severity-filter').addEventListener('change', ()=>{
-        const val=document.getElementById('weather-severity-filter').value;
-        renderWeatherTable(val?allWeatherAlerts.filter(a=>a.severity===val):allWeatherAlerts);
+    document.getElementById('weather-severity-filter').addEventListener('change',()=>{
+        const v=document.getElementById('weather-severity-filter').value;
+        renderWeatherTable(v?allWeatherAlerts.filter(a=>a.severity===v):allWeatherAlerts);
     });
 }
 function renderWeatherTable(list) {
-    const tbody=document.getElementById('weather-tbody');
-    if(!list.length){
-        tbody.innerHTML='<tr><td colspan="5" class="text-center text-success py-3"><i class="bi bi-check-circle me-1"></i>No active weather disruption alerts.</td></tr>';
-        return;
-    }
-    tbody.innerHTML=list.map(a=>{
-        const cls=a.severity==='Extreme'?'severity-extreme':'severity-severe';
-        return `<tr class="alert-row">
-            <td><span class="level-badge ${cls}">${a.severity}</span></td>
-            <td class="fw-medium">${a.event}</td>
-            <td class="text-muted small">${a.areas||'—'}</td>
-            <td class="text-muted small">${fmtShortDate(a.onset)}</td>
-            <td class="text-muted small">${fmtShortDate(a.expires)}</td>
-        </tr>`;
-    }).join('');
+    const tb=document.getElementById('weather-tbody');
+    if(!list.length){tb.innerHTML='<tr><td colspan="5" class="text-center text-success py-3"><i class="bi bi-check-circle me-1"></i>No active weather disruption alerts.</td></tr>';return;}
+    tb.innerHTML=list.map(a=>`<tr>
+        <td><span class="level-badge severity-${a.severity.toLowerCase()}">${a.severity}</span></td>
+        <td class="fw-medium">${a.event}</td>
+        <td class="text-muted small">${a.areas||'—'}</td>
+        <td class="text-muted small">${fmtShortDate(a.onset)}</td>
+        <td class="text-muted small">${fmtShortDate(a.expires)}</td></tr>`).join('');
 }
 
-// ── STATE DEPT ACTIVE ALERTS ──────────────────────────────────
+// ── STATE DEPT ALERTS ─────────────────────────────────────────
 function renderStateAlerts(data) {
-    const tbody = document.getElementById('state-alerts-tbody');
-    const badge = document.getElementById('alert-count-badge');
-
-    if (!data?.alerts?.length) {
-        badge.textContent = '0';
-        badge.className = 'badge bg-success fs-6 px-3 py-2';
-        tbody.innerHTML = '<tr><td colspan="3" class="text-center text-success py-3"><i class="bi bi-check-circle me-1"></i>No active travel alerts at this time.</td></tr>';
+    const tb=document.getElementById('state-alerts-tbody');
+    const badge=document.getElementById('alert-count-badge');
+    if(!data?.alerts?.length){
+        badge.textContent='0'; badge.className='badge bg-success fs-6 px-3 py-2';
+        tb.innerHTML='<tr><td colspan="3" class="text-center text-success py-3"><i class="bi bi-check-circle me-1"></i>No active travel alerts at this time.</td></tr>';
         return;
     }
-
-    badge.textContent = data.alerts.length + ' Active';
-    tbody.innerHTML = data.alerts.map(a => `
-        <tr>
-            <td class="fw-semibold" style="min-width:140px;">${a.location}</td>
-            <td class="small text-muted">${a.description}</td>
-            <td class="small text-muted text-nowrap">${a.date || '—'}</td>
-        </tr>`).join('');
+    badge.textContent=data.alerts.length+' Active';
+    tb.innerHTML=data.alerts.map(a=>`<tr>
+        <td class="fw-semibold" style="min-width:140px;">${a.location}</td>
+        <td class="small text-muted">${a.description}</td>
+        <td class="small text-muted text-nowrap">${a.date||'—'}</td></tr>`).join('');
 }
 
 // ── ARRIVALS ─────────────────────────────────────────────────
 function buildBarChart(id,labels,data,color){
-    new Chart(document.getElementById(id),{
-        type:'bar',
+    mkChart(id,{type:'bar',
         data:{labels,datasets:[{label:'Arrivals',data,backgroundColor:color,borderRadius:4}]},
         options:{responsive:true,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>fmtNum(c.parsed.y)+' arrivals'}}},
             scales:{y:{ticks:{callback:v=>fmtM(v)}}}}
@@ -433,16 +445,66 @@ function renderArrivals(data) {
             e.preventDefault();
             document.querySelectorAll('#arrivals-tabs .nav-link').forEach(l=>l.classList.remove('active'));
             link.classList.add('active');
-            ['country','visa','age'].forEach(t=>
-                document.getElementById('arrivals-'+t).classList.toggle('d-none',t!==link.dataset.tab)
-            );
+            ['country','visa','age'].forEach(t=>document.getElementById('arrivals-'+t).classList.toggle('d-none',t!==link.dataset.tab));
         });
     });
 }
 
+// ── NEWS ─────────────────────────────────────────────────────
+let allNewsItems=[];
+const SOURCE_CLASSES={'Skift':'source-skift','Google News Travel':'source-google','Travel Weekly':'source-travel-weekly'};
+
+function renderNews(data) {
+    if(!data?.items?.length){
+        document.getElementById('news-grid').innerHTML='<div class="col-12 text-center text-muted py-4">No news items available.</div>';
+        return;
+    }
+    allNewsItems=data.items;
+    if(data.last_updated) document.getElementById('news-updated').textContent='Last fetched: '+fmtDate(data.last_updated);
+    displayNews(allNewsItems);
+    document.getElementById('news-source-filter').addEventListener('change',()=>{
+        const v=document.getElementById('news-source-filter').value;
+        displayNews(v?allNewsItems.filter(n=>n.source===v):allNewsItems);
+    });
+}
+function displayNews(items) {
+    const grid=document.getElementById('news-grid');
+    if(!items.length){grid.innerHTML='<div class="col-12 text-center text-muted py-4">No items for selected filter.</div>';return;}
+    grid.innerHTML=items.map(n=>{
+        const srcClass=SOURCE_CLASSES[n.source]||'source-other';
+        const summary=n.summary?`<p class="card-text mt-2">${n.summary}</p>`:'';
+        return `<div class="col-12 col-md-6 col-xl-4">
+            <div class="card news-card p-3">
+                <div class="card-body p-0">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="source-badge ${srcClass}">${n.source}</span>
+                        <span class="text-muted" style="font-size:0.7rem;">${fmtNewsDate(n.published)}</span>
+                    </div>
+                    <h6 class="card-title">
+                        <a href="${n.link}" target="_blank" rel="noopener" class="text-decoration-none text-dark stretched-link">${n.title}</a>
+                    </h6>
+                    ${summary}
+                </div>
+            </div>
+        </div>`;
+    }).join('');
+}
+
+// ── REFRESH ───────────────────────────────────────────────────
+async function refreshDashboard() {
+    const btn=document.getElementById('refresh-btn');
+    const icon=document.getElementById('refresh-icon');
+    btn.classList.add('loading');
+    icon.classList.add('spin');
+    btn.innerHTML='<i class="bi bi-arrow-clockwise spin me-1" id="refresh-icon"></i>Refreshing...';
+    await init();
+    btn.classList.remove('loading');
+    btn.innerHTML='<i class="bi bi-arrow-clockwise me-1" id="refresh-icon"></i>Refresh';
+}
+
 // ── INIT ─────────────────────────────────────────────────────
 async function init() {
-    const [meta,tsa,advisories,delays,weather,cbp,arrivals]=await Promise.all([
+    const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,news]=await Promise.all([
         safeLoad('data/meta.json'),
         safeLoad('data/tsa.json'),
         safeLoad('data/advisories.json'),
@@ -450,15 +512,17 @@ async function init() {
         safeLoad('data/weather_alerts.json'),
         safeLoad('data/state_alerts.json'),
         safeLoad('data/arrivals.json'),
+        safeLoad('data/news.json'),
     ]);
     if(meta?.last_full_update)
-        document.getElementById('last-updated').textContent='Updated: '+fmtDate(meta.last_full_update);
+        document.getElementById('last-updated').textContent='Data as of: '+fmtDate(meta.last_full_update);
     renderTsa(tsa);
     renderAdvisories(advisories);
     renderAirports(delays);
     renderWeatherAlerts(weather);
-    renderStateAlerts(cbp);
+    renderStateAlerts(stateAlerts);
     renderArrivals(arrivals);
+    renderNews(news);
 }
 document.addEventListener('DOMContentLoaded',init);
 </script>
