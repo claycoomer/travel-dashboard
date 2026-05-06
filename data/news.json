@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-05-05T20:48:50.207666+00:00",
+  "last_updated": "2026-05-06T16:39:55.728674+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Disney\u2019s U.S. Park Spending Up Despite Drop in Visitors",
+      "link": "https://skift.com/2026/05/06/disneys-q2-park-spending-up-visitation-down/",
+      "published": "Wed, 06 May 2026 16:32:54 +0000",
+      "summary": "In his first earnings call as CEO, Josh D\u2019Amaro laid out a vision for Disney theme parks that leans more heavily on emerging technologies like AI.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Great AI Upskilling of the Travel Workforce",
+      "link": "https://skift.com/2026/05/06/the-great-ai-upskilling-of-the-travel-workforce/",
+      "published": "Wed, 06 May 2026 14:55:18 +0000",
+      "summary": "The great AI upskilling of the travel workforce has begun, but even among the industry\u2019s largest companies, the gap between who is preparing their employees for AI and who is just cutting with it is widening fast.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+      "source": "Skift"
+    },
+    {
+      "title": "Charge Foreigners More: Japan to Expand Two-Tiered Pricing at Tourist Sites",
+      "link": "https://skift.com/2026/05/06/japan-two-tier-pricing/",
+      "published": "Wed, 06 May 2026 13:07:38 +0000",
+      "summary": "Japan is moving slowly but surely toward two-tier pricing, as the Himeji Castle model has shown that what was once a politically fraught idea can now be measured in revenue.",
+      "source": "Skift"
+    },
+    {
+      "title": "Mindtrip Launches Sabre\u2019s Agentic Flight Booking With In-Chat Checkout",
+      "link": "https://skift.com/2026/05/06/sabre-mindtrip-paypal-launch-agentic-ai-travel-booking/",
+      "published": "Wed, 06 May 2026 13:00:00 +0000",
+      "summary": "Sabre has spent a year selling agentic AI as its comeback story. Mindtrip Flights is the first product that has to prove it.",
+      "source": "Skift"
+    },
+    {
+      "title": "A 12% Stake and a Looming Board Meeting: What Does Accor\u2019s Activist Investor Want?",
+      "link": "https://skift.com/2026/05/06/accors-activist-investor-parvus-hasnt-said-what-it-wants/",
+      "published": "Wed, 06 May 2026 10:00:00 +0000",
+      "summary": "The activist fund Parvus has become Accor&apos;s largest shareholder without telling anyone why.",
+      "source": "Skift"
+    },
     {
       "title": "Frontier Says It\u2019s Poised to Gain From Spirit\u2019s Collapse",
       "link": "https://skift.com/2026/05/05/frontier-says-its-poised-to-gain-from-spirits-collapse/",
@@ -28,45 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Turkey\u2019s Tourism Held Up in March Despite Sharp Drop in Gulf Travel",
-      "link": "https://skift.com/2026/05/05/turkeys-tourism-held-up-in-march-despite-sharp-drop-in-gulf-travel/",
-      "published": "Tue, 05 May 2026 14:08:27 +0000",
-      "summary": "Q2 will determine whether this is a temporary shock or a structural reset for one of Turkey\u2019s most valuable visitor segments.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai Strengthens Passenger Rights Rules to Rebuild Traveler Trust",
-      "link": "https://skift.com/2026/05/05/dubai-strengthens-passenger-rights-rules-to-rebuild-traveler-trust/",
-      "published": "Tue, 05 May 2026 13:44:04 +0000",
-      "summary": "Dubai\u2019s passenger rights framework means one regulator, one rulebook. The details around enforcement are still to come, though.",
-      "source": "Skift"
-    },
-    {
-      "title": "JetBlue and Rivals Race to Grab Spirit\u2019s Routes and Customers",
-      "link": "https://skift.com/2026/05/05/jetblue-and-rivals-race-to-grab-spirits-routes-and-customers/",
-      "published": "Tue, 05 May 2026 12:00:00 +0000",
-      "summary": "Airlines are quickly adding new routes out of some of Spirit\u2019s biggest cities, including Fort Lauderdale, Orlando, and Atlantic City.",
-      "source": "Skift"
-    },
-    {
-      "title": "Grab Takes Taxis Across the Singapore-Malaysia Border",
-      "link": "https://skift.com/2026/05/05/grab-takes-taxis-across-the-singapore-malaysia-border/",
-      "published": "Tue, 05 May 2026 11:46:57 +0000",
-      "summary": "\u201cTravel companion\u201d Grab clearly isn\u2019t ready to say goodbye at the border. With its cross-border taxi pilot, Grab is stretching the definition of \u201clast mile\u201d into an international one, keeping travelers in-app the entire way.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why Agentic AI Is the Biggest Threat to Legacy Hotel Software Vendors",
-      "link": "https://skift.com/2026/05/05/why-agentic-ai-is-the-biggest-threat-to-legacy-hotel-software-vendors/",
-      "published": "Tue, 05 May 2026 09:27:04 +0000",
-      "summary": "Vivek Bhogaraju doesn\u2019t follow AI hype. He tracks where capital moves, and right now it\u2019s flowing toward agentic AI that is starting to dismantle legacy hospitality tech.",
-      "source": "Skift"
-    },
-    {
-      "title": "New Travel Crisis: US Government Advises Travelers to Leave High-Risk Areas \u2014 How to Stay Safe Amid Escalating Global Tensions - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOekl0a3pQczBrMmJ6V29HOVJES01fMDV1enY2RzNhSWxsaGNtd2JaZExrRGVNTi1PdTBfTjcyU3QwMDN5OXZSNUY5NnA3S2gyY2JZUDlHQXREVGctcUFOQmVELUhJYXA5M2o3dmlMamxZbmtfMnc1aENIWlpDUU0wMnpIeG9BTTlBQzJqMVJiQm8tbl9CVy1sWURGMHJ0djJtOURfQ2VGZVo3RzFXVThJUk5vMVJwUktZWjB5bzJmVzNwZXRvNmtubXBRbWctbk44bW5BVzlOMHQycTItWHdWVVRYZmhxQWtKSFcwM29uYUhwU2hXX2d0bFpmUjJ5VU5iTHc?oc=5",
-      "published": "Tue, 05 May 2026 19:21:54 GMT",
-      "summary": "New Travel Crisis: US Government Advises Travelers to Leave High-Risk Areas \u2014 How to Stay Safe Amid Escalating Global Tensions&nbsp;&nbsp;Travel And Tour World",
+      "title": "Emirates Joins KLM, Turkish Airlines and Other Major Carriers in a High-Stakes Battle to Navigate Iraq\u2019s 2026 Airspace Amid Escalating Security Crisis, Travel Disruptions, and Unprecedented Risks to Aviation Safety - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPR2o3bTR2am9sQUxqQ1pyd1Rja2VmQ3E4aThrRG9NNTFMYVBDWktxSy1qQkxpOUZzZG9ZZC1IMGtPNlJuRjJjNlRwSUVpM3pXbTBXMU01Tmw4bW9xZEtYSHFaMWU3UGdPMWhoYV9nOS1BalJieFZjTDBHblhSaUhXVk5YX0VMWXBoZWZTU1lEWl9SZXhyLU9mM1BlcDk1cUE4UUZzTDZHUzRNNkZFTXJpY2ctU3N6djhKV3ZaajNFV1U4UkxvUF83SE10aDFsRm1aajNBeVpoU1dKcUVKS3lzV1BGSVFRb0VJa3lxdGhtQl8wZ1UtOHBQb0d6YnBxR2hSSnY5QWZqRGF4TnpFZ0pYQnF5M2d0dl81VlFoeEhnd3c4OFZJQVB4NEE4TFRoRDBIMkZvVmlWLWp0ZFdnNzVzSml6YldpYkl4RkZSbVlYWFVzMjhCemlKZw?oc=5",
+      "published": "Wed, 06 May 2026 10:25:53 GMT",
+      "summary": "Emirates Joins KLM, Turkish Airlines and Other Major Carriers in a High-Stakes Battle to Navigate Iraq\u2019s 2026 Airspace Amid Escalating Security Crisis, Travel Disruptions, and Unprecedented Risks to Aviation Safety&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "National Aviation Alert: 598 Cancellations and 3,908 Delays Paralyze U.S. Travel Network - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnRDVVR5bkZYRWVtTnBCTnpyQk9PNFYxRUZiOGNaTHFnZGtwdGFGeVdMRmRQd3VuUHI3eGV2MURJYkc2OGE5R0ZNOUFxUEVlX0hvZnhBR3lkWkNZRHRVSzdOb09rTXVhT1VwNHRUZWF6VWVfaW8yRXNtTkM0RmVNMFRzTE1GNjQ?oc=5",
-      "published": "Sun, 03 May 2026 07:51:01 GMT",
-      "summary": "National Aviation Alert: 598 Cancellations and 3,908 Delays Paralyze U.S. Travel Network&nbsp;&nbsp;Nomad Lawyer",
+      "title": "New Travel Crisis: US Government Advises Travelers to Leave High-Risk Areas \u2014 How to Stay Safe Amid Escalating Global Tensions - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOekl0a3pQczBrMmJ6V29HOVJES01fMDV1enY2RzNhSWxsaGNtd2JaZExrRGVNTi1PdTBfTjcyU3QwMDN5OXZSNUY5NnA3S2gyY2JZUDlHQXREVGctcUFOQmVELUhJYXA5M2o3dmlMamxZbmtfMnc1aENIWlpDUU0wMnpIeG9BTTlBQzJqMVJiQm8tbl9CVy1sWURGMHJ0djJtOURfQ2VGZVo3RzFXVThJUk5vMVJwUktZWjB5bzJmVzNwZXRvNmtubXBRbWctbk44bW5BVzlOMHQycTItWHdWVVRYZmhxQWtKSFcwM29uYUhwU2hXX2d0bFpmUjJ5VU5iTHc?oc=5",
+      "published": "Tue, 05 May 2026 19:27:54 GMT",
+      "summary": "New Travel Crisis: US Government Advises Travelers to Leave High-Risk Areas \u2014 How to Stay Safe Amid Escalating Global Tensions&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "title": "Middle East flight updates: British Airways plans phased return to Dubai and Doha - The National",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUxpblpZY2pzUzFQemx1REFzX05UdUpoaTdBVE40SkpyQkl3UFgtYzNBY0YtRzNqQTJsSGVPaHZTZlFCSmg0ekY2cjFaSGtNajd6N1g3REQzTldCLUhpaGwwSEpzSEo4M0VrcDBzM3JEdFZxdGljTzdXOThvZWdkT2U0dlRYWHhDc0NGM3ln?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "Middle East flight updates: British Airways plans phased return to Dubai and Doha&nbsp;&nbsp;The National",
       "source": "Google News Travel"
     },
     {
