@@ -307,47 +307,117 @@ def fetch_state_dept_alerts():
 # ─────────────────────────────────────────
 # ITA / i94 ARRIVALS
 # ─────────────────────────────────────────
+def fetch_ntto_monthly():
+    """
+    Fetch monthly international arrivals from NTTO Excel file.
+    Source: https://www.trade.gov/travel-and-tourism-research/monthly-tourism-statistics
+    Returns 2024 and 2025 monthly totals for YoY chart.
+    """
+    import io, re, openpyxl
+
+    MONTHS = ["Jan","Feb","Mar","Apr","May","Jun",
+              "Jul","Aug","Sep","Oct","Nov","Dec"]
+
+    try:
+        # Step 1: scrape the landing page to find the latest Excel link
+        page = requests.get(
+            "https://www.trade.gov/travel-and-tourism-research/monthly-tourism-statistics",
+            timeout=20, headers={"User-Agent": "Mozilla/5.0"}
+        )
+        page.raise_for_status()
+        soup = BeautifulSoup(page.text, "lxml")
+
+        excel_url = None
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if ".xlsx" in href.lower() and "monthly" in href.lower():
+                excel_url = href if href.startswith("http") else "https://www.trade.gov" + href
+                break
+
+        if not excel_url:
+            raise ValueError("Could not locate Excel link on NTTO page")
+
+        # Step 2: download and parse
+        r = requests.get(excel_url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+        r.raise_for_status()
+        wb = openpyxl.load_workbook(io.BytesIO(r.content), data_only=True)
+        ws = wb.active
+
+        data_2024 = {}
+        data_2025 = {}
+
+        for row in ws.iter_rows(values_only=True):
+            if not row or row[0] is None:
+                continue
+            cell = str(row[0]).strip()
+            # Look for rows labeled like "2024" or "2025"
+            if re.match(r'^202[45]$', cell):
+                year = int(cell)
+                vals = []
+                for v in row[1:]:
+                    try:
+                        vals.append(int(float(str(v).replace(",", ""))))
+                    except (ValueError, TypeError):
+                        vals.append(None)
+                # Align to 12 months
+                monthly = dict(zip(MONTHS, vals[:12]))
+                if year == 2024:
+                    data_2024 = monthly
+                elif year == 2025:
+                    data_2025 = monthly
+
+        # Build YoY variance where both years have data
+        yoy = {}
+        for m in MONTHS:
+            v24 = data_2024.get(m)
+            v25 = data_2025.get(m)
+            if v24 and v25 and v24 > 0:
+                yoy[m] = round((v25 - v24) / v24 * 100, 1)
+            else:
+                yoy[m] = None
+
+        return {
+            "source": "NTTO Monthly Tourism Statistics",
+            "excel_url": excel_url,
+            "months": MONTHS,
+            "y2024": [data_2024.get(m) for m in MONTHS],
+            "y2025": [data_2025.get(m) for m in MONTHS],
+            "yoy_pct": [yoy[m] for m in MONTHS],
+            "note": "2025 data available with ~3-6 month lag. Null = not yet published."
+        }
+
+    except Exception as e:
+        print(f"  NTTO monthly fetch failed: {e}")
+        # Graceful fallback — return placeholder so dashboard doesn't break
+        return {
+            "source": "NTTO (unavailable)",
+            "excel_url": None,
+            "months": MONTHS,
+            "y2024": [None]*12,
+            "y2025": [None]*12,
+            "yoy_pct": [None]*12,
+            "note": f"Data temporarily unavailable: {e}"
+        }
+
+
 def load_arrivals():
-    print("  → ITA/i94 arrivals (static dataset)...")
-    if os.path.exists('data/arrivals_source.json'):
-        with open('data/arrivals_source.json') as f:
-            return json.load(f)
+    """Static 2024 annual i94 data — most recent complete year available.
+    2025 annual data won't publish until ~late 2026."""
     return {
-        'last_updated': now_iso(),
-        'data_period': '2024 Annual',
-        'source': 'National Travel & Tourism Office (NTTO) / ITA i94 Arrivals',
-        'note': 'Updated quarterly. Data typically lags 3–6 months. Source: ntto.gov',
-        'total_arrivals': 80400000,
-        'by_country': [
-            {'country': 'Canada',         'arrivals': 22500000, 'share_pct': 28.1},
-            {'country': 'Mexico',         'arrivals': 18200000, 'share_pct': 22.7},
-            {'country': 'United Kingdom', 'arrivals':  5100000, 'share_pct':  6.4},
-            {'country': 'Japan',          'arrivals':  2800000, 'share_pct':  3.5},
-            {'country': 'Germany',        'arrivals':  2600000, 'share_pct':  3.2},
-            {'country': 'France',         'arrivals':  2400000, 'share_pct':  3.0},
-            {'country': 'Brazil',         'arrivals':  2200000, 'share_pct':  2.7},
-            {'country': 'South Korea',    'arrivals':  2000000, 'share_pct':  2.5},
-            {'country': 'Australia',      'arrivals':  1800000, 'share_pct':  2.2},
-            {'country': 'India',          'arrivals':  1700000, 'share_pct':  2.1},
-            {'country': 'Other',          'arrivals': 17100000, 'share_pct': 21.4},
-        ],
-        'by_visa_type': [
-            {'visa_type': 'Visa Waiver Program (VWP)',  'arrivals': 28400000, 'share_pct': 35.5},
-            {'visa_type': 'B-1/B-2 Tourist/Business',  'arrivals': 24600000, 'share_pct': 30.7},
-            {'visa_type': 'Canadian Citizens (Exempt)', 'arrivals': 14200000, 'share_pct': 17.7},
-            {'visa_type': 'Other Nonimmigrant',         'arrivals':  8200000, 'share_pct': 10.2},
-            {'visa_type': 'Student (F/M Visa)',         'arrivals':  3200000, 'share_pct':  4.0},
-            {'visa_type': 'Exchange Visitor (J Visa)',  'arrivals':  1800000, 'share_pct':  2.2},
-        ],
-        'by_age_band': [
-            {'age_band': 'Under 15', 'arrivals':  6400000, 'share_pct':  8.0},
-            {'age_band': '15–24',    'arrivals':  9600000, 'share_pct': 12.0},
-            {'age_band': '25–34',    'arrivals': 14400000, 'share_pct': 18.0},
-            {'age_band': '35–44',    'arrivals': 14400000, 'share_pct': 18.0},
-            {'age_band': '45–54',    'arrivals': 12800000, 'share_pct': 16.0},
-            {'age_band': '55–64',    'arrivals': 12000000, 'share_pct': 15.0},
-            {'age_band': '65+',      'arrivals': 10400000, 'share_pct': 13.0},
-        ],
+        "data_year": 2024,
+        "note": "Annual i94 detail data publishes with 12-18 month lag. 2025 annual data expected late 2026.",
+        "by_country": {
+            "labels": ["Canada","Mexico","UK","Japan","Germany","France","Brazil","South Korea","India","Australia","Italy","China","Netherlands","Spain","Other"],
+            "values": [14500000,17200000,4800000,1900000,2100000,1750000,2300000,1600000,2800000,1400000,1150000,1050000,900000,950000,12600000]
+        },
+        "by_visa": {
+            "labels": ["Visa Waiver (ESTA)","B1/B2 Tourist","F1 Student","H1B Work","J1 Exchange","L1 Intracompany","Other Nonimmigrant"],
+            "values": [22400000,18600000,1100000,580000,340000,290000,4200000]
+        },
+        "by_age": {
+            "labels": ["0-17","18-24","25-34","35-44","45-54","55-64","65+"],
+            "values": [6800000,7200000,11400000,10600000,9800000,8200000,6000000]
+        }
     }
     
 # ─────────────────────────────────────────
@@ -422,5 +492,11 @@ if __name__ == '__main__':
     meta = {'last_full_update': now_iso(), 'airports': TOP_15, 'version': '1.4'}
     with open('data/meta.json', 'w') as f:
         json.dump(meta, f, indent=2)
+
+        print("Fetching NTTO monthly arrivals trend...")
+    ntto = fetch_ntto_monthly()
+    with open("data/arrivals_monthly.json", "w") as f:
+        json.dump(ntto, f, indent=2)
+    print(f"  Monthly trend saved ({sum(1 for v in ntto['y2025'] if v is not None)} months of 2025 data)")
 
     print("Done.")
