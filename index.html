@@ -167,28 +167,40 @@
     </div>
 
     <!-- International Arrivals -->
-    <div class="row g-3 mb-4">
-        <div class="col-12">
-            <div class="card chart-card p-4">
-                <div class="d-flex justify-content-between align-items-start mb-3">
-                    <div>
-                        <div class="section-header mb-0">International Arrivals to the U.S.</div>
-                        <div class="text-primary small fw-semibold mt-1" id="arrivals-period">Loading...</div>
-                    </div>
-                    <div class="text-muted small text-end" id="arrivals-note" style="max-width:320px;"></div>
-                </div>
-                <ul class="nav nav-tabs mb-4" id="arrivals-tabs">
-                    <li class="nav-item"><a class="nav-link active" href="#" data-tab="country">By Country</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#" data-tab="visa">By Visa Type</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#" data-tab="age">By Age Band</a></li>
-                </ul>
-                <div id="arrivals-country"><canvas id="country-chart" height="100"></canvas></div>
-                <div id="arrivals-visa" class="d-none"><canvas id="visa-chart" height="100"></canvas></div>
-                <div id="arrivals-age" class="d-none"><canvas id="age-chart" height="100"></canvas></div>
-                <div class="text-muted small mt-3">Source: NTTO / ITA i94 Arrivals &bull; Updated quarterly</div>
-            </div>
-        </div>
+<div class="card shadow-sm mb-4">
+  <div class="card-header d-flex justify-content-between align-items-center">
+    <span><i class="bi bi-airplane-engines me-2"></i>International Arrivals to the U.S.</span>
+    <span class="badge bg-secondary" id="arrivals-year-badge">2024 Annual Data</span>
+  </div>
+  <div class="card-body">
+
+    <!-- Monthly trend chart (live, auto-updating) -->
+    <h6 class="text-muted mb-1">Monthly Total Arrivals — 2024 vs 2025 <small class="text-info">(Live · NTTO)</small></h6>
+    <p class="small text-muted mb-2" id="ntto-note"></p>
+    <canvas id="arrivalsMonthlyChart" height="90" class="mb-4"></canvas>
+
+    <!-- Annual detail tabs (static, most recent complete year) -->
+    <hr>
+    <h6 class="text-muted mb-2">Annual Detail Breakdown — <span id="arrivals-year-label">2024</span> <small class="text-warning">(Most Recent Complete Year — i94 data lags ~12–18 months)</small></h6>
+    <ul class="nav nav-tabs mb-3" id="arrivalsTabs">
+      <li class="nav-item"><a class="nav-link active" data-bs-toggle="tab" href="#tab-country">By Country</a></li>
+      <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab-visa">By Visa Type</a></li>
+      <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab-age">By Age Band</a></li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="tab-country">
+        <canvas id="arrivalsCountryChart" height="100"></canvas>
+      </div>
+      <div class="tab-pane fade" id="tab-visa">
+        <canvas id="arrivalsVisaChart" height="80"></canvas>
+      </div>
+      <div class="tab-pane fade" id="tab-age">
+        <canvas id="arrivalsAgeChart" height="80"></canvas>
+      </div>
     </div>
+
+  </div>
+</div>
 
     <!-- Advisory Table -->
     <div class="row g-3 mb-4">
@@ -515,15 +527,17 @@ async function init() {
         setInterval(refreshDashboard, 60 * 60 * 1000);
     }, msToNextHour);
 })();
-    const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,news]=await Promise.all([
-        safeLoad('data/meta.json'),
-        safeLoad('data/tsa.json'),
-        safeLoad('data/advisories.json'),
-        safeLoad('data/delays.json'),
-        safeLoad('data/weather_alerts.json'),
-        safeLoad('data/state_alerts.json'),
-        safeLoad('data/arrivals.json'),
-        safeLoad('data/news.json'),
+const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,arrivalsMonthly,news]=await Promise.all([
+    safeLoad('data/meta.json'),
+    safeLoad('data/tsa.json'),
+    safeLoad('data/advisories.json'),
+    safeLoad('data/delays.json'),
+    safeLoad('data/weather_alerts.json'),
+    safeLoad('data/state_alerts.json'),
+    safeLoad('data/arrivals.json'),
+    safeLoad('data/arrivals_monthly.json'),
+    safeLoad('data/news.json'),
+]);
     ]);
     if(meta?.last_full_update)
         document.getElementById('last-updated').textContent='Data as of: '+fmtDate(meta.last_full_update);
@@ -533,7 +547,75 @@ async function init() {
     renderWeatherAlerts(weather);
     renderStateAlerts(stateAlerts);
     renderArrivals(arrivals);
+    renderArrivalsMonthly(arrivalsMonthly);
     renderNews(news);
+function renderArrivalsMonthly(d) {
+    if (!d?.months) return;
+
+    document.getElementById('ntto-note').textContent = d.note || '';
+
+    mkChart('arrivalsMonthlyChart', {
+        type: 'bar',
+        data: {
+            labels: d.months,
+            datasets: [
+                {
+                    label: '2024',
+                    data: d.y2024,
+                    backgroundColor: 'rgba(99,102,241,0.5)',
+                    borderColor: 'rgba(99,102,241,1)',
+                    borderWidth: 1,
+                    order: 2
+                },
+                {
+                    label: '2025',
+                    data: d.y2025,
+                    backgroundColor: 'rgba(16,185,129,0.6)',
+                    borderColor: 'rgba(16,185,129,1)',
+                    borderWidth: 1,
+                    order: 2
+                },
+                {
+                    label: 'YoY %',
+                    data: d.yoy_pct,
+                    type: 'line',
+                    borderColor: 'rgba(245,158,11,1)',
+                    backgroundColor: 'transparent',
+                    borderWidth: 2,
+                    pointRadius: 4,
+                    yAxisID: 'yoy',
+                    order: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            interaction: { mode: 'index' },
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: ctx => {
+                            if (ctx.dataset.label === 'YoY %')
+                                return ctx.raw != null ? `YoY: ${ctx.raw > 0 ? '+' : ''}${ctx.raw}%` : 'YoY: N/A';
+                            return `${ctx.dataset.label}: ${ctx.raw != null ? ctx.raw.toLocaleString() : 'N/A'}`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    title: { display: true, text: 'Arrivals' },
+                    ticks: { callback: v => v != null ? (v/1e6).toFixed(1)+'M' : '' }
+                },
+                yoy: {
+                    position: 'right',
+                    title: { display: true, text: 'YoY %' },
+                    ticks: { callback: v => v != null ? v+'%' : '' },
+                    grid: { drawOnChartArea: false }
+                }
+            }
+        }
+    });
 }
 document.addEventListener('DOMContentLoaded',init);
 </script>
