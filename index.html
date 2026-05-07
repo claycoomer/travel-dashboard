@@ -446,20 +446,18 @@ function buildBarChart(id,labels,data,color){
     });
 }
 function renderArrivals(data) {
-    if(!data) return;
-    document.getElementById('arrivals-period').textContent=data.data_period||'—';
-    if(data.note) document.getElementById('arrivals-note').textContent=data.note;
-    if(data.by_country)   buildBarChart('country-chart',data.by_country.map(d=>d.country),   data.by_country.map(d=>d.arrivals),   '#0d6efd');
-    if(data.by_visa_type) buildBarChart('visa-chart',   data.by_visa_type.map(d=>d.visa_type),data.by_visa_type.map(d=>d.arrivals),'#6f42c1');
-    if(data.by_age_band)  buildBarChart('age-chart',    data.by_age_band.map(d=>d.age_band),  data.by_age_band.map(d=>d.arrivals), '#20c997');
-    document.querySelectorAll('#arrivals-tabs .nav-link').forEach(link=>{
-        link.addEventListener('click',e=>{
-            e.preventDefault();
-            document.querySelectorAll('#arrivals-tabs .nav-link').forEach(l=>l.classList.remove('active'));
-            link.classList.add('active');
-            ['country','visa','age'].forEach(t=>document.getElementById('arrivals-'+t).classList.toggle('d-none',t!==link.dataset.tab));
-        });
-    });
+    if (!data) return;
+    const badge = document.getElementById('arrivals-year-badge');
+    const label = document.getElementById('arrivals-year-label');
+    if (badge) badge.textContent = (data.data_year || '2024') + ' Annual Data';
+    if (label) label.textContent = data.data_year || '2024';
+
+    if (data.by_country)
+        buildBarChart('arrivalsCountryChart', data.by_country.labels, data.by_country.values, '#0d6efd');
+    if (data.by_visa)
+        buildBarChart('arrivalsVisaChart', data.by_visa.labels, data.by_visa.values, '#6f42c1');
+    if (data.by_age)
+        buildBarChart('arrivalsAgeChart', data.by_age.labels, data.by_age.values, '#20c997');
 }
 
 // ── NEWS ─────────────────────────────────────────────────────
