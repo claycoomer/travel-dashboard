@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-07T20:06:39.555432+00:00",
+  "last_updated": "2026-05-07T23:14:28.543400+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Brian Chesky Says Airbnb Won\u2019t Mix\u00a0Homes and Hotels \u2014 That\u2019s \u2018Pre-AI\u2019 Design",
+      "link": "https://skift.com/2026/05/07/airbnb-mix-hotel-homes-pre-ai-design/",
+      "published": "Thu, 07 May 2026 22:34:05 +0000",
+      "summary": "Airbnb&apos;s Chesky is nothing if not ambitious. Given that people&apos;s preferences can change at any moment, the ability to serve customers with only a hotel or home, depending what they need in that instant, seems a long way off, even with agentic AI.",
+      "source": "Skift"
+    },
+    {
+      "title": "Sabre Claims Amadeus Blocks Competition in Airline Technology",
+      "link": "https://skift.com/2026/05/07/sabre-claims-amadeus-blocks-competition-in-airline-technology/",
+      "published": "Thu, 07 May 2026 21:08:14 +0000",
+      "summary": "Sabre didn&apos;t just report a strong quarter \u2014 it used that to publicly pick the biggest fight in airline technology.",
+      "source": "Skift"
+    },
     {
       "title": "IHG Reports Strong U.S. Demand, a Middle East Hit, and a Bet on AI Content Over Scale",
       "link": "https://skift.com/2026/05/07/ihg-reports-strong-us-demand-middle-east-hit-ai-content/",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/05/06/d-c-tourism-flatlines-as-foreign-visitors-fall-and-hotel-tax-funds-get-redirected/",
       "published": "Wed, 06 May 2026 20:13:51 +0000",
       "summary": "Washington, D.C.&apos;s 2025 visitor count barely crept past 2024&apos;s level, exposing a flat market, driven by fewer foreign tourists.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. Airlines Are Spending Over $5 Billion in Fuel, Up More Than 50% Since the Iran War Started",
-      "link": "https://skift.com/2026/05/06/u-s-airlines-are-spending-over-5-billion-in-fuel/",
-      "published": "Wed, 06 May 2026 19:42:43 +0000",
-      "summary": "In just the span of two months fuel costs are up more than double since the start of the Iran war, according to new data from the Department of Transportation.",
-      "source": "Skift"
-    },
-    {
-      "title": "Kayak Founders Team Up for  Booking Holdings AI Startup: Scoop",
-      "link": "https://skift.com/2026/05/06/kayak-co-founders-reunite-booking-holdings-agentic-ai-startup-lola-scoop/",
-      "published": "Wed, 06 May 2026 18:10:16 +0000",
-      "summary": "In addition to other Booking Holdings&apos; brands, Seat Geek is listed as a partner. Users would presumably be able to use conversational AI to get &quot;insider access&quot; and discounted rates from Booking brands and partners.",
       "source": "Skift"
     },
     {
