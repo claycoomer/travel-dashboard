@@ -504,6 +504,17 @@ async function refreshDashboard() {
 
 // ── INIT ─────────────────────────────────────────────────────
 async function init() {
+    // Auto-refresh: fire on the next top-of-hour, then every hour after
+(function scheduleHourlyRefresh() {
+    const now = new Date();
+    const msToNextHour = (60 - now.getMinutes()) * 60 * 1000
+                       - now.getSeconds() * 1000
+                       - now.getMilliseconds();
+    setTimeout(() => {
+        refreshDashboard();
+        setInterval(refreshDashboard, 60 * 60 * 1000);
+    }, msToNextHour);
+})();
     const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,news]=await Promise.all([
         safeLoad('data/meta.json'),
         safeLoad('data/tsa.json'),
