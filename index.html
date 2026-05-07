@@ -538,7 +538,6 @@ const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,arrivalsMonthly,n
     safeLoad('data/arrivals_monthly.json'),
     safeLoad('data/news.json'),
 ]);
-    ]);
     if(meta?.last_full_update)
         document.getElementById('last-updated').textContent='Data as of: '+fmtDate(meta.last_full_update);
     renderTsa(tsa);
@@ -549,6 +548,7 @@ const [meta,tsa,advisories,delays,weather,stateAlerts,arrivals,arrivalsMonthly,n
     renderArrivals(arrivals);
     renderArrivalsMonthly(arrivalsMonthly);
     renderNews(news);
+}    
 function renderArrivalsMonthly(d) {
     if (!d?.months) return;
 
