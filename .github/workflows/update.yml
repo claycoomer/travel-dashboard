@@ -2,7 +2,7 @@ name: Update Travel Data
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # Daily at 8 AM ET (noon UTC)
+    - cron: '0 */4 * * *'   # Every 4 hours (midnight, 4 AM, 8 AM, noon, 4 PM, 8 PM UTC)
   workflow_dispatch:         # Also allows manual trigger anytime
 
 permissions:
