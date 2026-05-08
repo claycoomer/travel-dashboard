@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-05-07T23:14:28.543400+00:00",
+  "last_updated": "2026-05-08T06:19:04.534637+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia\u2019s B2B Engine Speeds Up as AI Moves Intensify",
+      "link": "https://skift.com/2026/05/07/expedia-earnings-q1-2026-uber-ai/",
+      "published": "Thu, 07 May 2026 23:49:19 +0000",
+      "summary": "Expedia\u2019s B2B engine is proving the partner model works. The catch: It is still the smaller business, and AI is not yet big enough to change that.",
+      "source": "Skift"
+    },
     {
       "title": "Brian Chesky Says Airbnb Won\u2019t Mix\u00a0Homes and Hotels \u2014 That\u2019s \u2018Pre-AI\u2019 Design",
       "link": "https://skift.com/2026/05/07/airbnb-mix-hotel-homes-pre-ai-design/",
@@ -56,11 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "D.C. Tourism Flatlines as Foreign Visitors Fall and Hotel Tax Funds Get Redirected",
-      "link": "https://skift.com/2026/05/06/d-c-tourism-flatlines-as-foreign-visitors-fall-and-hotel-tax-funds-get-redirected/",
-      "published": "Wed, 06 May 2026 20:13:51 +0000",
-      "summary": "Washington, D.C.&apos;s 2025 visitor count barely crept past 2024&apos;s level, exposing a flat market, driven by fewer foreign tourists.",
-      "source": "Skift"
+      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
+      "published": "Wed, 06 May 2026 06:00:00 GMT",
+      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
+      "source": "Google News Travel"
     },
     {
       "title": "Travelers Delayed at Phoenix Sky Harbor International Airport, US as 192 Flights Are Delayed and 6 Canceled Disrupting American Airlines, Southwest, Delta, United, and More Across Domestic Routes to Dallas, Chicago, Los Angeles, Denver, Seattle, Las V - Travel And Tour World",
@@ -70,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
-      "published": "Wed, 06 May 2026 06:00:00 GMT",
-      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
+      "title": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog - Wego Travel Blog",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbnplQ3V2TTBxczIySWdvN0xzQ1pESmdfQl95dEpULTRvM3NhZ1FhMXlJQXA1ZUJZTEkyM3gtTlZEZHZBc3B3REJtNnZvdE9jemV5SUU4MFhRaER6ekZycjYzLUhXa2pDYXVFLUFFWGtVQWF6ZEE?oc=5",
+      "published": "Fri, 08 May 2026 04:58:53 GMT",
+      "summary": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog&nbsp;&nbsp;Wego Travel Blog",
       "source": "Google News Travel"
     },
     {
@@ -81,13 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUG45eFJidzVDQU5HV0JsM2h3dEFRNTFfa2lPandVREYyTEo5Vk1oMmdHUVZhUC1YVkpWeldob0JSVWRocGt5SlA1MGN0NElkQW1fU1VzRHlMVld1WXd0VVdnM2hFaUVzSHdic1RpbzRUQ2RfUkV5ZHBKSDhMRTRHZlVPUzdfVEVyRFZ4cWdzNlQtbWh3TXZGd1RjMA?oc=5",
       "published": "Tue, 05 May 2026 08:41:39 GMT",
       "summary": "Is it safe to travel to Dubai? The latest advice for travellers&nbsp;&nbsp;Cond\u00e9 Nast Traveller India",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Myrtle Beach Airport Alert May 2026: Spirit Airlines Grounds 8 Flights, Disrupting East Coast Routes - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmlabWlxNHZyWFhSNXRvYWlzYXZiOU1uWkZOY1NZS2pYNmdhbmNNSjlkOUZYUTRNaWJNS0pfZWRSbEV2RmJSTFR5c3A2MnRSNW9FVkhoaW5ZMkxxTzAxUHllT3BtUjV3UFBubF8wQjZjZmc4eWM4bHlBdDBoRW1nMkJnS1FWUDcwVXBEdE5GR2ZhWmFGRnJZeWVn?oc=5",
-      "published": "Thu, 07 May 2026 03:16:12 GMT",
-      "summary": "Myrtle Beach Airport Alert May 2026: Spirit Airlines Grounds 8 Flights, Disrupting East Coast Routes&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Myrtle Beach Airport Alert May 2026: Spirit Airlines Grounds 8 Flights, Disrupting East Coast Routes - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmlabWlxNHZyWFhSNXRvYWlzYXZiOU1uWkZOY1NZS2pYNmdhbmNNSjlkOUZYUTRNaWJNS0pfZWRSbEV2RmJSTFR5c3A2MnRSNW9FVkhoaW5ZMkxxTzAxUHllT3BtUjV3UFBubF8wQjZjZmc4eWM4bHlBdDBoRW1nMkJnS1FWUDcwVXBEdE5GR2ZhWmFGRnJZeWVn?oc=5",
+      "published": "Thu, 07 May 2026 03:16:12 GMT",
+      "summary": "Myrtle Beach Airport Alert May 2026: Spirit Airlines Grounds 8 Flights, Disrupting East Coast Routes&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
       "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
       "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Mexico travel advisory: Death of cartel leader sparks unrest - FOX 11 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkhSUldDdmU1c21nWjh3RENPcmFtSmwzdTgwaW94cm9ya3l6WGpSaU1Wdzc0elJ0VjhtZ1l5dEZNS3VSazc1aEU2LUhzVERfZEdMX2xVU1lNRFlJbEoyZ0o5dVMwUkJqUzJqUjNQOHZMMHAzQ2xXUVVjdk9tUVRiMXZJeUhacVVwX0d1YXhtcTZ4UVV5R0HSAZsBQVVfeXFMTlpja09Ma09HTXRnNVppeUpBUE94RkRHSURtdlRxME9ZZEJ3QjQzRDFqSl8zWXdBdFlDb3BPY3l0bWdsckdJMS1VbHdGajNqNUZNMzZHQmU1eHdyeHRNYjFPSzVGRW94SVFrUTluci1sVmZxQ3RnM2FGNjBqUjdEN2tIaWs1dnROY2xkaG9GSzhBTG5vVjljVjhOWW8?oc=5",
-      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "summary": "Mexico travel advisory: Death of cartel leader sparks unrest&nbsp;&nbsp;FOX 11 Los Angeles",
       "source": "Google News Travel"
     }
   ]
