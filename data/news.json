@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-05-09T18:39:12.555499+00:00",
+  "last_updated": "2026-05-09T22:06:28.211744+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop",
+      "link": "https://skift.com/2026/05/09/expedia-spent-279-million-acquisitions-tiqets-airbnb-70-million-scoop/",
+      "published": "Sat, 09 May 2026 19:29:26 +0000",
+      "summary": "Expedia was the company that acquired Tiquets. Airbnb didn&apos;t buy the experiences brand,  but seems to have made a solid return on its Tiqets investment when it cashed out.",
+      "source": "Skift"
+    },
     {
       "title": "Higher Fuel Costs + Spirit\u2019s End = Higher Fares",
       "link": "https://skift.com/2026/05/08/higher-fuel-costs-spirits-end-higher-fares/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "The Hotel Industry CEOs Can\u2019t Decide What Letter the Economy Is",
-      "link": "https://skift.com/2026/05/08/the-hotel-industry-ceos-cant-decide-what-letter-the-economy-is/",
-      "published": "Fri, 08 May 2026 14:14:49 +0000",
-      "summary": "Nassetta calls it a C, Capuano says the K is bending. I call it wishful typography.",
-      "source": "Skift"
-    },
-    {
       "title": "Travel Chaos Hits Louisville Muhammad Ali International Airport: Passengers in Dire Situation - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTTdSWjJRd1NiUWhBUHplVFJFS0FfQzBzNEYwVmZCN05aMEk0RHpqc0tHNWlEMFhFaVJyTWJnY1AzaWtWa3h5VmZ0T1ZZWElPd01JOFdQSEtfTnRHQ18wbDcwUmhaYzVCVDY2OWd4RjM5aWtiZ0RqQ3VILUJNb1daXzBKaTVuMl93ZktPNkVnRGFmYzhaUmZCTnJXNi1rUWlyamZ1eW1IQW9KdkQtd0lZR3loSWlUVHpkcVRaM05lUVpLNEFPNHp5ZGRsUDJxMk9nYzI0ck9Ic2k?oc=5",
       "published": "Sat, 09 May 2026 10:44:03 GMT",
@@ -84,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Dubai? The latest advice for travellers - Cond\u00e9 Nast Traveller India",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUG45eFJidzVDQU5HV0JsM2h3dEFRNTFfa2lPandVREYyTEo5Vk1oMmdHUVZhUC1YVkpWeldob0JSVWRocGt5SlA1MGN0NElkQW1fU1VzRHlMVld1WXd0VVdnM2hFaUVzSHdic1RpbzRUQ2RfUkV5ZHBKSDhMRTRHZlVPUzdfVEVyRFZ4cWdzNlQtbWh3TXZGd1RjMA?oc=5",
       "published": "Tue, 05 May 2026 08:41:39 GMT",
@@ -98,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flight Disruptions Snarl Nashville International as 151 Flights Face Delays - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WT1h5TjRnMWxTcW9pWEJZeEtCU1JOdHZFaFBRazZSV2F4Y1d2UW5pekdVNElVbHcyWmRjY1N5WDFBS2NlRmk4bURVcl8yNjBXTTJERXJFVUNjYkYycHhiUDNjOTA4Nm84Zm1JTTFnTE5ndFk?oc=5",
-      "published": "Sat, 09 May 2026 01:22:23 GMT",
-      "summary": "Flight Disruptions Snarl Nashville International as 151 Flights Face Delays&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm - ABC13 Houston",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnByMlR5dEZ2U1RPSlBBb1U1aWZVYVBKcDQ4eFBOUF9XNWFPUXBJTU9qS3lUOEZGVnNZb1dTZ3Q4Nmw3dUZxcTJoclhrUC1rS3lYU0RlMmxpWGU2WEt3UDdEcURXYWVGdURseGljSFNuVHRkTlQtUUlsLWdZbk5IblRmQWI1TEljRi1OUVRfNTBHdXdYM3FDSFhKMDhaT20yektaNHdCanNpcW53cHdEWFJTbGNQLXdnbktqNdIBwgFBVV95cUxQS2tCcXQybGlZZm5qY014bXpsck1VcU43Q0Fqbi1wYlJKT2xSUnpzSlAySmZKMjFMWTJpSlJHYWRpTGN4NUhfZF9YT2pJSG04ZjdYSThkTkVWdG56UlBmUWlJMTRyeTgwRFZSODV4cG9GVTh2T3k0aW5NN2hJSG93WDZ1NHh2RWpaalNyeXYzQkZNcHNFN0R5ZlhHVmRPcS1sSFhaSk45RFRmOTZFRmxNQzMzdmJXYVlnTHlCUGN4OWlJZw?oc=5",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm&nbsp;&nbsp;ABC13 Houston",
+      "title": "Flight Disruptions Snarl Nashville International as 151 Flights Face Delays - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WT1h5TjRnMWxTcW9pWEJZeEtCU1JOdHZFaFBRazZSV2F4Y1d2UW5pekdVNElVbHcyWmRjY1N5WDFBS2NlRmk4bURVcl8yNjBXTTJERXJFVUNjYkYycHhiUDNjOTA4Nm84Zm1JTTFnTE5ndFk?oc=5",
+      "published": "Sat, 09 May 2026 01:22:23 GMT",
+      "summary": "Flight Disruptions Snarl Nashville International as 151 Flights Face Delays&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Mexico travel advisory: Death of cartel leader sparks unrest - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkhSUldDdmU1c21nWjh3RENPcmFtSmwzdTgwaW94cm9ya3l6WGpSaU1Wdzc0elJ0VjhtZ1l5dEZNS3VSazc1aEU2LUhzVERfZEdMX2xVU1lNRFlJbEoyZ0o5dVMwUkJqUzJqUjNQOHZMMHAzQ2xXUVVjdk9tUVRiMXZJeUhacVVwX0d1YXhtcTZ4UVV5R0HSAZsBQVVfeXFMTlpja09Ma09HTXRnNVppeUpBUE94RkRHSURtdlRxME9ZZEJ3QjQzRDFqSl8zWXdBdFlDb3BPY3l0bWdsckdJMS1VbHdGajNqNUZNMzZHQmU1eHdyeHRNYjFPSzVGRW94SVFrUTluci1sVmZxQ3RnM2FGNjBqUjdEN2tIaWs1dnROY2xkaG9GSzhBTG5vVjljVjhOWW8?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Mexico travel advisory: Death of cartel leader sparks unrest&nbsp;&nbsp;FOX 11 Los Angeles",
       "source": "Google News Travel"
     }
   ]
