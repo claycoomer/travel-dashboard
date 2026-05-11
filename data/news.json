@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-05-11T18:22:49.760623+00:00",
+  "last_updated": "2026-05-11T23:14:31.271968+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "U.S. Inbound Tourism Drops 14% in April, Erasing Two Months of Gains",
+      "link": "https://skift.com/2026/05/11/us-inbound-international-tourism-april/",
+      "published": "Mon, 11 May 2026 22:12:15 +0000",
+      "summary": "A travel trade group says it\u2019ll take years before international travel to the U.S. to return to pre-pandemic rates.",
+      "source": "Skift"
+    },
+    {
+      "title": "OpenAI Builds AI Deployment Biz Around Team Behind Virgin Atlantic Concierge",
+      "link": "https://skift.com/2026/05/11/openai-ai-deployment-company-tomoro-virgin-atlantic/",
+      "published": "Mon, 11 May 2026 21:55:02 +0000",
+      "summary": "OpenAI\u2019s new $4 billion deployment company gives travel brands a clearer path to adopting AI at scale \u2014 and starts with the team behind Virgin Atlantic\u2019s AI concierge.",
+      "source": "Skift"
+    },
+    {
+      "title": "Expedia Promotes B2B Chief to Lead Global Supply as Partner Business Takeover Accelerates",
+      "link": "https://skift.com/2026/05/11/expedia-partner-biz-leader-promotion-lead-supply-b2b-takeover/",
+      "published": "Mon, 11 May 2026 20:48:15 +0000",
+      "summary": "In her seven years heading Expedia B2B before becoming CEO in 2024, you can imagine Ariane Gorin feeling that the unit had so much unrealized potential. While Booking Holdings might be the much larger business, Gorin is trying to show that Expedia B2B is the secret sauce.",
+      "source": "Skift"
+    },
+    {
+      "title": "The K-Shaped World Cup and the Rising Cost of Live Tourism",
+      "link": "https://skift.com/2026/05/11/world-cup-k-shaped-live-tourism-costs/",
+      "published": "Mon, 11 May 2026 19:53:45 +0000",
+      "summary": "Live-event organizers have learned high earners will pay almost anything for &quot;the experience.&quot; FIFA is the latest to cash in.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Most Dangerous Word in Hospitality Right Now Is \u2018Resilience\u2019",
+      "link": "https://skift.com/2026/05/11/the-most-dangerous-word-in-hospitality-right-now-is-resilience/",
+      "published": "Mon, 11 May 2026 18:48:48 +0000",
+      "summary": "The industry keeps celebrating its ability to bounce back. That may be the problem.",
+      "source": "Skift"
+    },
     {
       "title": "Where Canadians Are Traveling: U.S. Breaks Losing Streak, Europe and Caribbean Make Big Gains",
       "link": "https://skift.com/2026/05/11/where-canadians-are-traveling-u-s-breaks-losing-streak-europe-and-caribbean-make-big-gains/",
@@ -28,45 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "What 1,000+ Travel Executives Really Think About Conferences",
-      "link": "https://skift.com/2026/05/11/skift-live-event-survey/",
-      "published": "Mon, 11 May 2026 13:42:50 +0000",
-      "summary": "We surveyed over 1,000 people across the travel industry. Founders, heads of commercial, product leads, the people who either approve event budgets or end up defending them later.",
-      "source": "Skift"
-    },
-    {
-      "title": "Egypt and Morocco Dominate Africa\u2019s Hotel Pipeline",
-      "link": "https://skift.com/2026/05/11/egypt-and-morocco-dominate-africas-hotel-pipeline/",
-      "published": "Mon, 11 May 2026 13:31:22 +0000",
-      "summary": "Egypt\u2019s hotel pipeline looks extraordinary on paper \u2014 the real story is whether financing, construction, and demand can keep pace with ambition.",
-      "source": "Skift"
-    },
-    {
-      "title": "AI Is Rewriting the Rules for Travel Distribution",
-      "link": "https://skift.com/2026/05/11/ai-blurring-marketing-distribution-travel-discovery/",
-      "published": "Mon, 11 May 2026 12:30:00 +0000",
-      "summary": "Generative AI platforms now shape travel shortlists at the inspiration stage. With 94% of hotels invisible in AI search results, only a narrow set makes it into consideration. Brands not present in the media sources informing these tools risk being filtered out before booking eve",
-      "source": "Skift"
-    },
-    {
-      "title": "Riyadh Air Files for U.S. Permit as It Scales Toward 100-Destination Network",
-      "link": "https://skift.com/2026/05/11/riyadh-air-files-for-u-s-permit-as-it-scales-toward-100-destination-network/",
-      "published": "Mon, 11 May 2026 11:55:58 +0000",
-      "summary": "Repeated delays, many outside its control, have kept Riyadh Air as a glamorous brand rather than a working airline. The U.S. permit filing is a tangible step toward actually getting into the skies.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia and CarTrawler May Be Close to a Deal Following a Meeting in Dublin: Scoop",
-      "link": "https://skift.com/2026/05/11/expedia-cartrawler-possible-deal-dublin-meeting-scoop/",
-      "published": "Mon, 11 May 2026 06:18:00 +0000",
-      "summary": "Is Expedia reverting to the deal appetite it displayed in 2015 when it acquired Travelocity, Orbitz and Homeaway? After acquiring Tiqets in February, Expedia could be looking to make another B2B move.",
-      "source": "Skift"
+      "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkZBNFJ6Q01XaGxTemlpY2JWbXUwV0ZaWV9famlGZ1pUSFVFS2pwSVJhamI0UnJQN3ZSeldhMUpZLUQxSC1kREozYmVOSTVMamtLc0xIMFNVM3hROWszdkhCeGR4ZHZ3TnNOc3lreDRHLUh6d0p0c3NxenVOeG4zcHhGZVdZSlR2NEd3Z2RMMkprOU1FZlBMZDFaZEp1LUhBcGFoOEc2R1hka0l0S3ZJeGNVTzQ1eHZRbFNMdzhR?oc=5",
+      "published": "Mon, 11 May 2026 22:14:03 GMT",
+      "summary": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
     },
     {
       "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5MdklJQ1MxOF9rdHc1eGRONmtvTlJsVnA3QUdydVZGM1NTdDF4UHg1MGlSMWVFU29iTUV5dm9GWkkxMnVMeXpLbUg2bjduSjI5aXhXVndUeWNyRzNRSno2dHE4MndqcExsZ21hWERXLU8zdDB0cEFDNnpacjlKR0dlVG55ekVRMzhqemxpZmRzX0J0dkRUNGpwRmFrZnl4SHFXeWxHZFlKV1ZoYnRaTDIxSFd5LXV6X3RobjJCbUM?oc=5",
       "published": "Mon, 11 May 2026 07:27:16 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
+      "published": "Wed, 06 May 2026 06:00:00 GMT",
+      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "New Worldwide Travel Alert Issued: What It Means for Spring Break Travel - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPam9jUElONUlrOGlnMkc0SmFsb1lfeFpCZ1RoMEplOE93WU5zbDFuSDJqckFwUkpWRFM2VHZuUUFDeHhNOXVhSWlxMzlPVGlRVkhId3o2MFZoNV92bC1zNU5Sc3R0TnFMbHhhdU4taV81Z3FqZnk1dEgtVFZIaDhyNjNZaHJaRzBJQUhwMkZ0OXExTzF6RmtyQ21LOFpaZVNUcVE?oc=5",
-      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-      "summary": "New Worldwide Travel Alert Issued: What It Means for Spring Break Travel&nbsp;&nbsp;TravelPulse",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Mexico travel advisory: Are flights to Mexico being cancelled? - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm03RmY2aExNLV9mV01WbEFsNXc5RklrLUVRRk13QW5pTGlQbGFsbC1IXzZhbzNnc0QySFJadmgzLUpRUzA4OGs2YVNnTWlrWHFBUldlb3dUdDFWVGtMcF9sT1ZGeUhYZHN3d2ZKR01ZSWN4b2tZMmVqWmJkZ0p2eGxTX1IwVHV4akJpYXRMVmttNDNERzllU0hrX3kzN05BQlcxbXJXRDZLM3d3bk1qYWpMUzFkcWpIVFdpalpKc09xNUJyZXc?oc=5",
-      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "summary": "Mexico travel advisory: Are flights to Mexico being cancelled?&nbsp;&nbsp;El Paso Times",
+      "title": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xMbXp6YWJjYnZ1MlVJZUJoM0hEbTVtQTdhdk5GbDZlZXIwRDZha2lZYm5wSmJ5engtZlZCMkE2NjFQcDVvbzNOMUhGM3dtZy1CYVExa3drWk1XOFI0dzc4MlljRjBQQWZaZzFXc05oa1dYTk9XdERSVm1ta0NEUE92WUI5SURPVzFRaXFJN09aX1dlM1dFdzl2UGw?oc=5",
+      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "summary": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
