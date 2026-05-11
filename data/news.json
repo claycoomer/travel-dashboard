@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-05-11T11:47:04.560758+00:00",
+  "last_updated": "2026-05-11T18:22:49.760623+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Where Canadians Are Traveling: U.S. Breaks Losing Streak, Europe and Caribbean Make Big Gains",
+      "link": "https://skift.com/2026/05/11/where-canadians-are-traveling-u-s-breaks-losing-streak-europe-and-caribbean-make-big-gains/",
+      "published": "Mon, 11 May 2026 18:13:02 +0000",
+      "summary": "Canadians ticked back across the border in April, but they&apos;re still booking almost everywhere but the U.S.",
+      "source": "Skift"
+    },
+    {
+      "title": "Indian Hotels Company Takes Hit From Iran War. Domestic Travel Is Making Up for It.",
+      "link": "https://skift.com/2026/05/11/iran-war-cost-indian-hotels-company-10-million-domestic-travel-is-making-up-for-it/",
+      "published": "Mon, 11 May 2026 16:35:27 +0000",
+      "summary": "IHCL survived the Iran war with its record run intact, but the episode was a sharp reminder that even India&apos;s biggest hotel company can&apos;t fully insulate itself from a war it has nothing to do with.",
+      "source": "Skift"
+    },
+    {
+      "title": "Amadeus Widens Its Travel Tech Domain as Sabre Fight Escalates",
+      "link": "https://skift.com/2026/05/11/amadeus-q1-2026-earnings-sabre-ai/",
+      "published": "Mon, 11 May 2026 15:58:44 +0000",
+      "summary": "Amadeus didn\u2019t answer Sabre\u2019s monopoly accusations so much as argue the battlefield has moved on. That may be strategically useful, but it won\u2019t make the questions disappear.",
+      "source": "Skift"
+    },
+    {
+      "title": "What 1,000+ Travel Executives Really Think About Conferences",
+      "link": "https://skift.com/2026/05/11/skift-live-event-survey/",
+      "published": "Mon, 11 May 2026 13:42:50 +0000",
+      "summary": "We surveyed over 1,000 people across the travel industry. Founders, heads of commercial, product leads, the people who either approve event budgets or end up defending them later.",
+      "source": "Skift"
+    },
+    {
+      "title": "Egypt and Morocco Dominate Africa\u2019s Hotel Pipeline",
+      "link": "https://skift.com/2026/05/11/egypt-and-morocco-dominate-africas-hotel-pipeline/",
+      "published": "Mon, 11 May 2026 13:31:22 +0000",
+      "summary": "Egypt\u2019s hotel pipeline looks extraordinary on paper \u2014 the real story is whether financing, construction, and demand can keep pace with ambition.",
+      "source": "Skift"
+    },
+    {
+      "title": "AI Is Rewriting the Rules for Travel Distribution",
+      "link": "https://skift.com/2026/05/11/ai-blurring-marketing-distribution-travel-discovery/",
+      "published": "Mon, 11 May 2026 12:30:00 +0000",
+      "summary": "Generative AI platforms now shape travel shortlists at the inspiration stage. With 94% of hotels invisible in AI search results, only a narrow set makes it into consideration. Brands not present in the media sources informing these tools risk being filtered out before booking eve",
+      "source": "Skift"
+    },
+    {
+      "title": "Riyadh Air Files for U.S. Permit as It Scales Toward 100-Destination Network",
+      "link": "https://skift.com/2026/05/11/riyadh-air-files-for-u-s-permit-as-it-scales-toward-100-destination-network/",
+      "published": "Mon, 11 May 2026 11:55:58 +0000",
+      "summary": "Repeated delays, many outside its control, have kept Riyadh Air as a glamorous brand rather than a working airline. The U.S. permit filing is a tangible step toward actually getting into the skies.",
+      "source": "Skift"
+    },
     {
       "title": "Expedia and CarTrawler May Be Close to a Deal Following a Meeting in Dublin: Scoop",
       "link": "https://skift.com/2026/05/11/expedia-cartrawler-possible-deal-dublin-meeting-scoop/",
@@ -14,80 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Indian Online Travel Companies Are Done Just Selling Tickets",
-      "link": "https://skift.com/2026/05/11/indian-online-travel-companies-are-done-just-selling-tickets/",
-      "published": "Mon, 11 May 2026 05:29:16 +0000",
-      "summary": "Indian OTAs are done competing purely on price. The new game is about how much of your travel life they can absorb before you think to look elsewhere. Partnerships and AI are the tools. The real prize? Travelers\u2019 attention.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Spent $279 Million on Acquisitions in Q1, Airbnb Gained $70 Million on Tiqets Deal: Scoop",
-      "link": "https://skift.com/2026/05/09/expedia-spent-279-million-acquisitions-tiqets-airbnb-70-million-scoop/",
-      "published": "Sat, 09 May 2026 19:29:26 +0000",
-      "summary": "Expedia was the company that acquired Tiqets. Airbnb didn&apos;t buy the experiences brand,  but seems to have made a solid return on its Tiqets investment when it cashed out.",
-      "source": "Skift"
-    },
-    {
-      "title": "Higher Fuel Costs + Spirit\u2019s End = Higher Fares",
-      "link": "https://skift.com/2026/05/08/higher-fuel-costs-spirits-end-higher-fares/",
-      "published": "Fri, 08 May 2026 17:13:24 +0000",
-      "summary": "Although Spirit was a small airline, it had a sizable impact on airfares across major markets in the U.S. Now that it has shut down, industry experts say to expect more airfare increases compounded by high fuel costs.",
-      "source": "Skift"
-    },
-    {
-      "title": "Middle East Instability Is Sending Summer Travelers to Spain and the Caribbean, Meli\u00e1 Says",
-      "link": "https://skift.com/2026/05/08/middle-east-instability-summer-travelers-spain-caribbean-melia/",
-      "published": "Fri, 08 May 2026 15:52:52 +0000",
-      "summary": "Meli\u00e1 says instability hurt first-quarter results in some markets while strengthening the summer outlook in others.",
-      "source": "Skift"
-    },
-    {
-      "title": "Iran War Costs Have Hit Travel\u2019s Profit Forecasts",
-      "link": "https://skift.com/2026/05/08/iran-war-costs-have-hit-travels-profit-forecasts/",
-      "published": "Fri, 08 May 2026 15:39:14 +0000",
-      "summary": "The Iran war didn&apos;t just raise fuel costs \u2014 it upended many travel company&apos;s business plans for 2026.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Middle East Hub Stress Test: What Airlines Build Now Will Define the Next Decade",
-      "link": "https://skift.com/2026/05/08/the-middle-east-hub-stress-test-what-airlines-build-now-will-define-the-next-decade/",
-      "published": "Fri, 08 May 2026 15:13:49 +0000",
-      "summary": "The Iran conflict forced a system-wide stress test on Gulf aviation. Airlines that use this disruption to redesign how they operate will emerge with a structural advantage. Those that simply wait for stability to return will find the window has closed.",
-      "source": "Skift"
-    },
-    {
-      "title": "Wyndham to Launch Vienna House and Dolce Branded Residences in Ras Al Khaimah: Exclusive",
-      "link": "https://skift.com/2026/05/08/wyndham-to-launch-vienna-house-and-dolce-branded-residences-in-ras-al-khaimah-exclusive/",
-      "published": "Fri, 08 May 2026 15:01:52 +0000",
-      "summary": "Wyndham\u2019s Al Marjan Island bet is less about the Wynn effect and more about proving midscale branded residences have been a missed opportunity all along.",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5MdklJQ1MxOF9rdHc1eGRONmtvTlJsVnA3QUdydVZGM1NTdDF4UHg1MGlSMWVFU29iTUV5dm9GWkkxMnVMeXpLbUg2bjduSjI5aXhXVndUeWNyRzNRSno2dHE4MndqcExsZ21hWERXLU8zdDB0cEFDNnpacjlKR0dlVG55ekVRMzhqemxpZmRzX0J0dkRUNGpwRmFrZnl4SHFXeWxHZFlKV1ZoYnRaTDIxSFd5LXV6X3RobjJCbUM?oc=5",
+      "published": "Mon, 11 May 2026 07:27:16 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "Dreadful Travel Situation at Omaha Eppley Airfield as Flight Cancellations Surge and Airlines Begin Downsizing: New Update - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOHB6UzlSUlR5QU5tUmJrVmoxRWduVDFhVHIxYW9NRlZYcTVvd0JzdG5tVHZRSmVHUy1RRXY2dzJlSENmbXF4SzFVZkVRZDJpaGNZZGdJTnd2dmZPOE5VWFdGcTkzUmxhODZjYUY5b0poaEtFSXZaWDl4RkdNQVZweldTTzVFYVpUQ2p3ZndVak1zRER2QXh0ZGZBbVNsQ2phZ09PbFhaMGpLeXBwbTVYekVNNmxfZnZabUNOSWYtbnVBZGtUdmg2SjI2R2xKeDFNSGs4RVZabVY5YUIzSWRPNy1ZT1ZZNlI2RWhmNkZzRl9IYmxITWNsc1RnM0pDeWM?oc=5",
       "published": "Sat, 09 May 2026 09:37:49 GMT",
       "summary": "Dreadful Travel Situation at Omaha Eppley Airfield as Flight Cancellations Surge and Airlines Begin Downsizing: New Update&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
-      "published": "Wed, 06 May 2026 06:00:00 GMT",
-      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Dubai right now? Here's what you need to know - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXFzeG9jZUlQU0xXX1R0TUhqMENrZnBzSlpLVUU0QnlEUEJjY0NBUzJEVE1Da25wQlJxVldpM1dnRVEybmR4ZjF2WWdURkpab0lQX1RucHBZWEI3X3Jwekl3NHpFbVFfbUdIenhEaXM0d240Z0lEZ2pQZDVKU04xQVMxd3FFb1hieWZfcU5EZ0ZJQ0tKaFBKZ3BJUTAzV1JmLU5UbUt3?oc=5",
-      "published": "Tue, 05 May 2026 08:05:53 GMT",
-      "summary": "Is it safe to travel to Dubai right now? Here's what you need to know&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjY5eldiMmk1MHNUNHRocVZidk96bEJGWnMwc2w4YWpBZ1YwX0Y2U2J4OTNwWVpKdHdsaGNGZWwtT1dWbEdvRTZhcTVnZHoyWTNRYnRxTmJwdTRRdjNPYWJza183QTdMWWZBZkJrSXhhNVBmeS04LXFpd1hGQkhES3NHT0hidkJqZVc3UVdiOEZmdTM2Z0dLUDJ4ZUdZVEFqcUx3OVhpb0l0YU9fZW43bWdHTzlUajF3THUxaXM3bWRNSE9hdFpaOENPbkNSMlpTMnJuMW5MUmk0ZWRicjJVeGRQNFlPWVhwd2IydmhLS0Y4T29XaVg1T0tOempmem13?oc=5",
-      "published": "Fri, 08 May 2026 10:22:32 GMT",
-      "summary": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +102,20 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPam9jUElONUlrOGlnMkc0SmFsb1lfeFpCZ1RoMEplOE93WU5zbDFuSDJqckFwUkpWRFM2VHZuUUFDeHhNOXVhSWlxMzlPVGlRVkhId3o2MFZoNV92bC1zNU5Sc3R0TnFMbHhhdU4taV81Z3FqZnk1dEgtVFZIaDhyNjNZaHJaRzBJQUhwMkZ0OXExTzF6RmtyQ21LOFpaZVNUcVE?oc=5",
       "published": "Mon, 02 Mar 2026 08:00:00 GMT",
       "summary": "New Worldwide Travel Alert Issued: What It Means for Spring Break Travel&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Mexico travel advisory: Are flights to Mexico being cancelled? - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm03RmY2aExNLV9mV01WbEFsNXc5RklrLUVRRk13QW5pTGlQbGFsbC1IXzZhbzNnc0QySFJadmgzLUpRUzA4OGs2YVNnTWlrWHFBUldlb3dUdDFWVGtMcF9sT1ZGeUhYZHN3d2ZKR01ZSWN4b2tZMmVqWmJkZ0p2eGxTX1IwVHV4akJpYXRMVmttNDNERzllU0hrX3kzN05BQlcxbXJXRDZLM3d3bk1qYWpMUzFkcWpIVFdpalpKc09xNUJyZXc?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Mexico travel advisory: Are flights to Mexico being cancelled?&nbsp;&nbsp;El Paso Times",
       "source": "Google News Travel"
     }
   ]
