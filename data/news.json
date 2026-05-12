@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-12T09:49:44.304648+00:00",
+  "last_updated": "2026-05-12T18:25:16.688553+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "United Is the Last Big 4 Airline to Settle With Flight Attendants. Here\u2019s What It Cost.",
+      "link": "https://skift.com/2026/05/12/united-airlines-flight-attendants-ratify-new-contract/",
+      "published": "Tue, 12 May 2026 17:55:51 +0000",
+      "summary": "After years of thorny negotiations, United flight attendants ratified a new five-year contract that will give them significant raises and boarding pay. And even with high fuel costs, airlines don\u2019t expect those record contracts to change.",
+      "source": "Skift"
+    },
+    {
+      "title": "Booking Holdings Is Running Ahead of Its Own Strategy",
+      "link": "https://skift.com/2026/05/12/booking-holdings-is-running-ahead-of-its-own-strategy/",
+      "published": "Tue, 12 May 2026 17:04:56 +0000",
+      "summary": "The merchant model is the most important thing happening at Booking Holdings. It is also the thing that lets it avoid proving whether Connected Trip actually works.",
+      "source": "Skift"
+    },
+    {
+      "title": "Modi Just Told India\u2019s Middle Class to Stay Home: Who\u2019s at Risk and the Winners in Domestic Travel",
+      "link": "https://skift.com/2026/05/12/modi-just-told-indias-middle-class-to-stay-home-whos-at-risk-and-the-winners-in-domestic-travel/",
+      "published": "Tue, 12 May 2026 14:06:51 +0000",
+      "summary": "In one corner stands India\u2019s most influential political leader appealing for no foreign travel. In the other, a middle class obsessed with global holidays, luxury getaways, and Instagram-worthy weddings abroad. The industry is caught in the middle.",
+      "source": "Skift"
+    },
+    {
+      "title": "TikTok Turns Travel Videos Into Bookable Stays and Experiences",
+      "link": "https://skift.com/2026/05/12/tiktok-go-travel-booking-social-media/",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "summary": "TikTok is moving from trip inspiration into bookings, turning videos for hotels and experiences into bookable inventory inside the app.",
+      "source": "Skift"
+    },
     {
       "title": "Lufthansa Tightens Grip on ITA Airways With Majority Stake Swoop",
       "link": "https://skift.com/2026/05/12/lufthansa-tightens-grip-on-ita-airways-with-majority-stake-swoop/",
@@ -35,34 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "The K-Shaped World Cup and the Rising Cost of Live Tourism",
-      "link": "https://skift.com/2026/05/11/world-cup-k-shaped-live-tourism-costs/",
-      "published": "Mon, 11 May 2026 19:53:45 +0000",
-      "summary": "Live-event organizers have learned high earners will pay almost anything for &quot;the experience.&quot; FIFA is the latest to cash in.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Most Dangerous Word in Hospitality Right Now Is \u2018Resilience\u2019",
-      "link": "https://skift.com/2026/05/11/the-most-dangerous-word-in-hospitality-right-now-is-resilience/",
-      "published": "Mon, 11 May 2026 18:48:48 +0000",
-      "summary": "The industry keeps celebrating its ability to bounce back. That may be the problem.",
-      "source": "Skift"
-    },
-    {
-      "title": "Where Canadians Are Traveling: U.S. Breaks Losing Streak, Europe and Caribbean Make Big Gains",
-      "link": "https://skift.com/2026/05/11/where-canadians-are-traveling-u-s-breaks-losing-streak-europe-and-caribbean-make-big-gains/",
-      "published": "Mon, 11 May 2026 18:13:02 +0000",
-      "summary": "Canadians ticked back across the border in April, but they&apos;re still booking almost everywhere but the U.S.",
-      "source": "Skift"
-    },
-    {
-      "title": "Indian Hotels Company Takes Hit From Iran War. Domestic Travel Is Making Up for It.",
-      "link": "https://skift.com/2026/05/11/iran-war-cost-indian-hotels-company-10-million-domestic-travel-is-making-up-for-it/",
-      "published": "Mon, 11 May 2026 16:35:27 +0000",
-      "summary": "IHCL survived the Iran war with its record run intact, but the episode was a sharp reminder that even India&apos;s biggest hotel company can&apos;t fully insulate itself from a war it has nothing to do with.",
-      "source": "Skift"
-    },
-    {
       "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkZBNFJ6Q01XaGxTemlpY2JWbXUwV0ZaWV9famlGZ1pUSFVFS2pwSVJhamI0UnJQN3ZSeldhMUpZLUQxSC1kREozYmVOSTVMamtLc0xIMFNVM3hROWszdkhCeGR4ZHZ3TnNOc3lreDRHLUh6d0p0c3NxenVOeG4zcHhGZVdZSlR2NEd3Z2RMMkprOU1FZlBMZDFaZEp1LUhBcGFoOEc2R1hka0l0S3ZJeGNVTzQ1eHZRbFNMdzhR?oc=5",
       "published": "Mon, 11 May 2026 22:14:03 GMT",
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog - Wego Travel Blog",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbnplQ3V2TTBxczIySWdvN0xzQ1pESmdfQl95dEpULTRvM3NhZ1FhMXlJQXA1ZUJZTEkyM3gtTlZEZHZBc3B3REJtNnZvdE9jemV5SUU4MFhRaER6ekZycjYzLUhXa2pDYXVFLUFFWGtVQWF6ZEE?oc=5",
-      "published": "Tue, 12 May 2026 08:56:46 GMT",
-      "summary": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog&nbsp;&nbsp;Wego Travel Blog",
+      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
+      "published": "Wed, 06 May 2026 06:00:00 GMT",
+      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
       "source": "Google News Travel"
     },
     {
