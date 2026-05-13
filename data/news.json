@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-05-12T23:39:56.787802+00:00",
+  "last_updated": "2026-05-13T10:01:06.686997+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Ixigo\u2019s CEO Says He Rebuilt His App From Scratch to Fight ChatGPT",
+      "link": "https://skift.com/2026/05/13/ixigos-ceo-says-he-rebuilt-his-app-from-scratch-to-fight-chatgpt/",
+      "published": "Wed, 13 May 2026 07:02:53 +0000",
+      "summary": "Ixigo\u2019s latest move comes as travel apps face pressure to do more than list fares, rooms and routes. They now have to help users make decisions faster and with less friction, without sending them elsewhere for answers.",
+      "source": "Skift"
+    },
     {
       "title": "Priceline\u2019s New CEO on Reinventing the Value Pitch and Competing in a Crowded OTA Market: Exclusive",
       "link": "https://skift.com/2026/05/12/pricelines-2-handoffs-new-ceo-relaunching-the-negotiator-exclusive/",
@@ -56,11 +63,25 @@
       "source": "Skift"
     },
     {
-      "title": "OpenAI Builds AI Deployment Biz Around Team Behind Virgin Atlantic Concierge",
-      "link": "https://skift.com/2026/05/11/openai-ai-deployment-company-tomoro-virgin-atlantic/",
-      "published": "Mon, 11 May 2026 21:55:02 +0000",
-      "summary": "OpenAI\u2019s new $4 billion deployment company gives travel brands a clearer path to adopting AI at scale \u2014 and starts with the team behind Virgin Atlantic\u2019s AI concierge.",
-      "source": "Skift"
+      "title": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPSFduSHRuX0RGaldjR3FzNEpfTTE2VUhfVW5NRDJGc20weVd4a2ZvTkRpZkNEXzlDbFhHbk8tM1ZtNm52MEFacW5BRkxaeDZOdldLenlFSW5CZkFYOEZyN0szMGhSOGMzRVFaY3VGRHVYcFZtczhIZS1DZmtLcmMzVlI5d3FhTFktX1Rxc2Z0MGRraHVJek43NTU1c19CMG1OVEVpT1dpdEVOd1lycHM3MS1zdU1hVENMa0dWOEt4U3pqcThXVGYxcXpISGNfSl9MT0dSUHNOdlNMYXM5ZVgtbDNBUkttSHVkRGJ3S0QwMlZWbTBXTVFHeDNIdWpJbGVrQTdNRXZEZHgxMm1BUGNtYi00RFRpY2szTGNPUmhFc01tQWQyR29DYzU1WkdrNDBDY1lqVk9LTXIzdWltUDNyUHp2OURFc3llWHZrZ2tn?oc=5",
+      "published": "Wed, 13 May 2026 02:44:54 GMT",
+      "summary": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte&nbsp;&nbsp;Travel And Tour ",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Can you transit through the Middle East right now? Latest updates for Dubai, Abu Dhabi and Doha - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2EzTVEyVXpPa2piMHBzbU9WS0p5eS1pX1RzQ3c5UVFIeG1YcHZ3dGlMQ1hlT1Zqcmwyc3A5TGlsZnkzZ091dDktTWVqRjRvazdpbkdiNGx5R1dWbEh3YldzWjNlcElhYW1DMkJWYU5BY3RzWW13NXkxWkNLak5WelhxWmNMOGVPVVJCYTc1b01YdWxzejkwazhaZVJVaTBFYmdjSzZzaTd1SVhfakNuX0dFVWloRmlLZERwTWREcUZoRGtWYW9KVg?oc=5",
+      "published": "Wed, 13 May 2026 08:02:12 GMT",
+      "summary": "Can you transit through the Middle East right now? Latest updates for Dubai, Abu Dhabi and Doha&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
+      "published": "Wed, 06 May 2026 06:00:00 GMT",
+      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
+      "source": "Google News Travel"
     },
     {
       "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
@@ -74,20 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5MdklJQ1MxOF9rdHc1eGRONmtvTlJsVnA3QUdydVZGM1NTdDF4UHg1MGlSMWVFU29iTUV5dm9GWkkxMnVMeXpLbUg2bjduSjI5aXhXVndUeWNyRzNRSno2dHE4MndqcExsZ21hWERXLU8zdDB0cEFDNnpacjlKR0dlVG55ekVRMzhqemxpZmRzX0J0dkRUNGpwRmFrZnl4SHFXeWxHZFlKV1ZoYnRaTDIxSFd5LXV6X3RobjJCbUM?oc=5",
       "published": "Mon, 11 May 2026 07:27:16 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
-      "published": "Wed, 06 May 2026 06:00:00 GMT",
-      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dreadful Travel Situation at Omaha Eppley Airfield as Flight Cancellations Surge and Airlines Begin Downsizing: New Update - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOHB6UzlSUlR5QU5tUmJrVmoxRWduVDFhVHIxYW9NRlZYcTVvd0JzdG5tVHZRSmVHUy1RRXY2dzJlSENmbXF4SzFVZkVRZDJpaGNZZGdJTnd2dmZPOE5VWFdGcTkzUmxhODZjYUY5b0poaEtFSXZaWDl4RkdNQVZweldTTzVFYVpUQ2p3ZndVak1zRER2QXh0ZGZBbVNsQ2phZ09PbFhaMGpLeXBwbTVYekVNNmxfZnZabUNOSWYtbnVBZGtUdmg2SjI2R2xKeDFNSGs4RVZabVY5YUIzSWRPNy1ZT1ZZNlI2RWhmNkZzRl9IYmxITWNsc1RnM0pDeWM?oc=5",
-      "published": "Sat, 09 May 2026 09:37:49 GMT",
-      "summary": "Dreadful Travel Situation at Omaha Eppley Airfield as Flight Cancellations Surge and Airlines Begin Downsizing: New Update&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkhSUldDdmU1c21nWjh3RENPcmFtSmwzdTgwaW94cm9ya3l6WGpSaU1Wdzc0elJ0VjhtZ1l5dEZNS3VSazc1aEU2LUhzVERfZEdMX2xVU1lNRFlJbEoyZ0o5dVMwUkJqUzJqUjNQOHZMMHAzQ2xXUVVjdk9tUVRiMXZJeUhacVVwX0d1YXhtcTZ4UVV5R0HSAZsBQVVfeXFMTlpja09Ma09HTXRnNVppeUpBUE94RkRHSURtdlRxME9ZZEJ3QjQzRDFqSl8zWXdBdFlDb3BPY3l0bWdsckdJMS1VbHdGajNqNUZNMzZHQmU1eHdyeHRNYjFPSzVGRW94SVFrUTluci1sVmZxQ3RnM2FGNjBqUjdEN2tIaWs1dnROY2xkaG9GSzhBTG5vVjljVjhOWW8?oc=5",
       "published": "Mon, 23 Feb 2026 08:00:00 GMT",
       "summary": "Mexico travel advisory: Death of cartel leader sparks unrest&nbsp;&nbsp;FOX 11 Los Angeles",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xMbXp6YWJjYnZ1MlVJZUJoM0hEbTVtQTdhdk5GbDZlZXIwRDZha2lZYm5wSmJ5engtZlZCMkE2NjFQcDVvbzNOMUhGM3dtZy1CYVExa3drWk1XOFI0dzc4MlljRjBQQWZaZzFXc05oa1dYTk9XdERSVm1ta0NEUE92WUI5SURPVzFRaXFJN09aX1dlM1dFdzl2UGw?oc=5",
-      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
