@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-14T09:39:12.956001+00:00",
+  "last_updated": "2026-05-14T18:21:32.977320+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "China to Order 200 Boeing Planes, First Order in Nearly a Decade",
+      "link": "https://skift.com/2026/05/14/china-to-order-200-boeing-planes-first-order-in-nearly-a-decade/",
+      "published": "Thu, 14 May 2026 17:51:05 +0000",
+      "summary": "The order is major win for Boeing, which has been shut out of the Chinese market for nearly decade due to trade tensions between the U.S. and China.",
+      "source": "Skift"
+    },
+    {
+      "title": "Selling the Unscripted City",
+      "link": "https://skift.com/2026/05/14/selling-the-unscripted-city/",
+      "published": "Thu, 14 May 2026 16:06:23 +0000",
+      "summary": "NYC still has the thing every other city wants, and no other city can buy: strangers worth talking to, singing with, eating with, arguing with, and falling in love next to.",
+      "source": "Skift"
+    },
+    {
+      "title": "They Love You \u2014 But Are Not Coming Back: What Destinations Get Wrong About Repeat Travelers",
+      "link": "https://skift.com/2026/05/14/they-love-you-but-not-coming-back-what-destinations-get-wrong-about-repeat-travelers/",
+      "published": "Thu, 14 May 2026 13:03:20 +0000",
+      "summary": "Repeat visitation must be actively earned, not assumed as a result of satisfaction.",
+      "source": "Skift"
+    },
+    {
+      "title": "Abu Dhabi\u2019s Sphere Has a Home: Yas Island",
+      "link": "https://skift.com/2026/05/14/abu-dhabis-sphere-has-a-home-yas-island/",
+      "published": "Thu, 14 May 2026 12:30:00 +0000",
+      "summary": "The location was the easy part. Whether Abu Dhabi can fill a $1.7 billion venue with its own original content is the harder question.",
+      "source": "Skift"
+    },
     {
       "title": "What Actually Happens After You Win a Skift IDEA Award",
       "link": "https://skift.com/2026/05/14/what-happens-after-winning-skift-idea-award/",
@@ -21,6 +49,13 @@
       "source": "Skift"
     },
     {
+      "title": "GMH Hotels: Is Hospitality More Fragile Than It Looks?",
+      "link": "https://skift.com/2026/05/13/gmh-hotels-is-hospitality-more-fragile-than-it-looks/",
+      "published": "Wed, 13 May 2026 14:40:00 +0000",
+      "summary": "On this week\u2019s \u2060Good Morning Hospitality, A Skift Podcast\u2060: Hotels Edition, \u2060Sarah Dandashy\u2060 and \u2060Steve Turk\u2060 break down a growing debate across the hotel industry: are brands mistaking temporary strength for long-term stability? From luxury demand and premium travel to pricing p",
+      "source": "Skift"
+    },
+    {
       "title": "100 Million Visitors and One Very Loud Pitchman: Inside Trump\u2019s Tourism Push",
       "link": "https://skift.com/2026/05/13/100-million-visitors-and-one-very-loud-pitchman-inside-trumps-tourism-push/",
       "published": "Wed, 13 May 2026 16:19:47 +0000",
@@ -28,45 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "It\u2019s Not Just Airfare: Travel Costs Are Running Double the Inflation Rate",
-      "link": "https://skift.com/2026/05/13/travel-cost-gains-outpace-inflation-rate/",
-      "published": "Wed, 13 May 2026 16:16:37 +0000",
-      "summary": "Travelers are feeling pain at the pump and in the air after an April surge in travel costs.",
-      "source": "Skift"
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 16:51:10 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "source": "Google News Travel"
     },
     {
-      "title": "HBX Group to Buy Bridgify as Part of Broader AI Push",
-      "link": "https://skift.com/2026/05/13/hbx-group-to-buy-bridgify-as-part-of-broader-ai-push/",
-      "published": "Wed, 13 May 2026 15:32:20 +0000",
-      "summary": "HBX has been trying to diversify from reselling hotel rooms since before it went public. Each time, the answer is new inventory and better tech for selling. Experiences and AI are the latest pitch.",
-      "source": "Skift"
+      "title": "New Zealand Joins Canada, US, Australia, UK, India and Others as Governments Warn Against International Travel Amid Soaring Airfares, Middle East Flight Chaos, Fuel Crisis and Global Tourism Disruptions in 2026 - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNVVlLNHBBVXNtcXBuanktTk56dWlIQVBnTzZqZWQ4WFJPVmRNZENEdTcwTW1ZYmlOdFdZSnZTbmoxWF96RmppZE1XdXBER2pwcmdITzRwQnJ1NHlFaWdab3V0VlFPNDNQaE5CMUZqLVFXQ0o3LWZ4a0N1WVdKZVpTZmxhY1dCWlRJUlUtNThUeGI1ZGlacUk2U181MV9qTVloZ0JvaHBuS2dsaHNIbXVuUGVIS2dNZG5VWWRPWmVtSFkxMXg4bGpleENHeHNtdEZndzZYaHg1YXFIZjNlODFEYlZwZmlZSGxQRWJfdEVZNW54MmlYZlZlenFVODRUVms0WFRTZkFDQmJpM1hXcTRUbmFDcnJEeEZjWTJiQThkZExSR0N5N2g3UmVNMU1yZ3pnajM2RndlTERBbGtuQmNfWlBScVlTZTRXQzBSOHhBNXkybktSMlFrTklmUzJVRjN5?oc=5",
+      "published": "Thu, 14 May 2026 13:41:15 GMT",
+      "summary": "New Zealand Joins Canada, US, Australia, UK, India and Others as Governments Warn Against International Travel Amid Soaring Airfares, Middle East Flight Chaos, Fuel Crisis and Global Tourism Disruptions in 2026&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
     },
     {
-      "title": "At Skift Global Forum, the Room Is the Advantage",
-      "link": "https://skift.com/2026/05/13/skift-global-forum-room-is-the-advantage/",
-      "published": "Wed, 13 May 2026 13:44:22 +0000",
-      "summary": "Skift Global Forum is built for senior travel leaders making decisions in a market that no longer rewards passive observation. The agenda sets the frame. The room tests the assumptions. The value comes from hearing what leaders are willing to say before the market has settled on ",
-      "source": "Skift"
-    },
-    {
-      "title": "Hotel Equities CEO: Here\u2019s Which Technologies Can Actually Lift Owner Margins",
-      "link": "https://skift.com/2026/05/13/hotel-equities-ceo-heres-which-technologies-can-actually-lift-owner-margins/",
-      "published": "Wed, 13 May 2026 13:30:00 +0000",
-      "summary": "Hotel owners see operating-cost inflation grinding margins. One third-party manager is publicly betting that AI and other technologies are the most promising route back to profitability.",
-      "source": "Skift"
-    },
-    {
-      "title": "Morocco Courts Investors Beyond Casablanca and Marrakech \u2014 Where the Opportunities Are",
-      "link": "https://skift.com/2026/05/13/morocco-courts-investors-beyond-casablanca-and-marrakech-where-the-opportunities-are/",
-      "published": "Wed, 13 May 2026 11:51:15 +0000",
-      "summary": "Rural Morocco is open for investment. Filling it won\u2019t be easy.",
-      "source": "Skift"
-    },
-    {
-      "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkZBNFJ6Q01XaGxTemlpY2JWbXUwV0ZaWV9famlGZ1pUSFVFS2pwSVJhamI0UnJQN3ZSeldhMUpZLUQxSC1kREozYmVOSTVMamtLc0xIMFNVM3hROWszdkhCeGR4ZHZ3TnNOc3lreDRHLUh6d0p0c3NxenVOeG4zcHhGZVdZSlR2NEd3Z2RMMkprOU1FZlBMZDFaZEp1LUhBcGFoOEc2R1hka0l0S3ZJeGNVTzQ1eHZRbFNMdzhR?oc=5",
-      "published": "Mon, 11 May 2026 22:14:03 GMT",
-      "summary": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know&nbsp;&nbsp;Travel And Tour World",
+      "title": "Federal government issues advisory to Canadians travelling abroad this summer - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZCai1JNUt1WEhJLVlIM0JfQlVuamZSSk9KMmc0dlllb3BHaDZyQkUweWo0NXRrQ0xWY25UdGhpaVRoQV9WVnJJNXltaThlTS11N241LVVkQlFWZkZjUmhndlZuRWtoQWtUS3Y0N21HWXAyVnBtRHF1WlV1ZktGdVdlQlNmMDRrMW00dlJKQWtUYko3eWM4T0dTS1puRkFvcE00R2VCOHN6VnZTQklYMkJ1cXJfams?oc=5",
+      "published": "Thu, 14 May 2026 15:21:39 GMT",
+      "summary": "Federal government issues advisory to Canadians travelling abroad this summer&nbsp;&nbsp;CTV News",
       "source": "Google News Travel"
     },
     {
@@ -79,8 +93,15 @@
     {
       "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
-      "published": "Wed, 06 May 2026 06:00:00 GMT",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
       "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkZBNFJ6Q01XaGxTemlpY2JWbXUwV0ZaWV9famlGZ1pUSFVFS2pwSVJhamI0UnJQN3ZSeldhMUpZLUQxSC1kREozYmVOSTVMamtLc0xIMFNVM3hROWszdkhCeGR4ZHZ3TnNOc3lreDRHLUh6d0p0c3NxenVOeG4zcHhGZVdZSlR2NEd3Z2RMMkprOU1FZlBMZDFaZEp1LUhBcGFoOEc2R1hka0l0S3ZJeGNVTzQ1eHZRbFNMdzhR?oc=5",
+      "published": "Mon, 11 May 2026 22:14:03 GMT",
+      "summary": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -91,31 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPSFduSHRuX0RGaldjR3FzNEpfTTE2VUhfVW5NRDJGc20weVd4a2ZvTkRpZkNEXzlDbFhHbk8tM1ZtNm52MEFacW5BRkxaeDZOdldLenlFSW5CZkFYOEZyN0szMGhSOGMzRVFaY3VGRHVYcFZtczhIZS1DZmtLcmMzVlI5d3FhTFktX1Rxc2Z0MGRraHVJek43NTU1c19CMG1OVEVpT1dpdEVOd1lycHM3MS1zdU1hVENMa0dWOEt4U3pqcThXVGYxcXpISGNfSl9MT0dSUHNOdlNMYXM5ZVgtbDNBUkttSHVkRGJ3S0QwMlZWbTBXTVFHeDNIdWpJbGVrQTdNRXZEZHgxMm1BUGNtYi00RFRpY2szTGNPUmhFc01tQWQyR29DYzU1WkdrNDBDY1lqVk9LTXIzdWltUDNyUHp2OURFc3llWHZrZ2tn?oc=5",
-      "published": "Wed, 13 May 2026 02:44:54 GMT",
-      "summary": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte&nbsp;&nbsp;Travel And Tour ",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT",
       "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Mexico travel advisory: Death of cartel leader sparks unrest - FOX 11 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkhSUldDdmU1c21nWjh3RENPcmFtSmwzdTgwaW94cm9ya3l6WGpSaU1Wdzc0elJ0VjhtZ1l5dEZNS3VSazc1aEU2LUhzVERfZEdMX2xVU1lNRFlJbEoyZ0o5dVMwUkJqUzJqUjNQOHZMMHAzQ2xXUVVjdk9tUVRiMXZJeUhacVVwX0d1YXhtcTZ4UVV5R0HSAZsBQVVfeXFMTlpja09Ma09HTXRnNVppeUpBUE94RkRHSURtdlRxME9ZZEJ3QjQzRDFqSl8zWXdBdFlDb3BPY3l0bWdsckdJMS1VbHdGajNqNUZNMzZHQmU1eHdyeHRNYjFPSzVGRW94SVFrUTluci1sVmZxQ3RnM2FGNjBqUjdEN2tIaWs1dnROY2xkaG9GSzhBTG5vVjljVjhOWW8?oc=5",
-      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "summary": "Mexico travel advisory: Death of cartel leader sparks unrest&nbsp;&nbsp;FOX 11 Los Angeles",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xMbXp6YWJjYnZ1MlVJZUJoM0hEbTVtQTdhdk5GbDZlZXIwRDZha2lZYm5wSmJ5engtZlZCMkE2NjFQcDVvbzNOMUhGM3dtZy1CYVExa3drWk1XOFI0dzc4MlljRjBQQWZaZzFXc05oa1dYTk9XdERSVm1ta0NEUE92WUI5SURPVzFRaXFJN09aX1dlM1dFdzl2UGw?oc=5",
-      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. Issues \"Reconsider Travel\" Warning for Cyprus and Multiple Middle East Destinations as Regional Conflict Escalates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
