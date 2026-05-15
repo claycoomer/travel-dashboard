@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-05-14T23:13:56.164401+00:00",
+  "last_updated": "2026-05-15T10:00:27.397342+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "America\u2019s Travel Problem Is Getting Worse",
+      "link": "https://skift.com/2026/05/15/americas-travel-problem-is-getting-worse/",
+      "published": "Fri, 15 May 2026 09:00:00 +0000",
+      "summary": "International travel to the United States dropped another 14%, raising new questions about America\u2019s image abroad just weeks before the World Cup begins.",
+      "source": "Skift"
+    },
     {
       "title": "This CEO Says There\u2019s \u2018No Moat\u2019 in Hospitality: Peregrine\u2019s Playbook",
       "link": "https://skift.com/2026/05/14/what-you-can-learn-from-peregrines-playbook/",
@@ -42,24 +49,17 @@
       "source": "Skift"
     },
     {
+      "title": "Inside Trump\u2019s Tourism Envoy\u2019s Plan to Sell America \u2013 Bonus Podcast",
+      "link": "https://skift.com/2026/05/14/inside-trumps-tourism-envoys-plan-to-sell-america-bonus-podcast/",
+      "published": "Thu, 14 May 2026 11:29:00 +0000",
+      "summary": "In this special edition of the Skift Travel Podcast, Gordon Smith sits down with Nick Adams, the Special Presidential Envoy for American Tourism, Exceptionalism, and Values for one of his first extended interviews in the role.",
+      "source": "Skift"
+    },
+    {
       "title": "What Actually Happens After You Win a Skift IDEA Award",
       "link": "https://skift.com/2026/05/14/what-happens-after-winning-skift-idea-award/",
       "published": "Thu, 14 May 2026 06:25:07 +0000",
       "summary": "The value of a Skift IDEA Award shows up in faster trust, internal momentum, stronger commercial conversations, and industry positioning that competitors notice immediately.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. Waives $15,000 Visa Bond for World Cup Ticket Holders",
-      "link": "https://skift.com/2026/05/13/u-s-waives-15000-visa-bond-for-world-cup-ticket-holders/",
-      "published": "Wed, 13 May 2026 20:24:27 +0000",
-      "summary": "Waiving the visa bond is a relief for World Cup fans \u2014 assuming they can afford the ticket prices.",
-      "source": "Skift"
-    },
-    {
-      "title": "GMH Hotels: Is Hospitality More Fragile Than It Looks?",
-      "link": "https://skift.com/2026/05/13/gmh-hotels-is-hospitality-more-fragile-than-it-looks/",
-      "published": "Wed, 13 May 2026 14:40:00 +0000",
-      "summary": "On this week\u2019s \u2060Good Morning Hospitality, A Skift Podcast\u2060: Hotels Edition, \u2060Sarah Dandashy\u2060 and \u2060Steve Turk\u2060 break down a growing debate across the hotel industry: are brands mistaking temporary strength for long-term stability? From luxury demand and premium travel to pricing p",
       "source": "Skift"
     },
     {
@@ -77,13 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "\u2018No financial assistance will be provided by the Government of Canada\u2019: Travel advisory issued to this region - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZCai1JNUt1WEhJLVlIM0JfQlVuamZSSk9KMmc0dlllb3BHaDZyQkUweWo0NXRrQ0xWY25UdGhpaVRoQV9WVnJJNXltaThlTS11N241LVVkQlFWZkZjUmhndlZuRWtoQWtUS3Y0N21HWXAyVnBtRHF1WlV1ZktGdVdlQlNmMDRrMW00dlJKQWtUYko3eWM4T0dTS1puRkFvcE00R2VCOHN6VnZTQklYMkJ1cXJfams?oc=5",
-      "published": "Thu, 14 May 2026 15:21:39 GMT",
-      "summary": "\u2018No financial assistance will be provided by the Government of Canada\u2019: Travel advisory issued to this region&nbsp;&nbsp;CTV News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5MdklJQ1MxOF9rdHc1eGRONmtvTlJsVnA3QUdydVZGM1NTdDF4UHg1MGlSMWVFU29iTUV5dm9GWkkxMnVMeXpLbUg2bjduSjI5aXhXVndUeWNyRzNRSno2dHE4MndqcExsZ21hWERXLU8zdDB0cEFDNnpacjlKR0dlVG55ekVRMzhqemxpZmRzX0J0dkRUNGpwRmFrZnl4SHFXeWxHZFlKV1ZoYnRaTDIxSFd5LXV6X3RobjJCbUM?oc=5",
       "published": "Mon, 11 May 2026 07:27:16 GMT",
@@ -98,13 +91,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkZBNFJ6Q01XaGxTemlpY2JWbXUwV0ZaWV9famlGZ1pUSFVFS2pwSVJhamI0UnJQN3ZSeldhMUpZLUQxSC1kREozYmVOSTVMamtLc0xIMFNVM3hROWszdkhCeGR4ZHZ3TnNOc3lreDRHLUh6d0p0c3NxenVOeG4zcHhGZVdZSlR2NEd3Z2RMMkprOU1FZlBMZDFaZEp1LUhBcGFoOEc2R1hka0l0S3ZJeGNVTzQ1eHZRbFNMdzhR?oc=5",
-      "published": "Mon, 11 May 2026 22:14:03 GMT",
-      "summary": "US Issues Three \u201cDo Not Travel\u201d Warnings in May: What Tourists Need to Know&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -112,10 +98,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPSFduSHRuX0RGaldjR3FzNEpfTTE2VUhfVW5NRDJGc20weVd4a2ZvTkRpZkNEXzlDbFhHbk8tM1ZtNm52MEFacW5BRkxaeDZOdldLenlFSW5CZkFYOEZyN0szMGhSOGMzRVFaY3VGRHVYcFZtczhIZS1DZmtLcmMzVlI5d3FhTFktX1Rxc2Z0MGRraHVJek43NTU1c19CMG1OVEVpT1dpdEVOd1lycHM3MS1zdU1hVENMa0dWOEt4U3pqcThXVGYxcXpISGNfSl9MT0dSUHNOdlNMYXM5ZVgtbDNBUkttSHVkRGJ3S0QwMlZWbTBXTVFHeDNIdWpJbGVrQTdNRXZEZHgxMm1BUGNtYi00RFRpY2szTGNPUmhFc01tQWQyR29DYzU1WkdrNDBDY1lqVk9LTXIzdWltUDNyUHp2OURFc3llWHZrZ2tn?oc=5",
+      "published": "Wed, 13 May 2026 02:44:54 GMT",
+      "summary": "KLM joins Air France, Wizz Air and Lufthansa to Cancel or Delay Tel Aviv and Middle East Flights After EASA Extends Airspace Risk Advisory to May 27 \u2014 U.S., UK, France and India Tourists Rethink Holiday Plans as European and Middle Eastern Travel Patte&nbsp;&nbsp;Travel And Tour ",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT",
       "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
       "source": "Google News Travel"
     }
   ]
