@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T12:51:40.117356+00:00",
+  "last_updated": "2026-05-18T20:53:37.163468+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -312,7 +312,7 @@
       "country": "Venezuela",
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
-      "date": "03/19/2026"
+      "date": "05/18/2026"
     },
     {
       "country": "Albania",
@@ -756,7 +756,7 @@
       "country": "Sweden",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "07/24/2024"
+      "date": "05/18/2026"
     },
     {
       "country": "Tajikistan",
@@ -942,7 +942,7 @@
       "country": "Croatia",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "10/09/2025"
+      "date": "05/18/2026"
     },
     {
       "country": "Cura\u00e7ao",
