@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T22:39:01.983970+00:00",
+  "last_updated": "2026-05-18T12:51:40.117356+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -37,6 +37,12 @@
       "level": 4,
       "level_text": "Level 4: Do not travel",
       "date": "04/28/2026"
+    },
+    {
+      "country": "Democratic Republic of the Congo (D.R.C.)",
+      "level": 4,
+      "level_text": "Level 4: Do not travel",
+      "date": "05/17/2026"
     },
     {
       "country": "Haiti",
@@ -102,7 +108,7 @@
       "country": "South Sudan",
       "level": 4,
       "level_text": "Level 4: Do not travel",
-      "date": "11/13/2025"
+      "date": "05/17/2026"
     },
     {
       "country": "Sudan",
@@ -115,6 +121,12 @@
       "level": 4,
       "level_text": "Level 4: Do not travel",
       "date": "12/11/2025"
+    },
+    {
+      "country": "Uganda",
+      "level": 4,
+      "level_text": "Level 4: Do not travel",
+      "date": "05/17/2026"
     },
     {
       "country": "Ukraine",
@@ -163,12 +175,6 @@
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
       "date": "03/03/2026"
-    },
-    {
-      "country": "Democratic Republic of the Congo (D.R.C.)",
-      "level": 3,
-      "level_text": "Level 3: Reconsider travel",
-      "date": "08/12/2025"
     },
     {
       "country": "Ethiopia",
@@ -267,6 +273,12 @@
       "date": "03/02/2026"
     },
     {
+      "country": "Rwanda",
+      "level": 3,
+      "level_text": "Level 3: Reconsider travel",
+      "date": "05/17/2026"
+    },
+    {
       "country": "Sao Tome and Principe",
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
@@ -289,12 +301,6 @@
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
       "date": "04/13/2026"
-    },
-    {
-      "country": "Uganda",
-      "level": 3,
-      "level_text": "Level 3: Reconsider travel",
-      "date": "12/08/2025"
     },
     {
       "country": "United Arab Emirates",
@@ -703,12 +709,6 @@
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
       "date": "10/02/2024"
-    },
-    {
-      "country": "Rwanda",
-      "level": 2,
-      "level_text": "Level 2: Exercise increased caution",
-      "date": "05/11/2026"
     },
     {
       "country": "San Marino",
