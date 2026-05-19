@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-18T20:53:38.981876+00:00",
+  "last_updated": "2026-05-19T11:42:33.601680+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Riyadh Air Opens Bookings for Formal London Launch",
+      "link": "https://skift.com/2026/05/19/riyadh-air-opens-bookings-for-formal-london-launch/",
+      "published": "Tue, 19 May 2026 09:46:41 +0000",
+      "summary": "After months of false starts, Riyadh Air finally closes the gap between operational readiness and a true commercial launch.",
+      "source": "Skift"
+    },
+    {
+      "title": "What Attendees Say About Skift Global Forum",
+      "link": "https://skift.com/2026/05/19/what-attendees-say-about-skift-global-forum/",
+      "published": "Tue, 19 May 2026 06:35:23 +0000",
+      "summary": "The travel industry runs on intelligence. The question is where it comes from. For more than a decade, the executives who&apos;ve been to Skift Global Forum keep coming back. That&apos;s a signal.",
+      "source": "Skift"
+    },
     {
       "title": "Cathay Pacific Removed Its First-Class Lounge Cabanas. That Tells You Where Luxury Travel Is Heading",
       "link": "https://skift.com/2026/05/18/cathay-pacific-removed-its-first-class-lounge-cabanas-that-tells-you-where-luxury-travel-is-heading/",
@@ -49,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Wyndham CEO Geoff Ballotti Diagnosed With Cancer: \u2018Prognosis Is Favorable\u2019",
-      "link": "https://skift.com/2026/05/18/wyndham-ceo-geoff-ballotti-diagnosed-with-cancer-prognosis-is-favorable/",
-      "published": "Mon, 18 May 2026 12:28:43 +0000",
-      "summary": "Wyndham CEO Geoff Ballotti was diagnosed with &quot;multiple myeloma, but it was caught &quot;early&quot; and his prognosis is &quot;favorable. The 65-year-old executive will remain in his role while he undergoes treatment.",
-      "source": "Skift"
-    },
-    {
-      "title": "Premier Inn Owner Under Pressure: Sell Now, Demands Activist Investor",
-      "link": "https://skift.com/2026/05/18/premier-inn-owner-under-pressure-sell-now-demands-activist-investor/",
-      "published": "Mon, 18 May 2026 11:59:03 +0000",
-      "summary": "Corvex isn&apos;t satisfied with Whitbread&apos;s April overhaul. Now it wants the whole company sold, and is threatening a board fight to force it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel Chaos Now: American Airlines Extends Suspension of Israel Flights \u2014 What You Must Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wUXdyUXRBN3pYVEpMNVlkVmNlQXNsVkltMXM4NGZObEhOQ19hNGdjVUhwS1Z0YzFjdmY3WUNwaERFWDBYZGVMQWJaNmRvOXpPa0xQTG9BaU5OYmJCQ1h4LW9wWVp2aXFWT2RiR1FR?oc=5",
-      "published": "Mon, 18 May 2026 20:07:05 GMT",
-      "summary": "Travel Chaos Now: American Airlines Extends Suspension of Israel Flights \u2014 What You Must Know&nbsp;&nbsp;Travel And Tour World",
+      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
+      "published": "Tue, 19 May 2026 08:00:00 GMT",
+      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
       "source": "Google News Travel"
     },
     {
@@ -77,24 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
+      "title": "Dubai and Middle East flight disruption: the latest updates amid US-Iran war as attacks continue - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1B3ZVZJcm9fTnBoNjc4SFRjbW5wRkNUU0tLdjlNbG15QUpEMi1sbTczTl9VbDJiZWFOUGtab3pzVjZWVXNFMm50OThpMUJ4VVZoWkUtVG1DQ2dqSHlvZU05RHJxZkcxR3RqeEg1RUx4bU5JSExTX3Jabm9ONERSWTFaQjc5c1lzTWFkNkEwbXQ3NEY0aGNFSk9WcHdCTnlQNEJ1UC1MYklMT19IYU9RTkQ4Nm9pU0t5X0twWXRMUl8wOGVQYXlHck56SQ?oc=5",
+      "published": "Mon, 18 May 2026 12:00:39 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates amid US-Iran war as attacks continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNek5MdklJQ1MxOF9rdHc1eGRONmtvTlJsVnA3QUdydVZGM1NTdDF4UHg1MGlSMWVFU29iTUV5dm9GWkkxMnVMeXpLbUg2bjduSjI5aXhXVndUeWNyRzNRSno2dHE4MndqcExsZ21hWERXLU8zdDB0cEFDNnpacjlKR0dlVG55ekVRMzhqemxpZmRzX0J0dkRUNGpwRmFrZnl4SHFXeWxHZFlKV1ZoYnRaTDIxSFd5LXV6X3RobjJCbUM?oc=5",
-      "published": "Mon, 11 May 2026 07:27:16 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTJyV2RndFZaNUdVZE1qeWFhdFFwdmQ3RWNUWktJaGwybDJxaWNwbUdMUzRZNHBWSE5lTkE3T2ZfOERpZ1ZKZUlVa2pTbjJ5Q2FJcm5NLXZkRWpRR1VNV2RWTHJMVjBlQmRDQ2kxRWZCeDJKdmgweF9JYmZQZXRGZFpqVWU3Sy1ucWRUTlpLMmlBOXc?oc=5",
-      "published": "Sun, 17 May 2026 22:28:14 GMT",
-      "summary": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
+      "title": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog - Wego Travel Blog",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbnplQ3V2TTBxczIySWdvN0xzQ1pESmdfQl95dEpULTRvM3NhZ1FhMXlJQXA1ZUJZTEkyM3gtTlZEZHZBc3B3REJtNnZvdE9jemV5SUU4MFhRaER6ekZycjYzLUhXa2pDYXVFLUFFWGtVQWF6ZEE?oc=5",
+      "published": "Tue, 19 May 2026 10:35:34 GMT",
+      "summary": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog&nbsp;&nbsp;Wego Travel Blog",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnByMlR5dEZ2U1RPSlBBb1U1aWZVYVBKcDQ4eFBOUF9XNWFPUXBJTU9qS3lUOEZGVnNZb1dTZ3Q4Nmw3dUZxcTJoclhrUC1rS3lYU0RlMmxpWGU2WEt3UDdEcURXYWVGdURseGljSFNuVHRkTlQtUUlsLWdZbk5IblRmQWI1TEljRi1OUVRfNTBHdXdYM3FDSFhKMDhaT20yektaNHdCanNpcW53cHdEWFJTbGNQLXdnbktqNdIBwgFBVV95cUxQS2tCcXQybGlZZm5qY014bXpsck1VcU43Q0Fqbi1wYlJKT2xSUnpzSlAySmZKMjFMWTJpSlJHYWRpTGN4NUhfZF9YT2pJSG04ZjdYSThkTkVWdG56UlBmUWlJMTRyeTgwRFZSODV4cG9GVTh2T3k0aW5NN2hJSG93WDZ1NHh2RWpaalNyeXYzQkZNcHNFN0R5ZlhHVmRPcS1sSFhaSk45RFRmOTZFRmxNQzMzdmJXYVlnTHlCUGN4OWlJZw?oc=5",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm&nbsp;&nbsp;ABC13 Houston",
       "source": "Google News Travel"
     }
   ]
