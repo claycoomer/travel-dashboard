@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-05-19T18:26:38.785099+00:00",
+  "last_updated": "2026-05-19T23:45:06.614901+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Uber CEO: Is AI Really Improving People\u2019s Lives?",
+      "link": "https://skift.com/2026/05/19/uber-ceo-is-ai-really-improving-peoples-lives/",
+      "published": "Tue, 19 May 2026 23:14:49 +0000",
+      "summary": "There&apos;s an AI backlash coming, for sure.",
+      "source": "Skift"
+    },
+    {
+      "title": "Expedia CEO Ariane Gorin on What Companies Get Wrong About AI Chatbots",
+      "link": "https://skift.com/2026/05/19/expedia-ceo-ariane-gorin-on-what-companies-get-wrong-about-ai-chatbots/",
+      "published": "Tue, 19 May 2026 21:31:17 +0000",
+      "summary": "Roamie became a victim of test-and learn. Expedia found that a chatbot that&apos;s an end-to end solution isn&apos;t practical for now \u2014 but it might be in the future.",
+      "source": "Skift"
+    },
+    {
+      "title": "Expedia Pushes Meta, Uber, and Clear Partnerships to Own More of the Trip",
+      "link": "https://skift.com/2026/05/19/expedia-pushes-meta-uber-and-clear-partnerships-to-own-more-of-the-trip/",
+      "published": "Tue, 19 May 2026 21:15:00 +0000",
+      "summary": "Expedia isn&apos;t reinventing the OTA. It&apos;s stretching the definition \u2014 upstream into inspiration, downstream into day-of-travel \u2014 so booking becomes one stop in a longer relationship.",
+      "source": "Skift"
+    },
     {
       "title": "MakeMyTrip Takes Steps Toward India IPO",
       "link": "https://skift.com/2026/05/19/makemytrip-takes-steps-toward-india-ipo/",
@@ -42,38 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Riyadh Air Opens Bookings for Formal London Launch",
-      "link": "https://skift.com/2026/05/19/riyadh-air-opens-bookings-for-formal-london-launch/",
-      "published": "Tue, 19 May 2026 09:46:41 +0000",
-      "summary": "After months of false starts, Riyadh Air finally closes the gap between operational readiness and a true commercial launch.",
-      "source": "Skift"
-    },
-    {
-      "title": "What Attendees Say About Skift Global Forum",
-      "link": "https://skift.com/2026/05/19/what-attendees-say-about-skift-global-forum/",
-      "published": "Tue, 19 May 2026 06:35:23 +0000",
-      "summary": "The travel industry runs on intelligence. The question is where it comes from. For more than a decade, the executives who&apos;ve been to Skift Global Forum keep coming back. That&apos;s a signal.",
-      "source": "Skift"
-    },
-    {
-      "title": "Cathay Pacific Removed Its First-Class Lounge Cabanas. That Tells You Where Luxury Travel Is Heading",
-      "link": "https://skift.com/2026/05/18/cathay-pacific-removed-its-first-class-lounge-cabanas-that-tells-you-where-luxury-travel-is-heading/",
-      "published": "Mon, 18 May 2026 19:54:20 +0000",
-      "summary": "Cathay Pacific is quietly building something harder to copy \u2014 a network-wide design operating system that survives different airports and local teams.",
-      "source": "Skift"
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 16:51:10 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "source": "Google News Travel"
     },
     {
       "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
       "published": "Tue, 19 May 2026 08:00:00 GMT",
       "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 16:51:10 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTJyV2RndFZaNUdVZE1qeWFhdFFwdmQ3RWNUWktJaGwybDJxaWNwbUdMUzRZNHBWSE5lTkE3T2ZfOERpZ1ZKZUlVa2pTbjJ5Q2FJcm5NLXZkRWpRR1VNV2RWTHJMVjBlQmRDQ2kxRWZCeDJKdmgweF9JYmZQZXRGZFpqVWU3Sy1ucWRUTlpLMmlBOXc?oc=5",
-      "published": "Sun, 17 May 2026 22:28:14 GMT",
-      "summary": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
       "title": "US Joins Canada, UK, Germany, France, India, Sweden and Others to Issue Strict Iran Travel Advisory Despite Flights Resuming Triggering Global Travel Alerts, Aviation Risk Concerns, and Middle East Tourism Disruption: New Report - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZk1WQWNEMTBZYWtSOEFlQWU2SkVyLUdOU3U2SXZ2aTlVUlc4MElNck04WDJPREpyUHh5YUJSUmgwYmJyVWVpanljUHhyZVRCYTlmRDY3MWJJWjlWYllVQzVlNTVMTXVpZ0N0M3kwVkg0LU41WG14X2p6ek5UQXktb3VXSWNFeU01MFZFSGktTnJKUUx4OUttQlh1M1lhc29nQi1jeWJNMXM0Qi1PanBwYzZZalplclVLanlIYnZOMnRqeFFzS3VnM3VRYTdPZF9nUTZzU2hwN1N4eEZqZ1dtZ2dsYTJGa0ZJaEQ3N3ljNWdGMDFrU215VkV6S3E5T09ZZkdDZVhxNzBtZ2Y1bnFlWlFiRUdGNW1YNXE1d1B4WjZqVS1JcjRDc0FsWnBSRVk0OGJCVGVWLW9aS1ZhSVUySEJPbTNjWnJ5SmYwbzJCcTFfOEZDTFhSY20zVTNtSlE?oc=5",
       "published": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "US Joins Canada, UK, Germany, France, India, Sweden and Others to Issue Strict Iran Travel Advisory Despite Flights Resuming Triggering Global Travel Alerts, Aviation Risk Concerns, and Middle East Tourism Disruption: New Report&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTJyV2RndFZaNUdVZE1qeWFhdFFwdmQ3RWNUWktJaGwybDJxaWNwbUdMUzRZNHBWSE5lTkE3T2ZfOERpZ1ZKZUlVa2pTbjJ5Q2FJcm5NLXZkRWpRR1VNV2RWTHJMVjBlQmRDQ2kxRWZCeDJKdmgweF9JYmZQZXRGZFpqVWU3Sy1ucWRUTlpLMmlBOXc?oc=5",
+      "published": "Sun, 17 May 2026 22:28:14 GMT",
+      "summary": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     }
   ]
