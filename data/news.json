@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-19T23:45:06.614901+00:00",
+  "last_updated": "2026-05-20T10:38:08.433302+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Why Yield Optimization Is the Only Travel AI Story That Matters Right Now",
+      "link": "https://skift.com/2026/05/20/why-yield-optimization-is-the-only-travel-ai-story-that-matters-right-now/",
+      "published": "Wed, 20 May 2026 10:21:50 +0000",
+      "summary": "Mia Morisset knows which travel AI bets will hold: yield optimization, corporate travel reinvention, and distribution moats built on data. She is equally clear on where capital is leaking. Both arguments are worth hearing before the market makes them for you.",
+      "source": "Skift"
+    },
+    {
+      "title": "Google Names Hotels as Next Vertical for Agentic Shopping",
+      "link": "https://skift.com/2026/05/19/google-names-hotels-as-next-vertical-for-agentic-shopping/",
+      "published": "Wed, 20 May 2026 00:02:55 +0000",
+      "summary": "Google has been building toward agentic hotel booking in plain sight. Now it&apos;s said so out loud.",
+      "source": "Skift"
+    },
     {
       "title": "Uber CEO: Is AI Really Improving People\u2019s Lives?",
       "link": "https://skift.com/2026/05/19/uber-ceo-is-ai-really-improving-peoples-lives/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "NYC Hotel Housekeepers\u2019 Pay to Hit $61 an Hour",
-      "link": "https://skift.com/2026/05/19/nyc-hotel-housekeepers-pay-to-hit-61-an-hour/",
-      "published": "Tue, 19 May 2026 12:51:20 +0000",
-      "summary": "A strike threat timed to the World Cup gave hotel workers maximum leverage. Every hotel union negotiator in other major cities will see this deal the new national labor benchmark.",
-      "source": "Skift"
-    },
-    {
-      "title": "Gulf Hotel Investment Enters Pause Mode as Iran War Clouds Pipeline",
-      "link": "https://skift.com/2026/05/19/gulf-hotel-investment-enters-pause-mode-as-iran-war-clouds-pipeline/",
-      "published": "Tue, 19 May 2026 12:49:05 +0000",
-      "summary": "Capital isn\u2019t leaving the Gulf. It\u2019s just sitting very, very still.",
-      "source": "Skift"
-    },
-    {
       "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
       "published": "Thu, 14 May 2026 16:51:10 GMT",
@@ -84,6 +84,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog - Wego Travel Blog",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbnplQ3V2TTBxczIySWdvN0xzQ1pESmdfQl95dEpULTRvM3NhZ1FhMXlJQXA1ZUJZTEkyM3gtTlZEZHZBc3B3REJtNnZvdE9jemV5SUU4MFhRaER6ekZycjYzLUhXa2pDYXVFLUFFWGtVQWF6ZEE?oc=5",
+      "published": "Wed, 20 May 2026 08:53:34 GMT",
+      "summary": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog&nbsp;&nbsp;Wego Travel Blog",
+      "source": "Google News Travel"
+    },
+    {
       "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
@@ -91,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice after nuclear plant struck in Iran-US war - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzNGSTJOSVdGVWJoLVdVaTNuU3E4WTJISmdRcWcxT0JhQUZ1LUpYUG15a3dZc0QyRE1ZbEdvdm5qdlI5dDQ1Y2E4SGlsVmV3RTlobHhkc2p4VjMydy03X25Sa25YWUUyekJGOFNRVDE2SFBIN2pkaVBpUWprMEc1VzMyTXkxbmY3S2hSM0RZR1U4eDZiRDZRVUZZeW9yZ2VjaWp1US1yRFFWazdKcGhuQUxRMTF6Tnc?oc=5",
-      "published": "Mon, 18 May 2026 10:42:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice after nuclear plant struck in Iran-US war&nbsp;&nbsp;The Independent",
+      "title": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjY5eldiMmk1MHNUNHRocVZidk96bEJGWnMwc2w4YWpBZ1YwX0Y2U2J4OTNwWVpKdHdsaGNGZWwtT1dWbEdvRTZhcTVnZHoyWTNRYnRxTmJwdTRRdjNPYWJza183QTdMWWZBZkJrSXhhNVBmeS04LXFpd1hGQkhES3NHT0hidkJqZVc3UVdiOEZmdTM2Z0dLUDJ4ZUdZVEFqcUx3OVhpb0l0YU9fZW43bWdHTzlUajF3THUxaXM3bWRNSE9hdFpaOENPbkNSMlpTMnJuMW5MUmk0ZWRicjJVeGRQNFlPWVhwd2IydmhLS0Y4T29XaVg1T0tOempmem13?oc=5",
+      "published": "Fri, 08 May 2026 10:22:32 GMT",
+      "summary": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -102,13 +109,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Joins Canada, UK, Germany, France, India, Sweden and Others to Issue Strict Iran Travel Advisory Despite Flights Resuming Triggering Global Travel Alerts, Aviation Risk Concerns, and Middle East Tourism Disruption: New Report - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZk1WQWNEMTBZYWtSOEFlQWU2SkVyLUdOU3U2SXZ2aTlVUlc4MElNck04WDJPREpyUHh5YUJSUmgwYmJyVWVpanljUHhyZVRCYTlmRDY3MWJJWjlWYllVQzVlNTVMTXVpZ0N0M3kwVkg0LU41WG14X2p6ek5UQXktb3VXSWNFeU01MFZFSGktTnJKUUx4OUttQlh1M1lhc29nQi1jeWJNMXM0Qi1PanBwYzZZalplclVLanlIYnZOMnRqeFFzS3VnM3VRYTdPZF9nUTZzU2hwN1N4eEZqZ1dtZ2dsYTJGa0ZJaEQ3N3ljNWdGMDFrU215VkV6S3E5T09ZZkdDZVhxNzBtZ2Y1bnFlWlFiRUdGNW1YNXE1d1B4WjZqVS1JcjRDc0FsWnBSRVk0OGJCVGVWLW9aS1ZhSVUySEJPbTNjWnJ5SmYwbzJCcTFfOEZDTFhSY20zVTNtSlE?oc=5",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "US Joins Canada, UK, Germany, France, India, Sweden and Others to Issue Strict Iran Travel Advisory Despite Flights Resuming Triggering Global Travel Alerts, Aviation Risk Concerns, and Middle East Tourism Disruption: New Report&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
