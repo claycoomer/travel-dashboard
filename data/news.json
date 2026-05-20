@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T10:38:08.433302+00:00",
+  "last_updated": "2026-05-20T19:55:19.245256+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,59 +7,59 @@
   ],
   "items": [
     {
+      "title": "Airbnb Adds Rental Cars, Stepping Onto Expedia and Booking\u2019s Turf",
+      "link": "https://skift.com/2026/05/20/airbnb-adds-rental-cars-stepping-onto-expedia-and-bookings-turf/",
+      "published": "Wed, 20 May 2026 17:00:00 +0000",
+      "summary": "Airbnb\u2019s annual Summer Release announced a scatter shot of updates and additions, instead of one big bet. Many of them \u2013 including the company\u2019s first foray into rental cars \u2013 cross squarely into legacy OTA territory.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Case for Keeping Some Friction in Travel",
+      "link": "https://skift.com/2026/05/20/the-case-for-keeping-some-friction-in-travel/",
+      "published": "Wed, 20 May 2026 16:40:20 +0000",
+      "summary": "The travel industry has spent two decades assuming frictionless is the goal, and the AI era is about to show which friction was load-bearing.",
+      "source": "Skift"
+    },
+    {
+      "title": "Rakuten Travel Plans U.S. Push: Exclusive",
+      "link": "https://skift.com/2026/05/20/rakuten-travel-plans-u-s-push-exclusive/",
+      "published": "Wed, 20 May 2026 14:00:06 +0000",
+      "summary": "Scores of Americans already use Rakuten.com for cashback without knowing it belongs to one of Japan&apos;s largest tech companies. Rakuten Travel wants to turn those shoppers into hotel guests.",
+      "source": "Skift"
+    },
+    {
+      "title": "From Dara to Ariane: Mapping Expedia\u2019s 9-Year Transformation",
+      "link": "https://skift.com/2026/05/20/from-dara-to-ariane-mapping-expedias-9-year-transformation/",
+      "published": "Wed, 20 May 2026 13:55:16 +0000",
+      "summary": "Expedia spent years consolidating a sprawling portfolio of consumer brands into a unified platform, and is now becoming a B2B infrastructure company that happens to run consumer brands.",
+      "source": "Skift"
+    },
+    {
+      "title": "Expedia To Acquire CarTrawler in Second B2B Deal of 2026",
+      "link": "https://skift.com/2026/05/20/expedia-to-acquire-cartrawler-in-second-b2b-deal-of-2026/",
+      "published": "Wed, 20 May 2026 13:00:00 +0000",
+      "summary": "Expedia CEO Ariane Gorin, who ran its B2B unit before becoming CEO two years ago, is giving Parades the freedom and resources to expand the business. Expedia now faces the complexity of integrating two new businesses: Tiqets and CarTrawler.",
+      "source": "Skift"
+    },
+    {
+      "title": "What the SAMHI Hotels\u2013RARE\u00a0India Deal Signals for Experiential Hospitality",
+      "link": "https://skift.com/2026/05/20/rare-india-scaling-authenticity-experiential-hospitality/",
+      "published": "Wed, 20 May 2026 12:30:00 +0000",
+      "summary": "RARE India&apos;s partnership with SAMHI Hotels is a measured bet on a familiar problem: how to build commercial infrastructure around a product that derives its value from resisting it. The opportunity lies in scaling access while preserving the experience \u2014 without standardizin",
+      "source": "Skift"
+    },
+    {
+      "title": "Capital A Clears Path to U.S. and Hong Kong Listings With Bankruptcy Warning Exit",
+      "link": "https://skift.com/2026/05/20/capital-a-clears-path-to-u-s-and-hong-kong-listings-with-bankruptcy-warning-exit/",
+      "published": "Wed, 20 May 2026 10:44:11 +0000",
+      "summary": "Leaving financial distress behind matters, but Capital A is no longer selling an airline turnaround story, it\u2019s pitching a diversified travel-tech future. Its bigger test is convincing global investors it is more than the airline business it left behind.",
+      "source": "Skift"
+    },
+    {
       "title": "Why Yield Optimization Is the Only Travel AI Story That Matters Right Now",
       "link": "https://skift.com/2026/05/20/why-yield-optimization-is-the-only-travel-ai-story-that-matters-right-now/",
       "published": "Wed, 20 May 2026 10:21:50 +0000",
       "summary": "Mia Morisset knows which travel AI bets will hold: yield optimization, corporate travel reinvention, and distribution moats built on data. She is equally clear on where capital is leaking. Both arguments are worth hearing before the market makes them for you.",
-      "source": "Skift"
-    },
-    {
-      "title": "Google Names Hotels as Next Vertical for Agentic Shopping",
-      "link": "https://skift.com/2026/05/19/google-names-hotels-as-next-vertical-for-agentic-shopping/",
-      "published": "Wed, 20 May 2026 00:02:55 +0000",
-      "summary": "Google has been building toward agentic hotel booking in plain sight. Now it&apos;s said so out loud.",
-      "source": "Skift"
-    },
-    {
-      "title": "Uber CEO: Is AI Really Improving People\u2019s Lives?",
-      "link": "https://skift.com/2026/05/19/uber-ceo-is-ai-really-improving-peoples-lives/",
-      "published": "Tue, 19 May 2026 23:14:49 +0000",
-      "summary": "There&apos;s an AI backlash coming, for sure.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia CEO Ariane Gorin on What Companies Get Wrong About AI Chatbots",
-      "link": "https://skift.com/2026/05/19/expedia-ceo-ariane-gorin-on-what-companies-get-wrong-about-ai-chatbots/",
-      "published": "Tue, 19 May 2026 21:31:17 +0000",
-      "summary": "Roamie became a victim of test-and learn. Expedia found that a chatbot that&apos;s an end-to end solution isn&apos;t practical for now \u2014 but it might be in the future.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Pushes Meta, Uber, and Clear Partnerships to Own More of the Trip",
-      "link": "https://skift.com/2026/05/19/expedia-pushes-meta-uber-and-clear-partnerships-to-own-more-of-the-trip/",
-      "published": "Tue, 19 May 2026 21:15:00 +0000",
-      "summary": "Expedia isn&apos;t reinventing the OTA. It&apos;s stretching the definition \u2014 upstream into inspiration, downstream into day-of-travel \u2014 so booking becomes one stop in a longer relationship.",
-      "source": "Skift"
-    },
-    {
-      "title": "MakeMyTrip Takes Steps Toward India IPO",
-      "link": "https://skift.com/2026/05/19/makemytrip-takes-steps-toward-india-ipo/",
-      "published": "Tue, 19 May 2026 15:08:47 +0000",
-      "summary": "MakeMyTrip wants to list in India but can&apos;t say when. The regulatory groundwork has started, the timeline hasn&apos;t. Watch this space... slowly.",
-      "source": "Skift"
-    },
-    {
-      "title": "How a Small Hotel Group Is Financing Solar When Federal Tax Credits Are Gone",
-      "link": "https://skift.com/2026/05/19/how-a-small-hotel-group-is-financing-solar-when-federal-tax-credits-are-gone/",
-      "published": "Tue, 19 May 2026 15:07:33 +0000",
-      "summary": "The rollback of U.S. clean energy tax credits has not stopped every hotel from investing in renewables.",
-      "source": "Skift"
-    },
-    {
-      "title": "\u2018Skip the Visa\u2019: Indian Companies Respond After Modi\u2019s Call to Stay Home",
-      "link": "https://skift.com/2026/05/19/skip-the-visa-indian-companies-respond-after-modis-call-to-stay-home/",
-      "published": "Tue, 19 May 2026 13:23:45 +0000",
-      "summary": "Telling the middle class to swap Bali for Kashmir sounds noble. But when a Dehradun flight costs as much as a Colombo holiday, patriotism alone won&apos;t fix the math.",
       "source": "Skift"
     },
     {
@@ -84,24 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog - Wego Travel Blog",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbnplQ3V2TTBxczIySWdvN0xzQ1pESmdfQl95dEpULTRvM3NhZ1FhMXlJQXA1ZUJZTEkyM3gtTlZEZHZBc3B3REJtNnZvdE9jemV5SUU4MFhRaER6ekZycjYzLUhXa2pDYXVFLUFFWGtVQWF6ZEE?oc=5",
-      "published": "Wed, 20 May 2026 08:53:34 GMT",
-      "summary": "US-Iran War: Middle East Flight Cancellations & Airspace Closures Live Blog&nbsp;&nbsp;Wego Travel Blog",
-      "source": "Google News Travel"
-    },
-    {
       "title": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYXh5YjVNd3M1bFkwS3N2UTBRQ1d1YTVBWV9JSVVyUkRiZmE5UmN3NW1jY1lkOFltQ0xyWV9YRHFRa3ZHMlRQUG0tT0NwR1pKaS1FVTFNU3JacmxFelBBZ0VVMlRkZTd4REhyeEVmYmlFbW5rRzI1NHdReHl5ZUVsWDRQZTRDRndvbXAzNV9hbnhwRm9XLW5sMEF3a0xpbUF1OGRHMENqNURzOGJvUDlRSmpFNzI3NV84TWZTNEhuLXp6SnFSYkllVmhkOEJUZnVIVkZaUl8zT1plNzFzazB1Nmo4VXhvMzMtNWdtVW11QkFkNzJRVVV1dWJ0VTFaUG9GYmVKNTlXQ2k4aW9jbjIyd3dSZF9OdWdpYXlOeG9JQ0JKNXdlemVz0gGsAkFVX3lxTE1hMVdKRjg2RzQyd0ZIR0dhVlVZeVhKaGVzRHh5TVQtamh1YndLV2lLaUxuSUwzaEkwWmpaa19INm5mQVBrRXRFZGs3MmU5MEpNNjBOeHpiSjRxcUswSXgyaDMxTkNlYVZoa1E5WUpPYnlxeEE1TXp0SHlFR1VzWVFVVmVIQlNwTjBoRWp6RW1BQThnLUtTbGNIYTJmd3ZKaWRhVXNVOEtrWnpvbmItZnVoSzdDQVhFaGF1YkxYQWJ2ek9EdFdpSkNaSnYzUmljemxZdlBLMzNPWEdxQXVacVR4OUwyV19pOWZGT19odF9xdFRlbHlzT3FGMTZpU3FFVVNRc3Ywb29hUXRPd0lVMFh5eDh1V0c2ckxsLWtLSmxqM3A5Ty1VTXpRNlk4dQ?oc=5",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "summary": "IndiGo issues travel advisory as Middle East tensions raise risk of flight disruptions; what travellers n&nbsp;&nbsp;The Times of India",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjY5eldiMmk1MHNUNHRocVZidk96bEJGWnMwc2w4YWpBZ1YwX0Y2U2J4OTNwWVpKdHdsaGNGZWwtT1dWbEdvRTZhcTVnZHoyWTNRYnRxTmJwdTRRdjNPYWJza183QTdMWWZBZkJrSXhhNVBmeS04LXFpd1hGQkhES3NHT0hidkJqZVc3UVdiOEZmdTM2Z0dLUDJ4ZUdZVEFqcUx3OVhpb0l0YU9fZW43bWdHTzlUajF3THUxaXM3bWRNSE9hdFpaOENPbkNSMlpTMnJuMW5MUmk0ZWRicjJVeGRQNFlPWVhwd2IydmhLS0Y4T29XaVg1T0tOempmem13?oc=5",
-      "published": "Fri, 08 May 2026 10:22:32 GMT",
-      "summary": "Flights Canceled at Memphis International Airport in US: Unprecedented Travel Chaos Shake the Travel Industry&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTJyV2RndFZaNUdVZE1qeWFhdFFwdmQ3RWNUWktJaGwybDJxaWNwbUdMUzRZNHBWSE5lTkE3T2ZfOERpZ1ZKZUlVa2pTbjJ5Q2FJcm5NLXZkRWpRR1VNV2RWTHJMVjBlQmRDQ2kxRWZCeDJKdmgweF9JYmZQZXRGZFpqVWU3Sy1ucWRUTlpLMmlBOXc?oc=5",
-      "published": "Sun, 17 May 2026 22:28:14 GMT",
-      "summary": "United States Storm Prediction Center Warns of Widespread US Plains Midwest Severe Weather Risk with High Tornado and Hail Potential Disrupting Holiday Weekend Travel: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
+      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Iran United States Israel Pakistan Travel Advisory Guide Amid Middle East Conflict : Latest Update - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbC1SUmZRZFBPb1JrdDE3OV9YYnItdkVoTDJyb0RQVWk0b2VPUWpaYnoya1FuZjhSdE5xbGhzaDNETkJkMzRwVWgtUG1uSDBnOU5NOTEzYWJjU05tTjFZUlhlZTdYZG10VFlFSUExdWFLd0FTWUpyLXdaS0FnNXFyWm9QUHVQeHhMazNsV2h6R1BldS1KQndseHBJSXk3MGJNNkEtU1ZfSmliN0M1YUNDaVMyU2tGSlB2LUhfMVZOZFdvNmFOOVdqQVBtcjVGbk9JVkZWZmF4RjNqREJ1LXc?oc=5",
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "Iran United States Israel Pakistan Travel Advisory Guide Amid Middle East Conflict : Latest Update&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     }
   ]
