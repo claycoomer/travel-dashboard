@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-05-21T23:37:57.173878+00:00",
+  "last_updated": "2026-05-22T10:37:03.067479+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb Is Becoming a Real OTA",
+      "link": "https://skift.com/2026/05/22/airbnb-is-becoming-a-real-ota/",
+      "published": "Fri, 22 May 2026 10:33:01 +0000",
+      "summary": "Airbnb&apos;s summer release made one thing unmistakable: the company is no longer content selling just stays and quirky local experiences, and its expansion into rental cars, grocery delivery, mainstream landmark tours, and a bigger hotels push puts it on a direct collision cour",
+      "source": "Skift"
+    },
+    {
+      "title": "Gulf Travelers Are Searching but Not Booking, and Brand USA Wants Canadians Back",
+      "link": "https://skift.com/2026/05/22/gulf-travelers-are-searching-but-not-booking-and-brand-usa-wants-canadians-back/",
+      "published": "Fri, 22 May 2026 09:36:00 +0000",
+      "summary": "On today's Skift Daily Briefing, \u2060Sarah Dandashy\u2060 breaks down why the Gulf's search-to-booking gap signals a demand delay rather than a demand collapse, how Brand USA is rebuilding its Canadian strategy from scratch on a dramatically reduced budget, and why Expedia's new MCP serv",
+      "source": "Skift"
+    },
+    {
+      "title": "Earning Its Stripes: Condor CEO on Life After Lufthansa",
+      "link": "https://skift.com/2026/05/22/earning-its-stripes-condor-ceo-on-life-after-lufthansa/",
+      "published": "Fri, 22 May 2026 09:03:11 +0000",
+      "summary": "Condor\u2019s stripey planes grab the attention, but CEO Peter Gerber\u2019s bigger challenge is turning a decades-long leisure specialist into a credible network competitor to Lufthansa.",
+      "source": "Skift"
+    },
     {
       "title": "Air India\u2019s Outgoing CEO: \u2018The Person That Takes Over Will Have Their Hands Full\u2019",
       "link": "https://skift.com/2026/05/21/air-indias-outgoing-ceo-successor-will-have-their-hands-full/",
@@ -42,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Brand USA Plans New Campaign To Win Back Canadian Travelers",
-      "link": "https://skift.com/2026/05/21/brand-usa-canada-travel-campaign/",
-      "published": "Thu, 21 May 2026 12:56:56 +0000",
-      "summary": "Canadian visitation to the U.S. took a nosedive in 2025, but Brand USA sees plenty of opportunity to convince \u201cmovable\u201d Canadian travelers to book their next trip.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why Payments Have Become an Important Strategic Lever in Airline Distribution",
-      "link": "https://skift.com/2026/05/21/why-payments-have-become-an-important-strategic-lever-in-airline-distribution/",
-      "published": "Thu, 21 May 2026 12:30:00 +0000",
-      "summary": "Airlines may be underestimating payments. As distribution grows more complex, payment infrastructure is becoming a bottleneck that shapes growth, partnerships, and the ability to deliver modern retail experiences.",
-      "source": "Skift"
-    },
-    {
-      "title": "Gulf Travelers Are Searching, Not Booking: How the Iran War Is Reshaping Travel Demand",
-      "link": "https://skift.com/2026/05/21/gulf-travelers-are-searching-not-booking-how-the-iran-war-is-reshaping-travel-demand/",
-      "published": "Thu, 21 May 2026 11:41:36 +0000",
-      "summary": "The Gulf travel story isn\u2019t a demand collapse \u2014 it\u2019s a demand deferral. The key question is when hesitation converts back to commitment.",
-      "source": "Skift"
-    },
-    {
       "title": "United Airlines Issues Travel Disruption Warning At 6 Major East Coast Airports Ahead Of Memorial Day - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTJvZThBYVRBOHpEUHU2R3pjelowOHMxQmlKVXFTMEI2YmdzdHdmNHFxWmp0YTA0UzhwRW9WUEZIVGxDMGJsX2JtX0VNSnN6OVgtTGJOeXpIUU5aUjdKenZPbWVsTllwV0lYYUJ1SkxnNm9ZZzg1NjZxX0RTSUJaUHR4eEF1S0JZN1VuYlRXeUNCbnBvRjZ3cElhMGJvNjdHalRremdWLXQ0WUkwWWo4VnpYTzVYVVNkX0E?oc=5",
       "published": "Thu, 21 May 2026 11:40:20 GMT",
       "summary": "United Airlines Issues Travel Disruption Warning At 6 Major East Coast Airports Ahead Of Memorial Day&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flying during Eid? Emirates issues key Dubai airport warning - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2FpdzY1M2wyUHNDWVZNVy1ibWRfY01WeXJCdGhlNkgzMmNib3o0MFVYNW1XNnRWa0lOeXZXbkl5ZU9lbGR0b21kbXA3S1ZULXdfRTZQbHotRXdDWEtEVFFiREV4Q19xMFJfRGtVRTBsSzVpYXBnT1gtYno1WFlxUHNhQjB0QThCSkNlS2ZQX2JCeHRQS1RRNjhNU3dIaERZRDV3VEFwM0N0ZUF1MEpwZQ?oc=5",
+      "published": "Fri, 22 May 2026 07:03:32 GMT",
+      "summary": "Flying during Eid? Emirates issues key Dubai airport warning&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT",
       "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
       "source": "Google News Travel"
     }
   ]
