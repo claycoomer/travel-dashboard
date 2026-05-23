@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T23:47:16.232648+00:00",
+  "last_updated": "2026-05-23T07:59:24.436546+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -70,20 +70,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying during Eid? Emirates issues key Dubai airport warning - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2FpdzY1M2wyUHNDWVZNVy1ibWRfY01WeXJCdGhlNkgzMmNib3o0MFVYNW1XNnRWa0lOeXZXbkl5ZU9lbGR0b21kbXA3S1ZULXdfRTZQbHotRXdDWEtEVFFiREV4Q19xMFJfRGtVRTBsSzVpYXBnT1gtYno1WFlxUHNhQjB0QThCSkNlS2ZQX2JCeHRQS1RRNjhNU3dIaERZRDV3VEFwM0N0ZUF1MEpwZQ?oc=5",
-      "published": "Fri, 22 May 2026 07:03:32 GMT",
-      "summary": "Flying during Eid? Emirates issues key Dubai airport warning&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -98,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT",
@@ -116,6 +95,27 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnByMlR5dEZ2U1RPSlBBb1U1aWZVYVBKcDQ4eFBOUF9XNWFPUXBJTU9qS3lUOEZGVnNZb1dTZ3Q4Nmw3dUZxcTJoclhrUC1rS3lYU0RlMmxpWGU2WEt3UDdEcURXYWVGdURseGljSFNuVHRkTlQtUUlsLWdZbk5IblRmQWI1TEljRi1OUVRfNTBHdXdYM3FDSFhKMDhaT20yektaNHdCanNpcW53cHdEWFJTbGNQLXdnbktqNdIBwgFBVV95cUxQS2tCcXQybGlZZm5qY014bXpsck1VcU43Q0Fqbi1wYlJKT2xSUnpzSlAySmZKMjFMWTJpSlJHYWRpTGN4NUhfZF9YT2pJSG04ZjdYSThkTkVWdG56UlBmUWlJMTRyeTgwRFZSODV4cG9GVTh2T3k0aW5NN2hJSG93WDZ1NHh2RWpaalNyeXYzQkZNcHNFN0R5ZlhHVmRPcS1sSFhaSk45RFRmOTZFRmxNQzMzdmJXYVlnTHlCUGN4OWlJZw?oc=5",
       "published": "Wed, 21 Jan 2026 08:00:00 GMT",
       "summary": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm&nbsp;&nbsp;ABC13 Houston",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Mexico travel advisory: Death of cartel leader sparks unrest - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkhSUldDdmU1c21nWjh3RENPcmFtSmwzdTgwaW94cm9ya3l6WGpSaU1Wdzc0elJ0VjhtZ1l5dEZNS3VSazc1aEU2LUhzVERfZEdMX2xVU1lNRFlJbEoyZ0o5dVMwUkJqUzJqUjNQOHZMMHAzQ2xXUVVjdk9tUVRiMXZJeUhacVVwX0d1YXhtcTZ4UVV5R0HSAZsBQVVfeXFMTlpja09Ma09HTXRnNVppeUpBUE94RkRHSURtdlRxME9ZZEJ3QjQzRDFqSl8zWXdBdFlDb3BPY3l0bWdsckdJMS1VbHdGajNqNUZNMzZHQmU1eHdyeHRNYjFPSzVGRW94SVFrUTluci1sVmZxQ3RnM2FGNjBqUjdEN2tIaWs1dnROY2xkaG9GSzhBTG5vVjljVjhOWW8?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Mexico travel advisory: Death of cartel leader sparks unrest&nbsp;&nbsp;FOX 11 Los Angeles",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "American makes continued progress in its recovery from Winter Storm Fern - American Airlines Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3loaFd2QlBZdmFBcXpqMDhqSi1hMlNwbXQ1bnUxSmFDUGRDb2dFRGRnbEVCOHhNUFFJMW1naml6N2tXdEs3eFM2QmdBeTB4NTFReE52MTZNajJTR2xpMElPX2VWc3NCMlNxam8tb0tRbGhGR1hiM3FkeXNrbkk3WHc1VFJfNmxObUROQVk1MG5Mb2Z1ZVltOV91ZFNVejcxckk3VjRVRFJfZw?oc=5",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "summary": "American makes continued progress in its recovery from Winter Storm Fern&nbsp;&nbsp;American Airlines Newsroom",
       "source": "Google News Travel"
     }
   ]
