@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T12:32:57.192989+00:00",
+  "last_updated": "2026-05-27T22:21:00.961865+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -234,7 +234,7 @@
       "country": "Nicaragua",
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
-      "date": "05/14/2025"
+      "date": "05/14/2026"
     },
     {
       "country": "Nigeria",
@@ -396,7 +396,7 @@
       "country": "Cameroon",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "12/18/2024"
+      "date": "05/15/2026"
     },
     {
       "country": "Chile",
@@ -618,7 +618,7 @@
       "country": "Malawi",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "02/25/2026"
+      "date": "05/14/2026"
     },
     {
       "country": "Maldives",
@@ -912,7 +912,7 @@
       "country": "Brunei",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "05/14/2025"
+      "date": "05/14/2026"
     },
     {
       "country": "Bulgaria",
