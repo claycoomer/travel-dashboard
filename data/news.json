@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-26T23:49:30.765653+00:00",
+  "last_updated": "2026-05-27T12:32:59.697085+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Mews and SiteMinder to Put Hotel Distribution, Operations Under One Roof \u2014\u00a0Exclusive",
+      "link": "https://skift.com/2026/05/27/mews-siteminder-hotel-distribution-operations-native-integration-exclusive/",
+      "published": "Wed, 27 May 2026 11:00:00 +0000",
+      "summary": "Mews and SiteMinder are bringing distribution and hotel operations into one platform. The goal: Break down the hotel data silos that complicate AI adoption in the agentic age.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb Invests in WeRoad \u2014 and Hired Its CEO to Lead Hotels",
+      "link": "https://skift.com/2026/05/27/airbnb-leads-58-million-weroad-funding-for-u-s-expansion/",
+      "published": "Wed, 27 May 2026 08:00:00 +0000",
+      "summary": "Airbnb has struggled to scale experiences. Investing in WeRoad \u2014 and hiring its CEO \u2014 is Chesky&apos;s preferred move: partner first, potentially acquire later.",
+      "source": "Skift"
+    },
     {
       "title": "Waldorf Astoria, Aman, and Auberge Invest in Texas Hill Country",
       "link": "https://skift.com/2026/05/26/waldorf-astoria-aman-and-auberge-invest-in-texas-hill-country/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Born in Britain, Owned Elsewhere",
-      "link": "https://skift.com/2026/05/26/born-in-britain-owned-elsewhere/",
-      "published": "Tue, 26 May 2026 11:51:06 +0000",
-      "summary": "The UK keeps producing travel tech companies that leave home before they grow up, and the reasons should worry the stakeholders.",
-      "source": "Skift"
-    },
-    {
-      "title": "Air India Pulls Express Into Maharaja Club, Sharpens Hub Strategy",
-      "link": "https://skift.com/2026/05/26/air-india-pulls-express-into-maharaja-club-sharpens-hub-strategy/",
-      "published": "Tue, 26 May 2026 11:11:58 +0000",
-      "summary": "Air India is using loyalty to turn Air India Express into a feeder for its long-haul ambitions, but Maharaja Club still lacks the credit-card economics that make global loyalty programs truly powerful.",
-      "source": "Skift"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: the latest updates as Eid rush starts amid US-Iran war - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUpRcmw5Tjg0UF9ERS1ZYk9nQjctWDMzT2NaMFZaTzJWcjI0Sy1ZUURIZGIxQVFyQXlBVTk1Z3NkaUUxWE9HWmpmUG5pYVRJaWx4MjFIZHBOR0FGQ3VhZ2Nxbi1pYW1wQnctWnk5VVF4YnF6MnRtakw0YXo5REg2Y1gxdmZpeXVCZXJ6Vk1NcXA5UGI2UmtHX19WNXJ4cEZ3MVNSemhWbzRJenFBUFBxdWthLWt2MDJLdVpKTXFtTUg5MmVhT0gyQTBB?oc=5",
       "published": "Tue, 26 May 2026 07:46:15 GMT",
@@ -78,7 +78,7 @@
     },
     {
       "title": "Air Canada, United, and American Airlines Suffer 5 Major Flight Cancellations at Seoul Incheon, Triggering Intercontinental Travel Chaos: Latest Airline News - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUURLOHBNMXBvYkhPYVNIZ2NHak1kUWhBQV81dFBzbjFmOGtaU1pyVHlKYUNrSU9jU3lzN3hFQ2tkcnU5VjJOOHpFWk9qRXFVY3pMVVNEbnk1MTJnMkJ3cWh2NGsxbG9ZbEpHQXd1eVRHaXU0UWdGQlk0TFRteGV2ak9R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHFWWm1SSHFncHQxa0dubXlId3NyWGZEVHc3ZnRpVkRXNlZCYUlkbXNXUlRLRXlfeHI3a2xONzlOWmRMT0dWWTQ5SDEtZzllUmEtdHhHLWNMbUNyalJfLXduX1FrZkZaR21sdHFDTmY3c1dSeGdHLUZZSFo1Slo5dC1EVEJXdlk?oc=5",
       "published": "Tue, 26 May 2026 18:08:59 GMT",
       "summary": "Air Canada, United, and American Airlines Suffer 5 Major Flight Cancellations at Seoul Incheon, Triggering Intercontinental Travel Chaos: Latest Airline News&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
