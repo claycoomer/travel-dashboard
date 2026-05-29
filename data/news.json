@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-28T22:18:57.647466+00:00",
+  "last_updated": "2026-05-29T11:58:08.690550+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "India\u2019s Luxury Hotels Are Finding a New Anchor, and It\u2019s Not Foreign Tourists",
+      "link": "https://skift.com/2026/05/29/indias-luxury-hotels-are-finding-a-new-anchor-and-its-not-foreign-tourists/",
+      "published": "Fri, 29 May 2026 11:14:25 +0000",
+      "summary": "Oberoi&apos;s parent company says geopolitical disruptions are reshaping travel patterns, but India\u2019s affluent travelers are increasingly insulating luxury hotels from global shocks.",
+      "source": "Skift"
+    },
+    {
+      "title": "Inside Guatemala\u2019s Plan to Be Central America\u2019s Next Long-Haul Destination",
+      "link": "https://skift.com/2026/05/29/inside-guatemalas-plan-to-be-central-americas-next-long-haul-destination/",
+      "published": "Fri, 29 May 2026 10:39:44 +0000",
+      "summary": "Guatemala\u2019s tourism push is about delivery as well as discovery. Routes, rooms, and reliability on the ground are needed to compete for high-spending travelers who have established choices elsewhere in the region.",
+      "source": "Skift"
+    },
     {
       "title": "\u2018Empty Calories\u2019: Hyatt Tells Investors to Stop Counting Rooms",
       "link": "https://skift.com/2026/05/28/empty-calories-hyatt-tells-investors-to-stop-counting-rooms/",
@@ -49,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Singapore\u2019s YouTrip Launches a Children\u2019s Travel Card Into a Gap Asia\u2019s Fintechs Left Open",
-      "link": "https://skift.com/2026/05/28/singapores-youtrip-launches-a-childrens-travel-card-into-a-gap-asias-fintechs-left-open/",
-      "published": "Thu, 28 May 2026 04:00:00 +0000",
-      "summary": "YouTrip\u2019s move raises a question: When do under-18s stop being an add-on to adult travel and become a customer segment in their own right? The answer may be much earlier than expected.",
-      "source": "Skift"
-    },
-    {
-      "title": "Avelo Airlines Looks to Car, Hotel Partnerships After ICE Controversy",
-      "link": "https://skift.com/2026/05/27/avelo-looks-to-car-hotel-partnerships-after-ice-controversy/",
-      "published": "Wed, 27 May 2026 23:44:00 +0000",
-      "summary": "The ICE partnership hurt Avelo&apos;s brand. And the airline&apos;s CEO now acknowledges it had a real financial impact too.",
-      "source": "Skift"
-    },
-    {
       "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 21:06:55 GMT",
+      "published": "Thu, 28 May 2026 21:25:03 GMT",
       "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates as Eid rush starts amid US-Iran war - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUpRcmw5Tjg0UF9ERS1ZYk9nQjctWDMzT2NaMFZaTzJWcjI0Sy1ZUURIZGIxQVFyQXlBVTk1Z3NkaUUxWE9HWmpmUG5pYVRJaWx4MjFIZHBOR0FGQ3VhZ2Nxbi1pYW1wQnctWnk5VVF4YnF6MnRtakw0YXo5REg2Y1gxdmZpeXVCZXJ6Vk1NcXA5UGI2UmtHX19WNXJ4cEZ3MVNSemhWbzRJenFBUFBxdWthLWt2MDJLdVpKTXFtTUg5MmVhT0gyQTBB?oc=5",
-      "published": "Tue, 26 May 2026 07:46:15 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as Eid rush starts amid US-Iran war&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "United Arab Emirates, Qatar, Saudi Arabia, Bahrain, Jordan and Oman Travel Advisory Update: How Rising Middle East Security Risks Are Reshaping Flights, Tourism and Transit Routes Across the Region - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVDJTQ25hUG5DYVlXT05mQ3ljdEoyeEdldmFxUEZHVFQ1SS1oS050VjQ4VUh2QVNWUnMxc0cwdWJnOTlVblBHc0duTHZvdXRpc05WZE1haEdfZEJBNjh5VUNFbXBDYkRodGZuN3lR?oc=5",
+      "published": "Fri, 29 May 2026 06:28:31 GMT",
+      "summary": "United Arab Emirates, Qatar, Saudi Arabia, Bahrain, Jordan and Oman Travel Advisory Update: How Rising Middle East Security Risks Are Reshaping Flights, Tourism and Transit Routes Across the Region&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "title": "Dubai and Middle East flight disruption: the latest updates as Eid rush starts amid US-Iran war - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUpRcmw5Tjg0UF9ERS1ZYk9nQjctWDMzT2NaMFZaTzJWcjI0Sy1ZUURIZGIxQVFyQXlBVTk1Z3NkaUUxWE9HWmpmUG5pYVRJaWx4MjFIZHBOR0FGQ3VhZ2Nxbi1pYW1wQnctWnk5VVF4YnF6MnRtakw0YXo5REg2Y1gxdmZpeXVCZXJ6Vk1NcXA5UGI2UmtHX19WNXJ4cEZ3MVNSemhWbzRJenFBUFBxdWthLWt2MDJLdVpKTXFtTUg5MmVhT0gyQTBB?oc=5",
+      "published": "Tue, 26 May 2026 07:46:15 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as Eid rush starts amid US-Iran war&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
