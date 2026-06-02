@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-06-02T11:52:57.847634+00:00",
+  "last_updated": "2026-06-02T22:05:43.180157+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "After Sonder\u2019s Collapse, Francis Davidson Returns With an AI Travel Agent",
+      "link": "https://skift.com/2026/06/02/after-sonders-collapse-francis-davidson-returns-with-an-ai-travel-agent/",
+      "published": "Tue, 02 Jun 2026 21:47:19 +0000",
+      "summary": "Another AI travel agent might not be news. One built by the founder of Sonder, with something to prove, is.",
+      "source": "Skift"
+    },
+    {
+      "title": "Iran War Drives Middle East Tourism Slump \u2014 and a Global Demand Shift",
+      "link": "https://skift.com/2026/06/02/iran-war-drives-middle-east-tourism-slump-and-a-global-demand-shift/",
+      "published": "Tue, 02 Jun 2026 20:24:43 +0000",
+      "summary": "Demand didn&apos;t disappear. It just left the Gulf \u2014 and it&apos;s not clear when it&apos;s coming back.",
+      "source": "Skift"
+    },
+    {
+      "title": "About All that Airline M&A \u2014\u00a0CEOs Say There\u2019s Nothing to Buy",
+      "link": "https://skift.com/2026/06/02/about-all-that-airline-m-and-a-ceos-say-theres-nothing-to-buy/",
+      "published": "Tue, 02 Jun 2026 18:53:04 +0000",
+      "summary": "After a frenzy of speculation about airline M&amp;A, talks have dried up. The industry is too consolidated for the big carriers to merge, and the smaller ones don&apos;t have viable partners.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Agent Is the New Front Door",
+      "link": "https://skift.com/2026/06/02/agent-front-door-pol-peiffer/",
+      "published": "Tue, 02 Jun 2026 14:48:23 +0000",
+      "summary": "Sierra&apos;s Pol Peiffer argues the interface layer of travel is shifting from forms to conversation. The companies still optimizing dropdowns are building on top of an architecture customers are about to leave behind.",
+      "source": "Skift"
+    },
+    {
+      "title": "Marriott\u2019s EMEA Chief 100 Days In: A Region Running in Two Gears",
+      "link": "https://skift.com/2026/06/02/marriotts-emea-chief-100-days-in-a-region-running-in-two-gears/",
+      "published": "Tue, 02 Jun 2026 14:30:04 +0000",
+      "summary": "The Iran war has turned Marriott\u2019s EMEA region into two businesses at once. Jones\u2019s bet is that Europe and Africa can carry the 20% of fee business the Middle East has lost \u2014 at least until a ceasefire changes the math.",
+      "source": "Skift"
+    },
+    {
+      "title": "Oyo-Parent Prism Gets Green Light From Indian Regulator for IPO",
+      "link": "https://skift.com/2026/06/02/oyo-parent-prism-gets-green-light-from-indian-regulator-for-ipo/",
+      "published": "Tue, 02 Jun 2026 13:09:06 +0000",
+      "summary": "Prism\u2019s SEBI approval signals IPO momentum, but timing remains cautious. Stronger profits, Motel 6 integration, and premium expansion may finally give Oyo\u2019s parent company the public-market credibility it previously lacked.",
+      "source": "Skift"
+    },
+    {
+      "title": "Record Seaweed Levels Are Hitting Caribbean Beaches \u2014 Hotels Are Cutting Prices",
+      "link": "https://skift.com/2026/06/02/record-seaweed-levels-are-hitting-caribbean-beaches-hotels-are-cutting-prices/",
+      "published": "Tue, 02 Jun 2026 12:14:21 +0000",
+      "summary": "Sargassum has gone from a nuisance to a structural threat for Caribbean tourism, and 2026 is shaping up to be the worst year on record.",
+      "source": "Skift"
+    },
     {
       "title": "Vietnam\u2019s Tourism Boom Gets a Boost from Latest Philippines Pact",
       "link": "https://skift.com/2026/06/02/vietnams-tourism-boom-gets-a-boost-from-latest-philippines-pact/",
@@ -14,59 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Why Booking.com Is Betting on the AI Travelers Will Never See",
-      "link": "https://skift.com/2026/06/01/booking-ai-trust-vipul-hingne/",
-      "published": "Mon, 01 Jun 2026 21:11:00 +0000",
-      "summary": "The competitive variable in travel AI isn&apos;t model sophistication. It&apos;s whether customers trust the product enough to let it act on their behalf \u2014 and most companies are still investing in the wrong layer.",
-      "source": "Skift"
-    },
-    {
-      "title": "Allegiant CEO Says Credit Cards Are the Airline\u2019s Biggest Revenue Opportunity",
-      "link": "https://skift.com/2026/06/01/allegiant-ceo-says-credit-cards-are-the-airlines-biggest-revenue-opportunity/",
-      "published": "Mon, 01 Jun 2026 19:43:06 +0000",
-      "summary": "After closing a merger with Sun Country, Allegiant CEO Greg Anderson is eyeing ways to strengthen the carrier\u2019s credit card and loyalty programs.",
-      "source": "Skift"
-    },
-    {
-      "title": "The High Cost of Infinite Search: How AI Agents Break Travel Economics",
-      "link": "https://skift.com/2026/06/01/ai-impact-travel-search-costs/",
-      "published": "Mon, 01 Jun 2026 19:06:17 +0000",
-      "summary": "Travel search was built around a useful limit: people eventually stop looking. AI agents don\u2019t. That turns comparison shopping into a cost problem for airlines, intermediaries, metasearch, and hotels trying to keep control of demand.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia AI Chief Xavier Amatriain on Trust, Agents, and the Future of Travel \u2014 Exclusive",
-      "link": "https://skift.com/2026/06/01/expedia-xavier-amatriain-interview-qa-exclusive/",
-      "published": "Mon, 01 Jun 2026 17:59:29 +0000",
-      "summary": "In his first media interview as Expedia\u2019s Chief AI and Data Officer, Xavier Amatriain gives a rare look at the logic shaping one of travel\u2019s most closely watched AI strategies.",
-      "source": "Skift"
-    },
-    {
-      "title": "Women Travelers Are Not a Segment. Treating Them as One Is a Strategic Mistake",
-      "link": "https://skift.com/2026/06/01/women-travelers-are-not-a-segment-treating-them-as-one-is-a-strategic-mistake/",
-      "published": "Mon, 01 Jun 2026 17:00:39 +0000",
-      "summary": "Treating women as a monolith isn&apos;t a diversity failure \u2014 it&apos;s a revenue leak the industry keeps choosing not to fix.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Names Ex-Pinterest Exec to Lead Ads. The Pitch: Real Bookings, Not Intent.",
-      "link": "https://skift.com/2026/06/01/expedia-names-ex-pinterest-exec-to-lead-ads-the-pitch-real-bookings-not-intent/",
-      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
-      "summary": "Expedia&apos;s advertising program has one thing that Google and Meta can&apos;t offer \u2014 confirmed bookers. As such, advertisers can target travelers with set plans and try to entice them to book additional products.",
-      "source": "Skift"
-    },
-    {
-      "title": "EasyJet\u2019s Latest Suitor: Can Castlelake Succeed Where Others Failed?",
-      "link": "https://skift.com/2026/06/01/easyjets-latest-suitor-can-castlelake-succeed-where-others-failed/",
-      "published": "Mon, 01 Jun 2026 16:11:54 +0000",
-      "summary": "As consolidation reshapes European aviation, EasyJet remains one of its most prized assets \u2013 and seemingly one of its hardest deals to pull off.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal - Portuguese American Journal",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0w1cU9MdzY1NFF3ZzVQa3hIUHRHaEdvc1lyOTI1RGdyelUxaFpmSEw0TlhkRExfRE1YOTAzclo4LXFjOU5iek9NT1RBa3gtOENzWTJad0t0YkFWcHpLYjdtQUgwUHdfcXY5MTN5c0s1bS1CUms4X0ZRSUlFV2lpejZzSE5TaW4zNTNNNXdIOGIzbE9lYi15Ym12QUc0Y1BFOUhWaEtGVTZjdV9J?oc=5",
-      "published": "Mon, 01 Jun 2026 21:44:57 GMT",
-      "summary": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal&nbsp;&nbsp;Portuguese American Journal",
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 21:24:44 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OS2d0OTVFU1FpeGNSV2tnQW5JX2xtV2VydVEyVzU5eXE4djBqYzFpUnhTVmg1QzItdXFvMnRXV29TUUJxS1BpZlBzRTFMWWQtdVVQNDE3aTk1dEpHY3lPaUtwZ01hQ1NLWmlIbHVR?oc=5",
-      "published": "Sat, 30 May 2026 06:57:30 GMT",
-      "summary": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air&nbsp;&nbsp;Travel And ",
+      "title": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal - Portuguese American Journal",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0w1cU9MdzY1NFF3ZzVQa3hIUHRHaEdvc1lyOTI1RGdyelUxaFpmSEw0TlhkRExfRE1YOTAzclo4LXFjOU5iek9NT1RBa3gtOENzWTJad0t0YkFWcHpLYjdtQUgwUHdfcXY5MTN5c0s1bS1CUms4X0ZRSUlFV2lpejZzSE5TaW4zNTNNNXdIOGIzbE9lYi15Ym12QUc0Y1BFOUhWaEtGVTZjdV9J?oc=5",
+      "published": "Mon, 01 Jun 2026 21:44:57 GMT",
+      "summary": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal&nbsp;&nbsp;Portuguese American Journal",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "title": "Mexico travel advisory: Are flights to Mexico being cancelled? - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm03RmY2aExNLV9mV01WbEFsNXc5RklrLUVRRk13QW5pTGlQbGFsbC1IXzZhbzNnc0QySFJadmgzLUpRUzA4OGs2YVNnTWlrWHFBUldlb3dUdDFWVGtMcF9sT1ZGeUhYZHN3d2ZKR01ZSWN4b2tZMmVqWmJkZ0p2eGxTX1IwVHV4akJpYXRMVmttNDNERzllU0hrX3kzN05BQlcxbXJXRDZLM3d3bk1qYWpMUzFkcWpIVFdpalpKc09xNUJyZXc?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Mexico travel advisory: Are flights to Mexico being cancelled?&nbsp;&nbsp;El Paso Times",
       "source": "Google News Travel"
     },
     {
-      "title": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm - ABC13 Houston",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnByMlR5dEZ2U1RPSlBBb1U1aWZVYVBKcDQ4eFBOUF9XNWFPUXBJTU9qS3lUOEZGVnNZb1dTZ3Q4Nmw3dUZxcTJoclhrUC1rS3lYU0RlMmxpWGU2WEt3UDdEcURXYWVGdURseGljSFNuVHRkTlQtUUlsLWdZbk5IblRmQWI1TEljRi1OUVRfNTBHdXdYM3FDSFhKMDhaT20yektaNHdCanNpcW53cHdEWFJTbGNQLXdnbktqNdIBwgFBVV95cUxQS2tCcXQybGlZZm5qY014bXpsck1VcU43Q0Fqbi1wYlJKT2xSUnpzSlAySmZKMjFMWTJpSlJHYWRpTGN4NUhfZF9YT2pJSG04ZjdYSThkTkVWdG56UlBmUWlJMTRyeTgwRFZSODV4cG9GVTh2T3k0aW5NN2hJSG93WDZ1NHh2RWpaalNyeXYzQkZNcHNFN0R5ZlhHVmRPcS1sSFhaSk45RFRmOTZFRmxNQzMzdmJXYVlnTHlCUGN4OWlJZw?oc=5",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm&nbsp;&nbsp;ABC13 Houston",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
+      "title": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUUI5Mk1fN0p4N0JIdnQ1MmZTS3o5eTRtR3RSMnV4SGF3aDNJdVU2S1hhY3l5ZXlpUTMzcEwyazRDRERnczhwZDVOSnhYekNRbVhucDVwUEV4NFRFVVkyS3l0Znlja084LTFZcm9B?oc=5",
+      "published": "Mon, 01 Jun 2026 10:26:23 GMT",
+      "summary": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     }
   ]
