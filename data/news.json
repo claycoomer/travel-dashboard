@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-01T19:28:34.927116+00:00",
+  "last_updated": "2026-06-02T11:52:57.847634+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Vietnam\u2019s Tourism Boom Gets a Boost from Latest Philippines Pact",
+      "link": "https://skift.com/2026/06/02/vietnams-tourism-boom-gets-a-boost-from-latest-philippines-pact/",
+      "published": "Tue, 02 Jun 2026 09:23:23 +0000",
+      "summary": "Vietnam is building on one of Southeast Asia\u2019s strongest tourism growth stories through regional partnerships, stronger air connectivity, and infrastructure investment, a strategy that is helping it pull ahead.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why Booking.com Is Betting on the AI Travelers Will Never See",
+      "link": "https://skift.com/2026/06/01/booking-ai-trust-vipul-hingne/",
+      "published": "Mon, 01 Jun 2026 21:11:00 +0000",
+      "summary": "The competitive variable in travel AI isn&apos;t model sophistication. It&apos;s whether customers trust the product enough to let it act on their behalf \u2014 and most companies are still investing in the wrong layer.",
+      "source": "Skift"
+    },
+    {
+      "title": "Allegiant CEO Says Credit Cards Are the Airline\u2019s Biggest Revenue Opportunity",
+      "link": "https://skift.com/2026/06/01/allegiant-ceo-says-credit-cards-are-the-airlines-biggest-revenue-opportunity/",
+      "published": "Mon, 01 Jun 2026 19:43:06 +0000",
+      "summary": "After closing a merger with Sun Country, Allegiant CEO Greg Anderson is eyeing ways to strengthen the carrier\u2019s credit card and loyalty programs.",
+      "source": "Skift"
+    },
     {
       "title": "The High Cost of Infinite Search: How AI Agents Break Travel Economics",
       "link": "https://skift.com/2026/06/01/ai-impact-travel-search-costs/",
@@ -42,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Riyadh Air to Take Delivery of First Planes, Plans 100 Cities in 5 Years",
-      "link": "https://skift.com/2026/06/01/riyadh-air-to-take-delivery-of-first-planes-plans-100-cities-in-5-years/",
-      "published": "Mon, 01 Jun 2026 14:41:48 +0000",
-      "summary": "Connecting 22 cities in nine months is a bold ambition.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Data Architecture Gap That Hotel AI Procurement Isn\u2019t Pricing In",
-      "link": "https://skift.com/2026/06/01/marriott-ai-architecture-colin-coleman/",
-      "published": "Mon, 01 Jun 2026 14:05:59 +0000",
-      "summary": "Hotel CEOs are signing AI contracts this quarter that will define their technology stack through 2030, and most procurement teams are evaluating these deals the wrong way \u2014 tool by tool, use case by use case, without asking whether the underlying data architecture allows those to",
-      "source": "Skift"
-    },
-    {
-      "title": "Barry Diller Moves to Take Over MGM Resorts in $18 Billion Deal",
-      "link": "https://skift.com/2026/06/01/barry-diller-moves-to-take-over-mgm-resorts-in-18-billion-deal/",
-      "published": "Mon, 01 Jun 2026 12:55:51 +0000",
-      "summary": "The Las Vegas Strip is consolidating fast. Soon, two billionaires (Barry Diller and Tilman Fertitta) may control a large chunk of its hotel rooms.",
-      "source": "Skift"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 21:24:44 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "title": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal - Portuguese American Journal",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0w1cU9MdzY1NFF3ZzVQa3hIUHRHaEdvc1lyOTI1RGdyelUxaFpmSEw0TlhkRExfRE1YOTAzclo4LXFjOU5iek9NT1RBa3gtOENzWTJad0t0YkFWcHpLYjdtQUgwUHdfcXY5MTN5c0s1bS1CUms4X0ZRSUlFV2lpejZzSE5TaW4zNTNNNXdIOGIzbE9lYi15Ym12QUc0Y1BFOUhWaEtGVTZjdV9J?oc=5",
+      "published": "Mon, 01 Jun 2026 21:44:57 GMT",
+      "summary": "Travel Alert | General strike expected to disrupt air travel \u2013 Portugal&nbsp;&nbsp;Portuguese American Journal",
       "source": "Google News Travel"
     },
     {
@@ -77,31 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUUI5Mk1fN0p4N0JIdnQ1MmZTS3o5eTRtR3RSMnV4SGF3aDNJdVU2S1hhY3l5ZXlpUTMzcEwyazRDRERnczhwZDVOSnhYekNRbVhucDVwUEV4NFRFVVkyS3l0Znlja084LTFZcm9B?oc=5",
-      "published": "Mon, 01 Jun 2026 10:26:23 GMT",
-      "summary": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions&nbsp;&nbsp;Travel And Tour World",
+      "title": "United Airlines Issues Travel Alert At 4 Major International Airports Over Strike Cancellations - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHBUNWtyaWRzTy13bHV1MUpwQjZzdlNrTnhpUWt0aUJnMnlLTFNLMzFlNjFaTUVGamxVOVNTVUJoWWtxWUVBTVFfS0VYNkdVN2RLdTc1R1A2ZU40SXdGc1B2WnJtRy1Gd20ydlZOa1dadkdCLVFUWmlVeWNSZmluVnltUEVIZF90NElwVk82STd6aDhIY1VTZ1hzRzdGUkVmTXJOZHB0UGl3UVB5SVI0MTJ3VEZ4MnlPS3lFUWp6dTVwQQ?oc=5",
+      "published": "Mon, 01 Jun 2026 10:50:21 GMT",
+      "summary": "United Airlines Issues Travel Alert At 4 Major International Airports Over Strike Cancellations&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Okinawa, Japan Travel Emergency Deepens as U.S. Consulate General Naha Closes Ahead of Dangerous Typhoon Landfall and Major Flight Disruptions: Exclusive - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DcmxnMXFVY2dvMDlfWVhhX3VqYVBlOWdYbEt4LUp1dU9HTUh4WlFxRVN4S1hRNGtLQzR3Zk9idDlOUHR6ckxnbjFKby0yNVREbVlrLWJkU3lnUl9lekFVX1o5WnJ0SDZYeTNvT3Vn?oc=5",
-      "published": "Mon, 01 Jun 2026 13:05:47 GMT",
-      "summary": "Okinawa, Japan Travel Emergency Deepens as U.S. Consulate General Naha Closes Ahead of Dangerous Typhoon Landfall and Major Flight Disruptions: Exclusive&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
+      "title": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OS2d0OTVFU1FpeGNSV2tnQW5JX2xtV2VydVEyVzU5eXE4djBqYzFpUnhTVmg1QzItdXFvMnRXV29TUUJxS1BpZlBzRTFMWWQtdVVQNDE3aTk1dEpHY3lPaUtwZ01hQ1NLWmlIbHVR?oc=5",
+      "published": "Sat, 30 May 2026 06:57:30 GMT",
+      "summary": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air&nbsp;&nbsp;Travel And ",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +102,20 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
       "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnByMlR5dEZ2U1RPSlBBb1U1aWZVYVBKcDQ4eFBOUF9XNWFPUXBJTU9qS3lUOEZGVnNZb1dTZ3Q4Nmw3dUZxcTJoclhrUC1rS3lYU0RlMmxpWGU2WEt3UDdEcURXYWVGdURseGljSFNuVHRkTlQtUUlsLWdZbk5IblRmQWI1TEljRi1OUVRfNTBHdXdYM3FDSFhKMDhaT20yektaNHdCanNpcW53cHdEWFJTbGNQLXdnbktqNdIBwgFBVV95cUxQS2tCcXQybGlZZm5qY014bXpsck1VcU43Q0Fqbi1wYlJKT2xSUnpzSlAySmZKMjFMWTJpSlJHYWRpTGN4NUhfZF9YT2pJSG04ZjdYSThkTkVWdG56UlBmUWlJMTRyeTgwRFZSODV4cG9GVTh2T3k0aW5NN2hJSG93WDZ1NHh2RWpaalNyeXYzQkZNcHNFN0R5ZlhHVmRPcS1sSFhaSk45RFRmOTZFRmxNQzMzdmJXYVlnTHlCUGN4OWlJZw?oc=5",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary": "Airlines announce travel advisories, waive flight change fees ahead of Houston winter storm&nbsp;&nbsp;ABC13 Houston",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
+      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
       "source": "Google News Travel"
     }
   ]
