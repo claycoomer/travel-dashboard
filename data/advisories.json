@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T19:47:57.294208+00:00",
+  "last_updated": "2026-06-04T21:22:33.343911+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -42,7 +42,7 @@
       "country": "Democratic Republic of the Congo (D.R.C.)",
       "level": 4,
       "level_text": "Level 4: Do not travel",
-      "date": "05/17/2026"
+      "date": "06/04/2026"
     },
     {
       "country": "Haiti",
@@ -126,7 +126,7 @@
       "country": "Uganda",
       "level": 4,
       "level_text": "Level 4: Do not travel",
-      "date": "05/17/2026"
+      "date": "06/04/2026"
     },
     {
       "country": "Ukraine",
@@ -264,7 +264,7 @@
       "country": "Rwanda",
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
-      "date": "05/17/2026"
+      "date": "06/04/2026"
     },
     {
       "country": "Sao Tome and Principe",
