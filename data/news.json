@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-05T17:46:21.746427+00:00",
+  "last_updated": "2026-06-05T21:16:35.304091+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Leisure and Hospitality Leads U.S. Job Growth on World Cup Boost",
+      "link": "https://skift.com/2026/06/05/hospitality-leisure-job-gains-may-2026/",
+      "published": "Fri, 05 Jun 2026 20:18:51 +0000",
+      "summary": "While it&apos;s not clear the World Cup&apos;s tourism impact will live up to the hype, federal data shows the hospitality sector is staffing up ahead of the tournament.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Verdict: Travel\u2019s AI Race Has an Operating Problem",
+      "link": "https://skift.com/2026/06/05/the-verdict-travels-ai-race-has-an-operating-problem/",
+      "published": "Fri, 05 Jun 2026 20:07:25 +0000",
+      "summary": "We heard from more than two dozen of travel&apos;s most important tech leaders \u2014 the people actually deploying AI solutions every day. Here&apos;s what the industry still needs to get right.",
+      "source": "Skift"
+    },
     {
       "title": "Ixigo Acquires Hotel Booking Platform and Invests in AI Startups",
       "link": "https://skift.com/2026/06/05/ixigo-acquires-hotel-booking-platform-and-invests-in-ai-startups/",
@@ -49,23 +63,9 @@
       "source": "Skift"
     },
     {
-      "title": "Why High-Spend First-Timers Could Be a Destination\u2019s Most Expensive Mistake",
-      "link": "https://skift.com/2026/06/05/why-high-spend-first-timers-could-be-a-destinations-most-expensive-mistake/",
-      "published": "Fri, 05 Jun 2026 11:57:11 +0000",
-      "summary": "First-timers spend more per trip. Repeat visitors spend less. But the math still favors loyalty.",
-      "source": "Skift"
-    },
-    {
-      "title": "IndiGo Suspends 7 International Routes: What\u2019s Behind the Cutbacks",
-      "link": "https://skift.com/2026/06/05/indigo-suspends-7-international-routes-whats-behind-the-cutbacks/",
-      "published": "Fri, 05 Jun 2026 09:18:59 +0000",
-      "summary": "India&apos;s two biggest airlines spent the last few years expanding aggressively abroad. IndiGo leased wide-body aircraft for the first time. Air India was looking to rebuild into a world-class global carrier. Both are now in retreat, at least temporarily, from some of those amb",
-      "source": "Skift"
-    },
-    {
       "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 21:24:44 GMT",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
       "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
-      "source": "Google News Travel"
-    },
-    {
       "title": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUUI5Mk1fN0p4N0JIdnQ1MmZTS3o5eTRtR3RSMnV4SGF3aDNJdVU2S1hhY3l5ZXlpUTMzcEwyazRDRERnczhwZDVOSnhYekNRbVhucDVwUEV4NFRFVVkyS3l0Znlja084LTFZcm9B?oc=5",
       "published": "Mon, 01 Jun 2026 10:26:23 GMT",
       "summary": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
+      "published": "Tue, 19 May 2026 07:00:00 GMT",
+      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
       "source": "Google News Travel"
     },
     {
