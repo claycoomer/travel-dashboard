@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-05T11:27:48.915898+00:00",
+  "last_updated": "2026-06-05T14:23:00.100097+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Two-Sided AI Squeeze That Only Travel Faces",
+      "link": "https://skift.com/2026/06/05/the-two-sided-ai-squeeze-that-only-travel-faces/",
+      "published": "Fri, 05 Jun 2026 13:42:34 +0000",
+      "summary": "Travel is the only major industry getting hit from both directions at once: AI search volumes are exploding without converting while total AI token bills internally are rising.",
+      "source": "Skift"
+    },
+    {
+      "title": "Accor CEO Bazin\u2019s Final Stretch: An AI Warning and What\u2019s Next for Ennismore",
+      "link": "https://skift.com/2026/06/05/accor-ceo-bazins-final-stretch-an-ai-warning-and-whats-next-for-ennismore/",
+      "published": "Fri, 05 Jun 2026 13:30:45 +0000",
+      "summary": "CEO S\u00e9bastien Bazin said an Ennismore IPO is &quot;one of four or five&quot; possible fates for the lifestyle joint venture. In M&amp;A-speak, that means Accor&apos;s board hasn&apos;t decided yet.",
+      "source": "Skift"
+    },
+    {
+      "title": "Green Aviation Startups Face a Funding Crisis",
+      "link": "https://skift.com/2026/06/05/green-aviation-startups-face-a-funding-crisis/",
+      "published": "Fri, 05 Jun 2026 13:25:01 +0000",
+      "summary": "The electric and hybrid plane dream is alive, but the funding model that gets it there still needs to be figured out.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why High-Spend First-Timers Could Be a Destination\u2019s Most Expensive Mistake",
+      "link": "https://skift.com/2026/06/05/why-high-spend-first-timers-could-be-a-destinations-most-expensive-mistake/",
+      "published": "Fri, 05 Jun 2026 11:57:11 +0000",
+      "summary": "First-timers spend more per trip. Repeat visitors spend less. But the math still favors loyalty.",
+      "source": "Skift"
+    },
     {
       "title": "IndiGo Suspends 7 International Routes: What\u2019s Behind the Cutbacks",
       "link": "https://skift.com/2026/06/05/indigo-suspends-7-international-routes-whats-behind-the-cutbacks/",
@@ -33,90 +61,6 @@
       "published": "Thu, 04 Jun 2026 16:05:07 +0000",
       "summary": "AI can&apos;t sell what hotel systems can&apos;t see. Until room-level data, guest behavior, and service pricing live in one connected system, the industry&apos;s AI gains will stay stuck on the cost efficiency side of the ledger.",
       "source": "Skift"
-    },
-    {
-      "title": "Canada Is Looking for a New Caribbean. Most Destinations Are Not Ready to Be Found",
-      "link": "https://skift.com/2026/06/04/canada-is-looking-for-a-new-caribbean-most-destinations-are-not-ready-to-be-found/",
-      "published": "Thu, 04 Jun 2026 15:26:37 +0000",
-      "summary": "Canada&apos;s three winter sun standbys \u2014 the U.S., Cuba, and Mexico \u2014 are all in trouble at the same time. The Caribbean has never had a better opening. Most destinations are not ready to walk through it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Delta Expands Travel Benefits on Amex Cards, Holds Fees Steady",
-      "link": "https://skift.com/2026/06/04/delta-expands-benefits-on-amex-cards/",
-      "published": "Thu, 04 Jun 2026 13:34:58 +0000",
-      "summary": "Delta is not hiking fees on its credit cards even as its competitors continue to increase annual fees and roll out premium travel credit cards in an increasingly saturated market.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai Turns to New Visitors and Events to Ride Out Iran War Tourism Slump",
-      "link": "https://skift.com/2026/06/04/dubai-turns-to-new-visitors-and-events-to-ride-out-tourism-slump/",
-      "published": "Thu, 04 Jun 2026 13:32:45 +0000",
-      "summary": "Every tool is in play. What\u2019s missing is a lasting ceasefire.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why These Operators Are Skipping the Pilot Phase",
-      "link": "https://skift.com/2026/06/04/from-pilot-to-production-travel-ai-tech/",
-      "published": "Thu, 04 Jun 2026 13:21:39 +0000",
-      "summary": "The hospitality companies scaling AI fast aren&apos;t running better pilots. They&apos;ve stopped thinking in pilots at all.",
-      "source": "Skift"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 21:24:44 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Breaking Airline News: Frontier Airlines Dominates Budget Market Amidst Terrifying Travel Chaos Following Massive Spirit Airlines Shutdown - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGs3d0xrcktrOVI0aG1QWHlZVFlxS05YUVlOcTNqcHV2b3o1eUJyWFRFQkZNbGRiUTFfZWQwdkstTFRBWkxFRVFwaDhwc0QweVJJdGhYRU5xUXpKLWlpRnVkQWY1cmVUVjYwekNiTElFV1VTYVVlZ2p0bG5tS1UxbWdMTm02SXhuTjVQSnk4NA?oc=5",
-      "published": "Fri, 05 Jun 2026 05:37:15 GMT",
-      "summary": "Breaking Airline News: Frontier Airlines Dominates Budget Market Amidst Terrifying Travel Chaos Following Massive Spirit Airlines Shutdown&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates as Iran launches attacks on Bahrain and Kuwait - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEgtV1hLNWJPcGJGT29oLUp2UVh2MlZwOVlOOTJ3cHlVNnhBYTJMbUVPNkNBdlIxZ0NjcklhZG1sVmlfWlJSS0VEWUx0NFNvS0dpbjhlU2F0NnFmRWJKaVZMTnJfLVNsOTJFWjRETzlrOFp3OWZlM3lpbXVfRXZiT19LSlJnYkZIYXYxT0FJdE05SGd4cEdxcy1zRElUUzhPTzZzOXJxQW45R2otWGo0d05oZzVRY08yZmdFM1FPdzM0UUxuOThTSFRsOGFrWE1JeDFtNm02NS0?oc=5",
-      "published": "Wed, 03 Jun 2026 07:49:21 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as Iran launches attacks on Bahrain and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice following drone attack on Kuwait - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTZmbFc5VHNOOHdXZTEtcjNRZlNfenNLNUw2Y2w0QTRlWkhhU2lZMTRaS2hNakJoSjRoN1hDTVNZMlIxcU9PLTlSQVdvZWVfOUluTzVBa2U5bHhuNDRBQ1NpZ24yWS10WEhpN3NIdnd4aUFtR2JSNHRkT3lvUUIwNUxqZTEtalVaeEdUaENMblVxZUNyZWhIMVJWTVhUVjgtbkZqMFlFVjJkc2FkRGNjOVlBbEFlUQ?oc=5",
-      "published": "Wed, 03 Jun 2026 08:33:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice following drone attack on Kuwait&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OS2d0OTVFU1FpeGNSV2tnQW5JX2xtV2VydVEyVzU5eXE4djBqYzFpUnhTVmg1QzItdXFvMnRXV29TUUJxS1BpZlBzRTFMWWQtdVVQNDE3aTk1dEpHY3lPaUtwZ01hQ1NLWmlIbHVR?oc=5",
-      "published": "Sat, 30 May 2026 06:57:30 GMT",
-      "summary": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air&nbsp;&nbsp;Travel And ",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
-      "source": "Google News Travel"
     }
   ]
 }
