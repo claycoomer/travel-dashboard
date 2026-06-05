@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-04T21:22:35.227850+00:00",
+  "last_updated": "2026-06-05T02:12:00.487686+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb\u2019s Brian Chesky Is Creating an AI Lab",
+      "link": "https://skift.com/2026/06/04/airbnbs-brian-chesky-is-creating-an-ai-lab/",
+      "published": "Thu, 04 Jun 2026 22:45:51 +0000",
+      "summary": "Is Brian Chesky development of a new AI Lab outside of Airbnb an acknowledgement that building AI capabilities within Airbnb hasn&apos;t been up to par? Or are some tech developments like AI too large to sit out without having more skin in the game?",
+      "source": "Skift"
+    },
     {
       "title": "The U.S.\u2019 Own Goal: Why World Cup Expectations Deflated",
       "link": "https://skift.com/2026/06/04/world-cup-travel-demand-expectations-deflated/",
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/06/03/the-best-ai-goes-unnoticed-perk-cpo-nikita-miller-on-the-future-of-business-travel/",
       "published": "Thu, 04 Jun 2026 02:14:00 +0000",
       "summary": "For Skift IDEA Awards Judge Nikita Miller, the real measure of success in travel and technology isn&apos;t the sophistication of the AI \u2014 it&apos;s the human time and judgment it gives back.",
-      "source": "Skift"
-    },
-    {
-      "title": "Booking.com CTO: The New Bottleneck Is Teamwork",
-      "link": "https://skift.com/2026/06/03/booking-com-cto-the-new-bottleneck-is-teamwork/",
-      "published": "Wed, 03 Jun 2026 23:22:56 +0000",
-      "summary": "Many of the pressing issues in AI implementation are organizational, not technological.",
       "source": "Skift"
     },
     {
