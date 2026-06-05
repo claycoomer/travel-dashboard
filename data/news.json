@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-05T07:58:34.484232+00:00",
+  "last_updated": "2026-06-05T11:27:48.915898+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "IndiGo Suspends 7 International Routes: What\u2019s Behind the Cutbacks",
+      "link": "https://skift.com/2026/06/05/indigo-suspends-7-international-routes-whats-behind-the-cutbacks/",
+      "published": "Fri, 05 Jun 2026 09:18:59 +0000",
+      "summary": "India&apos;s two biggest airlines spent the last few years expanding aggressively abroad. IndiGo leased wide-body aircraft for the first time. Air India was looking to rebuild into a world-class global carrier. Both are now in retreat, at least temporarily, from some of those amb",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb\u2019s Brian Chesky Is Creating an AI Lab",
       "link": "https://skift.com/2026/06/04/airbnbs-brian-chesky-is-creating-an-ai-lab/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "The Best AI Goes Unnoticed: Perk CPO Nikita Miller on the Future of Business Travel",
-      "link": "https://skift.com/2026/06/03/the-best-ai-goes-unnoticed-perk-cpo-nikita-miller-on-the-future-of-business-travel/",
-      "published": "Thu, 04 Jun 2026 02:14:00 +0000",
-      "summary": "For Skift IDEA Awards Judge Nikita Miller, the real measure of success in travel and technology isn&apos;t the sophistication of the AI \u2014 it&apos;s the human time and judgment it gives back.",
-      "source": "Skift"
-    },
-    {
       "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
       "published": "Thu, 28 May 2026 21:24:44 GMT",
@@ -98,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OS2d0OTVFU1FpeGNSV2tnQW5JX2xtV2VydVEyVzU5eXE4djBqYzFpUnhTVmg1QzItdXFvMnRXV29TUUJxS1BpZlBzRTFMWWQtdVVQNDE3aTk1dEpHY3lPaUtwZ01hQ1NLWmlIbHVR?oc=5",
+      "published": "Sat, 30 May 2026 06:57:30 GMT",
+      "summary": "Italy joins China, Mexico, Turkey, France, Spain, USA, Japan, India and Thailand Travellers to Alert: Don\u2019t Board Summer Flights Without Checking Passport, Visa, Health Docs, Airline Apps, and STEP Registration to Avoid Flight Delays, Cancellations, and Air&nbsp;&nbsp;Travel And ",
+      "source": "Google News Travel"
+    },
+    {
       "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
       "published": "Tue, 19 May 2026 07:00:00 GMT",
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
       "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     }
   ]
