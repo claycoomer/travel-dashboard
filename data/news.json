@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-05T14:23:00.100097+00:00",
+  "last_updated": "2026-06-05T17:46:21.746427+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Ixigo Acquires Hotel Booking Platform and Invests in AI Startups",
+      "link": "https://skift.com/2026/06/05/ixigo-acquires-hotel-booking-platform-and-invests-in-ai-startups/",
+      "published": "Fri, 05 Jun 2026 17:00:20 +0000",
+      "summary": "With Brevistay, Ixigo closes the last major gap in its travel stack. Its twin bets on AI infrastructure hint at a larger goal of keeping trip planning inside its ecosystem, rather than letting it migrate to ChatGPT.",
+      "source": "Skift"
+    },
+    {
+      "title": "Amsterdam Proposes Tourism Tax Hike to 20%",
+      "link": "https://skift.com/2026/06/05/amsterdam-proposes-tourism-tax-hike-to-20/",
+      "published": "Fri, 05 Jun 2026 16:29:20 +0000",
+      "summary": "Raising taxes is easy \u2014 actually reducing visitor numbers is the problem Amsterdam hasn&apos;t solved.",
+      "source": "Skift"
+    },
+    {
+      "title": "Connectivity Is Becoming Travel\u2019s Most Critical Trust Signal",
+      "link": "https://skift.com/2026/06/05/future-of-travel-connectivity/",
+      "published": "Fri, 05 Jun 2026 14:50:56 +0000",
+      "summary": "Connectivity has become a foundational layer of the travel experience. As the smartphone becomes the control point for travel, reliable connection is becoming less about convenience and more about trust.",
+      "source": "Skift"
+    },
     {
       "title": "The Two-Sided AI Squeeze That Only Travel Faces",
       "link": "https://skift.com/2026/06/05/the-two-sided-ai-squeeze-that-only-travel-faces/",
@@ -42,25 +63,60 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb\u2019s Brian Chesky Is Creating an AI Lab",
-      "link": "https://skift.com/2026/06/04/airbnbs-brian-chesky-is-creating-an-ai-lab/",
-      "published": "Thu, 04 Jun 2026 22:45:51 +0000",
-      "summary": "Is Brian Chesky development of a new AI Lab outside of Airbnb an acknowledgement that building AI capabilities within Airbnb hasn&apos;t been up to par? Or are some tech developments like AI too large to sit out without having more skin in the game?",
-      "source": "Skift"
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 21:24:44 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
     },
     {
-      "title": "The U.S.\u2019 Own Goal: Why World Cup Expectations Deflated",
-      "link": "https://skift.com/2026/06/04/world-cup-travel-demand-expectations-deflated/",
-      "published": "Thu, 04 Jun 2026 16:55:38 +0000",
-      "summary": "World Cup host cities were promised a once-in-a-generation tourism surge. The lift is real, but some cities\u2019 results are well below expectations.",
-      "source": "Skift"
+      "title": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWJ5amZSZ0lmX2Eybm5kWXllM2MtNGZzSVVsWjh4X1NGY0M1cDN6TEtfTmwyQjRybG1TSGZkUEZKUmhkZ2ZoclRLWU5LRlJIRWsydkFORzY1SEJaVHE1LWlRSE0taURUUldTT0w4RnVENlhYRVRIdHFoMVJweG5wN2FfbXlNYVp4OTlCOVBPODgtaG1XYU9fRlFaT3VjMlVKNmc?oc=5",
+      "published": "Wed, 03 Jun 2026 09:20:00 GMT",
+      "summary": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait&nbsp;&nbsp;The Independent",
+      "source": "Google News Travel"
     },
     {
-      "title": "Why Hotel AI Keeps Cutting Costs Instead of Making Money",
-      "link": "https://skift.com/2026/06/04/why-hotel-ai-keeps-cutting-costs-instead-of-making-money/",
-      "published": "Thu, 04 Jun 2026 16:05:07 +0000",
-      "summary": "AI can&apos;t sell what hotel systems can&apos;t see. Until room-level data, guest behavior, and service pricing live in one connected system, the industry&apos;s AI gains will stay stuck on the cost efficiency side of the ledger.",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: the latest updates as Iran launches attacks on Bahrain and Kuwait - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEgtV1hLNWJPcGJGT29oLUp2UVh2MlZwOVlOOTJ3cHlVNnhBYTJMbUVPNkNBdlIxZ0NjcklhZG1sVmlfWlJSS0VEWUx0NFNvS0dpbjhlU2F0NnFmRWJKaVZMTnJfLVNsOTJFWjRETzlrOFp3OWZlM3lpbXVfRXZiT19LSlJnYkZIYXYxT0FJdE05SGd4cEdxcy1zRElUUzhPTzZzOXJxQW45R2otWGo0d05oZzVRY08yZmdFM1FPdzM0UUxuOThTSFRsOGFrWE1JeDFtNm02NS0?oc=5",
+      "published": "Wed, 03 Jun 2026 07:49:21 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as Iran launches attacks on Bahrain and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
+      "published": "Tue, 19 May 2026 07:00:00 GMT",
+      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUUI5Mk1fN0p4N0JIdnQ1MmZTS3o5eTRtR3RSMnV4SGF3aDNJdVU2S1hhY3l5ZXlpUTMzcEwyazRDRERnczhwZDVOSnhYekNRbVhucDVwUEV4NFRFVVkyS3l0Znlja084LTFZcm9B?oc=5",
+      "published": "Mon, 01 Jun 2026 10:26:23 GMT",
+      "summary": "UAE and Middle East Flight Disruption Creates Global Travel Uncertainty as Airspaces Reopen Gradually Flights Are Cancelled Reduced or Rerouted and Passengers Must Continuously Monitor Flight Updates Amid Regional Tensions&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S.\u2013Iran Strait of Hormuz Escalation Forces UAE, Saudi Arabia, Qatar, India, Japan to Mobilize Airport and Maritime Defenses in 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGtwMjI4ZjM5cnNTdHhITnI4aWxQVUJCeVBnSnJYVU9wRUV4NjBMb3RxNXRFTU1WNzZQY1U2RGptUVVZTFg3OXRtZjRUb3Zfb29aaHMyYk9ZUnc3WHdWWGcyWEJERUZiTkJDVVFTeEZkdEMxUGJJV0VpaVZHR3BwMjJfdG1zLVJxX2o2S0tCcTFZbk42V0xsWGZoREwyUTl1UWNCdnlVTQ?oc=5",
+      "published": "Fri, 05 Jun 2026 07:02:18 GMT",
+      "summary": "U.S.\u2013Iran Strait of Hormuz Escalation Forces UAE, Saudi Arabia, Qatar, India, Japan to Mobilize Airport and Maritime Defenses in 2026&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
     }
   ]
 }
