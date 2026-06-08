@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-08T15:26:10.327038+00:00",
+  "last_updated": "2026-06-08T18:17:36.164574+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skyscanner CEO on Agentic Booking and the Future of Flight Metasearch",
+      "link": "https://skift.com/2026/06/08/skyscanner-ceo-on-agentic-booking-and-the-future-of-flight-metasearch/",
+      "published": "Mon, 08 Jun 2026 16:37:46 +0000",
+      "summary": "Given Skyscanner&apos;s leading global footprint in flights, it isn&apos;t hard to envision an LLM extracting it from Trip.com Group to accelerate building a travel vertical.",
+      "source": "Skift"
+    },
+    {
+      "title": "Alaska Bets Starlink Will Boost Customer Loyalty as It Scraps Basic Economy Perks",
+      "link": "https://skift.com/2026/06/08/alaska-bets-starlink-will-boost-customer-loyalty/",
+      "published": "Mon, 08 Jun 2026 16:23:52 +0000",
+      "summary": "Alaska is doing away with earning points on basic economy seats, but it thinks the installation of Starlink across its fleet will funnel more customer loyalty.",
+      "source": "Skift"
+    },
     {
       "title": "Middle East Airlines Face $4.3 Billion Loss \u2014 the Only Region in the Red",
       "link": "https://skift.com/2026/06/08/middle-east-airlines-face-4-3-billion-loss-the-only-region-in-the-red/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Cendant and the Origin Story of Asset-Light Travel",
-      "link": "https://skift.com/2026/06/07/cendant-and-the-origin-story-of-asset-light-travel/",
-      "published": "Sun, 07 Jun 2026 18:33:13 +0000",
-      "summary": "Cendant existed for under nine years and left behind the financial architecture that almost all of modern travel still runs on.",
-      "source": "Skift"
-    },
-    {
-      "title": "United CEO Says Engine Shortages Will Be \u2018Biggest Constraint\u2019 in Near Future",
-      "link": "https://skift.com/2026/06/07/united-ceo-says-engine-shortages-will-be-biggest-constraint-in-near-future/",
-      "published": "Sun, 07 Jun 2026 15:56:54 +0000",
-      "summary": "United CEO Scott Kirby is sounding the alarm on engine shortages and exclusivity agreements as the carrier is embroiled in a dispute with Rolls Royce.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMWdQV2xBOHF3QzVkNG4wUWh1eF9GZEZxRjRJRkptQ3VSX1drSFdENXdFOHIwbldEZlZIdXJ5R3pnYTVrcXJyUmFoUTMyODhKQzJOcmNZeVhfRml5UmFDLXB0NkF4c1I4VkU0WGoxY1A3bjZOV0h4elNwWElBd0ROWFVYNUJHQnhjZVQwRFdxQjBWYkR4RHNrWG1HODB1cnd1N0tFMGthQ0R3ZWpON3d3OG01OVZKVmpMa3k1dVdmZmd0X1VQZ2NHQi10cjBLeGpDdmZFeGNB?oc=5",
       "published": "Sun, 07 Jun 2026 03:19:00 GMT",
@@ -72,7 +72,7 @@
     {
       "title": "Israel Joins Iran, United States, Lebanon, Iraq, Yemen, Syria, Bahrain, Jordan, Kuwait, Oman, Qatar, UAE, Saudi Arabia And Egypt As Missile Threats And Airspace Warnings Put Airlines, Hotels And Travellers On Edge, Turning A Regional Conflict Into A Glob - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvLUZMdjV0a2wzYVoyaW5LVHMySTZWWVlQVUQzQW9odmZzcGF5VG1YUkFlX1Nud1hyc0Q1UDg3dXgxOW1JTFJjZEtVcktfUmdmSngzaXNub3dlTEFVcG9oQWhfSGs5cklpRVJXYThn?oc=5",
-      "published": "Mon, 08 Jun 2026 11:28:04 GMT",
+      "published": "Mon, 08 Jun 2026 15:45:59 GMT",
       "summary": "Israel Joins Iran, United States, Lebanon, Iraq, Yemen, Syria, Bahrain, Jordan, Kuwait, Oman, Qatar, UAE, Saudi Arabia And Egypt As Missile Threats And Airspace Warnings Put Airlines, Hotels And Travellers On Edge, Turning A Regional Conflict Into A Glob&nbsp;&nbsp;Travel And Tou",
       "source": "Google News Travel"
     },
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
+      "title": "Kuwait Joins Iran, Iraq, Jordan, Israel, Bahrain and Syria as US Issues Dire Security Warning Urging Heightened Caution Over Skyrocketing Tensions and Potential Airspace Disruptions in Volatile Middle East Crisis - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tcy1kNTJ6Mmg0WHY1N2laYlVaYUkyUUdmSFAxeWs0M1p6UzE0LXJOdWlXZkNqbVhQMFhsUmhubTZESDZ5YjF0SVdpSllCTjZ1VUFvRGNqZ1NiRGFxdkh6Q0dEbG16amZsTG51WWl3?oc=5",
+      "published": "Mon, 08 Jun 2026 11:59:38 GMT",
+      "summary": "Kuwait Joins Iran, Iraq, Jordan, Israel, Bahrain and Syria as US Issues Dire Security Warning Urging Heightened Caution Over Skyrocketing Tensions and Potential Airspace Disruptions in Volatile Middle East Crisis&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     }
   ]
