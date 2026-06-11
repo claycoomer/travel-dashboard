@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T18:40:08.221700+00:00",
+  "last_updated": "2026-06-11T21:53:03.327975+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,10 +7,24 @@
   ],
   "items": [
     {
+      "title": "Aven\u2019s New Booking Engine Targets Hotel Direct Booking Conversions",
+      "link": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+      "published": "Thu, 11 Jun 2026 21:51:40 +0000",
+      "summary": "Aven, the former Sabre hospitality business, is taking direct aim at a core hotel tech problem: how much legacy infrastructure can still support modern direct booking. Its new booking engine shows what a cleaner rebuild could look like.",
+      "source": "Skift"
+    },
+    {
+      "title": "Canadian Tourists Bailed On the U.S. \u2014 Canadian Airlines Still See Growth",
+      "link": "https://skift.com/2026/06/11/canadian-tourist-bailed-on-the-u-s-canadian-airlines-still-see-growth/",
+      "published": "Thu, 11 Jun 2026 19:25:39 +0000",
+      "summary": "As one of the largest travel markets continues to shrink due to political tensions, Canadian carriers told Skift that U.S. travel is still producing healthy margins.",
+      "source": "Skift"
+    },
+    {
       "title": "Hotels Are Hoping For a Last-Minute World Cup Surge. Will It Come?",
       "link": "https://skift.com/2026/06/11/hotels-hope-last-minute-world-cup-bookings/",
       "published": "Thu, 11 Jun 2026 18:30:53 +0000",
-      "summary": "Operators are banking spur-of-the-moment travel from soccer fans who want to see their favorite teams play in the World Cup. Data suggests there are reasons to be optimistic, but it\u2019s still not clear how big of a surge last-minute bookings will bring.",
+      "summary": "Operators are banking on spur-of-the-moment travel from soccer fans who want to see their favorite teams play in the World Cup. Data suggests there are reasons to be optimistic, but it\u2019s still not clear how big of a surge last-minute bookings will bring.",
       "source": "Skift"
     },
     {
@@ -49,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Airfares Are Up 20%, Demand Is Strong. Even Airline CEOs Are Surprised.",
-      "link": "https://skift.com/2026/06/10/airfares-are-up-20-percent-demand-is-strong-even-airline-ceos-are-surprised/",
-      "published": "Wed, 10 Jun 2026 20:49:05 +0000",
-      "summary": "Airlines across the world have been cutting capacity and raising airfares to keep up with higher fuel costs. But even as travel is becoming more expensive, consumers still want to spend.",
-      "source": "Skift"
-    },
-    {
-      "title": "The World Cup Promised to Go Green. This One Could Be the Most Carbon-Heavy Ever",
-      "link": "https://skift.com/2026/06/10/the-world-cup-promised-to-go-green-this-one-could-be-the-most-carbon-heavy-ever/",
-      "published": "Wed, 10 Jun 2026 19:44:54 +0000",
-      "summary": "Transportation is the main problem. Progress in emission reductions at the World Cup would come from concentrating future tournaments in single countries.",
-      "source": "Skift"
+      "title": "United And American Airlines Extend Alert To Customers Of Upcoming Delays And Cancellations At Major U.S. Hub - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUsyaUVRTTFWZ3ZGeU5XN3dQRFZ0OVFsSmlUbWZwWWFZX3Y1NTM1ckN1T1RlQ2xpaEJ0d3F2cmh3VUdXMnlZSnRyQ3ZtdUZhREVvakpjSEF6Y2E2c3h2MTlwUWNZeHJFQ2Y5dFVHcTlWM2JXTGs3ckNJUVJqX0NWVmpaMk9mUEE2SlRCOExkTFpPS3Qyc1RuOTA1RkU3MEJ6LXFvQWlSOEQtM1dXWWc?oc=5",
+      "published": "Thu, 11 Jun 2026 11:20:21 GMT",
+      "summary": "United And American Airlines Extend Alert To Customers Of Upcoming Delays And Cancellations At Major U.S. Hub&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
     },
     {
       "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
       "published": "Thu, 11 Jun 2026 06:07:30 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMWdQV2xBOHF3QzVkNG4wUWh1eF9GZEZxRjRJRkptQ3VSX1drSFdENXdFOHIwbldEZlZIdXJ5R3pnYTVrcXJyUmFoUTMyODhKQzJOcmNZeVhfRml5UmFDLXB0NkF4c1I4VkU0WGoxY1A3bjZOV0h4elNwWElBd0ROWFVYNUJHQnhjZVQwRFdxQjBWYkR4RHNrWG1HODB1cnd1N0tFMGthQ0R3ZWpON3d3OG01OVZKVmpMa3k1dVdmZmd0X1VQZ2NHQi10cjBLeGpDdmZFeGNB?oc=5",
-      "published": "Sun, 07 Jun 2026 03:19:00 GMT",
-      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Breaking Airline News: Detroit Metropolitan Airport Suffers 191 Flight Disruptions as SkyWest and Delta Spark Massive Travel Chaos - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXE2NXN3c0VqdWFOWDg4U2Rva2F0VXJqM1I1Q2s5YTlHWVMtREg2NE12SmlDTy1fM3dvYjJCTTJnN2swUjk5NFdBaEVleWEydE40NEJsNl9pOWlRVWdHalhLY2tRYWlfYk1RNkc3c2p3UUY4ZjA5ODVIalNZT09MdXh0NWlGTlB1MnJzdDhMc2dJT0ZyOU40?oc=5",
-      "published": "Thu, 11 Jun 2026 04:09:44 GMT",
-      "summary": "Breaking Airline News: Detroit Metropolitan Airport Suffers 191 Flight Disruptions as SkyWest and Delta Spark Massive Travel Chaos&nbsp;&nbsp;Nomad Lawyer",
+      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMWdQV2xBOHF3QzVkNG4wUWh1eF9GZEZxRjRJRkptQ3VSX1drSFdENXdFOHIwbldEZlZIdXJ5R3pnYTVrcXJyUmFoUTMyODhKQzJOcmNZeVhfRml5UmFDLXB0NkF4c1I4VkU0WGoxY1A3bjZOV0h4elNwWElBd0ROWFVYNUJHQnhjZVQwRFdxQjBWYkR4RHNrWG1HODB1cnd1N0tFMGthQ0R3ZWpON3d3OG01OVZKVmpMa3k1dVdmZmd0X1VQZ2NHQi10cjBLeGpDdmZFeGNB?oc=5",
+      "published": "Sun, 07 Jun 2026 03:19:00 GMT",
+      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Breaking Airline News: Detroit Metropolitan Airport Suffers 191 Flight Disruptions as SkyWest and Delta Spark Massive Travel Chaos - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXE2NXN3c0VqdWFOWDg4U2Rva2F0VXJqM1I1Q2s5YTlHWVMtREg2NE12SmlDTy1fM3dvYjJCTTJnN2swUjk5NFdBaEVleWEydE40NEJsNl9pOWlRVWdHalhLY2tRYWlfYk1RNkc3c2p3UUY4ZjA5ODVIalNZT09MdXh0NWlGTlB1MnJzdDhMc2dJT0ZyOU40?oc=5",
+      "published": "Thu, 11 Jun 2026 04:09:44 GMT",
+      "summary": "Breaking Airline News: Detroit Metropolitan Airport Suffers 191 Flight Disruptions as SkyWest and Delta Spark Massive Travel Chaos&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait - The Independent",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWJ5amZSZ0lmX2Eybm5kWXllM2MtNGZzSVVsWjh4X1NGY0M1cDN6TEtfTmwyQjRybG1TSGZkUEZKUmhkZ2ZoclRLWU5LRlJIRWsydkFORzY1SEJaVHE1LWlRSE0taURUUldTT0w4RnVENlhYRVRIdHFoMVJweG5wN2FfbXlNYVp4OTlCOVBPODgtaG1XYU9fRlFaT3VjMlVKNmc?oc=5",
       "published": "Wed, 03 Jun 2026 07:00:00 GMT",
       "summary": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
       "source": "Google News Travel"
     }
   ]
