@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:15:20.221990+00:00",
+  "last_updated": "2026-06-12T14:31:52.989733+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -1077,12 +1077,6 @@
       "date": "12/02/2024"
     },
     {
-      "country": "Kyrgyzstan",
-      "level": 1,
-      "level_text": "Level 1: Exercise normal precautions",
-      "date": "02/10/2026"
-    },
-    {
       "country": "Latvia",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
@@ -1309,6 +1303,12 @@
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
       "date": "11/25/2025"
+    },
+    {
+      "country": "The Kyrgyz Republic",
+      "level": 1,
+      "level_text": "Level 1: Exercise normal precautions",
+      "date": "02/10/2026"
     },
     {
       "country": "Tonga",
