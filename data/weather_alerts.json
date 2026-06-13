@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T02:10:52.611460+00:00",
+  "last_updated": "2026-06-13T07:38:37.981188+00:00",
   "error": "400 Client Error: Bad Request for url: https://api.weather.gov/alerts/active?status=actual&message_type=alert&severity=Extreme%2CSevere&urgency=Immediate%2CExpected&limit=100",
   "alerts": []
 }
