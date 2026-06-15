@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-15T09:51:20.460108+00:00",
+  "last_updated": "2026-06-15T16:54:37.693148+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Africa Is Not a Country, But the Travel Industry Keeps Treating It Like One",
+      "link": "https://skift.com/2026/06/15/africa-is-not-a-country-but-the-travel-industry-keeps-treating-it-like-one/",
+      "published": "Mon, 15 Jun 2026 15:54:09 +0000",
+      "summary": "A localized Ebola outbreak is leading to a continent-wide demand slump. The mechanism is well understood and almost nothing has been done about it.",
+      "source": "Skift"
+    },
+    {
+      "title": "Tripadvisor To Sell TheFork for $700 Million to Fuel Its Bet on Experiences",
+      "link": "https://skift.com/2026/06/15/tripadvisor-sell-thefork-american-express/",
+      "published": "Mon, 15 Jun 2026 13:45:47 +0000",
+      "summary": "The sale gives Tripadvisor the cash to chase the $1 trillion experiences market through Viator.",
+      "source": "Skift"
+    },
+    {
+      "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
+      "link": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
+      "published": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "summary": "IHG CEO Elie Maalouf is telling franchisees that eight years of tech investment has begun to expand their margins. It&apos;s an open question whether this early tech advantage will woo more hotel owners, boosting the growth rate of IHG&apos;s system.",
+      "source": "Skift"
+    },
     {
       "title": "World Cup Host Cities Are Spending Millions to Tell Wary Tourists: You\u2019re Welcome Here",
       "link": "https://skift.com/2026/06/12/world-cup-tourism-campaign-videos/",
@@ -42,27 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Travelport Launches TripServices to Power AI Travel Booking",
-      "link": "https://skift.com/2026/06/11/travelport-tripservices-cloud-apis-ai-travel/",
-      "published": "Thu, 11 Jun 2026 23:56:10 +0000",
-      "summary": "AI agents can already help travelers dream up trips. Booking them is harder. Travelport is betting that cleaner access to flights, hotels, and extras will keep travel sellers from looking elsewhere.",
-      "source": "Skift"
-    },
-    {
-      "title": "Aven\u2019s New Booking Engine Targets Hotel Direct Booking Conversions",
-      "link": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
-      "published": "Thu, 11 Jun 2026 21:51:40 +0000",
-      "summary": "Aven, the former Sabre hospitality business, is taking direct aim at a core hotel tech problem: how much legacy infrastructure can still support modern direct booking. Its new booking engine shows what a cleaner rebuild could look like.",
-      "source": "Skift"
-    },
-    {
-      "title": "Canadian Tourists Bailed On the U.S. \u2014 Canadian Airlines Still See Growth",
-      "link": "https://skift.com/2026/06/11/canadian-tourist-bailed-on-the-u-s-canadian-airlines-still-see-growth/",
-      "published": "Thu, 11 Jun 2026 19:25:39 +0000",
-      "summary": "As one of the largest travel markets continues to shrink due to political tensions, Canadian carriers told Skift that U.S. travel is still producing healthy margins.",
-      "source": "Skift"
-    },
-    {
       "title": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qZnZkeWV2WFJ0MmlJdFVVOHRFV0R6Y2RCRWtvSmE0OFN4SjkxbFd3bjVwYnFpQzhuMUtKNWdtbHBxeWkzSzlSUjVYcHJ0ZVZpNHBFYXZMT1J2T1Z0OVJYNXM4TTNoRE5ES20tRU5n?oc=5",
       "published": "Sat, 13 Jun 2026 21:06:54 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
-      "published": "Thu, 11 Jun 2026 06:07:30 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
       "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
+      "published": "Thu, 11 Jun 2026 06:07:30 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -98,17 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Bahrain Joins UAE, Jordan, Qatar, Oman, Lebanon, and Others as Regional Travel Shake-Up Redirects Millions of Tourists Away from Key Middle East Destinations Due to the US-Iran Conflict, Forcing Flight Reroutes, Airport Disruptions, and Urgent Travel Ad - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSTdSaHFYck9KUWZOem44WEtoOHBhWkpGSVN6ZWQ5UW5fNkh3WjZTdGZwQTlPMVIwMXdXY295U3d0d0NCRENabDdnWlYxZV9TS0lMMWR4Ui1HZFR4ZG5FczNVdFVEdExqbXk2dGN3?oc=5",
-      "published": "Sun, 14 Jun 2026 14:41:40 GMT",
-      "summary": "Bahrain Joins UAE, Jordan, Qatar, Oman, Lebanon, and Others as Regional Travel Shake-Up Redirects Millions of Tourists Away from Key Middle East Destinations Due to the US-Iran Conflict, Forcing Flight Reroutes, Airport Disruptions, and Urgent Travel Ad&nbsp;&nbsp;Travel And Tour",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
+      "title": "Israel Joins Qatar, UAE, Iran, Saudi Arabia, Bahrain, Jordan, Lebanon and Others in Historic Middle East Tourism Collapse as Missile Strikes, Fragile Ceasefires and Travel Warnings Drive Millions of Global Travelers Away From Canada, US, UK and More in J - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNktPa184a2M0X1czYVVEdnhOYUtlY1ZRUTJyWXpRbjZkZV9OakxxTEJPeEt2c25ocXRkNm1xX19fUHNnTEZEN2VGNElCdjN3QmFqYlFXMGk0T2tiY19YY2V5REhUWklQZ2FJdW93?oc=5",
+      "published": "Fri, 12 Jun 2026 11:59:02 GMT",
+      "summary": "Israel Joins Qatar, UAE, Iran, Saudi Arabia, Bahrain, Jordan, Lebanon and Others in Historic Middle East Tourism Collapse as Missile Strikes, Fragile Ceasefires and Travel Warnings Drive Millions of Global Travelers Away From Canada, US, UK and More in J&nbsp;&nbsp;Travel And Tou",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
       "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck5VakRwUUdFM0hYOW84SjRuTHJhdm96X2J2MmVENDZQSVY1dDBSaGVsRHdYWGtBbUNtY3VKMTRnLTJoeTVUT291eFNOUU9KN1Q2N180bW1LN1M4eDlnNGZXb0VaU3RhR29VNnRqanZKbWl0cUhXZ1ZJZzBqYUYtbW4tOXljOFhVREc2Qg?oc=5",
+      "published": "Tue, 19 May 2026 07:00:00 GMT",
+      "summary": "As flight disruptions and rising costs upend summer travel plans, here's what Canadians can do&nbsp;&nbsp;CBC",
       "source": "Google News Travel"
     }
   ]
