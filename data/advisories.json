@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:21:11.405159+00:00",
+  "last_updated": "2026-06-16T22:04:56.569540+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -246,7 +246,7 @@
       "country": "Pakistan",
       "level": 3,
       "level_text": "Level 3: Reconsider travel",
-      "date": "03/03/2026"
+      "date": "06/16/2026"
     },
     {
       "country": "Papua New Guinea",
