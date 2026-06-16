@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-06-16T09:15:10.263496+00:00",
+  "last_updated": "2026-06-16T16:21:13.763415+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Radisson\u2019s Net-Zero Experiment: How it Kept Costs Even",
+      "link": "https://skift.com/2026/06/16/radissons-net-zero-experiment-how-it-kept-costs-even/",
+      "published": "Tue, 16 Jun 2026 15:46:35 +0000",
+      "summary": "The people behind Radisson&apos;s net zero hotel project were worried that electrifying the building would result in higher energy bills. One year on, the costs are roughly the same and the hotel is ready for incoming regulations.",
+      "source": "Skift"
+    },
+    {
+      "title": "India Has a New Airport. Getting People There Is the Bigger Test",
+      "link": "https://skift.com/2026/06/16/india-has-a-new-airport-getting-people-there-is-the-bigger-test/",
+      "published": "Tue, 16 Jun 2026 13:56:20 +0000",
+      "summary": "India can build airport capacity fast, but becoming an aviation powerhouse depends on convincing passengers and airlines to adopt secondary airports.",
+      "source": "Skift"
+    },
+    {
+      "title": "What a Skift IDEA Awards Judge Is Looking for in Short-Term Rentals",
+      "link": "https://skift.com/2026/06/16/what-skift-idea-awards-judge-looks-for-short-term-rentals/",
+      "published": "Tue, 16 Jun 2026 13:32:25 +0000",
+      "summary": "Boutiq\u2019s Rena Pacheco-Theard has managed short-term rentals operations on all levels and has lived the margin pressures. As a Skift IDEA Awards judge, she explores ideas that take in the whole picture.",
+      "source": "Skift"
+    },
+    {
+      "title": "Five Types of Travelers Driving Premium Demand",
+      "link": "https://skift.com/2026/06/16/travelers-driving-premium-demand/",
+      "published": "Tue, 16 Jun 2026 13:00:00 +0000",
+      "summary": "Premium is evolving beyond a product category to become an entire ecosystem. Instead of chasing each other\u2019s offers and upgrades, travel brands should leverage the premium economy through the lens of customers they already interact with.",
+      "source": "Skift"
+    },
+    {
+      "title": "Marriott Begins Rollout of AI Trip Planner on Site and App",
+      "link": "https://skift.com/2026/06/16/marriott-begins-rollout-of-ai-trip-planner-on-site-and-app/",
+      "published": "Tue, 16 Jun 2026 13:00:00 +0000",
+      "summary": "Even as Marriott builds a walled garden, it is buying real estate in everyone else&apos;s. That hedging action is understandable given that no travel company is yet sure where travelers will actually start their searches.",
+      "source": "Skift"
+    },
+    {
+      "title": "Norwegian Air To Buy Nordic Leisure Travel Group in $843m Bet on End-to-End Travel",
+      "link": "https://skift.com/2026/06/16/norwegian-air-to-buy-nordic-leisure-travel-group-in-843m-bet-on-end-to-end-travel/",
+      "published": "Tue, 16 Jun 2026 10:24:18 +0000",
+      "summary": "Why settle for just the airfare when you can own the whole holiday?",
+      "source": "Skift"
+    },
+    {
+      "title": "Amadeus\u2019 New AI Tools Are Part of a Bigger Hotel Booking Plan \u2014 Exclusive",
+      "link": "https://skift.com/2026/06/16/amadeus-ai-hotel-tools-strategy-hitec-exclusive/",
+      "published": "Tue, 16 Jun 2026 10:00:00 +0000",
+      "summary": "Amadeus will publicly introduce two hotel AI tools at HITEC, but its bigger play is infrastructure. As AI agents move closer to travel booking, the GDS wants to help define how hotels are found, priced, changed, and paid for.",
+      "source": "Skift"
+    },
     {
       "title": "Turkish Airlines\u2019 New Chair Charts More Profitable Path to 800 Aircraft",
       "link": "https://skift.com/2026/06/16/turkish-airlines-new-chair-charts-more-profitable-path-to-800-aircraft/",
@@ -14,66 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech \u2014 Exclusive",
-      "link": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-      "published": "Mon, 15 Jun 2026 19:08:16 +0000",
-      "summary": "Hotels have chased non-room revenue for years without consolidating the fragmented tech underneath. This acquisition puts one shopping cart and one shared data foundation ahead of any new feature.",
-      "source": "Skift"
-    },
-    {
-      "title": "Europe Leads May\u2019s U.S. Tourism Slide",
-      "link": "https://skift.com/2026/06/15/overseas-travel-united-states-may-decline/",
-      "published": "Mon, 15 Jun 2026 17:37:49 +0000",
-      "summary": "Western Europe makes up more than 35% of the high-spending overseas tourist crowd. Federal data shows they\u2019re continuing to pull back on U.S. travel.",
-      "source": "Skift"
-    },
-    {
-      "title": "Africa Is Not a Country, But the Travel Industry Keeps Treating It Like One",
-      "link": "https://skift.com/2026/06/15/africa-is-not-a-country-but-the-travel-industry-keeps-treating-it-like-one/",
-      "published": "Mon, 15 Jun 2026 15:54:09 +0000",
-      "summary": "A localized Ebola outbreak is leading to a continent-wide demand slump. The mechanism is well understood and almost nothing has been done about it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Tripadvisor To Sell TheFork for $700 Million to Fuel Its Bet on Experiences",
-      "link": "https://skift.com/2026/06/15/tripadvisor-sell-thefork-american-express/",
-      "published": "Mon, 15 Jun 2026 13:45:47 +0000",
-      "summary": "The sale gives Tripadvisor the cash to chase the $1 trillion experiences market through Viator.",
-      "source": "Skift"
-    },
-    {
-      "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
-      "link": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-      "published": "Mon, 15 Jun 2026 10:00:00 +0000",
-      "summary": "IHG CEO Elie Maalouf is telling franchisees that eight years of tech investment has begun to expand their margins. It&apos;s an open question whether this early tech advantage will woo more hotel owners, boosting the growth rate of IHG&apos;s system.",
-      "source": "Skift"
-    },
-    {
-      "title": "World Cup Host Cities Are Spending Millions to Tell Wary Tourists: You\u2019re Welcome Here",
-      "link": "https://skift.com/2026/06/12/world-cup-tourism-campaign-videos/",
-      "published": "Fri, 12 Jun 2026 16:25:25 +0000",
-      "summary": "The World Cup handed host cities a global stage. Marketing videos underscore how host cities are using it to reassure a world that has grown more hesitant to book U.S. travel.",
-      "source": "Skift"
-    },
-    {
-      "title": "Highgate Takes Over Lotte\u2019s New York Palace \u2014 How it Feeds the Next Deal",
-      "link": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
-      "published": "Fri, 12 Jun 2026 16:10:13 +0000",
-      "summary": "Buying and flipping broken hotels is lumpy and cyclical. Highgate&apos;s fees for third-party hotel management are a steady drip that keeps the lights on between the big, risky trades.",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: the latest updates as US and Iran prepare to sign peace deal - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnVQVFNyeHFyanZRY2x6d1lJU1hIdF9LQWFVUzZkbDFTcWRyN09sb25PbVNpSF9oNWoxWlVyWUg3YVpRa0dEU1F4X3I4MklialVzTDFvTGhVdjg3TUdCMjZPazdia1RkZHREbmI1RmZ5OE5oX1FaY0liVWx0aEFVakJrUWpKN0ZKRGhGT2FyODItTUFWZ25LQVVYTnA5NEM1TTJXczl1LTBUNTFqVDg4UG1jY3I5cUJCVGt3Z1JNY0k0NWFudGJDZW1XbEtLdE5uZUE?oc=5",
+      "published": "Tue, 16 Jun 2026 07:01:50 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as US and Iran prepare to sign peace deal&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qZnZkeWV2WFJ0MmlJdFVVOHRFV0R6Y2RCRWtvSmE0OFN4SjkxbFd3bjVwYnFpQzhuMUtKNWdtbHBxeWkzSzlSUjVYcHJ0ZVZpNHBFYXZMT1J2T1Z0OVJYNXM4TTNoRE5ES20tRU5n?oc=5",
       "published": "Sat, 13 Jun 2026 21:06:54 GMT",
       "summary": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
-      "published": "Thu, 11 Jun 2026 06:07:30 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
       "source": "Google News Travel"
     },
     {
