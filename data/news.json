@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-16T02:41:19.893592+00:00",
+  "last_updated": "2026-06-16T09:15:10.263496+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Turkish Airlines\u2019 New Chair Charts More Profitable Path to 800 Aircraft",
+      "link": "https://skift.com/2026/06/16/turkish-airlines-new-chair-charts-more-profitable-path-to-800-aircraft/",
+      "published": "Tue, 16 Jun 2026 09:07:14 +0000",
+      "summary": "The centenary deadline may have slipped, but \u015eeker&apos;s broader point is that Turkish Airlines is now big enough that the number of aircraft it operates matters less than what it does with them.",
+      "source": "Skift"
+    },
     {
       "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech \u2014 Exclusive",
       "link": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Navan Says Rivals\u2019 Mergers Are Sending It More Clients",
-      "link": "https://skift.com/2026/06/12/navan-says-rivals-mergers-are-sending-it-more-clients/",
-      "published": "Fri, 12 Jun 2026 14:43:38 +0000",
-      "summary": "Navan is winning large enterprise clients, picking them up when customers reevaluate their vendors in the face of protracted mergers.",
-      "source": "Skift"
-    },
-    {
       "title": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qZnZkeWV2WFJ0MmlJdFVVOHRFV0R6Y2RCRWtvSmE0OFN4SjkxbFd3bjVwYnFpQzhuMUtKNWdtbHBxeWkzSzlSUjVYcHJ0ZVZpNHBFYXZMT1J2T1Z0OVJYNXM4TTNoRE5ES20tRU5n?oc=5",
       "published": "Sat, 13 Jun 2026 21:06:54 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5",
       "published": "Thu, 11 Jun 2026 06:07:30 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as US-Iran tensions flare, with attacks on Bahrain, Jordan and Kuwait&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT",
       "summary": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran&nbsp;&nbsp;BBC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
       "source": "Google News Travel"
     }
   ]
