@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-17T18:11:11.192051+00:00",
+  "last_updated": "2026-06-17T21:52:11.798189+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "AI Isn\u2019t Ignoring Airlines. It Just Can\u2019t Read Their Fares.",
+      "link": "https://skift.com/2026/06/17/adobe-data-ai-travel-traffic-airlines-hotels-car/",
+      "published": "Wed, 17 Jun 2026 19:58:48 +0000",
+      "summary": "Adobe says AI referrals are sending travel sites more engaged visitors. But the next advantage may belong to brands whose pages are easiest for machines to read.",
+      "source": "Skift"
+    },
+    {
+      "title": "JetBlue Pushes Deeper Into Fort Lauderdale, Shrinks in Newark and LaGuardia",
+      "link": "https://skift.com/2026/06/17/jetblue-pushes-deeper-into-fort-lauderdale-shrinks-in-newark-and-laguardia/",
+      "published": "Wed, 17 Jun 2026 18:19:30 +0000",
+      "summary": "JetBlue is shrinking in the New York area as it focuses more on Fort Lauderdale, where executives see greater opportunity following Spirit\u2019s collapse.",
+      "source": "Skift"
+    },
+    {
+      "title": "Cruises Carry July Fourth Travel to a Slim Record",
+      "link": "https://skift.com/2026/06/17/july-fourth-travel-carried-by-cruises-aaa/",
+      "published": "Wed, 17 Jun 2026 17:11:32 +0000",
+      "summary": "Yes, it&apos;s another record. But strip out cruises and growth in July Fourth travel nearly evaporates.",
+      "source": "Skift"
+    },
     {
       "title": "If Only America Could Get Out of Its Own Way\u2026.",
       "link": "https://skift.com/2026/06/17/if-only-america-could-get-out-of-its-own-way/",
@@ -42,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
-      "link": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-      "published": "Tue, 16 Jun 2026 21:35:06 +0000",
-      "summary": "Marriott built one of the most lucrative loyalty programs in travel. Hotel owners who fund the points want more of this year&apos;s expected billion-dollar windfall from the co-branded credit cards.",
-      "source": "Skift"
-    },
-    {
-      "title": "Riyadh Air Gets Green Light to Operate in U.S.",
-      "link": "https://skift.com/2026/06/16/riyadh-air-gets-green-light-to-operate-in-u-s/",
-      "published": "Tue, 16 Jun 2026 20:10:24 +0000",
-      "summary": "Riyadh Air CEO Tony Douglas has previously said he wants the carrier to have a presence on the Eastern Seaboard of the U.S.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why Amex Spent $700 Million on TheFork and What\u2019s Next for Tripadvisor",
-      "link": "https://skift.com/2026/06/16/why-amex-spent-700-million-on-thefork-and-whats-next-for-tripadvisor/",
-      "published": "Tue, 16 Jun 2026 19:06:52 +0000",
-      "summary": "Tripadvisor now has almost all its focus on experiences and may not see the need to sell Viator \u2014 a disappointment for some investors.",
-      "source": "Skift"
-    },
-    {
       "title": "Southwest Airlines Issues Rare Travel Alert For Major U.S. Hub As Delay Totals Hit 4-Digits - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelh5YlRFUXdOa0x4M0ZiQUNtRVlHeElVNFBkNFdmYTdEMHgxbjhXdnJSTlBiTkZ2OXg1Z2l3RkFKbkxTTXBoSnowWk5ZemF0SEl5b2txWll3QTQwdkgxbFVJUV9OT1U5NDdjTTIwWkFNYl96U0hzbHRibnYxdXVuRURsQ0pfU0Y5b0p2bEJzZGRidUIzbDJDTlBndTBRTWFnYkRXdVNqQXhESC1HaldrSUxSSVlhY2c?oc=5",
       "published": "Wed, 17 Jun 2026 15:23:48 GMT",
       "summary": "Southwest Airlines Issues Rare Travel Alert For Major U.S. Hub As Delay Totals Hit 4-Digits&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXF0SUJabWxBUi1oeVdGT0FsWlBmb1k4QUhPY2xzQjJlVlJkMlQwWktvNFQ0V1FYRWpxbWE2SjNNRDJHQkNOTGxSQXVzdXlPUUdtV3JrODJDOERYeWhELUtBcEw2UDdrQnJKSklLTGpsZ3ZqY1hRc2xoUDFpOElHeFhDLUN5WVMx?oc=5",
+      "published": "Sun, 14 Jun 2026 18:10:31 GMT",
+      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;AOL.com",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWJ5amZSZ0lmX2Eybm5kWXllM2MtNGZzSVVsWjh4X1NGY0M1cDN6TEtfTmwyQjRybG1TSGZkUEZKUmhkZ2ZoclRLWU5LRlJIRWsydkFORzY1SEJaVHE1LWlRSE0taURUUldTT0w4RnVENlhYRVRIdHFoMVJweG5wN2FfbXlNYVp4OTlCOVBPODgtaG1XYU9fRlFaT3VjMlVKNmc?oc=5",
-      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "summary": "Is it safe to travel to Turkey? Latest Foreign Office advice following Iran strike on Kuwait&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Dubai right now? Everything you need to know - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVk2Tm5GbE10cER3bVUxR0t0M1p6UlR0NWRKS2RNbU90QU5ycHpvYldwY2FfcEtQNnJtQTd5Zm5IWGs0UWp6ZnJhZ015RmE1dGNTYThub2QxWUozMWd0OXNPckFMSkZSWllvSWdjVzNMZXlLMFFtcWF2M0NTM19FczhPUVdCeE1IZHpJak1iZEVreDhqYkpyc3NjOUR3X0Y1ellPM3VR?oc=5",
-      "published": "Mon, 15 Jun 2026 09:31:27 GMT",
-      "summary": "Is it safe to travel to Dubai right now? Everything you need to know&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
