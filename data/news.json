@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-19T08:57:44.715314+00:00",
+  "last_updated": "2026-06-19T14:40:37.937605+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Air New Zealand\u2019s Tech-Savvy CEO on AI and the Limits of the Machine",
+      "link": "https://skift.com/2026/06/19/air-new-zealands-tech-savvy-ceo-on-ai-and-the-limits-of-the-machine/",
+      "published": "Fri, 19 Jun 2026 09:35:12 +0000",
+      "summary": "An AI-powered airline is a fine ambition \u2013 but it won&apos;t touch the fuel price, the grounded engines, or the weak Kiwi dollar doing the real damage. Ravishankar&apos;s edge is that he seems to know it.",
+      "source": "Skift"
+    },
     {
       "title": "Grab Says Its Travel Strategy Isn\u2019t About Hotels or Flights, It\u2019s About Knowing What You\u2019ll Need Next",
       "link": "https://skift.com/2026/06/19/grab-says-its-travel-strategy-isnt-about-hotels-or-flights-its-about-knowing-what-youll-need-next/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "JetBlue Pushes Deeper Into Fort Lauderdale, Shrinks in Newark and LaGuardia",
-      "link": "https://skift.com/2026/06/17/jetblue-pushes-deeper-into-fort-lauderdale-shrinks-in-newark-and-laguardia/",
-      "published": "Wed, 17 Jun 2026 18:19:30 +0000",
-      "summary": "JetBlue is shrinking in the New York area as it focuses more on Fort Lauderdale, where executives see greater opportunity following Spirit\u2019s collapse.",
-      "source": "Skift"
+      "title": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTERWclFNQk1xR3JtLU9ZeHMtVmJoU2FTV01rZmVvRlN5Q2pwQ1RSTEdhVC1YU2UzMFl1d2FQdlpnci12MkVRVnJHSHk1dUkxcTNSNjBjMF96cndFdnA4UEtkcXc3d1ZsaVhNc0ROZTR0OEh5NmdCNG8zR2VQSUswWGJpSlA2ZHN6cjFIR2xubW1MS2ZiZGVqUklObTBzamozY1VwdWg3blBzd2c1NDVnb2RLSlhMSEVtOXZwRmtaOUxKczR5d1ZHc2JR?oc=5",
+      "published": "Fri, 19 Jun 2026 06:39:20 GMT",
+      "summary": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "South Korea Joins Singapore, China, Japan & Malaysia in Asia Travel Corridor under pressure as United Airlines, Delta Air Lines, Singapore Airlines, AirAsia, ANA & Korean Air Respond to U.S. China Travel Advisory: Route Cuts, Flight Cancellations & Regio - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdDNBaGttd2lpSllFcWwwNUl1TkJJSmVEYkhKeXJ0MTlJbDVWdG1US0NXQ1VfckVoNHFubGNsUVBxUFExWkxnUDVoN1B6Y1V6eXFiS29RZG5RUVR3cThfTHFPeG9rbU9qY0YtWlln?oc=5",
       "published": "Fri, 19 Jun 2026 06:41:52 GMT",
       "summary": "South Korea Joins Singapore, China, Japan & Malaysia in Asia Travel Corridor under pressure as United Airlines, Delta Air Lines, Singapore Airlines, AirAsia, ANA & Korean Air Respond to U.S. China Travel Advisory: Route Cuts, Flight Cancellations & Regio&nbsp;&nbsp;Travel And Tou",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXF0SUJabWxBUi1oeVdGT0FsWlBmb1k4QUhPY2xzQjJlVlJkMlQwWktvNFQ0V1FYRWpxbWE2SjNNRDJHQkNOTGxSQXVzdXlPUUdtV3JrODJDOERYeWhELUtBcEw2UDdrQnJKSklLTGpsZ3ZqY1hRc2xoUDFpOElHeFhDLUN5WVMx?oc=5",
-      "published": "Sun, 14 Jun 2026 18:10:31 GMT",
-      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;AOL.com",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUk91RGhCUTVkWXU2Y2dWS050OUJiRzZCaU9ZN1RlUE84SElUV3ZRSktMR0tId003dWNjZ2NONFlEaDl4MDdHMnp6ZlNCeGxScENqQl8tODVlT3ZodmZVbFRfRkkxM0lTbWVQNjBqS2VmUElrUXp1em5Ib2JManZfM1VITWpIcHFqYk5vekt3N3Z0Yms3Ni1WeTN2aXBoN2JHZmdHenlvWVlwakdqRk0xRlZDVU4takFyMy1NRGRPWG44RFVidmRoSTYyaU1KYV9vVFE?oc=5",
-      "published": "Thu, 18 Jun 2026 11:24:54 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "United States Travelers Warned of Widespread Denver International Airport Travel Disruptions as Southwest and United Cancel Flights and Post Over 200 Delays: New Travel Alert - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpVM1kxaEZYcUlxSWZNU1dSMmNpeXdadk41MFRrT0VGNndMWGlIdXJGenNzVTA5c05NZUdDYnlUbzB0RTI5ekVhVFhwRk14bEVaRzVZSzR4RzhIM1RONllyc0RlV3J0OFV1WnNpekJvWFFhc19wUVFta0M5QUp1WGZSRXJvVVlCTnl3?oc=5",
-      "published": "Thu, 18 Jun 2026 17:44:51 GMT",
-      "summary": "United States Travelers Warned of Widespread Denver International Airport Travel Disruptions as Southwest and United Cancel Flights and Post Over 200 Delays: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
+      "title": "US Warns Travelers As Middle East Security Risks Persist Despite Iran Deal Talks - Rus Tourism News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEk5UldJYlg5UHhIYXlMNXhiZ0lVbHVmemlyLVpTQ2FDYXV0TXdOOHZGUXN0UkVNdzNFSW9Dd3loM0VCVXNFRDl3QUNJb2xyV0VQOVNCX05lQzZDb1FQYUlNbHAtSDZxR2prNldaOHZzSk8zV0IyRkwwUnhVbWlQWmVOWkF3WmdkbUU1aTZMeVRkenQxaUhYZnBLOUp2M3pYM2U5T0xLYzJvbUNaMC1BWHlzRmVYWDVyc3IzaHRHbXY?oc=5",
+      "published": "Fri, 19 Jun 2026 13:53:02 GMT",
+      "summary": "US Warns Travelers As Middle East Security Risks Persist Despite Iran Deal Talks&nbsp;&nbsp;Rus Tourism News",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUk91RGhCUTVkWXU2Y2dWS050OUJiRzZCaU9ZN1RlUE84SElUV3ZRSktMR0tId003dWNjZ2NONFlEaDl4MDdHMnp6ZlNCeGxScENqQl8tODVlT3ZodmZVbFRfRkkxM0lTbWVQNjBqS2VmUElrUXp1em5Ib2JManZfM1VITWpIcHFqYk5vekt3N3Z0Yms3Ni1WeTN2aXBoN2JHZmdHenlvWVlwakdqRk0xRlZDVU4takFyMy1NRGRPWG44RFVidmRoSTYyaU1KYV9vVFE?oc=5",
+      "published": "Thu, 18 Jun 2026 11:24:54 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Coast Guard Issues Urgent Jet Ski Safety Alert for Florida and Hawaii as Travelers Survive Airport Disruptions and Flight Cancellations: Latest Airline News - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1hCOG9wSGt5bUg1bmVZYVRjTGRMWWw1VHdHWXJlRjF5UEVraHEteUROYmhfTlNkSkpsRWxvSDZ5cUhRdEdELTFhUjZEaGo5NExnaDAycF9VUV9zYTdPdVRQZWFKR3hYQVVLWm9GNmYwdjdwM2lHeHFWMnJiU2RzZ1ZpNEt4WTNmVGdwTG5Tcw?oc=5",
+      "published": "Tue, 16 Jun 2026 20:46:15 GMT",
+      "summary": "US Coast Guard Issues Urgent Jet Ski Safety Alert for Florida and Hawaii as Travelers Survive Airport Disruptions and Flight Cancellations: Latest Airline News&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
