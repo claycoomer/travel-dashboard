@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-20T17:14:14.683210+00:00",
+  "last_updated": "2026-06-20T21:02:54.215989+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "World Cup Week 1: Boosting Hotel Revenue, But Occupancy Lags",
+      "link": "https://skift.com/2026/06/20/world-cup-hotel-revenue-occupancy/",
+      "published": "Sat, 20 Jun 2026 20:27:31 +0000",
+      "summary": "The global soccer tournament is juicing revenue per available room, even if it\u2019s not delivering the occupancies hotels had been expecting.",
+      "source": "Skift"
+    },
     {
       "title": "Karak Chai, Luxury Retail, and the Invisible Millions of the Gulf Hub Airports: An Audio Essay",
       "link": "https://skift.com/2026/06/20/my-audio-essay-karak-chai-luxury-retail-and-the-invisible-millions-of-the-gulf-hubs/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "JTB Is Expanding Out of Japan. EXO Travel Is the Latest Deal",
-      "link": "https://skift.com/2026/06/18/jtb-is-expanding-out-of-japan-exo-travel-is-the-latest-deal/",
-      "published": "Thu, 18 Jun 2026 13:31:05 +0000",
-      "summary": "JTB no longer seems content being Japan&apos;s travel company. With the pieces now assembled, it intends to be Asia&apos;s, and is making a case for the world&apos;s.",
-      "source": "Skift"
-    },
-    {
       "title": "Delta Air Lines Cancels The Most Flights Worldwide For Two Days In A Row As Advisories Are Issued For 25 Different U.S. Airports - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2RxWTAteXRvRmhOR3k5UnNlcldlVmNvcWJDSmxNOUUyelhJTXF4V3VydGRwN1J2QkFfb21ldnhnemxqVk9nbXZ4Unk0OTVCd1RsbXBCM2dLdTF0THNKNUprS3dkTGJkSURkQnNLSUJESUQzZW9zU1BtVUZ1dmRrMVJRSnRDZ2ViUUZtYU1zWUNBWm44bml5eW4xWUV2bVdUcWN4bW01eXdUREZWSVF4ckVIMnM?oc=5",
       "published": "Sat, 20 Jun 2026 10:50:36 GMT",
@@ -77,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTERWclFNQk1xR3JtLU9ZeHMtVmJoU2FTV01rZmVvRlN5Q2pwQ1RSTEdhVC1YU2UzMFl1d2FQdlpnci12MkVRVnJHSHk1dUkxcTNSNjBjMF96cndFdnA4UEtkcXc3d1ZsaVhNc0ROZTR0OEh5NmdCNG8zR2VQSUswWGJpSlA2ZHN6cjFIR2xubW1MS2ZiZGVqUklObTBzamozY1VwdWg3blBzd2c1NDVnb2RLSlhMSEVtOXZwRmtaOUxKczR5d1ZHc2JR?oc=5",
+      "published": "Fri, 19 Jun 2026 06:39:20 GMT",
+      "summary": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
       "title": "'Do not travel' advice for Dubai dropped - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hQUl4VmNLLUtMRklUMmZPRWFIeGZOYnVXYWxEREJjc21nNnQ3TzhfOElEellCNkZ4VDFqU2pkNl9Kd1g0Vy1TRjl5NW5wZE1aNmFYc3VTbWxYZw?oc=5",
       "published": "Thu, 18 Jun 2026 15:36:42 GMT",
       "summary": "'Do not travel' advice for Dubai dropped&nbsp;&nbsp;BBC",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUk91RGhCUTVkWXU2Y2dWS050OUJiRzZCaU9ZN1RlUE84SElUV3ZRSktMR0tId003dWNjZ2NONFlEaDl4MDdHMnp6ZlNCeGxScENqQl8tODVlT3ZodmZVbFRfRkkxM0lTbWVQNjBqS2VmUElrUXp1em5Ib2JManZfM1VITWpIcHFqYk5vekt3N3Z0Yms3Ni1WeTN2aXBoN2JHZmdHenlvWVlwakdqRk0xRlZDVU4takFyMy1NRGRPWG44RFVidmRoSTYyaU1KYV9vVFE?oc=5",
-      "published": "Thu, 18 Jun 2026 11:24:54 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Southwest Airlines Issues Rare Travel Alert For Major U.S. Hub As Delay Totals Hit 4-Digits - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelh5YlRFUXdOa0x4M0ZiQUNtRVlHeElVNFBkNFdmYTdEMHgxbjhXdnJSTlBiTkZ2OXg1Z2l3RkFKbkxTTXBoSnowWk5ZemF0SEl5b2txWll3QTQwdkgxbFVJUV9OT1U5NDdjTTIwWkFNYl96U0hzbHRibnYxdXVuRURsQ0pfU0Y5b0p2bEJzZGRidUIzbDJDTlBndTBRTWFnYkRXdVNqQXhESC1HaldrSUxSSVlhY2c?oc=5",
-      "published": "Wed, 17 Jun 2026 15:23:48 GMT",
-      "summary": "Southwest Airlines Issues Rare Travel Alert For Major U.S. Hub As Delay Totals Hit 4-Digits&nbsp;&nbsp;TheTravel",
+      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
+      "published": "Fri, 19 Jun 2026 03:42:42 GMT",
+      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
       "source": "Google News Travel"
     },
     {
-      "title": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qZnZkeWV2WFJ0MmlJdFVVOHRFV0R6Y2RCRWtvSmE0OFN4SjkxbFd3bjVwYnFpQzhuMUtKNWdtbHBxeWkzSzlSUjVYcHJ0ZVZpNHBFYXZMT1J2T1Z0OVJYNXM4TTNoRE5ES20tRU5n?oc=5",
-      "published": "Sat, 13 Jun 2026 21:06:54 GMT",
-      "summary": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update&nbsp;&nbsp;Travel And Tour World",
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
-      "title": "US Warns Travelers As Middle East Security Risks Persist Despite Iran Deal Talks - Rus Tourism News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEk5UldJYlg5UHhIYXlMNXhiZ0lVbHVmemlyLVpTQ2FDYXV0TXdOOHZGUXN0UkVNdzNFSW9Dd3loM0VCVXNFRDl3QUNJb2xyV0VQOVNCX05lQzZDb1FQYUlNbHAtSDZxR2prNldaOHZzSk8zV0IyRkwwUnhVbWlQWmVOWkF3WmdkbUU1aTZMeVRkenQxaUhYZnBLOUp2M3pYM2U5T0xLYzJvbUNaMC1BWHlzRmVYWDVyc3IzaHRHbXY?oc=5",
-      "published": "Fri, 19 Jun 2026 13:53:02 GMT",
-      "summary": "US Warns Travelers As Middle East Security Risks Persist Despite Iran Deal Talks&nbsp;&nbsp;Rus Tourism News",
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
       "source": "Google News Travel"
     }
   ]
