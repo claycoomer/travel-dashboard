@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-22T09:37:50.104712+00:00",
+  "last_updated": "2026-06-22T16:25:57.671932+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Saudization of Saudi Tourism",
+      "link": "https://skift.com/2026/06/22/the-saudization-of-saudi-tourism/",
+      "published": "Mon, 22 Jun 2026 14:33:48 +0000",
+      "summary": "The war gave Saudi tourism the clarity it could not give itself: the durable market is domestic and regional, the leadership is Saudi, and the reset is real.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Hyatt\u2019s Lifestyle Chief Does a \u2018Portfolio Cleanup\u2019",
+      "link": "https://skift.com/2026/06/22/how-hyatts-lifestyle-chief-does-a-portfolio-cleanup/",
+      "published": "Mon, 22 Jun 2026 13:06:53 +0000",
+      "summary": "Since selling The Standard to Hyatt, Amar Lalvani has reviewed the group&apos;s lifestyle portfolio and debuted a new brand, The Manner, to stay on top of where he feels trends are heading.",
+      "source": "Skift"
+    },
+    {
+      "title": "AI Is Eroding the OTA\u2019s First-Click Advantage \u2014 Here\u2019s How Hotels Can Win It Back",
+      "link": "https://skift.com/2026/06/22/ai-search-economy-hospitality-white-paper/",
+      "published": "Mon, 22 Jun 2026 12:30:00 +0000",
+      "summary": "AI is rapidly shifting hotel discovery from traditional search queries to conversational, intent-driven experiences. This white paper explores how hospitality brands are adapting their technology, content, and booking strategies to drive conversion \u2014 ensuring they remain visible ",
+      "source": "Skift"
+    },
     {
       "title": "Hilton Says It Will Build New Brands Again \u2014 Owners Will Want to See the Math",
       "link": "https://skift.com/2026/06/21/hilton-says-it-will-build-new-brands-again-owners-will-want-to-see-the-math/",
@@ -42,25 +63,60 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Moves Into Fintech With a Cancel-for-Any-Reason Feature",
-      "link": "https://skift.com/2026/06/18/airbnb-moves-into-fintech-with-a-hopper-like-cancel-for-any-reason-feature/",
-      "published": "Thu, 18 Jun 2026 20:07:02 +0000",
-      "summary": "Airbnb is selling peace of mind to guests, giving assurances to hosts, and potentially debuting a new fintech revenue stream that\u2019s been so successful for Hopper. The issue is whether this will further alienate hosts, who deal with the logistical hassles of last-minute cancellati",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUk91RGhCUTVkWXU2Y2dWS050OUJiRzZCaU9ZN1RlUE84SElUV3ZRSktMR0tId003dWNjZ2NONFlEaDl4MDdHMnp6ZlNCeGxScENqQl8tODVlT3ZodmZVbFRfRkkxM0lTbWVQNjBqS2VmUElrUXp1em5Ib2JManZfM1VITWpIcHFqYk5vekt3N3Z0Yms3Ni1WeTN2aXBoN2JHZmdHenlvWVlwakdqRk0xRlZDVU4takFyMy1NRGRPWG44RFVidmRoSTYyaU1KYV9vVFE?oc=5",
+      "published": "Thu, 18 Jun 2026 11:24:54 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran sign a peace agreement&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
-      "title": "The Best Luxury Experiences Leave Some Slack in the System",
-      "link": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
-      "published": "Thu, 18 Jun 2026 18:22:44 +0000",
-      "summary": "The marketing from luxury&apos;s top brands has blurred into one seamless, forgettable product. The operators pulling away are the ones who figured out that friction is the point.",
-      "source": "Skift"
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
     },
     {
-      "title": "UK and Australia Lift Gulf Travel Warnings, But European Airlines Await Clearance",
-      "link": "https://skift.com/2026/06/18/uk-and-australia-lift-gulf-travel-warnings-but-european-airlines-await-clearance/",
-      "published": "Thu, 18 Jun 2026 16:50:21 +0000",
-      "summary": "Gulf travel advisories are moving. War-risk insurance authorization isn\u2019t \u2014 and that\u2019s the constraint that controls when European airlines come back.",
-      "source": "Skift"
+      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMWdQV2xBOHF3QzVkNG4wUWh1eF9GZEZxRjRJRkptQ3VSX1drSFdENXdFOHIwbldEZlZIdXJ5R3pnYTVrcXJyUmFoUTMyODhKQzJOcmNZeVhfRml5UmFDLXB0NkF4c1I4VkU0WGoxY1A3bjZOV0h4elNwWElBd0ROWFVYNUJHQnhjZVQwRFdxQjBWYkR4RHNrWG1HODB1cnd1N0tFMGthQ0R3ZWpON3d3OG01OVZKVmpMa3k1dVdmZmd0X1VQZ2NHQi10cjBLeGpDdmZFeGNB?oc=5",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Orlando International Airport Flight Delays and Cancellations Cripple Florida Travel as FAA Monitors National Airspace Disruptions Affecting Major Carriers: New Travel Alert - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazlybGl2YlJpdy1oOEJxVUxobWpGZ09HNG9ZcVpYa0lDcHRjSWVoNGF4M21VOEY1Zm14S3A2QmhlRWt3MGRub25seEsyMlVQUUpiREhjWXp3NkdYSEl5LW5vMnZVTFMwZ1BZbEs4a0lwMHNjTElDUVZ6bmgySGhmRUttVkhIV3FhandqS0RTMWRxUmlP?oc=5",
+      "published": "Sat, 20 Jun 2026 18:48:09 GMT",
+      "summary": "Orlando International Airport Flight Delays and Cancellations Cripple Florida Travel as FAA Monitors National Airspace Disruptions Affecting Major Carriers: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "source": "Google News Travel"
     }
   ]
 }
