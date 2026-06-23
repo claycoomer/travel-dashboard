@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-23T14:24:29.336739+00:00",
+  "last_updated": "2026-06-23T17:44:26.202270+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb Has Been Trying to Expand Beyond Rentals for 10 Years. Here\u2019s How",
+      "link": "https://skift.com/2026/06/23/how-airbnb-went-from-short-term-rentals-to-hotels-car-rentals-and-beyond-a-timeline/",
+      "published": "Tue, 23 Jun 2026 17:26:22 +0000",
+      "summary": "Brian Chesky has said homes are still the heart and soul of Airbnb, but the ambition to go broader dates back to company&apos;s early days.",
+      "source": "Skift"
+    },
+    {
+      "title": "Middle East War Hit\u00a0Cruise Bookings, But Carnival Says They\u2019ve \u2018Turned a Corner\u2019",
+      "link": "https://skift.com/2026/06/23/carnival-cruise-second-quarter-middle-east/",
+      "published": "Tue, 23 Jun 2026 16:54:09 +0000",
+      "summary": "Record second-quarter results weren&apos;t enough to keep Carnival from trimming its growth outlook \u2014 the Middle East war lasted longer than the company expected.",
+      "source": "Skift"
+    },
     {
       "title": "Air India Partners With Booking.com, Joining Airlines Selling Hotels, Not Just Seats",
       "link": "https://skift.com/2026/06/23/air-india-partners-with-booking-com-joining-airlines-selling-hotels-not-just-seats/",
@@ -49,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Hilton Says It Will Build New Brands Again \u2014 Owners Will Want to See the Math",
-      "link": "https://skift.com/2026/06/21/hilton-says-it-will-build-new-brands-again-owners-will-want-to-see-the-math/",
-      "published": "Sun, 21 Jun 2026 12:46:45 +0000",
-      "summary": "A trademark and a domain suggest that a new Hilton lifestyle brand called Tortoise may be in the works. But the bigger question for the newish chief development officer is whether Hilton&apos;s model still mints the best returns for owners.",
-      "source": "Skift"
-    },
-    {
-      "title": "World Cup Week 1: Boosting Hotel Revenue, But Occupancy Lags",
-      "link": "https://skift.com/2026/06/20/world-cup-hotel-revenue-occupancy/",
-      "published": "Sat, 20 Jun 2026 20:27:31 +0000",
-      "summary": "The global soccer tournament is juicing revenue per available room, even if it\u2019s not delivering the occupancies hotels had been expecting.",
-      "source": "Skift"
-    },
-    {
       "title": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTERWclFNQk1xR3JtLU9ZeHMtVmJoU2FTV01rZmVvRlN5Q2pwQ1RSTEdhVC1YU2UzMFl1d2FQdlpnci12MkVRVnJHSHk1dUkxcTNSNjBjMF96cndFdnA4UEtkcXc3d1ZsaVhNc0ROZTR0OEh5NmdCNG8zR2VQSUswWGJpSlA2ZHN6cjFIR2xubW1MS2ZiZGVqUklObTBzamozY1VwdWg3blBzd2c1NDVnb2RLSlhMSEVtOXZwRmtaOUxKczR5d1ZHc2JR?oc=5",
       "published": "Fri, 19 Jun 2026 06:39:20 GMT",
       "summary": "Middle East travel warnings: the latest updates as UK downgrades UAE non-essential travel alert&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
@@ -98,6 +91,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai Reopens for Business: UK Lifts Travel Advisory as Travelers Return and DXB Regains Momentum - eTurboNews",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkRsbmhhQ0Z4am5FcmF3S0MzRDRBWWdHajJGOEhxRldub0Q4ZTZNQ2FpRW9FRmNtSk1kcVcydGNqdmMtcno5c1RacmVFUWFLXzlBWXk4blVJcGtScFRzSkJaWEtGaFlhVmpjUXQ0NVFCbkJKQ2NFN2xFYmNreEZYck9mRmpmb0NrR3Z0aVlrOHhTSjVONVVIaExSek9PNGxseGZodFpuaFdVSVcwbzdac1d0RFNLczFRODd2RA?oc=5",
-      "published": "Tue, 23 Jun 2026 11:24:34 GMT",
-      "summary": "Dubai Reopens for Business: UK Lifts Travel Advisory as Travelers Return and DXB Regains Momentum&nbsp;&nbsp;eTurboNews",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
       "published": "Thu, 18 Jun 2026 15:41:00 GMT",
       "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
       "source": "Google News Travel"
     }
   ]
