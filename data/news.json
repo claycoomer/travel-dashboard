@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-23T21:22:51.675683+00:00",
+  "last_updated": "2026-06-24T02:09:11.661513+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Research\u2019s New Decision Briefs: Insights + Intelligence",
+      "link": "https://skift.com/2026/06/23/skift-researchs-new-decision-briefs-insights-intelligence/",
+      "published": "Tue, 23 Jun 2026 23:22:16 +0000",
+      "summary": "Data only gets you so far \u2014 the intelligence and decision layer is becoming more important than ever.",
+      "source": "Skift"
+    },
     {
       "title": "Amadeus Has an Answer for AI\u2019s Infinite Search Problem",
       "link": "https://skift.com/2026/06/23/amadeus-has-an-answer-for-ais-infinite-search-problem/",
@@ -31,7 +38,7 @@
       "title": "Airbnb Has Been Trying to Expand Beyond Rentals for 10 Years. Here\u2019s How",
       "link": "https://skift.com/2026/06/23/how-airbnb-went-from-short-term-rentals-to-hotels-car-rentals-and-beyond-a-timeline/",
       "published": "Tue, 23 Jun 2026 17:26:22 +0000",
-      "summary": "Brian Chesky has said homes are still the heart and soul of Airbnb, but the ambition to go broader dates back to company&apos;s early days.",
+      "summary": "Brian Chesky has said homes are still the heart and soul of Airbnb, but the ambition to go broader dates back to the company&apos;s early days.",
       "source": "Skift"
     },
     {
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/06/22/cordelia-cruises-ipo-bets-on-indias-untapped-cruise-market/",
       "published": "Tue, 23 Jun 2026 03:30:00 +0000",
       "summary": "By 2028, Cordelia will have transformed from a single-vessel operator into a three-ship fleet. The challenge is whether India&apos;s still-nascent cruise market can generate demand quickly enough to support a near-tripling of capacity.",
-      "source": "Skift"
-    },
-    {
-      "title": "Those Higher Airfares May Stick Even if Fuel Prices Drop",
-      "link": "https://skift.com/2026/06/22/those-higher-airfares-may-stick-even-if-fuel-prices-drop/",
-      "published": "Mon, 22 Jun 2026 18:56:57 +0000",
-      "summary": "Airlines are betting that they can hold onto their pricing power even as the price of fuel decreases due to strong demand and fewer competitors in the industry.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     }
   ]
