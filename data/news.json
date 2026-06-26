@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-25T21:20:38.674342+00:00",
+  "last_updated": "2026-06-26T02:10:39.064036+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Apple\u2019s Wallet Key Turns Into a Full Trip Pass, With Disney as Launch Partner",
+      "link": "https://skift.com/2026/06/25/apple-wallet-key-disney-hotel-resorts-parks/",
+      "published": "Thu, 25 Jun 2026 21:29:02 +0000",
+      "summary": "Apple is turning Wallet from a place to store hotel keys into a live trip surface. Disney shows how far that could go when a pass starts carrying more of the trip.",
+      "source": "Skift"
+    },
     {
       "title": "U.S. Hotel Demand Is Rebounding \u2014 and It\u2019s No Longer Just a Luxury Story",
       "link": "https://skift.com/2026/06/25/u-s-hotel-demand-is-rebounding-and-its-no-longer-just-a-luxury-story/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "What Airbnb Used to Be: Boutique Wants Fewer Homes, More Taste \u2014 and No Investment Funds",
-      "link": "https://skift.com/2026/06/24/what-airbnb-used-to-be-boutique-wants-fewer-homes-more-taste-and-no-investment-funds/",
-      "published": "Wed, 24 Jun 2026 20:31:02 +0000",
-      "summary": "Marc Blazer is building one of the cleanest anti-Airbnb points of view in travel: real, deeply designed homes for design-literate travelers who want taste, context, and character over inventory. The argument is persuasive. The hard question is whether it survives contact with gro",
-      "source": "Skift"
-    },
-    {
       "title": "UK Joins Germany, US, France, Italy, Spain and Other Global Countries as Emirates Issues Urgent Summer Travel Advisory for Dubai Departures, Impacting Global Tourism and International Flight Schedules - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uNU1uVEJxaTQ2N0RidzUtSlBBVnN5OF9MaFZ4UVpvenJVTl8xTmszSG9QclZSUkdSaGdCNnozbmluYXEtaG4zMC1ndkNxaW5uSmRLUjA4U0x1QV84Zk5TeWV6bnN5bVhZUlN1a0hB?oc=5",
       "published": "Thu, 25 Jun 2026 12:51:26 GMT",
       "summary": "UK Joins Germany, US, France, Italy, Spain and Other Global Countries as Emirates Issues Urgent Summer Travel Advisory for Dubai Departures, Impacting Global Tourism and International Flight Schedules&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2JoREx4RUVKRndUZ2VLR1MwdlpndEN2QUVZU1pKYW15X081U3VpazZHUm5oTkNvOFU3UUx4NTVPVXhxN1Jpa0otWjZ1bG93ZVZvNEc1anZvWXBULTM4Ym94TEJHR3FwM0lsd25FekJZWTQ0VFotc0paVWg0ZnJPLXppUV9GVVpUTUZjSFV6M3ZMOXQtV1Fib0V2SzFib2c3U1F4YkYzbF95UGxsVGFQZ19yUW5ZV3gyU0k1VEc5WXBXRmpEeWJyVk1VUkFwbHM?oc=5",
-      "published": "Mon, 22 Jun 2026 19:44:40 GMT",
-      "summary": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMWdQV2xBOHF3QzVkNG4wUWh1eF9GZEZxRjRJRkptQ3VSX1drSFdENXdFOHIwbldEZlZIdXJ5R3pnYTVrcXJyUmFoUTMyODhKQzJOcmNZeVhfRml5UmFDLXB0NkF4c1I4VkU0WGoxY1A3bjZOV0h4elNwWElBd0ROWFVYNUJHQnhjZVQwRFdxQjBWYkR4RHNrWG1HODB1cnd1N0tFMGthQ0R3ZWpON3d3OG01OVZKVmpMa3k1dVdmZmd0X1VQZ2NHQi10cjBLeGpDdmZFeGNB?oc=5",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "summary": "U.S. Removes \"Reconsider Travel\" Advisory For Destination Impacted By Middle East Conflict Amid \"Renewed Flight Disruptions\" Alert&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
@@ -109,6 +102,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
       "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
