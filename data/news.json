@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-28T10:19:13.841785+00:00",
+  "last_updated": "2026-06-28T13:12:46.580540+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Going it Alone: Why Hotel Owners Are Dropping The Big Brands",
+      "link": "https://skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/",
+      "published": "Sun, 28 Jun 2026 12:00:00 +0000",
+      "summary": "Franchise agreements, like casinos, tend to favor the house. Now, as a generation of hotel contracts begin to expire, some owners are deciding to walk away from the table.",
+      "source": "Skift"
+    },
     {
       "title": "California Poaches NYC\u2019s Tourism Chief Ahead of 2028 Olympics",
       "link": "https://skift.com/2026/06/26/visit-california-julie-coker-ceo/",
@@ -56,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Apple\u2019s Wallet Key Turns Into a Full Trip Pass, With Disney as Launch Partner",
-      "link": "https://skift.com/2026/06/25/apple-wallet-key-disney-hotel-resorts-parks/",
-      "published": "Thu, 25 Jun 2026 21:29:02 +0000",
-      "summary": "Apple is turning Wallet from a place to store hotel keys into a live trip surface. Disney shows how far that could go when a pass starts carrying more of the trip.",
-      "source": "Skift"
-    },
-    {
-      "title": "This Major U.S. Airport Is Warning Travelers to Expect Delays During America\u2019s 250th Anniversary Celebrations\u2014What to Know - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0JWbjQ5RHdsMW5jeEJ6RUlRV1pCUG5IRkRiNjVSZHB6dTNJQTlBUUhfOFhXQlJyTHhiSTBGbTR1R1lIY0xSSGk4NmVaWGFjbFVSNVFqQUVobzVSblBIdkpNcFlIVGNmbWQzazFNMnp4VU9JLS1pQk11bE0yU1VJTG1FMmlJNExmZmE5WHJ3?oc=5",
-      "published": "Fri, 26 Jun 2026 11:41:30 GMT",
-      "summary": "This Major U.S. Airport Is Warning Travelers to Expect Delays During America\u2019s 250th Anniversary Celebrations\u2014What to Know&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
@@ -91,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UK Joins Germany, US, France, Italy, Spain and Other Global Countries as Emirates Issues Urgent Summer Travel Advisory for Dubai Departures, Impacting Global Tourism and International Flight Schedules - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uNU1uVEJxaTQ2N0RidzUtSlBBVnN5OF9MaFZ4UVpvenJVTl8xTmszSG9QclZSUkdSaGdCNnozbmluYXEtaG4zMC1ndkNxaW5uSmRLUjA4U0x1QV84Zk5TeWV6bnN5bVhZUlN1a0hB?oc=5",
-      "published": "Thu, 25 Jun 2026 12:51:26 GMT",
-      "summary": "UK Joins Germany, US, France, Italy, Spain and Other Global Countries as Emirates Issues Urgent Summer Travel Advisory for Dubai Departures, Impacting Global Tourism and International Flight Schedules&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
@@ -112,10 +98,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qZnZkeWV2WFJ0MmlJdFVVOHRFV0R6Y2RCRWtvSmE0OFN4SjkxbFd3bjVwYnFpQzhuMUtKNWdtbHBxeWkzSzlSUjVYcHJ0ZVZpNHBFYXZMT1J2T1Z0OVJYNXM4TTNoRE5ES20tRU5n?oc=5",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "summary": "United States Travel Advisory Now Reassesses Middle East Warning Levels Amid Rising Security Risks and Global Flight Disruptions Update&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Spring break travel advisory: What Penn Staters need to know about Mexico - The Pennsylvania State University",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2htbEVVT21QY2luV3JoMUJNcWFfRnJXTWlJNE1JZmpQZS1RMXNOamRjSHdjVDViSEc4Rzc0Q2R2MDdYNmxwVmo4dzVTRDhEMzhhRVc2MWJMRzg5OVAxeXdCWkpGWDd4VFRBcjNKUGJrV3Q3VElMVzNyOTFiWFBNMlBUREtqZE5FTWtBajVmRzdTeE5xa282WDFBVFFLZ3B1OWhVWFFSLWd2T0tTRlJJem5EOEdlT2VXYmc?oc=5",
       "published": "Mon, 02 Mar 2026 08:00:00 GMT",
       "summary": "Spring break travel advisory: What Penn Staters need to know about Mexico&nbsp;&nbsp;The Pennsylvania State University",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
