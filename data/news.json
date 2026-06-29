@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-29T18:02:36.915730+00:00",
+  "last_updated": "2026-06-29T21:15:38.422256+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Visa Steps Into Travel \u2014 and Into Competition With Its Own Card Issuers",
+      "link": "https://skift.com/2026/06/29/visa-steps-into-travel-and-into-competition-with-its-own-card-issuers/",
+      "published": "Mon, 29 Jun 2026 19:59:24 +0000",
+      "summary": "Visa just officially launch a consumer travel site that competes with the banks that pay Visa to issue their cards. That&apos;s the real story here, the structural conflict of a payment network establishing direct relationships with cardholders and entering into the banks&apos; o",
+      "source": "Skift"
+    },
+    {
+      "title": "Budget Cuts, Lagging Events: What\u2019s Next for Destination Canada as CEO Steps Down",
+      "link": "https://skift.com/2026/06/29/destination-canada-marsha-walden-ceo-departure/",
+      "published": "Mon, 29 Jun 2026 19:23:40 +0000",
+      "summary": "Walden&apos;s successor is set to take over as the destination works to overcome tensions with America and build back business events.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb Scams Are Up 30x. Criminals Are Coming for Hosts.",
       "link": "https://skift.com/2026/06/29/airbnb-scams-are-up-30x-criminals-are-coming-for-hosts/",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/06/29/indias-next-hotel-boom-is-being-built-by-companies-that-dont-run-hotels/",
       "published": "Mon, 29 Jun 2026 10:23:39 +0000",
       "summary": "As developers race to own hotel assets, hospitality brands with their &apos;asset-light&apos; and &apos;asset-right&apos; strategies seem content managing them.",
-      "source": "Skift"
-    },
-    {
-      "title": "Going it Alone: Why Hotel Owners Are Dropping The Big Brands",
-      "link": "https://skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/",
-      "published": "Sun, 28 Jun 2026 12:00:00 +0000",
-      "summary": "Franchise agreements, like casinos, tend to favor the house. Now, as a generation of hotel contracts begin to expire, some owners are deciding to walk away from the table.",
-      "source": "Skift"
-    },
-    {
-      "title": "California Poaches NYC\u2019s Tourism Chief Ahead of 2028 Olympics",
-      "link": "https://skift.com/2026/06/26/visit-california-julie-coker-ceo/",
-      "published": "Fri, 26 Jun 2026 20:25:36 +0000",
-      "summary": "Julie Coker is leaving NYC Tourism after less than two years. She needs to turn around sluggish inbound tourism and needs to move fast: Los Angeles is hosting the 2028 Olympic Games.",
       "source": "Skift"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
       "source": "Google News Travel"
     }
   ]
