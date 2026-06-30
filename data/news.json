@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-30T13:52:50.156470+00:00",
+  "last_updated": "2026-06-30T17:45:51.018688+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "U.S. Paves Way for Supersonic Flight Over Land, Looks to Lift 1973 Ban",
+      "link": "https://skift.com/2026/06/30/u-s-paves-way-for-supersonic-flight-over-land/",
+      "published": "Tue, 30 Jun 2026 17:36:40 +0000",
+      "summary": "The U.S. is looking to repeal a 1973 ban on supersonic flight, which would clear the way for such technology to be operated in the U.S.",
+      "source": "Skift"
+    },
+    {
+      "title": "Allegiant Now Sees a Q2 Profit: Falling Fuel and Sun Country Merger Are Only Part of the Story",
+      "link": "https://skift.com/2026/06/30/allegiant-now-sees-a-q2-profit/",
+      "published": "Tue, 30 Jun 2026 14:52:33 +0000",
+      "summary": "Allegiant\u2019s second-quarter guidance swung from a loss to a profit on the heels of lower fuel prices and strong demand.",
+      "source": "Skift"
+    },
     {
       "title": "The World Cup Winners So Far? Kansas City and Ranch Dressing",
       "link": "https://skift.com/2026/06/30/world-cup-winners-hotels-bars-ranch/",
@@ -35,7 +49,7 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Scams Are Up 30x. Criminals Are Coming for Hosts.",
+      "title": "Third-Party Study Says Airbnb Hosts Face New Account Security Concerns",
       "link": "https://skift.com/2026/06/29/airbnb-scams-are-up-30x-criminals-are-coming-for-hosts/",
       "published": "Mon, 29 Jun 2026 15:09:00 +0000",
       "summary": "On Monday's \u2060Good Morning Hospitality, A Skift Podcast\u2060, \u2060Brandreth Canaley\u2060, \u2060Michael Goldin\u2060, and \u2060Jamie Lane\u2060 break down who is actually winning in travel distribution and what the risks look like when platforms get exploited at scale.",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/06/29/accor-and-h-world-link-loyalty-programs-to-swap-chinese-and-european-travelers/",
       "published": "Mon, 29 Jun 2026 17:25:21 +0000",
       "summary": "Accor\u2019s real prize isn\u2019t more hotels. It\u2019s a direct line to H World\u2019s 310 million loyalty members.",
-      "source": "Skift"
-    },
-    {
-      "title": "Best Western Has Been Shrinking. BWH Hotels\u2019 Fix Is to Shift Upscale and Overseas.",
-      "link": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-      "published": "Mon, 29 Jun 2026 16:19:14 +0000",
-      "summary": "Best Western&apos;s parent group is about 10% smaller by room count than it was in 2019. CEO Larry Cuculic says he&apos;s changing that, partly by adding upmarket brands.",
-      "source": "Skift"
-    },
-    {
-      "title": "MakeMyTrip and Cleartrip Both Just Launched Creator Programs. The Models Are Different \u2014 For Now",
-      "link": "https://skift.com/2026/06/29/makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-different-for-now/",
-      "published": "Mon, 29 Jun 2026 14:27:22 +0000",
-      "summary": "Two near-identical launches in five weeks prove that creator-led travel commerce is here. The hard part now is proving that a reel can turn into a booking, and deciding how much the companies are willing to spend before they have that proof.",
       "source": "Skift"
     },
     {
