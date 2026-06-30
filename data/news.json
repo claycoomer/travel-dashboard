@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-30T10:47:27.952911+00:00",
+  "last_updated": "2026-06-30T13:52:50.156470+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The World Cup Winners So Far? Kansas City and Ranch Dressing",
+      "link": "https://skift.com/2026/06/30/world-cup-winners-hotels-bars-ranch/",
+      "published": "Tue, 30 Jun 2026 13:39:46 +0000",
+      "summary": "Occupancy may have missed the mark, but hotels are benefitting from a spike in room rates \u2014 particularly in certain host markets.",
+      "source": "Skift"
+    },
+    {
+      "title": "U.S. Motel 6 Business Is Driving Prism\u2019s Indian IPO, New Filing Shows",
+      "link": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
+      "published": "Tue, 30 Jun 2026 12:26:03 +0000",
+      "summary": "Prism may be listing in India, but its business is increasingly American. The Motel 6 acquisition now drives its profits and defines the purpose of its IPO.",
+      "source": "Skift"
+    },
     {
       "title": "Visa Steps Into Travel \u2014 and Into Competition With Its Own Card Issuers",
       "link": "https://skift.com/2026/06/29/visa-steps-into-travel-and-into-competition-with-its-own-card-issuers/",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/06/29/makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-different-for-now/",
       "published": "Mon, 29 Jun 2026 14:27:22 +0000",
       "summary": "Two near-identical launches in five weeks prove that creator-led travel commerce is here. The hard part now is proving that a reel can turn into a booking, and deciding how much the companies are willing to spend before they have that proof.",
-      "source": "Skift"
-    },
-    {
-      "title": "Skift Data & AI Summit 2026 Roundtable: When AI Knows Travelers Better Than Brands Do, Who Owns the Relationship?",
-      "link": "https://skift.com/2026/06/29/data-ownership-in-the-age-of-ai/",
-      "published": "Mon, 29 Jun 2026 13:00:00 +0000",
-      "summary": "What happens when an AI assistant knows a traveler better than the brands competing for their business? At Skift Data + AI Summit 2026, industry leaders explored how AI is redefining personalization, trust, and the path to purchase.",
-      "source": "Skift"
-    },
-    {
-      "title": "India\u2019s Next Hotel Boom Is Being Built by Companies That Don\u2019t Run Hotels",
-      "link": "https://skift.com/2026/06/29/indias-next-hotel-boom-is-being-built-by-companies-that-dont-run-hotels/",
-      "published": "Mon, 29 Jun 2026 10:23:39 +0000",
-      "summary": "As developers race to own hotel assets, hospitality brands with their &apos;asset-light&apos; and &apos;asset-right&apos; strategies seem content managing them.",
       "source": "Skift"
     },
     {
