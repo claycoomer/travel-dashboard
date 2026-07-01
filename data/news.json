@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-07-01T08:01:37.910094+00:00",
+  "last_updated": "2026-07-01T17:45:51.203078+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia\u2019s First IShowSpeed Video Brought Awareness. The Latest Pushes for Bookings.",
+      "link": "https://skift.com/2026/07/01/expedia-ishowspeed-bookable-video/",
+      "published": "Wed, 01 Jul 2026 16:46:39 +0000",
+      "summary": "With a shoppable IShowSpeed video, Expedia is trying to convert creator hype into transactions.",
+      "source": "Skift"
+    },
+    {
+      "title": "Trump Administration Moves to Repeal Obama\u2019s Airfare Transparency Rule",
+      "link": "https://skift.com/2026/07/01/trump-administration-moves-to-repeal-obamas-airfare-transparency-rule/",
+      "published": "Wed, 01 Jul 2026 16:41:58 +0000",
+      "summary": "It&apos;s the latest move to roll back consumer protections and enforcement measures against airlines.",
+      "source": "Skift"
+    },
+    {
+      "title": "American Launches Flights to Tokyo From Chicago O\u2019Hare as It Looks to Rebuild Hub and Take on United",
+      "link": "https://skift.com/2026/07/01/american-launches-flights-to-tokyo-from-chicago-ohare-as-it-looks-to-rebuild-hub/",
+      "published": "Wed, 01 Jul 2026 15:17:26 +0000",
+      "summary": "American is launching flights to Tokyo from Chicago as it seeks to regain some of its market share in the hub that it lost during the pandemic.",
+      "source": "Skift"
+    },
+    {
+      "title": "Barcel\u00f3 Has the Cash to Buy Hotels, But Says They\u2019re Too Expensive",
+      "link": "https://skift.com/2026/07/01/barcelo-has-the-cash-to-buy-hotels-but-says-theyre-too-expensive/",
+      "published": "Wed, 01 Jul 2026 15:09:57 +0000",
+      "summary": "Record profits don\u2019t necessarily mean it\u2019s time to buy. Barcel\u00f3 has the cash to acquire hotels but says today\u2019s prices no longer justify the returns it expects.",
+      "source": "Skift"
+    },
+    {
+      "title": "Should Tourism Boards Build AI for Their Stakeholders?",
+      "link": "https://skift.com/2026/07/01/should-tourism-boards-build-ai-for-their-stakeholders/",
+      "published": "Wed, 01 Jul 2026 13:30:00 +0000",
+      "summary": "Three models are emerging for how tourism boards serve their operators with AI, and it is a lot more hands-on than past tech cycles.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why The Travel Industry Needs Conversations Like Skift Global Forum More Than Ever",
+      "link": "https://skift.com/2026/07/01/why-travel-industry-needs-conversations-like-skift-global-forum/",
+      "published": "Wed, 01 Jul 2026 13:16:30 +0000",
+      "summary": "For more than a decade, Skift Global Forum has been the room where travel&apos;s most consequential decisions take shape. The 2026 edition arrives at a moment when the industry can least afford to form those decisions anywhere else.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Airline CEOs Who Don\u2019t Leave",
+      "link": "https://skift.com/2026/07/01/the-airline-ceos-who-dont-leave/",
+      "published": "Wed, 01 Jul 2026 12:51:33 +0000",
+      "summary": "Michael O&apos;Leary has tied himself to Ryanair until 2032. He belongs to a shrinking class of airline chiefs who have become almost impossible to replace \u2013 which is exactly what makes their eventual departures so risky.",
+      "source": "Skift"
+    },
     {
       "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
       "link": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
@@ -14,66 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "U.S. Paves Way for Supersonic Flight Over Land, Looks to Lift 1973 Ban",
-      "link": "https://skift.com/2026/06/30/u-s-paves-way-for-supersonic-flight-over-land/",
-      "published": "Tue, 30 Jun 2026 17:36:40 +0000",
-      "summary": "The U.S. is looking to repeal a 1973 ban on supersonic flight, which would clear the way for such technology to be operated in the U.S.",
-      "source": "Skift"
-    },
-    {
-      "title": "Allegiant Now Sees a Q2 Profit: Falling Fuel and Sun Country Merger Are Only Part of the Story",
-      "link": "https://skift.com/2026/06/30/allegiant-now-sees-a-q2-profit/",
-      "published": "Tue, 30 Jun 2026 14:52:33 +0000",
-      "summary": "Allegiant\u2019s second-quarter guidance swung from a loss to a profit on the heels of lower fuel prices and strong demand.",
-      "source": "Skift"
-    },
-    {
-      "title": "The World Cup Winners So Far? Kansas City and Ranch Dressing",
-      "link": "https://skift.com/2026/06/30/world-cup-winners-hotels-bars-ranch/",
-      "published": "Tue, 30 Jun 2026 13:39:46 +0000",
-      "summary": "Occupancy may have missed the mark, but hotels are benefitting from a spike in room rates \u2014 particularly in certain host markets.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. Motel 6 Business Is Driving Prism\u2019s Indian IPO, New Filing Shows",
-      "link": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-      "published": "Tue, 30 Jun 2026 12:26:03 +0000",
-      "summary": "Prism may be listing in India, but its business is increasingly American. The Motel 6 acquisition now drives its profits and defines the purpose of its IPO.",
-      "source": "Skift"
-    },
-    {
-      "title": "Visa Steps Into Travel \u2014 and Into Competition With Its Own Card Issuers",
-      "link": "https://skift.com/2026/06/29/visa-steps-into-travel-and-into-competition-with-its-own-card-issuers/",
-      "published": "Mon, 29 Jun 2026 19:59:24 +0000",
-      "summary": "Visa just officially launch a consumer travel site that competes with the banks that pay Visa to issue their cards. That&apos;s the real story here, the structural conflict of a payment network establishing direct relationships with cardholders and entering into the banks&apos; o",
-      "source": "Skift"
-    },
-    {
-      "title": "Budget Cuts, Lagging Events: What\u2019s Next for Destination Canada as CEO Steps Down",
-      "link": "https://skift.com/2026/06/29/destination-canada-marsha-walden-ceo-departure/",
-      "published": "Mon, 29 Jun 2026 19:23:40 +0000",
-      "summary": "Walden&apos;s successor is set to take over as the destination works to overcome tensions with America and build back business events.",
-      "source": "Skift"
-    },
-    {
-      "title": "Third-Party Study Says Airbnb Hosts Face New Account Security Concerns",
-      "link": "https://skift.com/2026/06/29/airbnb-scams-are-up-30x-criminals-are-coming-for-hosts/",
-      "published": "Mon, 29 Jun 2026 15:09:00 +0000",
-      "summary": "On Monday's \u2060Good Morning Hospitality, A Skift Podcast\u2060, \u2060Brandreth Canaley\u2060, \u2060Michael Goldin\u2060, and \u2060Jamie Lane\u2060 break down who is actually winning in travel distribution and what the risks look like when platforms get exploited at scale.",
-      "source": "Skift"
+      "title": "US Joins Canada, UK and Other Major Countries in Issuing Urgent Venezuela Travel Alert, Safety Guidelines and 24/7 Helplines to Aid Stranded Travellers Amid Catastrophic Earthquake Threats, Rising Death Toll and Flight Disruptions - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QanJhZ2lNVzIzcDRQRWk4LWktWFh2bk00LTBxMFpHODJaWkhjNjFRcXpSeUZtNTkzdDZDUkFUdTlTakpKN3FDOVlVYjZfTUpoZmtyVldDWFFJUk9WbkhGd2djR2FjMzdmNl9tT1Vn?oc=5",
+      "published": "Wed, 01 Jul 2026 14:15:03 GMT",
+      "summary": "US Joins Canada, UK and Other Major Countries in Issuing Urgent Venezuela Travel Alert, Safety Guidelines and 24/7 Helplines to Aid Stranded Travellers Amid Catastrophic Earthquake Threats, Rising Death Toll and Flight Disruptions&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
     },
     {
       "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
       "published": "Mon, 29 Jun 2026 08:30:09 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1N29QSTNIYXl4TGIxb0VrdlNTOTFaeFIxS01iM0cwR2R1SDJZbmpUWlE1YmtLVGlzNkxyNlBBQzJ3WUZtc0F2QmVXaFphNFFmVkx0MUFHTUNkZzhOVlVHSEZrUzVIaEM2TTV5dEFn?oc=5",
-      "published": "Mon, 29 Jun 2026 14:52:57 GMT",
-      "summary": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1N29QSTNIYXl4TGIxb0VrdlNTOTFaeFIxS01iM0cwR2R1SDJZbmpUWlE1YmtLVGlzNkxyNlBBQzJ3WUZtc0F2QmVXaFphNFFmVkx0MUFHTUNkZzhOVlVHSEZrUzVIaEM2TTV5dEFn?oc=5",
+      "published": "Mon, 29 Jun 2026 14:52:57 GMT",
+      "summary": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
       "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
