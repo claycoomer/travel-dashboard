@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-02T13:27:34.185562+00:00",
+  "last_updated": "2026-07-02T17:25:08.596855+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents",
+      "link": "https://skift.com/2026/07/02/otas-are-betting-on-traveler-trust-but-the-scramble-is-on-to-win-the-trust-of-ai-agents/",
+      "published": "Thu, 02 Jul 2026 14:37:03 +0000",
+      "summary": "Whether or not travelers trust AI would almost be irrelevant to OTAs if the LLMs don&apos;t trust them enough to surface their inventory for discovery.  The contest is on behind-the-scenes battle to become the LLMs&apos; OTA fave.",
+      "source": "Skift"
+    },
+    {
+      "title": "Noble Investment Group\u2019s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree",
+      "link": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
+      "published": "Thu, 02 Jul 2026 14:14:56 +0000",
+      "summary": "With other investors sitting on the sidelines, Noble is buying hotels from REITs and overleveraged owners at a discount \u2014 and betting that extended-stay demand will outlast the current rate headwinds.",
+      "source": "Skift"
+    },
+    {
+      "title": "UAE Bets on Discounts, Insurance, and New Visa Markets to Refill Hotel Rooms After Iran War Hit",
+      "link": "https://skift.com/2026/07/02/uae-bets-on-discounts-insurance-and-new-visa-markets-to-refill-hotel-rooms-after-iran-war-hit/",
+      "published": "Thu, 02 Jul 2026 13:52:27 +0000",
+      "summary": "The UAE is running two recovery tracks at once \u2014 emergency incentives to plug a war-driven demand hole and multibillion-dollar infrastructure bets. The gap between those timelines is the story.",
+      "source": "Skift"
+    },
     {
       "title": "Booking.com Built Its India Business on Leisure \u2014 Now It\u2019s Going Corporate",
       "link": "https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/",
@@ -39,27 +60,6 @@
       "link": "https://skift.com/2026/07/01/barcelo-has-the-cash-to-buy-hotels-but-says-theyre-too-expensive/",
       "published": "Wed, 01 Jul 2026 15:09:57 +0000",
       "summary": "Record profits don\u2019t necessarily mean it\u2019s time to buy. Barcel\u00f3 has the cash to acquire hotels but says today\u2019s prices no longer justify the returns it expects.",
-      "source": "Skift"
-    },
-    {
-      "title": "Should Tourism Boards Build AI for Their Stakeholders?",
-      "link": "https://skift.com/2026/07/01/should-tourism-boards-build-ai-for-their-stakeholders/",
-      "published": "Wed, 01 Jul 2026 13:30:00 +0000",
-      "summary": "Three models are emerging for how tourism boards serve their operators with AI, and it is a lot more hands-on than past tech cycles.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why The Travel Industry Needs Conversations Like Skift Global Forum More Than Ever",
-      "link": "https://skift.com/2026/07/01/why-travel-industry-needs-conversations-like-skift-global-forum/",
-      "published": "Wed, 01 Jul 2026 13:16:30 +0000",
-      "summary": "For more than a decade, Skift Global Forum has been the room where travel&apos;s most consequential decisions take shape. The 2026 edition arrives at a moment when the industry can least afford to form those decisions anywhere else.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Airline CEOs Who Don\u2019t Leave",
-      "link": "https://skift.com/2026/07/01/the-airline-ceos-who-dont-leave/",
-      "published": "Wed, 01 Jul 2026 12:51:33 +0000",
-      "summary": "Michael O&apos;Leary has tied himself to Ryanair until 2032. He belongs to a shrinking class of airline chiefs who have become almost impossible to replace \u2013 which is exactly what makes their eventual departures so risky.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1N29QSTNIYXl4TGIxb0VrdlNTOTFaeFIxS01iM0cwR2R1SDJZbmpUWlE1YmtLVGlzNkxyNlBBQzJ3WUZtc0F2QmVXaFphNFFmVkx0MUFHTUNkZzhOVlVHSEZrUzVIaEM2TTV5dEFn?oc=5",
-      "published": "Mon, 29 Jun 2026 14:52:57 GMT",
-      "summary": "Venezuela Issues Earthquake Travel Alert as U.S. Embassy Warns of Flight Disruptions, Airport Closures, Power Outages, and Emergency Conditions Affecting Travelers Across Caracas and Northern Coast: New Report&nbsp;&nbsp;Travel And Tour World",
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
