@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-02T02:07:32.149774+00:00",
+  "last_updated": "2026-07-02T06:59:08.292362+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Booking.com Built Its India Business on Leisure \u2014 Now It\u2019s Going Corporate",
+      "link": "https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/",
+      "published": "Thu, 02 Jul 2026 02:30:00 +0000",
+      "summary": "India&apos;s business travel boom gives Booking.com a rare chance to grow two businesses at once \u2014 corporate bookings today and leisure loyalty tomorrow.",
+      "source": "Skift"
+    },
     {
       "title": "Expedia\u2019s First IShowSpeed Video Brought Awareness. The Latest Pushes for Bookings.",
       "link": "https://skift.com/2026/07/01/expedia-ishowspeed-bookable-video/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
-      "link": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-      "published": "Tue, 30 Jun 2026 18:23:38 +0000",
-      "summary": "The all-inclusive operator&apos;s executive chairman says he isn&apos;t selling the company, despite rumors, but is instead pouring tens of millions into properties to drive rate premiums.",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
+      "published": "Mon, 29 Jun 2026 08:30:09 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "US Joins Canada, UK and Other Major Countries in Issuing Urgent Venezuela Travel Alert, Safety Guidelines and 24/7 Helplines to Aid Stranded Travellers Amid Catastrophic Earthquake Threats, Rising Death Toll and Flight Disruptions - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QanJhZ2lNVzIzcDRQRWk4LWktWFh2bk00LTBxMFpHODJaWkhjNjFRcXpSeUZtNTkzdDZDUkFUdTlTakpKN3FDOVlVYjZfTUpoZmtyVldDWFFJUk9WbkhGd2djR2FjMzdmNl9tT1Vn?oc=5",
       "published": "Wed, 01 Jul 2026 14:15:03 GMT",
       "summary": "US Joins Canada, UK and Other Major Countries in Issuing Urgent Venezuela Travel Alert, Safety Guidelines and 24/7 Helplines to Aid Stranded Travellers Amid Catastrophic Earthquake Threats, Rising Death Toll and Flight Disruptions&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
-      "published": "Mon, 29 Jun 2026 08:30:09 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Do not travel' advice for Dubai dropped - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hQUl4VmNLLUtMRklUMmZPRWFIeGZOYnVXYWxEREJjc21nNnQ3TzhfOElEellCNkZ4VDFqU2pkNl9Kd1g0Vy1TRjl5NW5wZE1aNmFYc3VTbWxYZw?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "'Do not travel' advice for Dubai dropped&nbsp;&nbsp;BBC",
+      "title": "Hantavirus Outbreak 2026: Is It Safe to Fly? What Air Travelers Need to Know - Wego Travel Blog",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RVzNld2MyeEZPU0EwcjBlYk1OSVYzVzJhanV1aDVyeDU0N2pYX0lpNXd2eG1jSjNWQXExaTlLbGxxNGcySkU3M3pwUHc1MFBLOWJ0eHV2a2FCbHh1aGdRVXN4T2E?oc=5",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Hantavirus Outbreak 2026: Is It Safe to Fly? What Air Travelers Need to Know&nbsp;&nbsp;Wego Travel Blog",
       "source": "Google News Travel"
     },
     {
