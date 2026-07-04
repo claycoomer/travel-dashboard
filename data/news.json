@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-04T16:52:14.140452+00:00",
+  "last_updated": "2026-07-04T20:42:35.722793+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airlines Are Turning Live Entertainment Into a Loyalty Strategy",
+      "link": "https://skift.com/2026/07/04/airlines-are-turning-live-entertainment-into-a-loyalty-strategy/",
+      "published": "Sat, 04 Jul 2026 18:15:45 +0000",
+      "summary": "Theaters and arenas are becoming year-round brand real estate for airlines targeting premium customers. Whether that presence pays off in bookings, rather than just awareness, remains to be seen.",
+      "source": "Skift"
+    },
     {
       "title": "Cabo Verde Made World Cup History \u2014 and Travelers Are Already Seeking It Out",
       "link": "https://skift.com/2026/07/03/cabo-verde-world-cup-tourism-surge/",
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/",
       "published": "Thu, 02 Jul 2026 02:30:00 +0000",
       "summary": "India&apos;s business travel boom gives Booking.com a rare chance to grow two businesses at once \u2014 corporate bookings today and leisure loyalty tomorrow.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia\u2019s First IShowSpeed Video Brought Awareness. The Latest Pushes for Bookings.",
-      "link": "https://skift.com/2026/07/01/expedia-ishowspeed-bookable-video/",
-      "published": "Wed, 01 Jul 2026 16:46:39 +0000",
-      "summary": "With a shoppable IShowSpeed video, Expedia is trying to convert creator hype into transactions.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWNGY0QwQ3dybzlLYVgzNjkwM2N4eEdxQ0hkdUNOdU8yOWJYVjVPdUxueVBNZ0REcFBsY2ZGckFPaHZLOHIyb3dmakp4V2FOZ2NVRXpScEZIV3ZpNlJYX05PbG41S1BjRE84NkROS3VIYWFLczVoR0JaeU1CMFJxRTNXR0RPVmJyazNXVVhNNXVTbG1RX3FfeEk4bmlpUGtYYjFfQnJYRW4yWTE4WlRNOTR1OFljYVNXOW8wRmFzaw?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest UAE travel advice&nbsp;&nbsp;The Independent",
+      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     }
   ]
