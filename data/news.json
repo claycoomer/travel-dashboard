@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-05T13:04:51.154278+00:00",
+  "last_updated": "2026-07-05T16:53:09.676672+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
+      "link": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
+      "published": "Sun, 05 Jul 2026 13:17:01 +0000",
+      "summary": "Demand is up 6%, occupancy is a fat 77%, and the pipeline is thinning. That may be a textbook setup for pricing power.",
+      "source": "Skift"
+    },
     {
       "title": "Airlines Are Turning Live Entertainment Into a Loyalty Strategy",
       "link": "https://skift.com/2026/07/04/airlines-are-turning-live-entertainment-into-a-loyalty-strategy/",
@@ -56,17 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Booking.com Built Its India Business on Leisure \u2014 Now It\u2019s Going Corporate",
-      "link": "https://skift.com/2026/07/01/booking-com-built-its-india-business-on-leisure-now-its-going-corporate/",
-      "published": "Thu, 02 Jul 2026 02:30:00 +0000",
-      "summary": "India&apos;s business travel boom gives Booking.com a rare chance to grow two businesses at once \u2014 corporate bookings today and leisure loyalty tomorrow.",
-      "source": "Skift"
-    },
-    {
       "title": "Italy Aligns with United States, Qatar, Israel, Venezuela, and Arizona Travel Advisories as American Airlines Expands Flexible Rebooking for Milan Strike and Global Summer Travel Disruptions: New update - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CdDRvbmlzVDRJQkE5NG9SbnBTQXJaS3F1QlhxUm92d0ZrX21LYVRZUXVXRnlkMmNoeGw5a3NVSkhseDVXV3BCblVjOERTWVlCWWNfRmh4MTRST0ZKajhCWmpMSVU0MHRTVjZvN2Vn?oc=5",
       "published": "Sun, 05 Jul 2026 11:10:51 GMT",
       "summary": "Italy Aligns with United States, Qatar, Israel, Venezuela, and Arizona Travel Advisories as American Airlines Expands Flexible Rebooking for Milan Strike and Global Summer Travel Disruptions: New update&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "American Airlines Expands Milan Travel Advisory Amid Italy Strike: Flexible Rebooking Includes Basic Economy July 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWxzXzJWZ0QzOWlTaUVqUTlaTmxpNG9BZXZpVXU0QnZWNnYzTGd0UkJQcjQ3Q1hDSFJOQVphQlNXbTRvMTlzZTdSRDcxRDhxcWVBTHpEc2ItOVdpMFh2SE1SY2Y4TkFDa1NNVWJkOFVnS2tRSTZaeXRHTTV2Z181QS1Gb3hjZWEwUF81bzNZUEdDMDMzN2Rva21za3QxNVU2NUhFVmM0bWg?oc=5",
+      "published": "Sun, 05 Jul 2026 14:26:02 GMT",
+      "summary": "American Airlines Expands Milan Travel Advisory Amid Italy Strike: Flexible Rebooking Includes Basic Economy July 2026&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
       "published": "Mon, 29 Jun 2026 08:30:09 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as the US and Iran accuse each other of breaching ceasefire&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
