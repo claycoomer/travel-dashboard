@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-06T18:03:18.217892+00:00",
+  "last_updated": "2026-07-06T21:19:28.313175+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "How an Airline Pilot Built One of Portugal\u2019s Most Distinctive Hotels",
+      "link": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+      "published": "Mon, 06 Jul 2026 19:32:50 +0000",
+      "summary": "Comporta&apos;s magic was scarcity and silence. Sublime&apos;s expansion bets it can grow without diluting either.",
+      "source": "Skift"
+    },
     {
       "title": "Private Capital Is Moving Into Saudi Tourism \u2014 Their Bets Look Very Different",
       "link": "https://skift.com/2026/07/06/private-capital-is-moving-into-saudi-tourism-their-bets-look-very-different/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "OTAs Are Betting on Traveler Trust. But the Scramble Is On to Win the Trust of AI Agents",
-      "link": "https://skift.com/2026/07/02/otas-are-betting-on-traveler-trust-but-the-scramble-is-on-to-win-the-trust-of-ai-agents/",
-      "published": "Thu, 02 Jul 2026 14:37:03 +0000",
-      "summary": "Whether or not travelers trust AI would almost be irrelevant to OTAs if the LLMs don&apos;t trust them enough to surface their inventory for discovery.  The contest is on behind-the-scenes battle to become the LLMs&apos; OTA fave.",
-      "source": "Skift"
-    },
-    {
       "title": "India Aligns with United Arab Emirates, Singapore, United Kingdom, United States, Thailand and Australia as Mumbai\u2019s Red Alert, Heavy Monsoon Rainfall and Flight Disruptions Trigger Fresh Travel Advisory for Domestic and International Passengers: Exclus - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWm9ETjBXdklmbkQyTVNUMUdoMFJ5eFpJTmpHd3p3LXU1VEx4aUJmYXYzdEdvYUxtb3BDZlZsZkhOMUduMzhKWk1rbHlGMmlHRVN4b2JqY1pBanU0WG1fX05XelFwTF9lRzZvb3ZR?oc=5",
       "published": "Mon, 06 Jul 2026 09:51:49 GMT",
@@ -81,6 +81,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
       "published": "Fri, 19 Jun 2026 07:00:00 GMT",
       "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Japan Updates Middle East Travel Advisories: Iran Remains Level 4 Risk While GCC States See Downgrades in 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGdETlRTYjVGdHVONWlEdUZ2NkU5YVpNa0tkZVR5SkQ2Y3NDWl9PR0l5c2ZCZG95SGRzUVpJYVdaMi1VcVNHRTQyYlBwMUhPallQWXJEWkNxMmhqMVFfVmtDU3pwNy1hVXVvVlpkZWhTNkVjN2FYZ1FRV3IyZ0JtQTFORW4wSDNZOFYwcFpydExpWDZy?oc=5",
+      "published": "Mon, 06 Jul 2026 18:08:08 GMT",
+      "summary": "Japan Updates Middle East Travel Advisories: Iran Remains Level 4 Risk While GCC States See Downgrades in 2026&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
       "published": "Thu, 28 May 2026 07:00:00 GMT",
       "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     }
   ]
