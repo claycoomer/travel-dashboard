@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T17:50:21.993322+00:00",
+  "last_updated": "2026-07-07T21:13:24.519569+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -540,7 +540,7 @@
       "country": "Indonesia",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "04/30/2025"
+      "date": "07/07/2026"
     },
     {
       "country": "Isle of Man",
@@ -636,7 +636,7 @@
       "country": "Moldova",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "11/29/2024"
+      "date": "07/07/2026"
     },
     {
       "country": "Monaco",
@@ -757,12 +757,6 @@
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
       "date": "05/16/2025"
-    },
-    {
-      "country": "Thailand",
-      "level": 2,
-      "level_text": "Level 2: Exercise increased caution",
-      "date": "07/25/2025"
     },
     {
       "country": "The Gambia",
@@ -984,7 +978,7 @@
       "country": "Federated States of Micronesia",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "01/22/2025"
+      "date": "07/07/2026"
     },
     {
       "country": "Fiji",
@@ -1303,6 +1297,12 @@
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
       "date": "11/25/2025"
+    },
+    {
+      "country": "Thailand",
+      "level": 1,
+      "level_text": "Level 1: Exercise normal precautions",
+      "date": "07/07/2026"
     },
     {
       "country": "The Kyrgyz Republic",
