@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-07T10:44:20.789609+00:00",
+  "last_updated": "2026-07-07T14:04:16.904394+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "China\u2019s Tongcheng Travel Bids for Dida to Bring Ride-Sharing In-House",
+      "link": "https://skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/",
+      "published": "Tue, 07 Jul 2026 13:47:04 +0000",
+      "summary": "Chinese OTAs have long offered airport transfers and chauffeur services through third-party partnerships. If completed, Tongcheng&apos;s Dida acquisition would make it one of the first to own the ride-sharing marketplace itself, rather than plugging into someone else&apos;s.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton Opens Direct Line to Navan, Cutting Out Corporate Travel Middlemen",
+      "link": "https://skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/",
+      "published": "Tue, 07 Jul 2026 13:22:59 +0000",
+      "summary": "Hilton and Navan have launched a direct booking connection that skips distribution middlemen, giving the hotel group more control over retailing. It&apos;s an early step in a broader corporate travel push to overhaul how road warriors book hotels.",
+      "source": "Skift"
+    },
+    {
+      "title": "Announcing the Skift Live Tourism Summit 2026: The Business of the Live Economy",
+      "link": "https://skift.com/2026/07/07/announcing-skift-live-tourism-summit/",
+      "published": "Tue, 07 Jul 2026 13:00:00 +0000",
+      "summary": "Concerts, festivals, sports and cultural moments are changing where and how the world travels, and the shift is proving durable. Most operators still treat it as a calendar event. The Skift Live Tourism Summit, presented by Live Nation, is the room where they learn to build aroun",
+      "source": "Skift"
+    },
     {
       "title": "World Cup Ripple Effect: How Non-Host Markets Are Cashing In",
       "link": "https://skift.com/2026/07/06/world-cup-ripple-effect-non-host-markets/",
@@ -42,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
-      "link": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-      "published": "Sun, 05 Jul 2026 13:17:01 +0000",
-      "summary": "Demand is up 6%, occupancy is a fat 77%, and the pipeline is thinning. That may be a textbook setup for pricing power.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airlines Are Turning Live Entertainment Into a Loyalty Strategy",
-      "link": "https://skift.com/2026/07/04/airlines-are-turning-live-entertainment-into-a-loyalty-strategy/",
-      "published": "Sat, 04 Jul 2026 18:15:45 +0000",
-      "summary": "Theaters and arenas are becoming year-round brand real estate for airlines targeting premium customers. Whether that presence pays off in bookings, rather than just awareness, remains to be seen.",
-      "source": "Skift"
-    },
-    {
-      "title": "Cabo Verde Made World Cup History \u2014 and Travelers Are Already Seeking It Out",
-      "link": "https://skift.com/2026/07/03/cabo-verde-world-cup-tourism-surge/",
-      "published": "Sat, 04 Jul 2026 01:38:11 +0000",
-      "summary": "The island nation draws 1.2 million tourists a year \u2014 mostly from Europeans on all-inclusive packages. That won&apos;t change overnight, but it may bring awareness to Americans who struggle to place the island nation on a map.",
-      "source": "Skift"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: the latest updates as the summer travel rush begins - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDNQSDRnb2FtZHBLclpVZDJsWHJ2SVV1dnE5YzJyMk1CNDdudUtIMk9yWk0tNVJoYTd2VWZnanJOVC05ekx3cVBSUlh2VW1mUzdGZElKb2l4bTNuOWpOcmk1dXJSYVpKemlXM01HYl8zdXZsVlhmd0YzSHhVZGI4NE5MZnQxUGNfLUNETm9tNkZhZW84M2NzTndVdTNVMmlBcGw2U25yRk1CclQ4el8yd1lqLVJvU25DdDd4M0VjdHljdVcyQVE?oc=5",
       "published": "Fri, 03 Jul 2026 12:22:14 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as the summer travel rush begins&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Mumbai flight status today: IndiGo, Air India, Akasa Air, SpiceJet issue travel advisories as heavy rain d - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVlBEUTNQdk9GYUpiZnpHRVM2X2tlRWVmTDZKelNSdkxtTmhDQWhsZlZRRE9YeXJkb3FrRzlxaFB5MU1xd1VfVElOSVZhSDdHSV95VzRvRnhRRW9vN0U4VTMtRm93T0p1WHBUUXNFSU1Zbjg0bjFHWTBJRFN2b2ZRQU5YUU9oTkZ2NERCb0RaV25nRmdpOEdmc1gtV3dSYlBiSmQtWTFsMzVtTjY2Z0FOczI3QTNUa0Q4UWZXbmJHQ0lZT3dGVzJzWUNyX3NMcHlXZ0RQSmlhRi1td2pmR2FRWEx3cm5EZHN0dUNYVUZHUFJxRUtzeHB5b0w5ME9ZdTBWT1hqYmRnN3dhdkRNcEhWOTQtNXdsVVVoa25J0gGgAkFVX3lxTE1XOFdWQzRaY3lnSXRuS2F4ZGNabEQwQXVhclh1NGxlSFBGaEdkOGs3cnRIU0dGSjI1RDBWeGJYMmtXWXBvLW5QMWM2QS1qbjd6eHBGWlRjcG5aS1hEaXVXeVQ4cGxVdjJnTzFybE5Ock9HUFFKbHFfMktMMWRHWjkyY29QN1Y2c3RyUGFGckhlZEhIY1NodF9mNXZuRlphV0dHNC1JYklGakl1ZHY3V1I1MHkwY19xREM2cWdvZWtlMG41bDhmVTVPR0lINlhLakhvU28yNWIxZUdma0VIaUdSUHlPMlNNWmxjQkFLS2VUd050OVFPekxrMnoxTEJ0MUkwNUt4ODJVeXdfREJ1azVHc2tRZGxPallsQVNRanBsUw?oc=5",
-      "published": "Mon, 06 Jul 2026 04:00:24 GMT",
-      "summary": "Mumbai flight status today: IndiGo, Air India, Akasa Air, SpiceJet issue travel advisories as heavy rain d&nbsp;&nbsp;The Economic Times",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2JoREx4RUVKRndUZ2VLR1MwdlpndEN2QUVZU1pKYW15X081U3VpazZHUm5oTkNvOFU3UUx4NTVPVXhxN1Jpa0otWjZ1bG93ZVZvNEc1anZvWXBULTM4Ym94TEJHR3FwM0lsd25FekJZWTQ0VFotc0paVWg0ZnJPLXppUV9GVVpUTUZjSFV6M3ZMOXQtV1Fib0V2SzFib2c3U1F4YkYzbF95UGxsVGFQZ19yUW5ZV3gyU0k1VEc5WXBXRmpEeWJyVk1VUkFwbHM?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions&nbsp;&nbsp;TheTravel",
+      "title": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
       "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]

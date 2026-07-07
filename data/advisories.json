@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:44:17.929380+00:00",
+  "last_updated": "2026-07-07T14:04:14.607684+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -798,7 +798,7 @@
       "country": "Turks and Caicos Islands",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
-      "date": "03/04/2025"
+      "date": "07/07/2026"
     },
     {
       "country": "United Kingdom of Great Britain and Northern Ireland",
@@ -1236,7 +1236,7 @@
       "country": "Samoa",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "03/10/2025"
+      "date": "07/07/2026"
     },
     {
       "country": "Senegal",
