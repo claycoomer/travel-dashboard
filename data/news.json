@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-06T21:19:28.313175+00:00",
+  "last_updated": "2026-07-07T01:59:33.162057+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "World Cup Ripple Effect: How Non-Host Markets Are Cashing In",
+      "link": "https://skift.com/2026/07/06/world-cup-ripple-effect-non-host-markets/",
+      "published": "Mon, 06 Jul 2026 22:59:06 +0000",
+      "summary": "Turns out the World Cup\u2019s tourism impact extends beyond the 16 host cities, with outside markets seeing some of the steepest spikes in demand.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Hidden Hurdle in AI Travel Planning: Chatbots That Ignore the App",
+      "link": "https://skift.com/2026/07/06/chatgpt-apps-claude-connectors-travel-hands-on-test/",
+      "published": "Mon, 06 Jul 2026 21:53:38 +0000",
+      "summary": "Travel apps inside AI chatbots are starting to look like real referral channels. The catch, Skift&apos;s testing found: A brand can be connected and still get skipped.",
+      "source": "Skift"
+    },
     {
       "title": "How an Airline Pilot Built One of Portugal\u2019s Most Distinctive Hotels",
       "link": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
@@ -49,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Turkey Quietly Built One of the World\u2019s Most Complete Travel Tech Stacks",
-      "link": "https://skift.com/2026/07/03/turkey-quietly-built-one-of-the-worlds-most-complete-travel-tech-stacks/",
-      "published": "Fri, 03 Jul 2026 13:46:11 +0000",
-      "summary": "Durable travel tech is forged by hard operating conditions, not venture capital and conference circuits, and Turkey is the proof.",
-      "source": "Skift"
-    },
-    {
-      "title": "Marriott Outspends Rivals on TV, But Airbnb Owns the World Cup",
-      "link": "https://skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-world-cup/",
-      "published": "Thu, 02 Jul 2026 18:57:19 +0000",
-      "summary": "Marriott outspent every hotel brand on national TV, yet Airbnb&apos;s World Cup ads have out-reached Marriott&apos;s so far. Marketers should note that focus, rather than budget, wins marquee experiences.",
-      "source": "Skift"
-    },
-    {
       "title": "India Aligns with United Arab Emirates, Singapore, United Kingdom, United States, Thailand and Australia as Mumbai\u2019s Red Alert, Heavy Monsoon Rainfall and Flight Disruptions Trigger Fresh Travel Advisory for Domestic and International Passengers: Exclus - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWm9ETjBXdklmbkQyTVNUMUdoMFJ5eFpJTmpHd3p3LXU1VEx4aUJmYXYzdEdvYUxtb3BDZlZsZkhOMUduMzhKWk1rbHlGMmlHRVN4b2JqY1pBanU0WG1fX05XelFwTF9lRzZvb3ZR?oc=5",
       "published": "Mon, 06 Jul 2026 09:51:49 GMT",
       "summary": "India Aligns with United Arab Emirates, Singapore, United Kingdom, United States, Thailand and Australia as Mumbai\u2019s Red Alert, Heavy Monsoon Rainfall and Flight Disruptions Trigger Fresh Travel Advisory for Domestic and International Passengers: Exclus&nbsp;&nbsp;Travel And Tour",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Mumbai flight status today: IndiGo, Air India, Akasa Air, SpiceJet issue travel advisories as heavy rain d - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVlBEUTNQdk9GYUpiZnpHRVM2X2tlRWVmTDZKelNSdkxtTmhDQWhsZlZRRE9YeXJkb3FrRzlxaFB5MU1xd1VfVElOSVZhSDdHSV95VzRvRnhRRW9vN0U4VTMtRm93T0p1WHBUUXNFSU1Zbjg0bjFHWTBJRFN2b2ZRQU5YUU9oTkZ2NERCb0RaV25nRmdpOEdmc1gtV3dSYlBiSmQtWTFsMzVtTjY2Z0FOczI3QTNUa0Q4UWZXbmJHQ0lZT3dGVzJzWUNyX3NMcHlXZ0RQSmlhRi1td2pmR2FRWEx3cm5EZHN0dUNYVUZHUFJxRUtzeHB5b0w5ME9ZdTBWT1hqYmRnN3dhdkRNcEhWOTQtNXdsVVVoa25J0gGgAkFVX3lxTE1XOFdWQzRaY3lnSXRuS2F4ZGNabEQwQXVhclh1NGxlSFBGaEdkOGs3cnRIU0dGSjI1RDBWeGJYMmtXWXBvLW5QMWM2QS1qbjd6eHBGWlRjcG5aS1hEaXVXeVQ4cGxVdjJnTzFybE5Ock9HUFFKbHFfMktMMWRHWjkyY29QN1Y2c3RyUGFGckhlZEhIY1NodF9mNXZuRlphV0dHNC1JYklGakl1ZHY3V1I1MHkwY19xREM2cWdvZWtlMG41bDhmVTVPR0lINlhLakhvU28yNWIxZUdma0VIaUdSUHlPMlNNWmxjQkFLS2VUd050OVFPekxrMnoxTEJ0MUkwNUt4ODJVeXdfREJ1azVHc2tRZGxPallsQVNRanBsUw?oc=5",
+      "published": "Mon, 06 Jul 2026 04:00:24 GMT",
+      "summary": "Mumbai flight status today: IndiGo, Air India, Akasa Air, SpiceJet issue travel advisories as heavy rain d&nbsp;&nbsp;The Economic Times",
       "source": "Google News Travel"
     },
     {
@@ -77,31 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
-      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Japan Updates Middle East Travel Advisories: Iran Remains Level 4 Risk While GCC States See Downgrades in 2026 - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGdETlRTYjVGdHVONWlEdUZ2NkU5YVpNa0tkZVR5SkQ2Y3NDWl9PR0l5c2ZCZG95SGRzUVpJYVdaMi1VcVNHRTQyYlBwMUhPallQWXJEWkNxMmhqMVFfVmtDU3pwNy1hVXVvVlpkZWhTNkVjN2FYZ1FRV3IyZ0JtQTFORW4wSDNZOFYwcFpydExpWDZy?oc=5",
-      "published": "Mon, 06 Jul 2026 18:08:08 GMT",
-      "summary": "Japan Updates Middle East Travel Advisories: Iran Remains Level 4 Risk While GCC States See Downgrades in 2026&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Travel Alert: New York City Flood Watch Raises Monday Flash Flood Risk for JFK, LaGuardia, Newark, Roads, Subway Commutes and Travel Operators Across the United States - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fcnZqSnhWQ0l5WVZ2TEZJSkNtNFNaakRINWg5blh4MVpGWUVWTTU3NU9ZNUc2RUxzNzJhVy1taFZ3YVE5aFVIamhfWDg1ckdIbnpKZ3VpTzJNMldSSUpVaGdoaDZkMm1vTVpRekpB?oc=5",
-      "published": "Mon, 06 Jul 2026 11:32:18 GMT",
-      "summary": "US Travel Alert: New York City Flood Watch Raises Monday Flash Flood Risk for JFK, LaGuardia, Newark, Roads, Subway Commutes and Travel Operators Across the United States&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
       "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR19TNkEwNlRGRzgzd29NcXJQT19GV0VydW9wNV9lUkMxM3k2WWpJd29PdFBBWkdoRVctWHFpeTdfRkdsNUg3cW41b3BkN0ZYRTBIc0NOalNZYWdSX0ZvbWtlbFFQa1pfb3RTcmk5UU01S054VHNyay1iQV9KZVJhMQ?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Is It Safe To Travel to the Middle East? The Latest Advisory Updates&nbsp;&nbsp;TravelPirates",
+      "title": "Mexico travel advisory: Are flights to Mexico being cancelled? - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm03RmY2aExNLV9mV01WbEFsNXc5RklrLUVRRk13QW5pTGlQbGFsbC1IXzZhbzNnc0QySFJadmgzLUpRUzA4OGs2YVNnTWlrWHFBUldlb3dUdDFWVGtMcF9sT1ZGeUhYZHN3d2ZKR01ZSWN4b2tZMmVqWmJkZ0p2eGxTX1IwVHV4akJpYXRMVmttNDNERzllU0hrX3kzN05BQlcxbXJXRDZLM3d3bk1qYWpMUzFkcWpIVFdpalpKc09xNUJyZXc?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Mexico travel advisory: Are flights to Mexico being cancelled?&nbsp;&nbsp;El Paso Times",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     }
   ]
