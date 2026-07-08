@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-08T06:20:45.893461+00:00",
+  "last_updated": "2026-07-08T10:05:41.197256+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Who\u2019s Next After EasyJet? We Size Up 10 Possible Takeover Targets",
+      "link": "https://skift.com/2026/07/08/whos-next-after-easyjet-we-size-up-10-possible-takeover-targets/",
+      "published": "Wed, 08 Jul 2026 09:37:16 +0000",
+      "summary": "A U.S. buyer has done what none of EasyJet&apos;s past suitors managed: It got the airline&apos;s board to the table.",
+      "source": "Skift"
+    },
+    {
+      "title": "India\u2019s Biggest Hotel Chain Is Following Its Biggest Travelers",
+      "link": "https://skift.com/2026/07/08/indias-biggest-hotel-chain-is-following-its-biggest-travelers/",
+      "published": "Wed, 08 Jul 2026 08:43:18 +0000",
+      "summary": "You can only build so many Tajs. Scaling to 700 hotels means following demand and building for India&apos;s expanding middle class, where consistency matters as much as luxury, rather than chase the shrinking pool of ultra-premium international arrivals.",
+      "source": "Skift"
+    },
     {
       "title": "Who Owns Your Passport Expiry Date?",
       "link": "https://skift.com/2026/07/07/who-owns-your-passport-expiry-date/",
@@ -49,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "The Hidden Hurdle in AI Travel Planning: Chatbots That Ignore the App",
-      "link": "https://skift.com/2026/07/06/chatgpt-apps-claude-connectors-travel-hands-on-test/",
-      "published": "Mon, 06 Jul 2026 21:53:38 +0000",
-      "summary": "Travel apps inside AI chatbots are starting to look like real referral channels. The catch, Skift&apos;s testing found: A brand can be connected and still get skipped.",
-      "source": "Skift"
-    },
-    {
-      "title": "How an Airline Pilot Built One of Portugal\u2019s Most Distinctive Hotels",
-      "link": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-      "published": "Mon, 06 Jul 2026 19:32:50 +0000",
-      "summary": "Comporta&apos;s magic was scarcity and silence. Sublime&apos;s expansion bets it can grow without diluting either.",
-      "source": "Skift"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: the latest updates as the summer travel rush begins - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDNQSDRnb2FtZHBLclpVZDJsWHJ2SVV1dnE5YzJyMk1CNDdudUtIMk9yWk0tNVJoYTd2VWZnanJOVC05ekx3cVBSUlh2VW1mUzdGZElKb2l4bTNuOWpOcmk1dXJSYVpKemlXM01HYl8zdXZsVlhmd0YzSHhVZGI4NE5MZnQxUGNfLUNETm9tNkZhZW84M2NzTndVdTNVMmlBcGw2U25yRk1CclQ4el8yd1lqLVJvU25DdDd4M0VjdHljdVcyQVE?oc=5",
       "published": "Fri, 03 Jul 2026 12:22:14 GMT",
       "summary": "Dubai and Middle East flight disruption: the latest updates as the summer travel rush begins&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
+      "title": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
@@ -98,17 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2JoREx4RUVKRndUZ2VLR1MwdlpndEN2QUVZU1pKYW15X081U3VpazZHUm5oTkNvOFU3UUx4NTVPVXhxN1Jpa0otWjZ1bG93ZVZvNEc1anZvWXBULTM4Ym94TEJHR3FwM0lsd25FekJZWTQ0VFotc0paVWg0ZnJPLXppUV9GVVpUTUZjSFV6M3ZMOXQtV1Fib0V2SzFib2c3U1F4YkYzbF95UGxsVGFQZ19yUW5ZV3gyU0k1VEc5WXBXRmpEeWJyVk1VUkFwbHM?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions&nbsp;&nbsp;TheTravel",
+      "title": "Italy Aligns with United States, Qatar, Israel, Venezuela, and Arizona Travel Advisories as American Airlines Expands Flexible Rebooking for Milan Strike and Global Summer Travel Disruptions: New update - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CdDRvbmlzVDRJQkE5NG9SbnBTQXJaS3F1QlhxUm92d0ZrX21LYVRZUXVXRnlkMmNoeGw5a3NVSkhseDVXV3BCblVjOERTWVlCWWNfRmh4MTRST0ZKajhCWmpMSVU0MHRTVjZvN2Vn?oc=5",
+      "published": "Sun, 05 Jul 2026 11:10:51 GMT",
+      "summary": "Italy Aligns with United States, Qatar, Israel, Venezuela, and Arizona Travel Advisories as American Airlines Expands Flexible Rebooking for Milan Strike and Global Summer Travel Disruptions: New update&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
+      "title": "Travel In and Out of the Middle East: What the US Government Is Telling Americans? - KQED",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
       "source": "Google News Travel"
     },
     {
