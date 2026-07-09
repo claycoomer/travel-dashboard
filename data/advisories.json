@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T10:44:20.655279+00:00",
+  "last_updated": "2026-07-09T14:28:19.056458+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -84,7 +84,7 @@
       "country": "Niger",
       "level": 4,
       "level_text": "Level 4: Do not travel",
-      "date": "01/29/2026"
+      "date": "07/09/2026"
     },
     {
       "country": "North Korea (Democratic People's Republic of Korea)",
@@ -1104,7 +1104,7 @@
       "country": "Malta",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "05/28/2025"
+      "date": "07/09/2026"
     },
     {
       "country": "Marshall Islands",
