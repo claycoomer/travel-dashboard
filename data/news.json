@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-09T17:46:02.918862+00:00",
+  "last_updated": "2026-07-09T21:10:42.876569+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb Paid $81 Million for a Building in NYC \u2014 the Only One It Now Owns",
+      "link": "https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/",
+      "published": "Thu, 09 Jul 2026 20:06:22 +0000",
+      "summary": "Airbnb abandoned its asset-light strategy just a tad, purchasing a New York City building for $81.5 million. It will be an office \u2014 there are no plans to &quot;Airbnb&quot; it.",
+      "source": "Skift"
+    },
     {
       "title": "\u2018Hey @British_Airways\u2019: Norwegian Air Shows How to Get Free World Cup Buzz",
       "link": "https://skift.com/2026/07/09/hey-british_airways-norwegian-air-shows-how-to-get-free-world-cup-buzz/",
@@ -56,17 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "The West Got Two Half-Apps Instead of a Super App: Google Maps vs. Uber",
-      "link": "https://skift.com/2026/07/08/the-west-got-two-half-apps-instead-of-a-super-app-google-maps-vs-uber/",
-      "published": "Wed, 08 Jul 2026 16:58:31 +0000",
-      "summary": "Uber owns the transaction, and Google Maps owns the moment before it, and in the first half of 2026, both started using AI to cross into the other&apos;s territory. Travel distribution sits directly in the path.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates as Trump says US-Iran ceasefire is \u2018over\u2019 - Cond\u00e9 Nast Traveller India",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajl1OC03b09aQUw0VzIxV29xLUZqRmFSVWhRNzZ6WFNiOG5aTFpQaFR2VUhNM2RMMEUzWjJlN0lBYkc1Y1dja3J3ZXczU244RmhzZDd6Y0xycnVzQmxFZWxPLUdsaFhPQWY5S2Q1RmFBXzFhX3lrbkU1SF81NWdzenc2V29zeHlFWU0tc1JGc2lRVVk2UWswbDNGUWJ0M2I2NF9SNEswM0tkQnJpNG55dDM2RjhDVDJkSHprUGQ1eFNTc2YzTGl2cXhMQWs?oc=5",
-      "published": "Thu, 09 Jul 2026 05:24:00 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates as Trump says US-Iran ceasefire is \u2018over\u2019&nbsp;&nbsp;Cond\u00e9 Nast Traveller India",
+      "title": "Dubai and Middle East flight disruption: security alerts in Bahrain, Qatar and Kuwait as Trump says US-Iran ceasefire is \u2018over\u2019 - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS2RTRDd2aFFoYndNMXRNN24tTHZ0VHM4Tk1NZ2ZnRDBfTHhLV3JsRTdIYXBDYmtoNzg4Yk5DNVdJUWpVcFhhTk9wMXNlZGx3clJXanY3Y0lodVdNZmpuS0sxTnYyQmk5SFF3UUpYNXVjRlpnc0J4cl90SDIwajBoUjJKM2EzWHF0dDFOdWRaeGFtcF9CMTZFWW9YQ1FTMVI1SVBuNzlhSDVFRkw4bk9oMjNoNHNSd1dvSWtXOGVKYmRGdnU3Rk5oNWdCSXVKOGNMTElWR3FOTVROamdPSDFiUmNuZHo3TFpqVzBxQjZzU20?oc=5",
+      "published": "Thu, 09 Jul 2026 07:03:37 GMT",
+      "summary": "Dubai and Middle East flight disruption: security alerts in Bahrain, Qatar and Kuwait as Trump says US-Iran ceasefire is \u2018over\u2019&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -81,6 +81,13 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2JoREx4RUVKRndUZ2VLR1MwdlpndEN2QUVZU1pKYW15X081U3VpazZHUm5oTkNvOFU3UUx4NTVPVXhxN1Jpa0otWjZ1bG93ZVZvNEc1anZvWXBULTM4Ym94TEJHR3FwM0lsd25FekJZWTQ0VFotc0paVWg0ZnJPLXppUV9GVVpUTUZjSFV6M3ZMOXQtV1Fib0V2SzFib2c3U1F4YkYzbF95UGxsVGFQZ19yUW5ZV3gyU0k1VEc5WXBXRmpEeWJyVk1VUkFwbHM?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "FAA Starts The Week With A New Travel Warning At 18 Major U.S. Airports Following Days Of Weather Disruptions&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "'Do not travel' advice for Dubai dropped - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hQUl4VmNLLUtMRklUMmZPRWFIeGZOYnVXYWxEREJjc21nNnQ3TzhfOElEellCNkZ4VDFqU2pkNl9Kd1g0Vy1TRjl5NW5wZE1aNmFYc3VTbWxYZw?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "'Do not travel' advice for Dubai dropped&nbsp;&nbsp;BBC",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNpR3FDSTd2ODNjODVteHdiaWVnajBsb2wxUEtxbmxaWWk0dTJ0ZGZTU2R0OUExclFuaG1oZFpzRmRITnhEMUhtaDBBdGJKZXMyMXRzdFp2bVFRX29Sd0tiRm44LW1PY2xKazNYS2lCYkRTNHRCamxYZjFUdGRSbVVQVXRPZmpoRFlLOXNuNXJ4QlFOVmdJYTh3djRpRUJQZXhqYXAwZzFqN2VfY2EyT0RYd1ctSEt2WjFYNmJMRjQ3ODVvZ3gyNjJrMmpvWmxJS3VDU2ppbmw4WjBFYmR1M1BJTGpXSUF6SjFGUw?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "summary": "Travel In and Out of the Middle East: What the US Government Is Telling Americans?&nbsp;&nbsp;KQED",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "What Travelers Need to Know About Middle East Flight Disruptions - Cond\u00e9 Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGF3cUNQSVRsSDYwSEt5TGNyalJQNU50SGJNRURnbHhCRG5tRWlTLUdDYlVqTGNNeWVnSGtuejkxVmJoUVFEQ2ZnQzlmSzlibmpKb0kxeXNobnc4Z0VqZkdGb1FqSGlWMWFRaENwZlFGZWdDX1hTSzJ6RDV1ZGRXTFZxaWZWSEh4Rlc2bXAzMzJUVEo0WEZCOVIxbEt0UQ?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "What Travelers Need to Know About Middle East Flight Disruptions&nbsp;&nbsp;Cond\u00e9 Nast Traveler",
       "source": "Google News Travel"
     }
   ]
