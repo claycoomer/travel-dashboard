@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T13:55:18.626911+00:00",
+  "last_updated": "2026-07-10T17:39:24.259998+00:00",
   "source": "US Department of State",
   "advisories": [
     {
@@ -705,6 +705,12 @@
       "date": "10/02/2024"
     },
     {
+      "country": "Saint Lucia",
+      "level": 2,
+      "level_text": "Level 2: Exercise increased caution",
+      "date": "07/10/2026"
+    },
+    {
       "country": "San Marino",
       "level": 2,
       "level_text": "Level 2: Exercise increased caution",
@@ -840,7 +846,7 @@
       "country": "Argentina",
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
-      "date": "05/20/2026"
+      "date": "07/10/2026"
     },
     {
       "country": "Aruba",
@@ -1207,12 +1213,6 @@
       "level": 1,
       "level_text": "Level 1: Exercise normal precautions",
       "date": "07/07/2026"
-    },
-    {
-      "country": "Saint Lucia",
-      "level": 1,
-      "level_text": "Level 1: Exercise normal precautions",
-      "date": "08/22/2024"
     },
     {
       "country": "Saint Martin (French West Indies)",
