@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-09T21:10:42.876569+00:00",
+  "last_updated": "2026-07-10T01:49:59.035252+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "\u2018Come Back Anytime\u2019: How Travel Brands Courted World Cup Fans",
+      "link": "https://skift.com/2026/07/09/travel-brands-court-world-cup-fans/",
+      "published": "Thu, 09 Jul 2026 22:11:35 +0000",
+      "summary": "Official FIFA sponsors spent millions locking up World Cup rights, but some of the most effective marketing may be based on response time.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Research Trend Lifecycle Reports: The Forces Shaping Travel",
+      "link": "https://skift.com/2026/07/09/skift-research-trend-lifecycle-reports-the-forces-shaping-travel/",
+      "published": "Thu, 09 Jul 2026 22:00:13 +0000",
+      "summary": "The goal of our new reports: Help travel leaders determine how much time, resources, and focus to commit to new trends.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb Paid $81 Million for a Building in NYC \u2014 the Only One It Now Owns",
       "link": "https://skift.com/2026/07/09/airbnb-paid-81-million-for-a-building-in-nyc-the-only-one-it-now-owns/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Delta Launches Stripped-Down Business-Class Fares",
-      "link": "https://skift.com/2026/07/08/delta-launches-stripped-down-business-class-fares/",
-      "published": "Wed, 08 Jul 2026 19:01:10 +0000",
-      "summary": "Delta is betting wealthy customers will pay Delta One prices for a coach-class experience on the ground",
-      "source": "Skift"
-    },
-    {
-      "title": "GMH Hotels: The Supply Gap That Could Change Hotel Pricing.",
-      "link": "https://skift.com/2026/07/08/gmh-hotels-the-supply-gap-that-could-change-hotel-pricing/",
-      "published": "Wed, 08 Jul 2026 14:57:00 +0000",
-      "summary": "Hospitality&apos;s new operating principle is &quot;cut the middleman, keep the loyalist&quot; \u2014 Mews trims staff for AI, Hilton bypasses the GDS to book direct with Navan, and extended-stay brands strip out service costs entirely",
-      "source": "Skift"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: security alerts in Bahrain, Qatar and Kuwait as Trump says US-Iran ceasefire is \u2018over\u2019 - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS2RTRDd2aFFoYndNMXRNN24tTHZ0VHM4Tk1NZ2ZnRDBfTHhLV3JsRTdIYXBDYmtoNzg4Yk5DNVdJUWpVcFhhTk9wMXNlZGx3clJXanY3Y0lodVdNZmpuS0sxTnYyQmk5SFF3UUpYNXVjRlpnc0J4cl90SDIwajBoUjJKM2EzWHF0dDFOdWRaeGFtcF9CMTZFWW9YQ1FTMVI1SVBuNzlhSDVFRkw4bk9oMjNoNHNSd1dvSWtXOGVKYmRGdnU3Rk5oNWdCSXVKOGNMTElWR3FOTVROamdPSDFiUmNuZHo3TFpqVzBxQjZzU20?oc=5",
       "published": "Thu, 09 Jul 2026 07:03:37 GMT",
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer - Time Out Worldwide",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3BNeWNXeHZiOXpVMjJ0aXhWeDRJRUxDenl3dGNUaDF4R3Bxa0ZtbUVHeVZ4SENZX2dqOWpKWjVGb3ZrRWllQzVEcmh3cnpaVlh0S2Z6Umd6aXFkU3NROGtpSlRnRTYtX0lyUEpfYTFDRm0yTVg5ekVjRW1jeGY2M3JQdEk0MFBob0xTN0lSUnFiU1NWWWJyN0lzVHVFNGtNVlc0Qm9PcnlVZk92YWp4VzBxYXhGRGN4SVdGc2hFOU5FZTVWTXNxRTJRX2dicGdwRDFRbVl5Z3c?oc=5",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "summary": "Canadians warned to prepare for flight cancellations, fuel shortages and travel chaos this summer&nbsp;&nbsp;Time Out Worldwide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
