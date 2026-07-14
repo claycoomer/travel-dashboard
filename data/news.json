@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-14T09:45:05.642724+00:00",
+  "last_updated": "2026-07-14T13:04:27.651981+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Frontier Airlines to Add Starlink, Catching Up to Premium Airlines",
+      "link": "https://skift.com/2026/07/14/frontier-airlines-to-install-starlink-premium-push/",
+      "published": "Tue, 14 Jul 2026 13:00:00 +0000",
+      "summary": "Typically, airlines like Frontier don\u2019t have in-flight Wi-Fi. But as premium products continue to fuel airline industry profits, Frontier is opting to install Starlink.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb\u2019s Best Hotel Strategy Is Sitting in Ennismore\u2019s IPO Filing",
+      "link": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+      "published": "Tue, 14 Jul 2026 12:17:48 +0000",
+      "summary": "Each side has what the other lacks: Ennismore, the hotel credibility, brand standards, and F&amp;B depth; Airbnb, the demand, backed by homes revenue no other platform earns.",
+      "source": "Skift"
+    },
+    {
+      "title": "Yatra\u2019s First International Expansion Looks Nothing Like Its OTA Competitors",
+      "link": "https://skift.com/2026/07/14/yatras-first-international-expansion-looks-nothing-like-its-ota-competitors/",
+      "published": "Tue, 14 Jul 2026 12:00:03 +0000",
+      "summary": "For a company whose growth has been almost entirely India-centric, Yatra is now betting that enterprise travel technology built for one of the world&apos;s most complex markets can travel just as well abroad.",
+      "source": "Skift"
+    },
     {
       "title": "Casago Sold Nearly All Vacasa\u2019s Property Manager Acquisitions and Turned Many Into Franchises",
       "link": "https://skift.com/2026/07/13/casago-sold-nearly-all-vacasas-property-manager-acquisitions-and-turned-many-into-franchises/",
@@ -42,25 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "What Haaland Mania Won\u2019t Do for Norway Tourism",
-      "link": "https://skift.com/2026/07/10/what-haaland-mania-wont-do-for-norway-tourism/",
-      "published": "Fri, 10 Jul 2026 19:57:19 +0000",
-      "summary": "Haaland mania is real. It will not move Norwegian tourism, and the visitors it might send are the ones Norway is already pricing out.",
-      "source": "Skift"
-    },
-    {
-      "title": "Hopper Settles With the FTC Over Practices Expedia Called Out in 2023",
-      "link": "https://skift.com/2026/07/10/hopper-settles-with-the-ftc-over-practices-expedia-called-out-in-2023/",
-      "published": "Fri, 10 Jul 2026 19:40:18 +0000",
-      "summary": "Expedia ended its Hopper partnership in 2023 for 17 months over deceptive practices. Now the U.S. Federal Trade Commission, in another reputational hit, has reached largely the same verdict, with a $35 million price tag.",
-      "source": "Skift"
-    },
-    {
-      "title": "Booking Holdings Is Forming a New B2B Unit, Agoda CEO Is Overseeing it: Scoop",
-      "link": "https://skift.com/2026/07/10/booking-holdings-is-forming-a-new-b2b-unit-agoda-ceo-is-overseeing-it-scoop/",
-      "published": "Fri, 10 Jul 2026 18:37:54 +0000",
-      "summary": "Booking Holdings has an uphill climb to rival Expedia&apos;s scale in B2B, but the formation of a consolidated business unit could help Booking become a more formidable competitor.",
-      "source": "Skift"
+      "title": "Dubai and Middle East flight disruption: fresh attacks target Bahrain and Jordan as US-Iran tensions deepen - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
+      "published": "Tue, 14 Jul 2026 09:10:39 GMT",
+      "summary": "Dubai and Middle East flight disruption: fresh attacks target Bahrain and Jordan as US-Iran tensions deepen&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "Dubai and Middle East flights disruption: US-Iran tensions keep airlines cautious as services gradually re - The Economic Times",
@@ -77,24 +84,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Gulf countries face fresh wave of attacks as US-Iran tensions deepen - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2xUZlVNdGVhOHVEdjlLcWJJbm1KQjdKVVRWdERNcGprRzB3YjhBdVNpakUyV3RtcTY5R0FHeDlMZDhFWkpxTkoyM19feVhqblV4YzdIY1U3Y204RDhudlc2Z1loN0RkOUxBYlFqRjI1SWp5YVVCbXhpSFhIa0hMOEpfanV5amZHS256VlJRWXc2cVdmMUhlN09xWFBLVkxaekdmbEFtcTR0SEx3WEZfUU4tNmc1U3V5M25sMWtCb3lYRkY3OFZVRDdfbG1lUm9uVm55SmVmbksyNGVT?oc=5",
-      "published": "Mon, 13 Jul 2026 11:25:21 GMT",
-      "summary": "Dubai and Middle East flight disruption: Gulf countries face fresh wave of attacks as US-Iran tensions deepen&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Gulf airlines are keeping planes in the sky despite renewed Iran conflict - thenationalnews.com",
+      "title": "Gulf airlines keep planes in the sky despite renewed Iran conflict - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzYzMGJkekRhbVJWWlVneG1ZZmNNRmZ2cGtnRGE3VG9rRGdPRC1Ra3NfdkN5YTJRLUJvcXFLaE5IY29ZYXJYVzhtQTVVRWZ5bGU0TjFHckdzUmFRRFBIbDhVcDI1Yl9qeC1CR1c3Qkk2d3VZdVVrNHZGVjczdTlIVTZwSFUzNmJNcFlSNXZQSlQ3cHA0akotMEdFSTg2YkV4eTlBcFlMS1d2LTNIdGJiWTk3N3ZSXzQ?oc=5",
       "published": "Mon, 13 Jul 2026 16:55:33 GMT",
-      "summary": "Gulf airlines are keeping planes in the sky despite renewed Iran conflict&nbsp;&nbsp;thenationalnews.com",
+      "summary": "Gulf airlines keep planes in the sky despite renewed Iran conflict&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
-      "title": "American Travellers in Congo Face New Return Rules as Ebola Concerns Reshape International Travel Plans - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wVTJqR2pYbjZ2ZUgyc2tZQ3FrRTFGU01Db2xwTWRmMVlleW56dXFyNXZQQmJPMEs3X1ExeUwzT3NjRWR0NWRIeGVYbDhISk1kcVIwSkxSbThCUXIzVGNJcjd2TlphLUZHZnlZSGxR?oc=5",
-      "published": "Tue, 14 Jul 2026 04:50:56 GMT",
-      "summary": "American Travellers in Congo Face New Return Rules as Ebola Concerns Reshape International Travel Plans&nbsp;&nbsp;Travel And Tour World",
+      "title": "UAE residents' update: Tanker attacks, flights, travel, and advisories amid US-Iran strike - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG9PemtIUmcxdXFyczRzZWFWV0ZtZHhfT014SW9WVjNZSjI3dGlJQmp3NnNnNmZMdE9LU1NtdGp0TzF2S2NoOEI5S1FvUUQwemtyLVg3ZXhKRjBTMEVsRExnODQ4R2hjU3pXcmNVdEVyUEpjdlNfYlBmc0tUemJyX1pDWWhsblVKbklPWlBTWGo5dl9TaUF1ekpPc0JLTWNQb0RyYkdFUnptM1g0X25lZjZxWFFJVmVsbzA2TG95RQ?oc=5",
+      "published": "Tue, 14 Jul 2026 11:21:26 GMT",
+      "summary": "UAE residents' update: Tanker attacks, flights, travel, and advisories amid US-Iran strike&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US-Iran Conflict Fallout Puts Gulf Travel Routes Under Pressure as UAE, Oman, Qatar and Saudi Arabia Enter FCDO Warning Spotlight With Dubai, Abu Dhabi and Doha Aviation Hubs Facing Flight Disruptions, Security Risks and Regional Uncertainty - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcjRodjFsMFNRMDFKZ3dIaE5iVHB2UXhoVEZmR2tkeE96aWc0QndLQ2c2S010U0s4QUlGNUVkSGJXaTZXNVZqUVhQczhrQTNDXzFjREFjdmJtX1Q5cnRPeDNka05acjVUMF9DSkh3?oc=5",
+      "published": "Tue, 14 Jul 2026 11:26:15 GMT",
+      "summary": "US-Iran Conflict Fallout Puts Gulf Travel Routes Under Pressure as UAE, Oman, Qatar and Saudi Arabia Enter FCDO Warning Spotlight With Dubai, Abu Dhabi and Doha Aviation Hubs Facing Flight Disruptions, Security Risks and Regional Uncertainty&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTYxbW5ld1dNQ1dJTlFUT3lmQV9JQ1RuX2RQYTRKcGk0T2FvWVVLb1ZhSGpUajJvOWNTUmRPd1NnSjZNc1poM0tUUXVueE5KaVB0cEV6T3Fmem9HS2NEakRjQnpKMFFjR1V3MHpuR0ZIcWhINGc2enB5aDBZb1Q3Mzc0aDVsb3RsaXNMYnVzaUtJUVBBVUY2UURxdnBKSUY4WDZVQmdsS2gwQm0yVXVkNmhJZHFzS2s?oc=5",
       "published": "Fri, 19 Jun 2026 07:00:00 GMT",
       "summary": "American Airlines Issues Travel Alert At 7 U.S. Airports On One Of The Most Important Days Of The Year&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "'Do not travel' advice for Dubai dropped - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hQUl4VmNLLUtMRklUMmZPRWFIeGZOYnVXYWxEREJjc21nNnQ3TzhfOElEellCNkZ4VDFqU2pkNl9Kd1g0Vy1TRjl5NW5wZE1aNmFYc3VTbWxYZw?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "'Do not travel' advice for Dubai dropped&nbsp;&nbsp;BBC",
       "source": "Google News Travel"
     }
   ]
