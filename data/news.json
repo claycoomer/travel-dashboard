@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-14T17:01:22.157484+00:00",
+  "last_updated": "2026-07-14T20:48:15.809291+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "No World Cup Bump: U.S. Tourism Down in June",
+      "link": "https://skift.com/2026/07/14/world-cup-inbound-travel-decline-june/",
+      "published": "Tue, 14 Jul 2026 18:49:55 +0000",
+      "summary": "While visitors from markets like the United Kingdom surged, total overseas visitation for June was down from last year.",
+      "source": "Skift"
+    },
     {
       "title": "Who Gets Anko\u2019s Old Job? Contenders for the Next SAS CEO",
       "link": "https://skift.com/2026/07/14/who-gets-ankos-old-job-contenders-for-the-next-sas-ceo/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "When Hospitality Fails, The Problem Might Be the Guest",
-      "link": "https://skift.com/2026/07/13/when-hospitality-fails-the-problem-might-be-the-guest/",
-      "published": "Mon, 13 Jul 2026 14:59:56 +0000",
-      "summary": "The best hospitality is not a flawless one-way delivery. It is an exchange \u2014 and the guest has to bring attention, curiosity, and presence.",
-      "source": "Skift"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: fresh attacks target Bahrain and Jordan as US-Iran tensions deepen - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0o0Tm9tUk1HSWs5NGhNQkdpT2ZFbm5hdVd4djFZc25zaDJYRWJHTnJHQzc1OVBaZFVYaGNUQ2xaLTZ5b0w0Ui1pX0dyZGY4MDRRaml4QXB5dXdZS2JWdy0yeFJNUUk2QV9oMVM2bWRVVTl0ZUE4MFROVlBpSXFZRUw4V202TWN0V2hXeUVCVVk3d1dfS3pRTGlPTXJKWFliUDVNWExHYTZWNUhqUFBqeUhqWWo3T2RhLXMzeTFJY3B3UUdQMW9GazdrTDQxeUVmVmJzbzA4ano1cVVMRU5lQ2dQVGdWUzFpclE?oc=5",
       "published": "Tue, 14 Jul 2026 09:10:39 GMT",
@@ -84,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "London Aligns With Manchester, Birmingham and Edinburgh Travelers as US, Canada, Australia, India and Africa Issue Gulf Advisories With Millions of Passengers Facing Rerouting, Travel Insurance Concerns and Flight Disruption Risks - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBabkpFUEdHUUhITGp1cXRmTEs2TTdfTlNsMFRKSU00NVBrNThwMklZcTF0T0xmWWdoenN2QjZiSGdTd3oyclNxNXdNZTV2YmFfcmJFZmVyVU5EZjVmWjlGOV9qWWY0WnlLem1UajF3?oc=5",
-      "published": "Tue, 14 Jul 2026 08:12:36 GMT",
-      "summary": "London Aligns With Manchester, Birmingham and Edinburgh Travelers as US, Canada, Australia, India and Africa Issue Gulf Advisories With Millions of Passengers Facing Rerouting, Travel Insurance Concerns and Flight Disruption Risks&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Middle East flight updates: Air Astana halts UAE flights, Jazeera Airways issues travel advisory - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXEwVXNRVjJEd3lZVEI4ZDk0VXZsQl9SZjZpMjNYSXJZQXRCU2x2MzRaSU1zWW1SU2R3UndOSmJWN0txYVE2dVJmNHRMUnV1R1llUkdHWlB0U0NPemRBbm9JWXdCekc1MTlGeFdmVkwxRGhDbkdROEVsdG1vYjAxREg1NlcyTDhIRTRyN3NB?oc=5",
       "published": "Tue, 14 Jul 2026 07:01:07 GMT",
@@ -98,24 +91,31 @@
       "source": "Google News Travel"
     },
     {
+      "title": "London Aligns With Manchester, Birmingham and Edinburgh Travelers as US, Canada, Australia, India and Africa Issue Gulf Advisories With Millions of Passengers Facing Rerouting, Travel Insurance Concerns and Flight Disruption Risks - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBabkpFUEdHUUhITGp1cXRmTEs2TTdfTlNsMFRKSU00NVBrNThwMklZcTF0T0xmWWdoenN2QjZiSGdTd3oyclNxNXdNZTV2YmFfcmJFZmVyVU5EZjVmWjlGOV9qWWY0WnlLem1UajF3?oc=5",
+      "published": "Tue, 14 Jul 2026 08:12:36 GMT",
+      "summary": "London Aligns With Manchester, Birmingham and Edinburgh Travelers as US, Canada, Australia, India and Africa Issue Gulf Advisories With Millions of Passengers Facing Rerouting, Travel Insurance Concerns and Flight Disruption Risks&nbsp;&nbsp;Travel And Tour World",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Lebanon Aligns With Iraq, Palestine, Syria and Others as Australia Raises Emergency Travel Concerns Across the Middle East With Growing Conflict Risks, Airspace Uncertainty, Flight Disruptions and Fresh Security Warnings for Global Travellers Amid Escal - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mY3NlMTJMQzcwY3BPS3pHa3ozN1A0SE9Ca0EtSzVWNE91UktIMHZ3a1B4bGxLQ1diZVVvaEFYQTZJeTNDZ1NfOVZiM0J0OEpJRVlxR0M3UXZJcXBiVWs3T0phc3BKTk95am56MmFB?oc=5",
+      "published": "Mon, 13 Jul 2026 07:45:30 GMT",
+      "summary": "Lebanon Aligns With Iraq, Palestine, Syria and Others as Australia Raises Emergency Travel Concerns Across the Middle East With Growing Conflict Risks, Airspace Uncertainty, Flight Disruptions and Fresh Security Warnings for Global Travellers Amid Escal&nbsp;&nbsp;Travel And Tour",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVJPYTVBWW9jTHZjRS1vSlZtUi1WRjFLUkxSVl9UaHNrR1otR0p0TGNoZEZBQWNBYXhBLVdjLTc4WHpacC15ank0aGM0T25udVF1T0hoUGtBVnRKZVZsY1JMS1JqS3hWamJ0aFZZM0xoSkVEd1FLanoyU1FhZlc0RVQzUUNYTWVhSnVPOGh5SGRyUWotRmduUk45eXhlOW0zRl9Nd0JqaEV6Vmp3RVFFS3pkcGVKcjVrTFB2clFGOVZuV240NWhaN1V2UVZtZw?oc=5",
+      "published": "Sat, 11 Jul 2026 06:59:17 GMT",
+      "summary": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
       "title": "UAE residents' update: Tanker attacks, flights, travel, and advisories amid US-Iran strike - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG9PemtIUmcxdXFyczRzZWFWV0ZtZHhfT014SW9WVjNZSjI3dGlJQmp3NnNnNmZMdE9LU1NtdGp0TzF2S2NoOEI5S1FvUUQwemtyLVg3ZXhKRjBTMEVsRExnODQ4R2hjU3pXcmNVdEVyUEpjdlNfYlBmc0tUemJyX1pDWWhsblVKbklPWlBTWGo5dl9TaUF1ekpPc0JLTWNQb0RyYkdFUnptM1g0X25lZjZxWFFJVmVsbzA2TG95RQ?oc=5",
       "published": "Tue, 14 Jul 2026 11:21:26 GMT",
       "summary": "UAE residents' update: Tanker attacks, flights, travel, and advisories amid US-Iran strike&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US-Iran Conflict Fallout Puts Gulf Travel Routes Under Pressure as UAE, Oman, Qatar and Saudi Arabia Enter FCDO Warning Spotlight With Dubai, Abu Dhabi and Doha Aviation Hubs Facing Flight Disruptions, Security Risks and Regional Uncertainty - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcjRodjFsMFNRMDFKZ3dIaE5iVHB2UXhoVEZmR2tkeE96aWc0QndLQ2c2S010U0s4QUlGNUVkSGJXaTZXNVZqUVhQczhrQTNDXzFjREFjdmJtX1Q5cnRPeDNka05acjVUMF9DSkh3?oc=5",
-      "published": "Tue, 14 Jul 2026 11:33:34 GMT",
-      "summary": "US-Iran Conflict Fallout Puts Gulf Travel Routes Under Pressure as UAE, Oman, Qatar and Saudi Arabia Enter FCDO Warning Spotlight With Dubai, Abu Dhabi and Doha Aviation Hubs Facing Flight Disruptions, Security Risks and Regional Uncertainty&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Gulf airlines keep planes in the sky despite renewed Iran conflict - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzYzMGJkekRhbVJWWlVneG1ZZmNNRmZ2cGtnRGE3VG9rRGdPRC1Ra3NfdkN5YTJRLUJvcXFLaE5IY29ZYXJYVzhtQTVVRWZ5bGU0TjFHckdzUmFRRFBIbDhVcDI1Yl9qeC1CR1c3Qkk2d3VZdVVrNHZGVjczdTlIVTZwSFUzNmJNcFlSNXZQSlQ3cHA0akotMEdFSTg2YkV4eTlBcFlMS1d2LTNIdGJiWTk3N3ZSXzQ?oc=5",
-      "published": "Mon, 13 Jul 2026 16:55:33 GMT",
-      "summary": "Gulf airlines keep planes in the sky despite renewed Iran conflict&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     }
   ]
