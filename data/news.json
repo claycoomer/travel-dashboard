@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-07-16T17:01:37.800572+00:00",
+  "last_updated": "2026-07-16T20:44:17.129464+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Hilton\u2019s Chris Nassetta: Why 28 Brands Aren\u2019t Too Many and the \u2018Bazillion Points\u2019 Problem",
+      "link": "https://skift.com/2026/07/16/hiltons-chris-nassetta-why-28-brands-isnt-too-many-and-the-bazillion-points-problem/",
+      "published": "Thu, 16 Jul 2026 19:26:48 +0000",
+      "summary": "Hilton CEO Chris Nassetta defended the company&apos;s need for 28 brands as a data-driven strategy rather than sprawl, while also pointing to AI as the next lever for fixing guest problems in the moment.",
+      "source": "Skift"
+    },
+    {
+      "title": "Travel\u2019s Creator Economy Doesn\u2019t Need a Million Followers. It Needs Proof It Converts.",
+      "link": "https://skift.com/2026/07/16/small-content-creators-marketing-spend-travel/",
+      "published": "Thu, 16 Jul 2026 18:42:30 +0000",
+      "summary": "Brands spent years building creator partnerships around follower counts. Now, they&apos;re increasingly after deals they know drive real sales.",
+      "source": "Skift"
+    },
+    {
+      "title": "Brussels Airlines Taps ITA Airways Exec for CEO",
+      "link": "https://skift.com/2026/07/16/brussles-airlines-taps-ita-airways-exec-for-ceo/",
+      "published": "Thu, 16 Jul 2026 17:58:41 +0000",
+      "summary": "Incoming Brussels Airlines CEO Lorenza Maggio oversaw ITA Airways\u2019 merger into Lufthansa Group, which was one of the fastest integrations in the company\u2019s history.",
+      "source": "Skift"
+    },
+    {
+      "title": "Say Goodbye to $9 Tickets. Higher Fares Are Here to Stay, United CEO Says",
+      "link": "https://skift.com/2026/07/16/higher-fares-are-here-to-stay-united-ceo-says/",
+      "published": "Thu, 16 Jul 2026 17:25:54 +0000",
+      "summary": "United CEO Scott Kirby argues that surging fuel costs aren\u2019t entirely responsible for higher airfares. Instead airlines are capitalizing on more pricing power driven by ballooning operating costs and a readjustment in domestic capacity.",
+      "source": "Skift"
+    },
+    {
+      "title": "Fora Travel the Unicorn: It Raised $60 Million at a $1 Billion Valuation",
+      "link": "https://skift.com/2026/07/16/fora-travel-the-unicorn-it-raised-60-million-at-a-1-billion-valuation/",
+      "published": "Thu, 16 Jul 2026 17:07:34 +0000",
+      "summary": "Fora Travel has carved out a nice niche for itself as it taps into the desires of a younger generation of travel advisors passionate about travel and looking for side hustles. Its $1 billion valuation came after just five years in business.",
+      "source": "Skift"
+    },
     {
       "title": "MakeMyTrip Set to File for India IPO at $1 Billion-Plus: Report",
       "link": "https://skift.com/2026/07/16/makemytrip-set-to-file-for-india-ipo-at-1-billion-plus-report/",
@@ -28,39 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "The Business Value of Skift Global Forum",
-      "link": "https://skift.com/2026/07/16/business-value-of-skift-global-forum/",
-      "published": "Thu, 16 Jul 2026 11:00:00 +0000",
-      "summary": "Distribution is up for grabs, AI is in the core systems, capital has gotten careful, and loyalty is being redefined. Skift Global Forum is where travel decides what to do about it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Omio to Buy Rail Europe, Consolidating Ground Transport \u2014 Exclusive",
-      "link": "https://skift.com/2026/07/16/omio-to-buy-rail-europe-consolidating-ground-transport-exclusive/",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "summary": "By absorbing Rail Europe, a 5-million-ticket rail seller with 90-plus years of operator ties, Omio is consolidating one of travel&apos;s most fragmented, hard-to-book corners \u2014 and laying groundwork for when AI agents book trips, not just suggest them.",
-      "source": "Skift"
-    },
-    {
-      "title": "JetBlue Ties Loyalty Points to Flight Financing",
-      "link": "https://skift.com/2026/07/15/jetblue-loyalty-points-bnpl-flight-financing-claritypay/",
-      "published": "Wed, 15 Jul 2026 22:52:47 +0000",
-      "summary": "The airline&apos;s frequent flyer program was built to reward spending. JetBlue is using it as a pipeline to finance spending \u2014 and letting customers earn points for the privilege of paying interest.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel + Leisure Buys Into Maui and Hilton Head in $343 Million Deal",
-      "link": "https://skift.com/2026/07/15/travel-leisure-buys-into-maui-and-hilton-head-in-343-million-deal/",
-      "published": "Wed, 15 Jul 2026 22:44:14 +0000",
-      "summary": "The timeshare secret runs best on people who already said yes. So when it gets harder to land first-time buyers, buy someone else&apos;s customers.",
-      "source": "Skift"
-    },
-    {
-      "title": "United Airlines Raises Outlook, Higher Fares Offset $6 Billion in Added Fuel Expense",
-      "link": "https://skift.com/2026/07/15/united-airlines-raises-outlook-higher-fares-offset-fuel-expens/",
-      "published": "Wed, 15 Jul 2026 21:05:21 +0000",
-      "summary": "United is betting that it will continue to see high travel demand in the second half of 2026 as it stares down at an additional $6 billion in fuel costs.",
-      "source": "Skift"
+      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
+      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
+      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
     },
     {
       "title": "Dubai and Middle East flight disruption: the latest as Kuwait and Jordan face further attacks amid US-Iran escalation - Cond\u00e9 Nast Traveller Middle East",
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Kuwait Aligns With Qatar, UAE, Oman, Saudi Arabia And More Countries Across Middle East As UK Issues Fresh Travel Alert After US-Iran MOU Collapse Triggers New Regional Uncertainty, Warning Millions Of Travellers About Security Threats, Flight Disrupti - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12WGlfc2FKRHpkQ1FpdzVPUzl0ZGhQbmpLdWswdnM3aHhLQ3FyS3pKalNaaTdzdDdsVUpRaFhxQmVBeVdudTFpQW1NZ2VzVHpOWHhyN1Nibmh4cG83Y1A3azVjcGo0Mno0UjhJbVNn?oc=5",
-      "published": "Thu, 16 Jul 2026 09:51:37 GMT",
-      "summary": "Kuwait Aligns With Qatar, UAE, Oman, Saudi Arabia And More Countries Across Middle East As UK Issues Fresh Travel Alert After US-Iran MOU Collapse Triggers New Regional Uncertainty, Warning Millions Of Travellers About Security Threats, Flight Disrupti&nbsp;&nbsp;Travel And Tour ",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026 - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVJPYTVBWW9jTHZjRS1vSlZtUi1WRjFLUkxSVl9UaHNrR1otR0p0TGNoZEZBQWNBYXhBLVdjLTc4WHpacC15ank0aGM0T25udVF1T0hoUGtBVnRKZVZsY1JMS1JqS3hWamJ0aFZZM0xoSkVEd1FLanoyU1FhZlc0RVQzUUNYTWVhSnVPOGh5SGRyUWotRmduUk45eXhlOW0zRl9Nd0JqaEV6Vmp3RVFFS3pkcGVKcjVrTFB2clFGOVZuV240NWhaN1V2UVZtZw?oc=5",
-      "published": "Sat, 11 Jul 2026 06:59:17 GMT",
-      "summary": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Dubai and Middle East flight disruption: Gulf countries face fresh wave of attacks as US-Iran tensions deepen - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2xUZlVNdGVhOHVEdjlLcWJJbm1KQjdKVVRWdERNcGprRzB3YjhBdVNpakUyV3RtcTY5R0FHeDlMZDhFWkpxTkoyM19feVhqblV4YzdIY1U3Y204RDhudlc2Z1loN0RkOUxBYlFqRjI1SWp5YVVCbXhpSFhIa0hMOEpfanV5amZHS256VlJRWXc2cVdmMUhlN09xWFBLVkxaekdmbEFtcTR0SEx3WEZfUU4tNmc1U3V5M25sMWtCb3lYRkY3OFZVRDdfbG1lUm9uVm55SmVmbksyNGVT?oc=5",
+      "published": "Mon, 13 Jul 2026 11:25:21 GMT",
+      "summary": "Dubai and Middle East flight disruption: Gulf countries face fresh wave of attacks as US-Iran tensions deepen&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
