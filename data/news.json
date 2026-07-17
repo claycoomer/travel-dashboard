@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-17T13:01:22.564944+00:00",
+  "last_updated": "2026-07-17T16:57:57.277116+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Allegiant, Long an OTA Holdout, Signs an Exclusive Deal With Expedia",
+      "link": "https://skift.com/2026/07/17/allegiant-long-an-ota-holdout-signs-an-exclusive-deal-with-expedia/",
+      "published": "Fri, 17 Jul 2026 14:55:13 +0000",
+      "summary": "A shrinking number of airlines shun online travel agency distribution. Allegiant&apos;s deal with Expedia Group means it abandoned its direct-distribution-only strategy \u2014 one that it touted as advantageous as late as February 2026.",
+      "source": "Skift"
+    },
     {
       "title": "Delta Adds LAX-Manila Route as the Battle for West Coast and Asia Heats Up",
       "link": "https://skift.com/2026/07/17/delta-adds-lax-manila-route/",
@@ -56,17 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Air India Rebuilds Its App With In-House Booking, Payments, and AI",
-      "link": "https://skift.com/2026/07/16/air-india-rebuilds-its-app-with-in-house-booking-payments-and-ai/",
-      "published": "Thu, 16 Jul 2026 13:44:53 +0000",
-      "summary": "Yes, they made the app better and nicer! But the bigger story is that Air India is angling for a future where your flight, hotel and cab all get booked (and fixed, if something goes wrong) as one thing, not three separate headaches.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
-      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
-      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
+      "published": "Fri, 17 Jul 2026 15:40:00 GMT",
+      "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -81,6 +81,13 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWW9faUlwRFhWeHAxWkxfTjFTc0dVd0JOWTdNb2phVTR6TjVuOUs1QnNYcGlEeGxKMnBSYjFrMGZabmNGeHp1azBlUFp5Vm9rTWV0Q1ZBM200Q2kzcGRRRDg1M2RMWHVEcEwxRk1NT1BhWDJ5ck84dGl3aTdSQzZGS09yUGtNc2NPZzFmX2xxMEpINmtKWWRlcUEzbFdOTW9qOHR4d1ptUWE5Qk81dTU1c1ZUdmZDUFk1N1FqbUZzWXg2TFVtbDFNNjFURGV6ZmpneXBzS2RyX29nN3N0MEhkdmlvT1l5QdIB5gFBVV95cUxQWW9faUlwRFhWeHAxWkxfTjFTc0dVd0JOWTdNb2phVTR6TjVuOUs1QnNYcGlEeGxKMnBSYjFrMGZabmNGeHp1azBlUFp5Vm9rTWV0Q1ZBM200Q2kzcGRRRDg1M2RMWHVEcEwxRk1NT1BhWDJ5ck84dGl3aTdSQzZGS09yUGtNc2NPZzFmX2xxMEpINmtKWWRlcUEzbFdOTW9qOHR4d1ptUWE5Qk81dTU1c1ZUdmZDUFk1N1FqbUZzWXg2TFVtbDFNNjFURGV6ZmpneXBzS2RyX29nN3N0MEhkdmlvT1l5QQ?oc=5",
       "published": "Wed, 15 Jul 2026 13:27:28 GMT",
       "summary": "Houthis attack on Saudi\u2019s Abha airport triggers fresh travel warnings as flights cancelled again&nbsp;&nbsp;The Indian Express",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
+      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
+      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE travel update: Abha flights remain suspended, Etihad delays Toronto service, airlines issue fresh advisories - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWkQxSTcxeXhVdFZ6aHg0ZVVXQzJtTVhVUTRfZlpVclVwR2EycHY5Z3B0Q25selNzR2N3UnRKSFBGeHh4WXRMVmVOUFNvV0dGSGo3X1VCNDVaa3JFWk1KZS0zN3NWcGxZcFo2akVxWlphQUtnQVJwN0VWaHdDTl9SMlU3TG4yZ3JCS2w1azJxMTBLcnREMWZEWUlKR18wREY3bDY2WXF2emo3Y2R6OU5paU1jUWhvejd0Mjk1MlNvZERCa242VGwtbm5yaVdmTjE1NjBydEtUQ0tzcEE0dUc5UDNRcw?oc=5",
-      "published": "Fri, 17 Jul 2026 06:17:45 GMT",
-      "summary": "UAE travel update: Abha flights remain suspended, Etihad delays Toronto service, airlines issue fresh advisories&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026 - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVJPYTVBWW9jTHZjRS1vSlZtUi1WRjFLUkxSVl9UaHNrR1otR0p0TGNoZEZBQWNBYXhBLVdjLTc4WHpacC15ank0aGM0T25udVF1T0hoUGtBVnRKZVZsY1JMS1JqS3hWamJ0aFZZM0xoSkVEd1FLanoyU1FhZlc0RVQzUUNYTWVhSnVPOGh5SGRyUWotRmduUk45eXhlOW0zRl9Nd0JqaEV6Vmp3RVFFS3pkcGVKcjVrTFB2clFGOVZuV240NWhaN1V2UVZtZw?oc=5",
-      "published": "Sat, 11 Jul 2026 06:59:17 GMT",
-      "summary": "Delta Air Lines Leads US Flight Cancellations Amid Severe New York Hub Disruptions in July 2026&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     }
   ]
