@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-17T20:41:52.557066+00:00",
+  "last_updated": "2026-07-18T01:22:06.908354+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop",
+      "link": "https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/",
+      "published": "Fri, 17 Jul 2026 22:13:34 +0000",
+      "summary": "Airbnb&apos;s partnership with CarTrawler on car rentals is Airbnb&apos;s latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia brand, which will compete with Airbnb on car rentals.",
+      "source": "Skift"
+    },
     {
       "title": "The Travel Industry Was Banking on a World Cup Windfall. Here\u2019s What the Numbers Show.",
       "link": "https://skift.com/2026/07/17/world-cup-impact-on-travel-industry/",
@@ -56,17 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "Brussels Airlines Taps ITA Airways Exec for CEO",
-      "link": "https://skift.com/2026/07/16/brussles-airlines-taps-ita-airways-exec-for-ceo/",
-      "published": "Thu, 16 Jul 2026 17:58:41 +0000",
-      "summary": "Incoming Brussels Airlines CEO Lorenza Maggio oversaw ITA Airways\u2019 merger into Lufthansa Group, which was one of the fastest integrations in the company\u2019s history.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
       "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "United Airlines Issues Air Quality Advisory For 17 Different U.S. Airports - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2hIWjR5d2tsMjEwV2J3RFh5NWZaQnFZd2xxN3VGUnpCU0ZCb2gzRjFGOGtMRGJCS1EyMjd1NkFQenlBdUtoLVFrc0dEenZxS0paNHBVLXRvbW51cFhwTEcya3cyaFJ2aTF2UUdoRmMzVXdyQWlvc3VieWhOTi15dTJlTmx5b0pjejFwUXV4UzQ0Z0xORE1kMTQzU1ZlcjdT?oc=5",
+      "published": "Fri, 17 Jul 2026 18:30:10 GMT",
+      "summary": "United Airlines Issues Air Quality Advisory For 17 Different U.S. Airports&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkJLNWJxWnNPNWxBLXhYWThJVjZ2eDB1MWdwNVItNWtUc3UyaWtQTXpCbjkzY3NETF91S3F4LTVvbnVxSFRHWVVMMjhhbHI2b3ZhVTdBYjk4MmxEeTdfN1hzOUY4LTFMRUFtbzN5V1p1X0o5RGN0VHI4V3g0T1BoUC1MaXZ1LUtnYjlkVjZTcmFRZEU4Yy1HUlROOGxwZVVURF9rOWN0S0NSSlMzVDY1cVEtNFlvUHZQQ2NNdXJYU1lQREJDbGVj0gHbAUFVX3lxTE1veGVzQnI1eDFxQ2tzSWs1X3hzaXZrRHRxUVFzanV1VnVxbGRNUU1SdXNJSGVxVUQ2WmVSVnFjVlJtRVg4TGpzS1NLNkRtQjNwYzNzQW0zLW4wVFFnNjJiMDFadFVaU1p2aUwxNzFZb0JZeUZjSzFBVldmLVhLbklMOEVZM04ybVVvbzE5ZjdiV3hqU1g3NnBfTFk4MEFXUjRJZUpkSzVBd2JwRkR5ZEc2OFZyTjZKWTB6VkZ6djdMN1BvekxweTA1Y09RTjBGOXdBeUpUUlUzdnpCOA?oc=5",
+      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
+      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;AL.com",
       "source": "Google News Travel"
     },
     {
@@ -77,17 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Houthis attack on Saudi\u2019s Abha airport triggers fresh travel warnings as flights cancelled again - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWW9faUlwRFhWeHAxWkxfTjFTc0dVd0JOWTdNb2phVTR6TjVuOUs1QnNYcGlEeGxKMnBSYjFrMGZabmNGeHp1azBlUFp5Vm9rTWV0Q1ZBM200Q2kzcGRRRDg1M2RMWHVEcEwxRk1NT1BhWDJ5ck84dGl3aTdSQzZGS09yUGtNc2NPZzFmX2xxMEpINmtKWWRlcUEzbFdOTW9qOHR4d1ptUWE5Qk81dTU1c1ZUdmZDUFk1N1FqbUZzWXg2TFVtbDFNNjFURGV6ZmpneXBzS2RyX29nN3N0MEhkdmlvT1l5QdIB5gFBVV95cUxQWW9faUlwRFhWeHAxWkxfTjFTc0dVd0JOWTdNb2phVTR6TjVuOUs1QnNYcGlEeGxKMnBSYjFrMGZabmNGeHp1azBlUFp5Vm9rTWV0Q1ZBM200Q2kzcGRRRDg1M2RMWHVEcEwxRk1NT1BhWDJ5ck84dGl3aTdSQzZGS09yUGtNc2NPZzFmX2xxMEpINmtKWWRlcUEzbFdOTW9qOHR4d1ptUWE5Qk81dTU1c1ZUdmZDUFk1N1FqbUZzWXg2TFVtbDFNNjFURGV6ZmpneXBzS2RyX29nN3N0MEhkdmlvT1l5QQ?oc=5",
-      "published": "Wed, 15 Jul 2026 13:27:28 GMT",
-      "summary": "Houthis attack on Saudi\u2019s Abha airport triggers fresh travel warnings as flights cancelled again&nbsp;&nbsp;The Indian Express",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
-      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
-      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
+      "title": "Houthis attack on Saudi\u2019s Abha airport triggers travel warnings as flights cancelled again - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNmVpcGxwQWloUHFqMWNvWEx5TkdablI4bjJPZmxhbHY3ZTZaVHhRelZuVTFEYlR5Q1dtemozaC1aa2gxZklwMkhkdlZNd1BSTVR5UjFfZ280bHBNTUtrMW9Mekg4OTVwUi1icHVMazlZaTNITThWTlRWUDQ3U1lTMFdqOEY2TW1jaGp2ajM3cFRDdHFNNVJqNXdOLVA1dHI2XzVrT2RxVF81MTBueGV3Z3dKS1U0anQySnJlR29IMkFqMzR6SXp4eThRNS05dkwtMjFVSEtCbV8telMyc2tr0gHmAUFVX3lxTFBZb19pSXBEWFZ4cDFaTF9OMVNzR1V3Qk5ZN01vamFVNHpONW45SzVCc1hwaUR4bEoycFJiMWswZlpuY0Z4enVrMGVQWnlWb2tNZXRDVkEzbTRDaTNwZFFEODUzZExYdURwTDFGTU1PUGFYMnlyTzh0aXdpN1JDNkZLT3JQa01zY09nMWZfbHEwSkg2a0pZZGVxQTNsV05Nb2o4dHh3Wm1RYTlCTzV1NTVzVlR2ZkNQWTU3UWptRnNZeDZMVW1sMU02MVREZXpmamd5cHNLZHJfb2c3c3QwSGR2aW9PWXlB?oc=5",
+      "published": "Wed, 15 Jul 2026 12:24:29 GMT",
+      "summary": "Houthis attack on Saudi\u2019s Abha airport triggers travel warnings as flights cancelled again&nbsp;&nbsp;The Indian Express",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXEwVXNRVjJEd3lZVEI4ZDk0VXZsQl9SZjZpMjNYSXJZQXRCU2x2MzRaSU1zWW1SU2R3UndOSmJWN0txYVE2dVJmNHRMUnV1R1llUkdHWlB0U0NPemRBbm9JWXdCekc1MTlGeFdmVkwxRGhDbkdROEVsdG1vYjAxREg1NlcyTDhIRTRyN3NB?oc=5",
       "published": "Tue, 14 Jul 2026 07:00:00 GMT",
       "summary": "Middle East flight updates: Air Astana halts UAE flights, Jazeera Airways issues travel advisory&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     }
   ]
