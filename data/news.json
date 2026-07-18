@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-18T09:14:25.686636+00:00",
+  "last_updated": "2026-07-18T12:48:11.824052+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Ari Emanuel Is Assembling a Live Tourism Conglomerate",
+      "link": "https://skift.com/2026/07/18/ari-emanuel-is-assembling-a-live-tourism-conglomerate/",
+      "published": "Sat, 18 Jul 2026 12:16:48 +0000",
+      "summary": "The companies that originate trips do not need to call themselves travel companies to capture travel&apos;s economics, and Ari Emanuel is demonstrating it across three of them.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop",
       "link": "https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Travel\u2019s Creator Economy Doesn\u2019t Need a Million Followers. It Needs Proof It Converts.",
-      "link": "https://skift.com/2026/07/16/small-content-creators-marketing-spend-travel/",
-      "published": "Thu, 16 Jul 2026 18:42:30 +0000",
-      "summary": "Brands spent years building creator partnerships around follower counts. Now, they&apos;re increasingly after deals they know drive real sales.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Now, United States Urges UAE, Qatar, Saudi Arabia, Bahrain and Jordan Travelers to Check the Latest US Travel Advisories and Security Updates Amid Rising Middle East Tensions, Flight Disruptions and Airspace Uncertainty - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucENjSnNYeVVmWG9IYkJyNlJiVlZ1RkZ5anExVGxBYWlDYlhUUUhCMlNlTkZzNHplVkV4RDhGbDVIYWFvRVE2NGw5bHBxd2p1VUl0Q2h1clluSDRBU0dtME1veVNuanlmZERVc1pR?oc=5",
-      "published": "Sat, 18 Jul 2026 03:08:09 GMT",
-      "summary": "Now, United States Urges UAE, Qatar, Saudi Arabia, Bahrain and Jordan Travelers to Check the Latest US Travel Advisories and Security Updates Amid Rising Middle East Tensions, Flight Disruptions and Airspace Uncertainty&nbsp;&nbsp;Travel And Tour World",
+      "title": "US Aligns with Canada and Australia in Updating New Middle East Travel Advisory for UAE, Saudi Arabia, Bahrain, Qatar and Others Amid High Regional Tensions, Widespread Flight Disruptions and Risks of Sudden Escalation - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDR0xGMDhkVko1X21icld5cWFwdGJCY3RBSG5KTXpoZnlKSG42MzR5UXFLcnVwSkxsX3J6VlR5RmtUWWpZSnJzX2NQeWM5V09qaVBRU3prUWJfM1RoTFhjZkQ0cUFfT3FWYUZIdlR3?oc=5",
+      "published": "Sat, 18 Jul 2026 10:05:13 GMT",
+      "summary": "US Aligns with Canada and Australia in Updating New Middle East Travel Advisory for UAE, Saudi Arabia, Bahrain, Qatar and Others Amid High Regional Tensions, Widespread Flight Disruptions and Risks of Sudden Escalation&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Issues Urgent Middle East Travel Warning as Iran, Qatar, Saudi Arabia and Kuwait Face Escalating Military Tensions, Rising Security Risks, Flight Disruptions, Strait of Hormuz Uncertainty and New Challenges for Global Travellers - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdTQ3Y3oyXzB1UmtsaGpENGdvQ3lTemhsR3BHRjdKUTBhYllvNDFwZGVJNTRsaG1GQjZfc1RkRDN5T1ZMWlZJTVhIVmZOWXJIRWJQa3ZOMmt0VTJJSnk1Q0VSeVpuUDJGN3ZjaXlR?oc=5",
-      "published": "Sat, 18 Jul 2026 07:53:03 GMT",
-      "summary": "US Issues Urgent Middle East Travel Warning as Iran, Qatar, Saudi Arabia and Kuwait Face Escalating Military Tensions, Rising Security Risks, Flight Disruptions, Strait of Hormuz Uncertainty and New Challenges for Global Travellers&nbsp;&nbsp;Travel And Tour World",
+      "title": "Now, United States Urges UAE, Qatar, Saudi Arabia, Bahrain and Jordan Travelers to Check the Latest US Travel Advisories and Security Updates Amid Rising Middle East Tensions, Flight Disruptions and Airspace Uncertainty - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucENjSnNYeVVmWG9IYkJyNlJiVlZ1RkZ5anExVGxBYWlDYlhUUUhCMlNlTkZzNHplVkV4RDhGbDVIYWFvRVE2NGw5bHBxd2p1VUl0Q2h1clluSDRBU0dtME1veVNuanlmZERVc1pR?oc=5",
+      "published": "Sat, 18 Jul 2026 03:08:09 GMT",
+      "summary": "Now, United States Urges UAE, Qatar, Saudi Arabia, Bahrain and Jordan Travelers to Check the Latest US Travel Advisories and Security Updates Amid Rising Middle East Tensions, Flight Disruptions and Airspace Uncertainty&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     }
   ]
