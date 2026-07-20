@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-20T17:20:24.865266+00:00",
+  "last_updated": "2026-07-20T20:59:19.279870+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia\u2019s AI Timeline Runs Through Its Talent Strategy",
+      "link": "https://skift.com/2026/07/20/expedia-cto-ramana-thumu-ai-talent-strategy/",
+      "published": "Mon, 20 Jul 2026 19:44:23 +0000",
+      "summary": "Expedia is betting its product roadmap on replicating the outsized AI productivity of its elite engineers. According to its CTO, the strategy hinges on a race to hire and retain that talent \u2014 making the company&apos;s product timeline as much of a recruiting challenge as a techno",
+      "source": "Skift"
+    },
     {
       "title": "JetBlue Wins Spirit\u2019s LaGuardia Slots for $58.5 Million \u2014 Below Spirit\u2019s Own Estimate",
       "link": "https://skift.com/2026/07/20/jetblue-wins-spirits-coveted-slots-at-laguarda-for-58-5-million/",
@@ -56,11 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "Europe May Finally Charge International Flights for Emissions \u2014 U.S. and China Get a Pass",
-      "link": "https://skift.com/2026/07/17/europe-eu-ets-international-flights/",
-      "published": "Fri, 17 Jul 2026 18:56:43 +0000",
-      "summary": "Associations are unhappy with Europe\u2019s plans to make the aviation industry pay more for its international emissions \u2014 for different reasons. One side argues proposals don\u2019t go far enough, and the other says they shouldn\u2019t exist at all.",
-      "source": "Skift"
+      "title": "State Department issues rare warning for all Americans traveling abroad - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUhnNUhHVW5MMTc5TWpMaU13LTJpM25tLWFodHJ1RkUxN0FFT2xXOWgtNkpIMFMwWmtuSS14QUxhUE1hb1BmREZ6dnpJYmt2VV9jYWZJWE15MThmQXEzUnB4X01PTzd3MzVSUUlMN1N3cVFrQWkySDNUWnhKc2xod2tKVzRMUXFDMk96ZFF1Y1ZiUmhLVDVvVmZwOFh4enEyaXfSAacBQVVfeXFMTlN4UXM2M3pLSkpib2hUQW41X29SbDRpbXc5eDZDVnprQWIwMlhUcVdGaFoyZW84OHY0OWdtSFJ0V1JKN0NzYXhkUFlYNUJTNFpCLUZPdWRtUmVJWUlLLXFWQ2l2NHNmbkFsOGc1anRLWllwME9lRVI0T1JDYW5uekkycGNOcEhoWDBreGFoNW1rV21MeUdQYk9IeVZzZTdJYXNYaXUyQ1U?oc=5",
+      "published": "Mon, 20 Jul 2026 16:05:48 GMT",
+      "summary": "State Department issues rare warning for all Americans traveling abroad&nbsp;&nbsp;KTLA",
+      "source": "Google News Travel"
     },
     {
       "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2NBWk5nanRKX05WQjc4RWhsSjREZ2xXWHRRVWxqazB6VUVKckRQTHZpUFU3aXFacjRkd0pEV0JQb3VCVXc3YUxJSlc1UG96ck9fbEx4cmV1ejBOZmZZOTUwZEZ2YXFkSmswWHpYSk02T3FCWDBlSnJSWWxVRDV2TFBCS3ZnRVBuUEkyUjkxcE5jd19saWhLakhhdzBKOWNIdFM5cHg2Y2Z5cFhZRWJrZkFLWnBsRWJzOVk5RUR5WHU3RTg?oc=5",
       "published": "Sat, 18 Jul 2026 19:01:00 GMT",
       "summary": "American Airlines Issues Alert For 29 U.S. Airports As Canadian Smoke And Severe Weather Slow Travel&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: airlines extend route suspensions as US-Iran tensions intensify - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjZSRVNuSVZwa0JXaURMOFZ6aEdGVkJIb0I1WjB3OG9UejJRTEFERkxSWVN1QlJIMkM3V2pfTEtpdl9oYUFodmtvRHd4ZVdyUWwzQS1BWHY2akU0T3pCRTZSamJ5Ulc2ZnNrc3JXU0YwNFpvS3NVWVBrb3QybXpic2ZhSEZ4ejVBZXhlMnd0ZTBVLTh0RG53ZWxiYTNCT1BuLXpwNXNLUG5URFA3V3BfWTY3blNjSVZ1V1ZqejMzSWVDRXdhRWxMd01BUFNrQ2pfWjliLUpB?oc=5",
-      "published": "Fri, 17 Jul 2026 10:34:10 GMT",
-      "summary": "Dubai and Middle East flight disruption: airlines extend route suspensions as US-Iran tensions intensify&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
