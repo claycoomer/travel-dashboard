@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-21T13:13:47.462622+00:00",
+  "last_updated": "2026-07-21T17:05:42.749825+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Returning to Park Hyatt Tokyo: How a Great Hotel Survives a Renovation",
+      "link": "https://skift.com/2026/07/21/returning-to-park-hyatt-tokyo-how-a-great-hotel-survives-a-renovation/",
+      "published": "Tue, 21 Jul 2026 16:36:48 +0000",
+      "summary": "Park Hyatt Tokyo proves that preserving a great hotel is less about furniture than judgment. The renovation succeeds. The harder task now is ensuring the next generation of hoteliers can inherit the culture that made the building matter in the first place.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Quiet Reinvention of the Hotel Tax",
+      "link": "https://skift.com/2026/07/21/the-quiet-reinvention-of-the-hotel-tax/",
+      "published": "Tue, 21 Jul 2026 16:05:06 +0000",
+      "summary": "The modern American hotel tax was built on one Las Vegas idea from 1955. The argument now is over who controls the money.",
+      "source": "Skift"
+    },
     {
       "title": "Emirates\u2019 Sir Tim Clark on Retirement: \u2018It\u2019s Not Time\u2019",
       "link": "https://skift.com/2026/07/21/emirates-sir-tim-clark-on-retirement-its-not-time/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Travel Marketing\u2019s Next KPI Is Economic Impact, Not Impressions",
-      "link": "https://skift.com/2026/07/20/ai-economic-impact-travel-marketing/",
-      "published": "Mon, 20 Jul 2026 13:00:00 +0000",
-      "summary": "Travel marketers have become experts at measuring campaign activity. The challenge now is connecting that activity to visitation, traveler value, and economic impact while campaigns are still running. AI-powered measurement can optimize campaigns for business outcomes, not just m",
-      "source": "Skift"
-    },
-    {
-      "title": "How Thailand Is Trying to Win Back Chinese Tourists",
-      "link": "https://skift.com/2026/07/20/how-thailand-is-trying-to-win-back-chinese-tourists/",
-      "published": "Mon, 20 Jul 2026 12:18:25 +0000",
-      "summary": "Thailand is shifting from reassurance to access, betting that easier travel and deeper ties with China&apos;s interior will restore Chinese arrivals before rivals like Malaysia turn their gains into lasting market share.",
-      "source": "Skift"
-    },
-    {
       "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:26 GMT",
@@ -98,10 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - nj.com",
+      "title": "Serious new travel alert issued to Americans worldwide - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkdyUzdXVTVSSUdDZW9wd2FCbHd4RGtMemN6b3NKbGVRaERzLVFVNDQ0WU1YNlROdC13cEtITWNUQTlVY0g1NzRoUWY5RGNsdFlvQ1FIaFY0ODhLQlRadkZMeXY4RmFlNlhNZmlWcWRXTVZtbWJkN1dwa0Y1NUpONm5TTnBjM0F5anZjaXl2LUF4c1JfcGfSAaoBQVVfeXFMTWpIRWVZM0U3bE1tZmFlN2E1aHBJdElZejNGZVNwalVpdF9pX3VBN3FPR1dRVnVFbWswTURvM0MtSFFxenNDQVpkWGFDQkdYUGhWU1h2YW0tZUdwTVBsX1RzVXpaTUFBb0QwN0E1SkM4eFUyY0g2cFVVcUx4ZFZ0Ty01MnBOV2UzRlh0Z19LOTRoY0RkamtUMUVlVjU1bDZmSXUyTExkcEEzSGc?oc=5",
+      "published": "Mon, 20 Jul 2026 11:12:00 GMT",
+      "summary": "Serious new travel alert issued to Americans worldwide&nbsp;&nbsp;AL.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
-      "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;nj.com",
+      "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDFwNEM3RHFtUDFWZE9qdHhEQ3VOMkR2RjBmcVQ3RGZhMkV3RmRNeExBZi1FMzQ0bnFXaEhxcUxJclVabmp5RFRyRTEzT0RhRHJFeDhnWVVwVElWZ0cyWDZscXB2elAtdmxoSS1CTERRbTJKaEJaUjdnSHpERF9Cc2hwaTFraVpQOE9JOUJqYjJWb0x6SFh4djJaaFRENDExWEdYczYwWTNLNURt?oc=5",
       "published": "Tue, 21 Jul 2026 10:50:10 GMT",
       "summary": "Delta Air Lines Cancels The Most Flights Worldwide As New Travel Warnings Are Issued For Its Major Hubs&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkJLNWJxWnNPNWxBLXhYWThJVjZ2eDB1MWdwNVItNWtUc3UyaWtQTXpCbjkzY3NETF91S3F4LTVvbnVxSFRHWVVMMjhhbHI2b3ZhVTdBYjk4MmxEeTdfN1hzOUY4LTFMRUFtbzN5V1p1X0o5RGN0VHI4V3g0T1BoUC1MaXZ1LUtnYjlkVjZTcmFRZEU4Yy1HUlROOGxwZVVURF9rOWN0S0NSSlMzVDY1cVEtNFlvUHZQQ2NNdXJYU1lQREJDbGVj0gHbAUFVX3lxTE1veGVzQnI1eDFxQ2tzSWs1X3hzaXZrRHRxUVFzanV1VnVxbGRNUU1SdXNJSGVxVUQ2WmVSVnFjVlJtRVg4TGpzS1NLNkRtQjNwYzNzQW0zLW4wVFFnNjJiMDFadFVaU1p2aUwxNzFZb0JZeUZjSzFBVldmLVhLbklMOEVZM04ybVVvbzE5ZjdiV3hqU1g3NnBfTFk4MEFXUjRJZUpkSzVBd2JwRkR5ZEc2OFZyTjZKWTB6VkZ6djdMN1BvekxweTA1Y09RTjBGOXdBeUpUUlUzdnpCOA?oc=5",
-      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
-      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;AL.com",
       "source": "Google News Travel"
     }
   ]
