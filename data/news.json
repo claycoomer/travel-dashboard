@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-21T06:21:13.161644+00:00",
+  "last_updated": "2026-07-21T10:13:19.208382+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The U.S. Passport Is Stuck, The UAE\u2019s Is Gaining Fast",
+      "link": "https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/",
+      "published": "Tue, 21 Jul 2026 08:00:00 +0000",
+      "summary": "Passport rankings are a lagging indicator of something travel companies should watch in real time: how easily \u2014 and where \u2014 a country&apos;s citizens can move.",
+      "source": "Skift"
+    },
     {
       "title": "Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days",
       "link": "https://skift.com/2026/07/20/riyadh-air-waited-years-for-new-planes-now-six-have-arrived-in-30-days/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop",
-      "link": "https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/",
-      "published": "Fri, 17 Jul 2026 22:13:34 +0000",
-      "summary": "Airbnb&apos;s partnership with CarTrawler on car rentals is Airbnb&apos;s latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia company, which will compete with Airbnb on car rentals.",
-      "source": "Skift"
-    },
-    {
       "title": "State Department issues rare warning for all Americans traveling abroad - KTLA",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUhnNUhHVW5MMTc5TWpMaU13LTJpM25tLWFodHJ1RkUxN0FFT2xXOWgtNkpIMFMwWmtuSS14QUxhUE1hb1BmREZ6dnpJYmt2VV9jYWZJWE15MThmQXEzUnB4X01PTzd3MzVSUUlMN1N3cVFrQWkySDNUWnhKc2xod2tKVzRMUXFDMk96ZFF1Y1ZiUmhLVDVvVmZwOFh4enEyaXfSAacBQVVfeXFMTlN4UXM2M3pLSkpib2hUQW41X29SbDRpbXc5eDZDVnprQWIwMlhUcVdGaFoyZW84OHY0OWdtSFJ0V1JKN0NzYXhkUFlYNUJTNFpCLUZPdWRtUmVJWUlLLXFWQ2l2NHNmbkFsOGc1anRLWllwME9lRVI0T1JDYW5uekkycGNOcEhoWDBreGFoNW1rV21MeUdQYk9IeVZzZTdJYXNYaXUyQ1U?oc=5",
       "published": "Mon, 20 Jul 2026 16:05:48 GMT",
@@ -70,9 +70,23 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:26 GMT",
+      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: Worldwide Caution - U.S. Embassy & Consulate in Thailand (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnY2JUaDBkUC1zNEZMdmVVdWRBSENpcS1BSWdBWlFiNFAxUkJfUlZNT01jX24tZmRlOUc5a3hPMGJwVmw0VWFhZmdwT2xmcGx1QlZIUDBfdXNQWDUzX19iZllMWENQZWpCdVE?oc=5",
+      "published": "Sun, 19 Jul 2026 09:52:47 GMT",
+      "summary": "Security Alert: Worldwide Caution&nbsp;&nbsp;U.S. Embassy & Consulate in Thailand (.gov)",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Jordan flight cancellations continue as Iranian attacks disrupt air travel - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFHV2VLVlVvREpJN1dfcmtTMVczcUhnQ09ISzJGR3NaNzVhak5xSW9tdDZsTHJZQkdxa1lHWWtXWTNWZjlicTZIR2pIRFY1U2wyZkR2NjNnbmluNFNYWUxqbV96RjZybThOR2hrTF9NbDhFNmR1a2VyUUlyeFk5Vms5QVVOOXoxdndyVkgxeXpQaUMzR3RuQUt6ZUgtNnNWYUd2LVdlZzVTX3VLZUstZHg5M0hMMFN3d2ZMR2xyYzRXaG8?oc=5",
-      "published": "Tue, 21 Jul 2026 05:30:34 GMT",
+      "published": "Tue, 21 Jul 2026 05:30:58 GMT",
       "summary": "Jordan flight cancellations continue as Iranian attacks disrupt air travel&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
@@ -91,13 +105,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026 - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ULTUwODNXeUZ4clA4emNnM3lTaDZLLTBMWGZHT1BMeTBjOTl2MU9qT3JISkpTUEtRSUpJTzVBMlFNRGpyOVJPUEp6SWdYM0V2VlRiVWFiWjVIVEl3MC1uNmE5Mlo3SnhIZjRmOUdR?oc=5",
-      "published": "Mon, 20 Jul 2026 12:29:47 GMT",
-      "summary": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026&nbsp;&nbsp;Travel And Tour World",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - AL.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkJLNWJxWnNPNWxBLXhYWThJVjZ2eDB1MWdwNVItNWtUc3UyaWtQTXpCbjkzY3NETF91S3F4LTVvbnVxSFRHWVVMMjhhbHI2b3ZhVTdBYjk4MmxEeTdfN1hzOUY4LTFMRUFtbzN5V1p1X0o5RGN0VHI4V3g0T1BoUC1MaXZ1LUtnYjlkVjZTcmFRZEU4Yy1HUlROOGxwZVVURF9rOWN0S0NSSlMzVDY1cVEtNFlvUHZQQ2NNdXJYU1lQREJDbGVj0gHbAUFVX3lxTE1veGVzQnI1eDFxQ2tzSWs1X3hzaXZrRHRxUVFzanV1VnVxbGRNUU1SdXNJSGVxVUQ2WmVSVnFjVlJtRVg4TGpzS1NLNkRtQjNwYzNzQW0zLW4wVFFnNjJiMDFadFVaU1p2aUwxNzFZb0JZeUZjSzFBVldmLVhLbklMOEVZM04ybVVvbzE5ZjdiV3hqU1g3NnBfTFk4MEFXUjRJZUpkSzVBd2JwRkR5ZEc2OFZyTjZKWTB6VkZ6djdMN1BvekxweTA1Y09RTjBGOXdBeUpUUlUzdnpCOA?oc=5",
       "published": "Thu, 16 Jul 2026 19:17:00 GMT",
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flying from UAE today? Latest Etihad, flydubai, Air France flight cancellations, travel advisories explained - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQVJxZ2NmdWQwSW1odmlOZTlzUF9wQjJ4MGU2Nl9zT1FXZy0yUVRsLWJsVDY4V1JnMXVvUmtFQnUyLUhneHhoZUNQQWVOQnpSXzg4dFNJNnNrWS1tbVU5U3BDTEdKd3pXTm9nYlF5RDBJMThWRllxZFNSV3hkVnFxcHlfZC1jOExGUDRmSEZ5LTVCNmxqT1NLZlFUTVdNdVJmRUFmeDFaQmFMc0VUSm4xTUZsWGdORzBmWUxpSmJwQ0ZCMUp5TGRVdTN0eUpla1V5NENhdzE0QnJxaGJm0gHsAUFVX3lxTE8yUkhKOHlZQm40UkVLMFdGbEMxdndpeGF6UkRWUGxhLW5SV3g3YWw4VmkxZlBCZTlhUlA0Mzg4WENleUJyN05zRWFjaDAzSnF5dVR1a080OFQwbEhZYzJJZ3pjS01nUjl5WXNyTGo3bzY1eVZYYVQtT2Vpa1NZYm5xbGh3UkwyVmJFenNheVRqdVd2NkdlUFpvaVhzQUV3SnU2cTRsNXp5RmVLTFpEZlp2UWtEOTBSSENVbGNoYmJ5RjY0NVI2QnJ0V3hwTG03SFFGSTk0WVhIVEx5TGJ2WlptTlhKeXBIazg3T1Ry?oc=5",
-      "published": "Tue, 21 Jul 2026 05:05:20 GMT",
-      "summary": "Flying from UAE today? Latest Etihad, flydubai, Air France flight cancellations, travel advisories explained&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "How the New York and New Jersey Region is Managing Major Transit Disruption and Eco-Tourism Growth in 2026 - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlRSeUY2MS1Wd1ZjSzk1aWcxTU93Z0czdnhzcVFzcExnRjdvLUdLX3huSWpVZVdvMHBZYmNtaHVwd3podm53TS1RM2s1cnFCb1pfbVlsZk5FZmcycGJ1VXRhWW5lQjVYMkpScFJ5aHhuOXhTZXlhZFlwcHN2RUtaRGo1Ymg2eXcwOEpfMjFzcw?oc=5",
-      "published": "Tue, 21 Jul 2026 03:14:59 GMT",
-      "summary": "How the New York and New Jersey Region is Managing Major Transit Disruption and Eco-Tourism Growth in 2026&nbsp;&nbsp;Nomad Lawyer",
+      "title": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026 - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ULTUwODNXeUZ4clA4emNnM3lTaDZLLTBMWGZHT1BMeTBjOTl2MU9qT3JISkpTUEtRSUpJTzVBMlFNRGpyOVJPUEp6SWdYM0V2VlRiVWFiWjVIVEl3MC1uNmE5Mlo3SnhIZjRmOUdR?oc=5",
+      "published": "Mon, 20 Jul 2026 12:29:47 GMT",
+      "summary": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     }
   ]
