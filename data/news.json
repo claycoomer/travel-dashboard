@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-21T10:13:19.208382+00:00",
+  "last_updated": "2026-07-21T13:13:47.462622+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Emirates\u2019 Sir Tim Clark on Retirement: \u2018It\u2019s Not Time\u2019",
+      "link": "https://skift.com/2026/07/21/emirates-sir-tim-clark-on-retirement-its-not-time/",
+      "published": "Tue, 21 Jul 2026 12:24:28 +0000",
+      "summary": "Clark insists Emirates is ready for life after him, but his decision to stay on keeps one of aviation\u2019s longest-running succession stories alive.",
+      "source": "Skift"
+    },
     {
       "title": "The U.S. Passport Is Stuck, The UAE\u2019s Is Gaining Fast",
       "link": "https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/",
@@ -56,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Ari Emanuel Is Assembling a Live Tourism Conglomerate",
-      "link": "https://skift.com/2026/07/18/ari-emanuel-is-assembling-a-live-tourism-conglomerate/",
-      "published": "Sat, 18 Jul 2026 12:16:48 +0000",
-      "summary": "The companies that originate trips do not need to call themselves travel companies to capture travel&apos;s economics, and Ari Emanuel is demonstrating it across three of them.",
-      "source": "Skift"
-    },
-    {
-      "title": "State Department issues rare warning for all Americans traveling abroad - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUhnNUhHVW5MMTc5TWpMaU13LTJpM25tLWFodHJ1RkUxN0FFT2xXOWgtNkpIMFMwWmtuSS14QUxhUE1hb1BmREZ6dnpJYmt2VV9jYWZJWE15MThmQXEzUnB4X01PTzd3MzVSUUlMN1N3cVFrQWkySDNUWnhKc2xod2tKVzRMUXFDMk96ZFF1Y1ZiUmhLVDVvVmZwOFh4enEyaXfSAacBQVVfeXFMTlN4UXM2M3pLSkpib2hUQW41X29SbDRpbXc5eDZDVnprQWIwMlhUcVdGaFoyZW84OHY0OWdtSFJ0V1JKN0NzYXhkUFlYNUJTNFpCLUZPdWRtUmVJWUlLLXFWQ2l2NHNmbkFsOGc1anRLWllwME9lRVI0T1JDYW5uekkycGNOcEhoWDBreGFoNW1rV21MeUdQYk9IeVZzZTdJYXNYaXUyQ1U?oc=5",
-      "published": "Mon, 20 Jul 2026 16:05:48 GMT",
-      "summary": "State Department issues rare warning for all Americans traveling abroad&nbsp;&nbsp;KTLA",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:26 GMT",
@@ -84,17 +77,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Department issues rare warning for all Americans traveling abroad - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUhnNUhHVW5MMTc5TWpMaU13LTJpM25tLWFodHJ1RkUxN0FFT2xXOWgtNkpIMFMwWmtuSS14QUxhUE1hb1BmREZ6dnpJYmt2VV9jYWZJWE15MThmQXEzUnB4X01PTzd3MzVSUUlMN1N3cVFrQWkySDNUWnhKc2xod2tKVzRMUXFDMk96ZFF1Y1ZiUmhLVDVvVmZwOFh4enEyaXfSAacBQVVfeXFMTlN4UXM2M3pLSkpib2hUQW41X29SbDRpbXc5eDZDVnprQWIwMlhUcVdGaFoyZW84OHY0OWdtSFJ0V1JKN0NzYXhkUFlYNUJTNFpCLUZPdWRtUmVJWUlLLXFWQ2l2NHNmbkFsOGc1anRLWllwME9lRVI0T1JDYW5uekkycGNOcEhoWDBreGFoNW1rV21MeUdQYk9IeVZzZTdJYXNYaXUyQ1U?oc=5",
+      "published": "Mon, 20 Jul 2026 16:05:48 GMT",
+      "summary": "State Department issues rare warning for all Americans traveling abroad&nbsp;&nbsp;KTLA",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Travel Advisory: Americans Abroad Asked To Reconsider Travel To Middle East Amid Rising Tensions - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlY2ejF4cExhcVVvbllLVWJYaEFvRTVxNnNaR00zNWdsN0RwbW4zX3ltOHZqNDlnX3p2c1BzcHVXMTZmbHFwekJObWlVTXdXTnJIWW5GS21rWjJXdkVfNjZPWHAyTndRbmpQVklOYy05cGUxQ3pXcHJnUExCX0FiM24ydm8yZDhhcWI3Y0lDRjZpTHJGM0RnMVRoZWNGWjZoQVkyd3Y0LTBvQ2pCcHE0VlhRV2Z6dGRHek5SLWh6M2ZxcFcwSkVnMDhmY1ZHQ0ZxWktFNEhydFFlemRfMzdKV9IB6AFBVV95cUxOcVhTc3ViN21VZldhZ2ZwYmxlUUgwTElTejdpZ0xEZ19BelpiZmE1bmdnUk9pV0toNDJRT1RlQ3NrM0ZpRFp5QXN3Qi1LSWdKWGk2ZV9KckNybFpmTHpaV0NkaHVRUUZab3k1OE9vSmVWQlp2NEhQVEt6TDlRSDBTd2VQM0l3UlVubTdvTWRPV1M1VG41MG9zLTk0SnlZZExacUVqaW1oY0kwNklFbWVHTnRhazd6U0RBTGQ4QXIyc0E1OTFYV0JPenFKZVVKSDJUWV81eHZqRmFKa3FSaEFza01xdVRfT2px?oc=5",
+      "published": "Tue, 21 Jul 2026 08:39:16 GMT",
+      "summary": "US Issues Travel Advisory: Americans Abroad Asked To Reconsider Travel To Middle East Amid Rising Tensions&nbsp;&nbsp;NDTV Profit",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Jordan flight cancellations continue as Iranian attacks disrupt air travel - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFHV2VLVlVvREpJN1dfcmtTMVczcUhnQ09ISzJGR3NaNzVhak5xSW9tdDZsTHJZQkdxa1lHWWtXWTNWZjlicTZIR2pIRFY1U2wyZkR2NjNnbmluNFNYWUxqbV96RjZybThOR2hrTF9NbDhFNmR1a2VyUUlyeFk5Vms5QVVOOXoxdndyVkgxeXpQaUMzR3RuQUt6ZUgtNnNWYUd2LVdlZzVTX3VLZUstZHg5M0hMMFN3d2ZMR2xyYzRXaG8?oc=5",
       "published": "Tue, 21 Jul 2026 05:30:58 GMT",
       "summary": "Jordan flight cancellations continue as Iranian attacks disrupt air travel&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
-      "published": "Sun, 19 Jul 2026 05:12:22 GMT",
-      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Delta Air Lines Cancels The Most Flights Worldwide As New Travel Warnings Are Issued For Its Major Hubs - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDFwNEM3RHFtUDFWZE9qdHhEQ3VOMkR2RjBmcVQ3RGZhMkV3RmRNeExBZi1FMzQ0bnFXaEhxcUxJclVabmp5RFRyRTEzT0RhRHJFeDhnWVVwVElWZ0cyWDZscXB2elAtdmxoSS1CTERRbTJKaEJaUjdnSHpERF9Cc2hwaTFraVpQOE9JOUJqYjJWb0x6SFh4djJaaFRENDExWEdYczYwWTNLNURt?oc=5",
+      "published": "Tue, 21 Jul 2026 10:50:10 GMT",
+      "summary": "Delta Air Lines Cancels The Most Flights Worldwide As New Travel Warnings Are Issued For Its Major Hubs&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - AL.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkJLNWJxWnNPNWxBLXhYWThJVjZ2eDB1MWdwNVItNWtUc3UyaWtQTXpCbjkzY3NETF91S3F4LTVvbnVxSFRHWVVMMjhhbHI2b3ZhVTdBYjk4MmxEeTdfN1hzOUY4LTFMRUFtbzN5V1p1X0o5RGN0VHI4V3g0T1BoUC1MaXZ1LUtnYjlkVjZTcmFRZEU4Yy1HUlROOGxwZVVURF9rOWN0S0NSSlMzVDY1cVEtNFlvUHZQQ2NNdXJYU1lQREJDbGVj0gHbAUFVX3lxTE1veGVzQnI1eDFxQ2tzSWs1X3hzaXZrRHRxUVFzanV1VnVxbGRNUU1SdXNJSGVxVUQ2WmVSVnFjVlJtRVg4TGpzS1NLNkRtQjNwYzNzQW0zLW4wVFFnNjJiMDFadFVaU1p2aUwxNzFZb0JZeUZjSzFBVldmLVhLbklMOEVZM04ybVVvbzE5ZjdiV3hqU1g3NnBfTFk4MEFXUjRJZUpkSzVBd2JwRkR5ZEc2OFZyTjZKWTB6VkZ6djdMN1BvekxweTA1Y09RTjBGOXdBeUpUUlUzdnpCOA?oc=5",
       "published": "Thu, 16 Jul 2026 19:17:00 GMT",
       "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;AL.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026 - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ULTUwODNXeUZ4clA4emNnM3lTaDZLLTBMWGZHT1BMeTBjOTl2MU9qT3JISkpTUEtRSUpJTzVBMlFNRGpyOVJPUEp6SWdYM0V2VlRiVWFiWjVIVEl3MC1uNmE5Mlo3SnhIZjRmOUdR?oc=5",
-      "published": "Mon, 20 Jul 2026 12:29:47 GMT",
-      "summary": "United States Pairs Up with Australia, Canada and United Kingdom with New Gulf Travel Advisory as UAE, Kuwait, Bahrain and Jordan Security Alerts Trigger Gulf Flight Disruption, Airspace Risks and Urgent Middle East Travel Reassessment in 2026&nbsp;&nbsp;Travel And Tour World",
       "source": "Google News Travel"
     }
   ]
