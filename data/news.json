@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22T10:13:13.648152+00:00",
+  "last_updated": "2026-07-22T13:19:07.897816+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "A New Class of Buy Now, Pay Later: From Checkout Utility to Enterprise Growth Lever",
+      "link": "https://skift.com/2026/07/22/claritypay-loyalty-financing/",
+      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "summary": "Flexible financing is becoming more than a way to complete a travel purchase. For airlines and other travel brands, the next opportunity is using financing to support brand equity and profits.",
+      "source": "Skift"
+    },
+    {
+      "title": "Indian Hotels Company Targets Switzerland and Southeast Asia; Dubai Rebound Stalls",
+      "link": "https://skift.com/2026/07/22/indian-hotels-company-targets-switzerland-and-southeast-asia-dubai-rebound-stalls/",
+      "published": "Wed, 22 Jul 2026 12:05:17 +0000",
+      "summary": "IHCL would have preferred to enter Switzerland first, but instead chose Frankfurt, where strong India connectivity promised quicker returns, rather than rushing into a costlier, lower-yield Swiss market.",
+      "source": "Skift"
+    },
     {
       "title": "Sabre Hackathon Highlights Travel\u2019s Developer Access Divide",
       "link": "https://skift.com/2026/07/21/sabre-hackathon-ai-agentic-voice/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Expedia\u2019s AI Timeline Runs Through Its Talent Strategy",
-      "link": "https://skift.com/2026/07/20/expedia-cto-ramana-thumu-ai-talent-strategy/",
-      "published": "Mon, 20 Jul 2026 19:44:23 +0000",
-      "summary": "Expedia is betting its product roadmap on replicating the outsized AI productivity of its elite engineers. According to its CTO, the strategy hinges on a race to hire and retain that talent \u2014 making the company&apos;s product timeline as much of a recruiting challenge as a techno",
-      "source": "Skift"
-    },
-    {
-      "title": "JetBlue Wins Spirit\u2019s LaGuardia Slots for $58.5 Million \u2014 Below Spirit\u2019s Own Estimate",
-      "link": "https://skift.com/2026/07/20/jetblue-wins-spirits-coveted-slots-at-laguarda-for-58-5-million/",
-      "published": "Mon, 20 Jul 2026 16:33:24 +0000",
-      "summary": "JetBlue\u2019s winning bid comes in well below Spirit&apos;s $86.7 million valuation of its LaGuardia slots.",
-      "source": "Skift"
-    },
-    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 19:54:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:26 GMT",
-      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: the latest flight cancellations as US-Iran attacks continue across the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd1lNWHpnSmp2UzFDbmQ0SV94WHl1Y0FLNVhqczJuSTRhaTJPcV9kTXZTM1ZiN2FrOVJ2ZnBlZGR0aTA1Q2RlWEdtMUxjVjNibE9UTE1udzRBNWhBSFRpNks3WW5IQXZ4bGRBcFE3TmMwR2xGa19DNmJxWEhYRXRadFNkWFdKMWpzcnFQRHlldUFKaDZsMU91R2pFdlpmb1JiZ0VSbVVadTR2bEpzclNkaGQ3Nm1UN2stYTExbUJyb0FKLW9wbmUzMUgxMnloT2UwRnNqeEZSVHhld0dVdlhCdmtHUW95aG5M?oc=5",
+      "published": "Wed, 22 Jul 2026 09:22:44 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest flight cancellations as US-Iran attacks continue across the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -91,13 +91,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Department issues global security warning amid Middle East tensions - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrUXBmem15eEFaVjMzTjFyRXlSWTFBSGhXaHJyYVdKY21ndEl6azlFc2VoNzI2eDctOUkyb25fdGNad2ZuVUllYnBNVnVvM2hZLVBxc3ZWUzRYUQ?oc=5",
-      "published": "Tue, 21 Jul 2026 01:48:00 GMT",
-      "summary": "State Department issues global security warning amid Middle East tensions&nbsp;&nbsp;Israel National News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkJLNWJxWnNPNWxBLXhYWThJVjZ2eDB1MWdwNVItNWtUc3UyaWtQTXpCbjkzY3NETF91S3F4LTVvbnVxSFRHWVVMMjhhbHI2b3ZhVTdBYjk4MmxEeTdfN1hzOUY4LTFMRUFtbzN5V1p1X0o5RGN0VHI4V3g0T1BoUC1MaXZ1LUtnYjlkVjZTcmFRZEU4Yy1HUlROOGxwZVVURF9rOWN0S0NSSlMzVDY1cVEtNFlvUHZQQ2NNdXJYU1lQREJDbGVj0gHbAUFVX3lxTE1veGVzQnI1eDFxQ2tzSWs1X3hzaXZrRHRxUVFzanV1VnVxbGRNUU1SdXNJSGVxVUQ2WmVSVnFjVlJtRVg4TGpzS1NLNkRtQjNwYzNzQW0zLW4wVFFnNjJiMDFadFVaU1p2aUwxNzFZb0JZeUZjSzFBVldmLVhLbklMOEVZM04ybVVvbzE5ZjdiV3hqU1g3NnBfTFk4MEFXUjRJZUpkSzVBd2JwRkR5ZEc2OFZyTjZKWTB6VkZ6djdMN1BvekxweTA1Y09RTjBGOXdBeUpUUlUzdnpCOA?oc=5",
-      "published": "Thu, 16 Jul 2026 19:17:00 GMT",
-      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;AL.com",
+      "title": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGgxb05SM3Q4T0RJeDVmTGhraWZFT05rVnFXTVVBWURkakgya0pqZ215NDdmUDRpc1MxVDBtbDN5WmR1SWFUaDRtTlIzcFFBWDR4RWxzajJrcmhINXlOM3RUVWt5RnRHTWV5TkN2MW5lVHJTMXBhckF2cjZGVWxyZnJzTTJLaWEzajVEdkNSaUh2VkhQVHhjR3pSWnF6dW1XNDUwWkVDSmszOVA0cG1YVm14R1JlLXc0d3BhSmNhYlJfbS1OanZmX3UtZ3ZNTVFRcjQybnNB?oc=5",
+      "published": "Mon, 20 Jul 2026 05:39:17 GMT",
+      "summary": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:26 GMT",
+      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
