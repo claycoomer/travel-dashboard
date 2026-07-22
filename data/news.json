@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22T17:06:20.428503+00:00",
+  "last_updated": "2026-07-22T20:54:04.725212+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Fuel Costs Wipe Out Alaska Airlines\u2019 Profit \u2014 Nearly $500 Million in Losses",
+      "link": "https://skift.com/2026/07/22/fuel-costs-wipe-out-alaska-airlines-profit/",
+      "published": "Wed, 22 Jul 2026 19:26:37 +0000",
+      "summary": "Surging fuel costs hit Alaska particularly hard this year. But the carrier is betting that it can turn its profitability around with higher travel demand \u2014 and even catch up to Delta and United.",
+      "source": "Skift"
+    },
+    {
+      "title": "Emirates Rebuilds to 92% Capacity, Even as the Iran War Grinds On",
+      "link": "https://skift.com/2026/07/22/emirates-rebuilds-to-92-capacity-even-as-the-iran-war-grinds-on/",
+      "published": "Wed, 22 Jul 2026 18:53:25 +0000",
+      "summary": "Emirates has rebuilt faster than initially forecast, and faster than the war itself has resolved. Sir Tim Clark&apos;s well-worn crisis-management playbook is being tested in real time \u2014 and it&apos;s holding so far.",
+      "source": "Skift"
+    },
     {
       "title": "Hilton, Marriott, and IHG Have All Launched UK Debit Cards. Here\u2019s Why.",
       "link": "https://skift.com/2026/07/22/hilton-marriott-and-ihg-have-all-launched-uk-debit-cards-heres-why/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Returning to Park Hyatt Tokyo: How a Great Hotel Survives a Renovation",
-      "link": "https://skift.com/2026/07/21/returning-to-park-hyatt-tokyo-how-a-great-hotel-survives-a-renovation/",
-      "published": "Tue, 21 Jul 2026 16:36:48 +0000",
-      "summary": "Park Hyatt Tokyo proves that preserving a great hotel is less about furniture than judgment. The renovation succeeds. The harder task now is ensuring the next generation of hoteliers can inherit the culture that made the building matter in the first place.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Quiet Reinvention of the Hotel Tax",
-      "link": "https://skift.com/2026/07/21/the-quiet-reinvention-of-the-hotel-tax/",
-      "published": "Tue, 21 Jul 2026 16:05:06 +0000",
-      "summary": "The modern American hotel tax was built on one Las Vegas idea from 1955. The argument now is over who controls the money.",
-      "source": "Skift"
-    },
-    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 19:54:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest flight cancellations as US-Iran attacks continue across the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd1lNWHpnSmp2UzFDbmQ0SV94WHl1Y0FLNVhqczJuSTRhaTJPcV9kTXZTM1ZiN2FrOVJ2ZnBlZGR0aTA1Q2RlWEdtMUxjVjNibE9UTE1udzRBNWhBSFRpNks3WW5IQXZ4bGRBcFE3TmMwR2xGa19DNmJxWEhYRXRadFNkWFdKMWpzcnFQRHlldUFKaDZsMU91R2pFdlpmb1JiZ0VSbVVadTR2bEpzclNkaGQ3Nm1UN2stYTExbUJyb0FKLW9wbmUzMUgxMnloT2UwRnNqeEZSVHhld0dVdlhCdmtHUW95aG5M?oc=5",
-      "published": "Wed, 22 Jul 2026 09:22:44 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest flight cancellations as US-Iran attacks continue across the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:26 GMT",
+      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Anxiety as Australia issues new travel advice for Middle East countries - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX29xTFhwZzRDM09ReFc3ZnFqRmpfSTRwOXZsZWR2akJ0a1MxbkJiVUMyaDZRU3VmRzRRUVJFYUlDaU5adVRqUGJlSGIyMFNaanpyOXZxWnhKSDA3aEtkMU1OQ01zWGotLVEyb21xU1VVMlpOOUFOUlNlLUtPbUNMVmtWQzdrT3IyZmNoOGRqbUpERU9mTjV5RnZXci0tTnp2M2dUWHZ3?oc=5",
-      "published": "Wed, 22 Jul 2026 06:23:16 GMT",
-      "summary": "Anxiety as Australia issues new travel advice for Middle East countries&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "source": "Google News Travel"
-    },
-    {
       "title": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGgxb05SM3Q4T0RJeDVmTGhraWZFT05rVnFXTVVBWURkakgya0pqZ215NDdmUDRpc1MxVDBtbDN5WmR1SWFUaDRtTlIzcFFBWDR4RWxzajJrcmhINXlOM3RUVWt5RnRHTWV5TkN2MW5lVHJTMXBhckF2cjZGVWxyZnJzTTJLaWEzajVEdkNSaUh2VkhQVHhjR3pSWnF6dW1XNDUwWkVDSmszOVA0cG1YVm14R1JlLXc0d3BhSmNhYlJfbS1OanZmX3UtZ3ZNTVFRcjQybnNB?oc=5",
       "published": "Mon, 20 Jul 2026 05:39:17 GMT",
       "summary": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Anxiety as Australia issues new travel advice for Middle East countries - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX29xTFhwZzRDM09ReFc3ZnFqRmpfSTRwOXZsZWR2akJ0a1MxbkJiVUMyaDZRU3VmRzRRUVJFYUlDaU5adVRqUGJlSGIyMFNaanpyOXZxWnhKSDA3aEtkMU1OQ01zWGotLVEyb21xU1VVMlpOOUFOUlNlLUtPbUNMVmtWQzdrT3IyZmNoOGRqbUpERU9mTjV5RnZXci0tTnp2M2dUWHZ3?oc=5",
+      "published": "Wed, 22 Jul 2026 06:25:36 GMT",
+      "summary": "Anxiety as Australia issues new travel advice for Middle East countries&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "source": "Google News Travel"
     }
   ]
