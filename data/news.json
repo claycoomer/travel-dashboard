@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-23T10:09:57.806089+00:00",
+  "last_updated": "2026-07-23T13:21:33.905563+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "54% of Travelers Distrust Your AI Recommendations \u2014 Now What?",
+      "link": "https://skift.com/2026/07/23/travel-ai-trust-report/",
+      "published": "Thu, 23 Jul 2026 13:00:00 +0000",
+      "summary": "AI is quickly becoming part of the travel customer journey, but consumer confidence isn&apos;t keeping pace. A new report from Wunderkind examines why trust has become one of the biggest challenges facing AI-powered travel experiences.",
+      "source": "Skift"
+    },
+    {
+      "title": "American Airlines Offset Half Its Fuel Costs With Higher Fares, But Cuts Profit Outlook",
+      "link": "https://skift.com/2026/07/23/american-says-it-offset-50-percent-fuel-expenses-with-higher-fares/",
+      "published": "Thu, 23 Jul 2026 11:54:11 +0000",
+      "summary": "Pricing power has emerged as a major theme of second-quarter earnings as airlines look to make their pricing gains permanent.",
+      "source": "Skift"
+    },
     {
       "title": "Behind Travel + Leisure\u2019s $343 Million Bet, and Why More Timeshare Deals Are Coming",
       "link": "https://skift.com/2026/07/22/behind-travel-leisures-343-million-bet-and-why-more-timeshare-deals-are-coming/",
@@ -49,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Travel Customer Acquisition Is Moving Into Private Treaties",
-      "link": "https://skift.com/2026/07/22/travel-customer-acquisition-is-moving-into-private-treaties/",
-      "published": "Wed, 22 Jul 2026 13:30:00 +0000",
-      "summary": "AI search is shrinking the open channel where travel bought its customers, so the largest companies are trading member bases with each other instead.",
-      "source": "Skift"
-    },
-    {
-      "title": "A New Class of Buy Now, Pay Later: From Checkout Utility to Enterprise Growth Lever",
-      "link": "https://skift.com/2026/07/22/claritypay-loyalty-financing/",
-      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "Flexible financing is becoming more than a way to complete a travel purchase. For airlines and other travel brands, the next opportunity is using financing to support brand equity and profits.",
-      "source": "Skift"
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
     },
     {
       "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 09:34:37 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -98,13 +98,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Air Canada Increases U.S. Flight Cancellations As Carrier Issues Warning For 6 Hubs - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVxSHpMY2JmbDVpQUZhMDkyU3lKVkpJSUU3NU9IYXJNMVJzNE1IejduSXV1dUFLclYxMjJmYmZQdGdwUl9BVGJsR1d2ZllpV2lQR3dxM0tqWmhYQ1hDSm5kdFlTTmdta0QwYWRKbVZQWGd6WVdVSnE5STY3RlRTdnM3Z1pqbHo1cDVwX19Bd0FYcUc5d1A5N2dYOEJXUXNUY254RWw0emZiN0Rh?oc=5",
-      "published": "Wed, 22 Jul 2026 13:34:48 GMT",
-      "summary": "Air Canada Increases U.S. Flight Cancellations As Carrier Issues Warning For 6 Hubs&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGgxb05SM3Q4T0RJeDVmTGhraWZFT05rVnFXTVVBWURkakgya0pqZ215NDdmUDRpc1MxVDBtbDN5WmR1SWFUaDRtTlIzcFFBWDR4RWxzajJrcmhINXlOM3RUVWt5RnRHTWV5TkN2MW5lVHJTMXBhckF2cjZGVWxyZnJzTTJLaWEzajVEdkNSaUh2VkhQVHhjR3pSWnF6dW1XNDUwWkVDSmszOVA0cG1YVm14R1JlLXc0d3BhSmNhYlJfbS1OanZmX3UtZ3ZNTVFRcjQybnNB?oc=5",
       "published": "Mon, 20 Jul 2026 05:39:17 GMT",
       "summary": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Air Canada Increases U.S. Flight Cancellations As Carrier Issues Warning For 6 Hubs - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVxSHpMY2JmbDVpQUZhMDkyU3lKVkpJSUU3NU9IYXJNMVJzNE1IejduSXV1dUFLclYxMjJmYmZQdGdwUl9BVGJsR1d2ZllpV2lQR3dxM0tqWmhYQ1hDSm5kdFlTTmdta0QwYWRKbVZQWGd6WVdVSnE5STY3RlRTdnM3Z1pqbHo1cDVwX19Bd0FYcUc5d1A5N2dYOEJXUXNUY254RWw0emZiN0Rh?oc=5",
+      "published": "Wed, 22 Jul 2026 13:34:48 GMT",
+      "summary": "Air Canada Increases U.S. Flight Cancellations As Carrier Issues Warning For 6 Hubs&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     }
   ]
