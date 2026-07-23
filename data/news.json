@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22T20:54:04.725212+00:00",
+  "last_updated": "2026-07-23T01:46:18.655384+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Behind Travel + Leisure\u2019s $343 Million Bet, and Why More Timeshare Deals Are Coming",
+      "link": "https://skift.com/2026/07/22/behind-travel-leisures-343-million-bet-and-why-more-timeshare-deals-are-coming/",
+      "published": "Wed, 22 Jul 2026 21:02:15 +0000",
+      "summary": "The timeshare segment is a lending business in a hospitality costume, and that dynamic is helping to drive consolidation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Southwest\u2019s New Fees and Fare Hikes Offset an $889 Million Fuel Bill",
+      "link": "https://skift.com/2026/07/22/southwests-new-fees-and-fare-hikes-offset-899-million-fuel-bill/",
+      "published": "Wed, 22 Jul 2026 20:59:44 +0000",
+      "summary": "Southwest said it will focus more on enhancing its network, products, and pricing as part of an effort to further strengthen its profitability.",
+      "source": "Skift"
+    },
     {
       "title": "Fuel Costs Wipe Out Alaska Airlines\u2019 Profit \u2014 Nearly $500 Million in Losses",
       "link": "https://skift.com/2026/07/22/fuel-costs-wipe-out-alaska-airlines-profit/",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/07/22/claritypay-loyalty-financing/",
       "published": "Wed, 22 Jul 2026 13:00:00 +0000",
       "summary": "Flexible financing is becoming more than a way to complete a travel purchase. For airlines and other travel brands, the next opportunity is using financing to support brand equity and profits.",
-      "source": "Skift"
-    },
-    {
-      "title": "Indian Hotels Company Targets Switzerland and Southeast Asia; Dubai Rebound Stalls",
-      "link": "https://skift.com/2026/07/22/indian-hotels-company-targets-switzerland-and-southeast-asia-dubai-rebound-stalls/",
-      "published": "Wed, 22 Jul 2026 12:05:17 +0000",
-      "summary": "IHCL would have preferred to enter Switzerland first, but instead chose Frankfurt, where strong India connectivity promised quicker returns, rather than rushing into a costlier, lower-yield Swiss market.",
-      "source": "Skift"
-    },
-    {
-      "title": "Sabre Hackathon Highlights Travel\u2019s Developer Access Divide",
-      "link": "https://skift.com/2026/07/21/sabre-hackathon-ai-agentic-voice/",
-      "published": "Tue, 21 Jul 2026 19:56:24 +0000",
-      "summary": "Hand developers a blank slate on travel&apos;s infrastructure, and they don&apos;t rebuild search. They go after the phone calls and broken connections travel never digitized \u2014 a clear sign on how new or external builders see travel AI&apos;s biggest pay-offs.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Anxiety as Australia issues new travel advice for Middle East countries - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX29xTFhwZzRDM09ReFc3ZnFqRmpfSTRwOXZsZWR2akJ0a1MxbkJiVUMyaDZRU3VmRzRRUVJFYUlDaU5adVRqUGJlSGIyMFNaanpyOXZxWnhKSDA3aEtkMU1OQ01zWGotLVEyb21xU1VVMlpOOUFOUlNlLUtPbUNMVmtWQzdrT3IyZmNoOGRqbUpERU9mTjV5RnZXci0tTnp2M2dUWHZ3?oc=5",
-      "published": "Wed, 22 Jul 2026 06:25:36 GMT",
-      "summary": "Anxiety as Australia issues new travel advice for Middle East countries&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "title": "Jordan flight cancellations continue as Iranian attacks disrupt air travel - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFHV2VLVlVvREpJN1dfcmtTMVczcUhnQ09ISzJGR3NaNzVhak5xSW9tdDZsTHJZQkdxa1lHWWtXWTNWZjlicTZIR2pIRFY1U2wyZkR2NjNnbmluNFNYWUxqbV96RjZybThOR2hrTF9NbDhFNmR1a2VyUUlyeFk5Vms5QVVOOXoxdndyVkgxeXpQaUMzR3RuQUt6ZUgtNnNWYUd2LVdlZzVTX3VLZUstZHg5M0hMMFN3d2ZMR2xyYzRXaG8?oc=5",
+      "published": "Tue, 21 Jul 2026 05:30:58 GMT",
+      "summary": "Jordan flight cancellations continue as Iranian attacks disrupt air travel&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     }
   ]
