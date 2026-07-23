@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-07-23T13:21:33.905563+00:00",
+  "last_updated": "2026-07-23T17:08:29.771317+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "IATA Makes Surprise Pick for New Leader, Skips Airline Veterans",
+      "link": "https://skift.com/2026/07/23/iata-makes-surprise-pick-for-new-leader-skips-airline-veterans/",
+      "published": "Thu, 23 Jul 2026 16:51:30 +0000",
+      "summary": "IATA has picked its first leader from outside the airline industry in four decades. The gamble is whether member carriers will take their cues from an economist who has never run an airline.",
+      "source": "Skift"
+    },
+    {
+      "title": "IndiGo Swings to Loss as Fuel Costs Surge Amid Middle East Flare-Up",
+      "link": "https://skift.com/2026/07/23/indigo-swings-to-loss-as-fuel-costs-surge-amid-middle-east-flare-up/",
+      "published": "Thu, 23 Jul 2026 16:26:07 +0000",
+      "summary": "IndiGo charged more, earned more, and still lost money. Welcome to the brutal math of aviation.",
+      "source": "Skift"
+    },
+    {
+      "title": "IndiGo Co-Founder: Airport-Airline Ownership Is a \u2018Massive Conflict of Interest\u2019",
+      "link": "https://skift.com/2026/07/23/indigo-co-founder-airport-airline-ownership-is-a-massive-conflict-of-interest/",
+      "published": "Thu, 23 Jul 2026 15:28:52 +0000",
+      "summary": "If the idea is to break the two-airline duopoly, the irony is hard to miss. India could end up replacing airline concentration with something even more powerful \u2014 a conglomerate that controls the skies, the gates, and everything in between.",
+      "source": "Skift"
+    },
+    {
+      "title": "EU Claims Google Buries Travel Rivals in Search as Part of $525 Million Fine",
+      "link": "https://skift.com/2026/07/23/eu-claims-google-buries-travel-rivals-in-search-as-part-of-525-million-fine/",
+      "published": "Thu, 23 Jul 2026 14:43:56 +0000",
+      "summary": "Brussels has spent a decade litigating who sits atop the results page. This fine won&apos;t settle it. Expect the fight to drag on.",
+      "source": "Skift"
+    },
+    {
+      "title": "Travel Advisories Are Back and the Gulf Is Out With Flight Deals and Easier Visas",
+      "link": "https://skift.com/2026/07/23/travel-advisories-are-back-and-the-gulf-is-out-with-flight-deals-and-easier-visas/",
+      "published": "Thu, 23 Jul 2026 13:48:11 +0000",
+      "summary": "Gulf hotels were already struggling before this month&apos;s headlines. A hoped-for recovery may get pushed out further.",
+      "source": "Skift"
+    },
     {
       "title": "54% of Travelers Distrust Your AI Recommendations \u2014 Now What?",
       "link": "https://skift.com/2026/07/23/travel-ai-trust-report/",
@@ -25,41 +60,6 @@
       "link": "https://skift.com/2026/07/22/behind-travel-leisures-343-million-bet-and-why-more-timeshare-deals-are-coming/",
       "published": "Wed, 22 Jul 2026 21:02:15 +0000",
       "summary": "The timeshare segment is a lending business in a hospitality costume, and that dynamic is helping to drive consolidation.",
-      "source": "Skift"
-    },
-    {
-      "title": "Southwest\u2019s New Fees and Fare Hikes Offset an $889 Million Fuel Bill",
-      "link": "https://skift.com/2026/07/22/southwests-new-fees-and-fare-hikes-offset-899-million-fuel-bill/",
-      "published": "Wed, 22 Jul 2026 20:59:44 +0000",
-      "summary": "Southwest said it will focus more on enhancing its network, products, and pricing as part of an effort to further strengthen its profitability.",
-      "source": "Skift"
-    },
-    {
-      "title": "Fuel Costs Wipe Out Alaska Airlines\u2019 Profit \u2014 Nearly $500 Million in Losses",
-      "link": "https://skift.com/2026/07/22/fuel-costs-wipe-out-alaska-airlines-profit/",
-      "published": "Wed, 22 Jul 2026 19:26:37 +0000",
-      "summary": "Surging fuel costs hit Alaska particularly hard this year. But the carrier is betting that it can turn its profitability around with higher travel demand \u2014 and even catch up to Delta and United.",
-      "source": "Skift"
-    },
-    {
-      "title": "Emirates Rebuilds to 92% Capacity, Even as the Iran War Grinds On",
-      "link": "https://skift.com/2026/07/22/emirates-rebuilds-to-92-capacity-even-as-the-iran-war-grinds-on/",
-      "published": "Wed, 22 Jul 2026 18:53:25 +0000",
-      "summary": "Emirates has rebuilt faster than initially forecast, and faster than the war itself has resolved. Sir Tim Clark&apos;s well-worn crisis-management playbook is being tested in real time \u2014 and it&apos;s holding so far.",
-      "source": "Skift"
-    },
-    {
-      "title": "Hilton, Marriott, and IHG Have All Launched UK Debit Cards. Here\u2019s Why.",
-      "link": "https://skift.com/2026/07/22/hilton-marriott-and-ihg-have-all-launched-uk-debit-cards-heres-why/",
-      "published": "Wed, 22 Jul 2026 16:19:35 +0000",
-      "summary": "Three of the world\u2019s biggest hotel groups have launched debit cards in the UK and nowhere else. The reason has little to do with loyalty strategy.",
-      "source": "Skift"
-    },
-    {
-      "title": "UAE Travel Agencies Report Delays in Payments From Saudi Clients",
-      "link": "https://skift.com/2026/07/22/uae-travel-agencies-report-delays-in-payments-from-saudi-clients/",
-      "published": "Wed, 22 Jul 2026 14:41:52 +0000",
-      "summary": "The Saudi-UAE rift is reaching travel through the banking rails first. The thing to watch is whether it reaches demand next.",
       "source": "Skift"
     },
     {
@@ -105,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGgxb05SM3Q4T0RJeDVmTGhraWZFT05rVnFXTVVBWURkakgya0pqZ215NDdmUDRpc1MxVDBtbDN5WmR1SWFUaDRtTlIzcFFBWDR4RWxzajJrcmhINXlOM3RUVWt5RnRHTWV5TkN2MW5lVHJTMXBhckF2cjZGVWxyZnJzTTJLaWEzajVEdkNSaUh2VkhQVHhjR3pSWnF6dW1XNDUwWkVDSmszOVA0cG1YVm14R1JlLXc0d3BhSmNhYlJfbS1OanZmX3UtZ3ZNTVFRcjQybnNB?oc=5",
-      "published": "Mon, 20 Jul 2026 05:39:17 GMT",
-      "summary": "US, UK and Canada update travel advisories for UAE, Saudi Arabia, Kuwait, Bahrain and Jordan&nbsp;&nbsp;Gulf News",
+      "title": "Jordan flight cancellations continue as Iranian attacks disrupt air travel - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFHV2VLVlVvREpJN1dfcmtTMVczcUhnQ09ISzJGR3NaNzVhak5xSW9tdDZsTHJZQkdxa1lHWWtXWTNWZjlicTZIR2pIRFY1U2wyZkR2NjNnbmluNFNYWUxqbV96RjZybThOR2hrTF9NbDhFNmR1a2VyUUlyeFk5Vms5QVVOOXoxdndyVkgxeXpQaUMzR3RuQUt6ZUgtNnNWYUd2LVdlZzVTX3VLZUstZHg5M0hMMFN3d2ZMR2xyYzRXaG8?oc=5",
+      "published": "Tue, 21 Jul 2026 05:30:58 GMT",
+      "summary": "Jordan flight cancellations continue as Iranian attacks disrupt air travel&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
