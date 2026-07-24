@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-23T20:49:58.485049+00:00",
+  "last_updated": "2026-07-24T01:42:13.798392+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Most Airlines Are Holding Back on Capacity \u2014 American Is Flying More",
+      "link": "https://skift.com/2026/07/23/while-everyone-else-cuts-capacity-american-is-flying-more/",
+      "published": "Thu, 23 Jul 2026 21:08:53 +0000",
+      "summary": "American has made some capacity cuts, but they\u2019re much more modest compared to that of its chief rivals Delta and United. Executives at the carrier said they were taking a more conservative approach to cuts due to volatility around fuel prices.",
+      "source": "Skift"
+    },
     {
       "title": "Wyndham\u2019s Portfolio Overhaul: Budget Hotels Are Out, Higher Fees Are In",
       "link": "https://skift.com/2026/07/23/wyndhams-portfolio-overhaul-budget-hotels-are-out-higher-fees-are-in/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "American Airlines Offset Half Its Fuel Costs With Higher Fares, But Cuts Profit Outlook",
-      "link": "https://skift.com/2026/07/23/american-says-it-offset-50-percent-fuel-expenses-with-higher-fares/",
-      "published": "Thu, 23 Jul 2026 11:54:11 +0000",
-      "summary": "Pricing power has emerged as a major theme of second-quarter earnings as airlines look to make their pricing gains permanent.",
-      "source": "Skift"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 09:34:37 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "How The Middle East Conflict Has Changed Cruising - Here's What You Need To Know - Cruise Passenger",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk13VzJhZnNzRHF5d0dpTldPY3RpYm9yOUZuTTY5X0RjamhEQTVUcktJaG5aZGp0WWp6NmU0TUNrMmxab0FQa0s3RG1EQlRBa0gtcjZFbEJ4Q1c5YnIxT3RCV2J0TUNjcnVEZUE0YkcybmhsMUMwM0RqSjRaNTBzR3hBTnNDZmZNa1hZOE5mSzRjNm1iTU52Zm5nZ2ZnaWNVSXFuTF9YTjBzVnFmbGFZ?oc=5",
+      "published": "Mon, 20 Jul 2026 02:47:23 GMT",
+      "summary": "How The Middle East Conflict Has Changed Cruising - Here's What You Need To Know&nbsp;&nbsp;Cruise Passenger",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTndjVHgyMWJKQjItdnlYcEQxNDduX1VSWGhoUWtORko0RnE1Y3RUUTFtbVYzT1ZQRDdkWFc4MHpqOGlkNEVhSXkxbDVLcDh3TWdCcFdEeEJ5RVU3Z1BqbDdXQnFSY0lQLWVWdnEtWWhxTjVKTmNyTGhkS2ZtcnN4b0drLUdKZlpqR0pyeWljcGFuWWsyMzBnaUstQ3Z1UUZ6T3phQzhFcEVIT21feExuT2ZQdExKb0k1eTJNMjJB0gHSAUFVX3lxTFBRTG9JbG9qOGM4Mm9paEh5MG9xWUI2ZWg4ejVRTmp6bVg2VkNUX25EQUlFSlhmZmoxLU4wMlZHY3JUUzl4WEkyZ2s3emVUeElKZl9YejhWZ0ZFMkFsYlhMYkVLM3BQZjhUOWd0WVpjTTB3WW1KSW1OVEZ1OGVxaHpXSEJxaU9tOWtRR1oweV9nLVl3bWJYczdWaVdiNkVfTkpuMHc5cEdJREM5NHM4d2JWb2hrdHdDWDNDTDkxd1k2aXBDUUtBeGhsRWFZOXNVVDV5UQ?oc=5",
       "published": "Fri, 17 Jul 2026 15:40:00 GMT",
       "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Jordan flight cancellations continue as Iranian attacks disrupt air travel - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWFHV2VLVlVvREpJN1dfcmtTMVczcUhnQ09ISzJGR3NaNzVhak5xSW9tdDZsTHJZQkdxa1lHWWtXWTNWZjlicTZIR2pIRFY1U2wyZkR2NjNnbmluNFNYWUxqbV96RjZybThOR2hrTF9NbDhFNmR1a2VyUUlyeFk5Vms5QVVOOXoxdndyVkgxeXpQaUMzR3RuQUt6ZUgtNnNWYUd2LVdlZzVTX3VLZUstZHg5M0hMMFN3d2ZMR2xyYzRXaG8?oc=5",
-      "published": "Tue, 21 Jul 2026 05:30:58 GMT",
-      "summary": "Jordan flight cancellations continue as Iranian attacks disrupt air travel&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     }
   ]
