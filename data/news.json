@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-24T10:06:13.405036+00:00",
+  "last_updated": "2026-07-24T13:15:14.975926+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Brings Data + AI Summit to Europe for the First Time",
+      "link": "https://skift.com/2026/07/24/skift-brings-data-ai-summit-europe-for-the-first-time/",
+      "published": "Fri, 24 Jul 2026 12:30:53 +0000",
+      "summary": "Nearly every travel company now claims to be deploying AI. Far fewer can show the outcome, and Europe&apos;s rules and languages make proof harder to reach than anywhere else. The Skift Data + AI Summit Europe is where leaders close that distance.",
+      "source": "Skift"
+    },
     {
       "title": "Most Airlines Are Holding Back on Capacity \u2014 American Is Flying More",
       "link": "https://skift.com/2026/07/23/while-everyone-else-cuts-capacity-american-is-flying-more/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "54% of Travelers Distrust Your AI Recommendations \u2014 Now What?",
-      "link": "https://skift.com/2026/07/23/travel-ai-trust-report/",
-      "published": "Thu, 23 Jul 2026 13:00:00 +0000",
-      "summary": "AI is quickly becoming part of the travel customer journey, but consumer confidence isn&apos;t keeping pace. A new report from Wunderkind examines why trust has become one of the biggest challenges facing AI-powered travel experiences.",
-      "source": "Skift"
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
     },
     {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
       "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
-      "published": "Sun, 19 Jul 2026 05:12:22 GMT",
-      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
+      "title": "US Issues Travel Advisory: Americans Abroad Asked To Reconsider Travel To Middle East Amid Rising Tensions - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlY2ejF4cExhcVVvbllLVWJYaEFvRTVxNnNaR00zNWdsN0RwbW4zX3ltOHZqNDlnX3p2c1BzcHVXMTZmbHFwekJObWlVTXdXTnJIWW5GS21rWjJXdkVfNjZPWHAyTndRbmpQVklOYy05cGUxQ3pXcHJnUExCX0FiM24ydm8yZDhhcWI3Y0lDRjZpTHJGM0RnMVRoZWNGWjZoQVkyd3Y0LTBvQ2pCcHE0VlhRV2Z6dGRHek5SLWh6M2ZxcFcwSkVnMDhmY1ZHQ0ZxWktFNEhydFFlemRfMzdKV9IB6AFBVV95cUxOcVhTc3ViN21VZldhZ2ZwYmxlUUgwTElTejdpZ0xEZ19BelpiZmE1bmdnUk9pV0toNDJRT1RlQ3NrM0ZpRFp5QXN3Qi1LSWdKWGk2ZV9KckNybFpmTHpaV0NkaHVRUUZab3k1OE9vSmVWQlp2NEhQVEt6TDlRSDBTd2VQM0l3UlVubTdvTWRPV1M1VG41MG9zLTk0SnlZZExacUVqaW1oY0kwNklFbWVHTnRhazd6U0RBTGQ4QXIyc0E1OTFYV0JPenFKZVVKSDJUWV81eHZqRmFKa3FSaEFza01xdVRfT2px?oc=5",
+      "published": "Tue, 21 Jul 2026 08:39:16 GMT",
+      "summary": "US Issues Travel Advisory: Americans Abroad Asked To Reconsider Travel To Middle East Amid Rising Tensions&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
     },
     {
