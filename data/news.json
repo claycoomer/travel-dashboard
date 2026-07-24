@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-24T17:19:17.090852+00:00",
+  "last_updated": "2026-07-24T20:53:50.430442+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Lounges Could Be Next in Southwest\u2019s Overhaul: \u2018There\u2019s Work Underway\u2019",
+      "link": "https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/",
+      "published": "Fri, 24 Jul 2026 17:35:27 +0000",
+      "summary": "With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.",
+      "source": "Skift"
+    },
     {
       "title": "Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare",
       "link": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "IndiGo Swings to Loss as Fuel Costs Surge Amid Middle East Flare-Up",
-      "link": "https://skift.com/2026/07/23/indigo-swings-to-loss-as-fuel-costs-surge-amid-middle-east-flare-up/",
-      "published": "Thu, 23 Jul 2026 16:26:07 +0000",
-      "summary": "IndiGo charged more, earned more, and still lost money. Welcome to the brutal math of aviation.",
-      "source": "Skift"
-    },
-    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 19:54:00 GMT",
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "FAA's \"Slow Flights\" Warning For 10 Different U.S. Airports Results In More Nationwide Disruptions - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExtT1BpWkVJUy14UkxObTY2a2NYTDZ2TVZjR2NWWmliZFB5VHpGcndhN1lBM3ZYTDNoTlNHLWhPbDY2QVVFcG45a0JoNmkwSG9JMmU1RzFJRGhhaEx0SWlQUHdkeXpWeUh5Z19pa1lHSUU4cGYtc3c1UWhYTUdRT1BzQUstMXJRRWtDbmoyNjlPcFBZbkdnWkdFMHdDYVdHd3E0UkxqQkNfeFhMMUt5c2RlSVdkMWli?oc=5",
-      "published": "Fri, 24 Jul 2026 10:50:10 GMT",
-      "summary": "FAA's \"Slow Flights\" Warning For 10 Different U.S. Airports Results In More Nationwide Disruptions&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:26 GMT",
       "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "FAA's \"Slow Flights\" Warning For 10 Different U.S. Airports Results In More Nationwide Disruptions - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExtT1BpWkVJUy14UkxObTY2a2NYTDZ2TVZjR2NWWmliZFB5VHpGcndhN1lBM3ZYTDNoTlNHLWhPbDY2QVVFcG45a0JoNmkwSG9JMmU1RzFJRGhhaEx0SWlQUHdkeXpWeUh5Z19pa1lHSUU4cGYtc3c1UWhYTUdRT1BzQUstMXJRRWtDbmoyNjlPcFBZbkdnWkdFMHdDYVdHd3E0UkxqQkNfeFhMMUt5c2RlSVdkMWli?oc=5",
+      "published": "Fri, 24 Jul 2026 10:50:10 GMT",
+      "summary": "FAA's \"Slow Flights\" Warning For 10 Different U.S. Airports Results In More Nationwide Disruptions&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
