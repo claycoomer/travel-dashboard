@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-27T06:53:49.644377+00:00",
+  "last_updated": "2026-07-27T11:08:47.646758+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "China\u2019s $770 Million Crackdown on Trip.com Is Really About Platform Power",
+      "link": "https://skift.com/2026/07/27/chinas-770-million-crackdown-on-trip-com-is-really-about-platform-power/",
+      "published": "Mon, 27 Jul 2026 09:38:14 +0000",
+      "summary": "China&apos;s latest antitrust ruling puts new scrutiny on how online travel platforms use exclusivity, pricing, and traffic allocation to maintain their edge.",
+      "source": "Skift"
+    },
     {
       "title": "United Chased Delta and American. Now Airline M&A Has Stalled",
       "link": "https://skift.com/2026/07/26/united-chased-delta-and-american-now-airline-m-and-a-has-stalled/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Most Airlines Are Holding Back on Capacity \u2014 American Is Flying More",
-      "link": "https://skift.com/2026/07/23/while-everyone-else-cuts-capacity-american-is-flying-more/",
-      "published": "Thu, 23 Jul 2026 21:08:53 +0000",
-      "summary": "American has made some capacity cuts, but they\u2019re much more modest compared to that of its chief rivals Delta and United. Executives at the carrier said they were taking a more conservative approach to cuts due to volatility around fuel prices.",
-      "source": "Skift"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Embassy warns of potential flight cancellations due to security situation - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VRVdjaXFNbU5XcW5telc3ODNiR2p2bFBoS2VfQmEyTnRkRTNtWXQxTGx5NVNVVXNuVTAxQ1VaUzV1R2FNWXk4Y2pkSC12bkxhbTZVd3BmdS1JNWJw?oc=5",
-      "published": "Fri, 24 Jul 2026 21:36:19 GMT",
-      "summary": "US Embassy warns of potential flight cancellations due to security situation&nbsp;&nbsp;The Jerusalem Post",
+      "title": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0c3YTRSRmxnQUxyMEZnQXhuWnJOSTAzRXRHUHhyUWRpeXcxSHAyVjZCcFpNV2pRMzhtcmFtRnRqekVLME1vNDhab3h2SVZ0cmREeVJvTXVjVHFBMl95Mk1Semh1em5vUjNicFExRzhNYlZiLV9CTmx5UVRfY2M5SWpib1JrOFAySnVrYVR4ZDJkRmNjek9tdjJWVjlxcmo1SzVfcjl5SDViQ3JLT3RvaTV30gHEAUFVX3lxTE5wMXRja2otVjNfTENGSEY3VEVwNlZxMkdkeWhkZldTbF9YLWtxMlFrNWtZOTJ6Njg2SkpZOURsUjI4cGNfTnVYMGpyN1hRdkxIeXp4M0JLMEhuMFVWM3BnOU9HZE41XzRyWkM1NjUxb1o2TTRhbWhkblJuMkFLWjdHT3dFMXdwZDh4bDJYZ2ZKRGw2dUYwM0dHMW5adlVhUHRZTktTMnEzdUlpZUwwWGpHSElvS3owckhQMmpBR1Z4QlVEVHQ?oc=5",
+      "published": "Mon, 27 Jul 2026 05:57:07 GMT",
+      "summary": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0c3YTRSRmxnQUxyMEZnQXhuWnJOSTAzRXRHUHhyUWRpeXcxSHAyVjZCcFpNV2pRMzhtcmFtRnRqekVLME1vNDhab3h2SVZ0cmREeVJvTXVjVHFBMl95Mk1Semh1em5vUjNicFExRzhNYlZiLV9CTmx5UVRfY2M5SWpib1JrOFAySnVrYVR4ZDJkRmNjek9tdjJWVjlxcmo1SzVfcjl5SDViQ3JLT3RvaTV30gHEAUFVX3lxTE5wMXRja2otVjNfTENGSEY3VEVwNlZxMkdkeWhkZldTbF9YLWtxMlFrNWtZOTJ6Njg2SkpZOURsUjI4cGNfTnVYMGpyN1hRdkxIeXp4M0JLMEhuMFVWM3BnOU9HZE41XzRyWkM1NjUxb1o2TTRhbWhkblJuMkFLWjdHT3dFMXdwZDh4bDJYZ2ZKRGw2dUYwM0dHMW5adlVhUHRZTktTMnEzdUlpZUwwWGpHSElvS3owckhQMmpBR1Z4QlVEVHQ?oc=5",
-      "published": "Mon, 27 Jul 2026 05:57:07 GMT",
-      "summary": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Latest Middle East travel advisories issued amid renewed US-Iran escalation - connectingtravel.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjgzZ2dOWi1wNEwtcHJ0eXRYWnlSbVEzd3pITTJBVnBTRkpjd3JLejMxWHpKV29MSkxaeDhab3Q5MGM5NS0wU1FZd2JKaHNJYjVqSlFTM0lSQlM3WWkxQjJ5VGRhQlJRUUo3dW1ISGNaY0pJamEwZ3l5N2R2VVBzR1EtTE1xR1IzTDY5S0s3UE1rLWRBLUJWUDhySE1FZVhxUURnY204bTF3NnBoUFE?oc=5",
       "published": "Fri, 24 Jul 2026 13:53:59 GMT",
       "summary": "Latest Middle East travel advisories issued amid renewed US-Iran escalation&nbsp;&nbsp;connectingtravel.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
