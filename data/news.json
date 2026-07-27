@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-27T17:28:23.044398+00:00",
+  "last_updated": "2026-07-27T21:00:55.519664+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Why American Express Wants to Buy TheFork: New Cardmembers",
+      "link": "https://skift.com/2026/07/27/why-american-express-wants-to-buy-thefork-new-cardmembers/",
+      "published": "Mon, 27 Jul 2026 19:42:21 +0000",
+      "summary": "In acquiring TheFork, American Express wouldn&apos;t be merely adding some dining reservations&apos; bookings. Instead, it&apos;s adding valuable data about discretionary spend, expanding its global footprint, and enticing nonmembers to become cardholders.",
+      "source": "Skift"
+    },
+    {
+      "title": "Amazon\u2019s Alexa+ Is Trying to Sell Trips Inside a Chat. Priceline Is an Early Test",
+      "link": "https://skift.com/2026/07/27/amazons-alexa-is-trying-to-sell-trips-inside-a-chat-priceline-is-an-early-test/",
+      "published": "Mon, 27 Jul 2026 17:39:52 +0000",
+      "summary": "Amazon is betting that stored payment credentials, new MCP support and 180 million Prime members can solve the problem that stopped OpenAI cold: getting travelers to complete a purchase inside an AI conversation.",
+      "source": "Skift"
+    },
     {
       "title": "Trip.com Killed Tool at the Center of China\u2019s Antitrust Case \u2014 and It\u2019s Already Hitting Profits",
       "link": "https://skift.com/2026/07/27/trip-com-killed-tool-at-the-center-of-chinas-antitrust-case-and-its-already-hitting-profits/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Everyone in Travel Wants a Fair Ranking\u2026Until They Own One",
-      "link": "https://skift.com/2026/07/26/everyone-in-travel-wants-a-fair-rankinguntil-they-own-one/",
-      "published": "Sun, 26 Jul 2026 12:00:00 +0000",
-      "summary": "Travel search is auctions stacked on auctions: everyone demands fairness from the layer above while selling position to the layer below.",
-      "source": "Skift"
-    },
-    {
-      "title": "Lounges Could Be Next in Southwest\u2019s Overhaul: \u2018There\u2019s Work Underway\u2019",
-      "link": "https://skift.com/2026/07/24/lounges-could-be-next-in-southwests-overhaul/",
-      "published": "Fri, 24 Jul 2026 17:35:27 +0000",
-      "summary": "With the possibility of lounges, Southwest is betting that it can capture more premium customers and boost engagement with its loyalty program.",
-      "source": "Skift"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:26 GMT",
-      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: passengers advised to check flight status despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmZFcGVTYmp3TW0yUEFxaUkwNnJTSWEwNTZ2cE1CelNESjZsSDUxeXFwVHZSVFZkTlVyLTlBdjBuM2NSQ2FmZEhTWHNXa3FwYk9EQkIzWHc5cEg0dWs4VXlnTlMtSGFicVhRNWp5SUNLWW9UQmNFdXltVG1XdFpnSVlZcTBvYzc4NlM0ZjFxVnY1dkx6ellsVUhiTVdqejJ6T09UUmwyeGpvb0F2ZkcwWEtLZUdCZkNiNUE2VnBmOHpnSERvN1NieXpLVnBBOFFTRW1xaVBna0NheEN5NGRwTTUxbkI1aGM?oc=5",
+      "published": "Mon, 27 Jul 2026 11:45:33 GMT",
+      "summary": "Dubai and Middle East flight disruption: passengers advised to check flight status despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
