@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-27T11:08:47.646758+00:00",
+  "last_updated": "2026-07-27T14:08:06.873886+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Sonder\u2019s Brand Name Bought Out of Bankruptcy, but the Management Business Is Gone",
+      "link": "https://skift.com/2026/07/27/sonders-brand-name-bought-out-of-bankruptcy-but-the-management-business-is-gone/",
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "summary": "A Vancouver company that runs hundreds of niche travel sites bought the Sonder name. The brand carcass has value for its residual search traffic.",
+      "source": "Skift"
+    },
     {
       "title": "China\u2019s $770 Million Crackdown on Trip.com Is Really About Platform Power",
       "link": "https://skift.com/2026/07/27/chinas-770-million-crackdown-on-trip-com-is-really-about-platform-power/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Brings Data + AI Summit to Europe for the First Time",
-      "link": "https://skift.com/2026/07/24/skift-brings-data-ai-summit-europe-for-the-first-time/",
-      "published": "Fri, 24 Jul 2026 12:30:53 +0000",
-      "summary": "Nearly every travel company now claims to be deploying AI. Far fewer can show the outcome, and Europe&apos;s rules and languages make proof harder to reach than anywhere else. The Skift Data + AI Summit Europe is where leaders close that distance.",
-      "source": "Skift"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Latest Middle East travel advisories issued amid renewed US-Iran escalation - connectingtravel.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjgzZ2dOWi1wNEwtcHJ0eXRYWnlSbVEzd3pITTJBVnBTRkpjd3JLejMxWHpKV29MSkxaeDhab3Q5MGM5NS0wU1FZd2JKaHNJYjVqSlFTM0lSQlM3WWkxQjJ5VGRhQlJRUUo3dW1ISGNaY0pJamEwZ3l5N2R2VVBzR1EtTE1xR1IzTDY5S0s3UE1rLWRBLUJWUDhySE1FZVhxUURnY204bTF3NnBoUFE?oc=5",
-      "published": "Fri, 24 Jul 2026 13:53:59 GMT",
-      "summary": "Latest Middle East travel advisories issued amid renewed US-Iran escalation&nbsp;&nbsp;connectingtravel.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
       "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
     }
   ]
