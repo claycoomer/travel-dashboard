@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-27T14:08:06.873886+00:00",
+  "last_updated": "2026-07-27T17:28:23.044398+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Trip.com Killed Tool at the Center of China\u2019s Antitrust Case \u2014 and It\u2019s Already Hitting Profits",
+      "link": "https://skift.com/2026/07/27/trip-com-killed-tool-at-the-center-of-chinas-antitrust-case-and-its-already-hitting-profits/",
+      "published": "Mon, 27 Jul 2026 17:08:24 +0000",
+      "summary": "Trip.com will now have to prove that it can keep hotels, sustain growth, and defend its market position without the commercial tools that regulators ruled crossed the line.",
+      "source": "Skift"
+    },
+    {
+      "title": "What the World Cup Could Have Been",
+      "link": "https://skift.com/2026/07/27/what-the-world-cup-could-have-been/",
+      "published": "Mon, 27 Jul 2026 14:32:47 +0000",
+      "summary": "The travel industry bet billions that the 2026 World Cup would bring throngs of international travellers to North America. Instead, it got lower hotel occupancy, price spikes, and fewer travelers. It\u2019s a warning the United States shouldn\u2019t ignore twice.",
+      "source": "Skift"
+    },
+    {
+      "title": "China\u2019s Hotel Investment Surge Isn\u2019t Just a Distress Sale Story",
+      "link": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+      "published": "Mon, 27 Jul 2026 14:11:55 +0000",
+      "summary": "A regulatory change most investors are still catching up to is reshaping how China\u2019s hotel assets get bought, sold and valued.",
+      "source": "Skift"
+    },
     {
       "title": "Sonder\u2019s Brand Name Bought Out of Bankruptcy, but the Management Business Is Gone",
       "link": "https://skift.com/2026/07/27/sonders-brand-name-bought-out-of-bankruptcy-but-the-management-business-is-gone/",
@@ -42,27 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Wildfire Risk is Increasing. Rising Insurance Costs Are Pushing Hotels to Prepare",
-      "link": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
-      "published": "Fri, 24 Jul 2026 15:08:33 +0000",
-      "summary": "As wildfires grow more frequent and severe, insurers are no longer pricing risk by location alone \u2014 they\u2019re underwriting based on how resilient a property is, pushing operators to firm up their hotels.",
-      "source": "Skift"
-    },
-    {
-      "title": "CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests",
-      "link": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-      "published": "Fri, 24 Jul 2026 14:57:43 +0000",
-      "summary": "Selling your brand to a major group and staying on to run the hotels is an unusual move. A year in, the distribution lift is real. Whether Marriott can now grow CitizenM beyond its original backer is the open question.",
-      "source": "Skift"
-    },
-    {
-      "title": "Skift\u2019s Farnborough Cheat Sheet: Key Aircraft Deals Explained",
-      "link": "https://skift.com/2026/07/24/skifts-farnborough-cheat-sheet-key-aircraft-deals-explained/",
-      "published": "Fri, 24 Jul 2026 13:20:41 +0000",
-      "summary": "Fewer orders than the hype promised, and most of the big money spent by companies that don&apos;t fly a single passenger.",
-      "source": "Skift"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0c3YTRSRmxnQUxyMEZnQXhuWnJOSTAzRXRHUHhyUWRpeXcxSHAyVjZCcFpNV2pRMzhtcmFtRnRqekVLME1vNDhab3h2SVZ0cmREeVJvTXVjVHFBMl95Mk1Semh1em5vUjNicFExRzhNYlZiLV9CTmx5UVRfY2M5SWpib1JrOFAySnVrYVR4ZDJkRmNjek9tdjJWVjlxcmo1SzVfcjl5SDViQ3JLT3RvaTV30gHEAUFVX3lxTE5wMXRja2otVjNfTENGSEY3VEVwNlZxMkdkeWhkZldTbF9YLWtxMlFrNWtZOTJ6Njg2SkpZOURsUjI4cGNfTnVYMGpyN1hRdkxIeXp4M0JLMEhuMFVWM3BnOU9HZE41XzRyWkM1NjUxb1o2TTRhbWhkblJuMkFLWjdHT3dFMXdwZDh4bDJYZ2ZKRGw2dUYwM0dHMW5adlVhUHRZTktTMnEzdUlpZUwwWGpHSElvS3owckhQMmpBR1Z4QlVEVHQ?oc=5",
-      "published": "Mon, 27 Jul 2026 05:57:07 GMT",
-      "summary": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:26 GMT",
       "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0c3YTRSRmxnQUxyMEZnQXhuWnJOSTAzRXRHUHhyUWRpeXcxSHAyVjZCcFpNV2pRMzhtcmFtRnRqekVLME1vNDhab3h2SVZ0cmREeVJvTXVjVHFBMl95Mk1Semh1em5vUjNicFExRzhNYlZiLV9CTmx5UVRfY2M5SWpib1JrOFAySnVrYVR4ZDJkRmNjek9tdjJWVjlxcmo1SzVfcjl5SDViQ3JLT3RvaTV30gHEAUFVX3lxTE5wMXRja2otVjNfTENGSEY3VEVwNlZxMkdkeWhkZldTbF9YLWtxMlFrNWtZOTJ6Njg2SkpZOURsUjI4cGNfTnVYMGpyN1hRdkxIeXp4M0JLMEhuMFVWM3BnOU9HZE41XzRyWkM1NjUxb1o2TTRhbWhkblJuMkFLWjdHT3dFMXdwZDh4bDJYZ2ZKRGw2dUYwM0dHMW5adlVhUHRZTktTMnEzdUlpZUwwWGpHSElvS3owckhQMmpBR1Z4QlVEVHQ?oc=5",
+      "published": "Mon, 27 Jul 2026 05:57:07 GMT",
+      "summary": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
