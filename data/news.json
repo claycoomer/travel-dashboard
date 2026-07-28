@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-28T13:27:45.660166+00:00",
+  "last_updated": "2026-07-28T17:17:19.851234+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Iran War Dents Royal Caribbean\u2019s Revenue Forecast",
+      "link": "https://skift.com/2026/07/28/royal-caribbean-earnings-impact-iran-war/",
+      "published": "Tue, 28 Jul 2026 16:01:53 +0000",
+      "summary": "Cruise line operators are underperforming the market for the first time post-COVID as war in the Middle East weighs on bookings.",
+      "source": "Skift"
+    },
+    {
+      "title": "Jay Carney to Exit Airbnb. Lime Veteran Appointed Policy Chief",
+      "link": "https://skift.com/2026/07/28/jay-carney-to-exit-airbnb-lime-veteran-appointed-policy-chief/",
+      "published": "Tue, 28 Jul 2026 15:32:36 +0000",
+      "summary": "The choice of a cities-and-operations operator to succeed a former White House press secretary on policy strategy signals that Airbnb could be reverting to a more of an aggressive regulatory ground game in the years ahead.",
+      "source": "Skift"
+    },
+    {
+      "title": "IHG Joins Hilton and Marriott With AI Search",
+      "link": "https://skift.com/2026/07/28/ihg-joins-hilton-and-marriott-with-ai-search/",
+      "published": "Tue, 28 Jul 2026 15:32:01 +0000",
+      "summary": "IHG is the latest major hotel group to test natural-language search in its site and app. An equally notable move is its upcoming content platform to help ensure that its hotels&apos; unique qualities are visible in AI-powered search results.",
+      "source": "Skift"
+    },
     {
       "title": "Why American Express Wants to Buy TheFork: New Cardmembers",
       "link": "https://skift.com/2026/07/27/why-american-express-wants-to-buy-thefork-new-cardmembers/",
@@ -42,34 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "China\u2019s Hotel Investment Surge Isn\u2019t Just a Distress Sale Story",
-      "link": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-      "published": "Mon, 27 Jul 2026 14:11:55 +0000",
-      "summary": "A regulatory change most investors are still catching up to is reshaping how China\u2019s hotel assets get bought, sold and valued.",
-      "source": "Skift"
-    },
-    {
-      "title": "Sonder\u2019s Brand Name Bought Out of Bankruptcy, but the Management Business Is Gone",
-      "link": "https://skift.com/2026/07/27/sonders-brand-name-bought-out-of-bankruptcy-but-the-management-business-is-gone/",
-      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "summary": "A Vancouver company that runs hundreds of niche travel sites bought the Sonder name. The brand carcass has value for its residual search traffic.",
-      "source": "Skift"
-    },
-    {
-      "title": "China\u2019s $770 Million Crackdown on Trip.com Is Really About Platform Power",
-      "link": "https://skift.com/2026/07/27/chinas-770-million-crackdown-on-trip-com-is-really-about-platform-power/",
-      "published": "Mon, 27 Jul 2026 09:38:14 +0000",
-      "summary": "China&apos;s latest antitrust ruling puts new scrutiny on how online travel platforms use exclusivity, pricing, and traffic allocation to maintain their edge.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
-      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
@@ -81,6 +74,13 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
       "published": "Sat, 25 Jul 2026 18:52:40 GMT",
       "summary": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
+      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
+      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
       "published": "Sun, 19 Jul 2026 07:00:00 GMT",
       "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
