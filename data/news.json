@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T21:00:55.519664+00:00",
+  "last_updated": "2026-07-28T01:26:24.010012+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -25,6 +25,13 @@
       "link": "https://skift.com/2026/07/27/trip-com-killed-tool-at-the-center-of-chinas-antitrust-case-and-its-already-hitting-profits/",
       "published": "Mon, 27 Jul 2026 17:08:24 +0000",
       "summary": "Trip.com will now have to prove that it can keep hotels, sustain growth, and defend its market position without the commercial tools that regulators ruled crossed the line.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb Has Car Rentals Now. What Does That Make It?",
+      "link": "https://skift.com/2026/07/27/airbnb-has-car-rentals-now-what-does-that-make-it/",
+      "published": "Mon, 27 Jul 2026 17:01:00 +0000",
+      "summary": "Airbnb wants to be the only travel app you&apos;ll ever need, but its new car rental tie-up hands the wheel to Expedia \u2014 the same OTA that&apos;s buying CarTrawler, the partner now filling that gap.",
       "source": "Skift"
     },
     {
@@ -54,69 +61,6 @@
       "published": "Mon, 27 Jul 2026 09:38:14 +0000",
       "summary": "China&apos;s latest antitrust ruling puts new scrutiny on how online travel platforms use exclusivity, pricing, and traffic allocation to maintain their edge.",
       "source": "Skift"
-    },
-    {
-      "title": "United Chased Delta and American. Now Airline M&A Has Stalled",
-      "link": "https://skift.com/2026/07/26/united-chased-delta-and-american-now-airline-m-and-a-has-stalled/",
-      "published": "Sun, 26 Jul 2026 20:45:14 +0000",
-      "summary": "The proposed merger represents United CEO Scott Kirby\u2019s high appetite for ambitious and large deals.",
-      "source": "Skift"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 15:09:46 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 19:54:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
-      "published": "Sat, 25 Jul 2026 18:52:40 GMT",
-      "summary": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
-      "published": "Thu, 23 Jul 2026 14:01:00 GMT",
-      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: passengers advised to check flight status despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmZFcGVTYmp3TW0yUEFxaUkwNnJTSWEwNTZ2cE1CelNESjZsSDUxeXFwVHZSVFZkTlVyLTlBdjBuM2NSQ2FmZEhTWHNXa3FwYk9EQkIzWHc5cEg0dWs4VXlnTlMtSGFicVhRNWp5SUNLWW9UQmNFdXltVG1XdFpnSVlZcTBvYzc4NlM0ZjFxVnY1dkx6ellsVUhiTVdqejJ6T09UUmwyeGpvb0F2ZkcwWEtLZUdCZkNiNUE2VnBmOHpnSERvN1NieXpLVnBBOFFTRW1xaVBna0NheEN5NGRwTTUxbkI1aGM?oc=5",
-      "published": "Mon, 27 Jul 2026 11:45:33 GMT",
-      "summary": "Dubai and Middle East flight disruption: passengers advised to check flight status despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0c3YTRSRmxnQUxyMEZnQXhuWnJOSTAzRXRHUHhyUWRpeXcxSHAyVjZCcFpNV2pRMzhtcmFtRnRqekVLME1vNDhab3h2SVZ0cmREeVJvTXVjVHFBMl95Mk1Semh1em5vUjNicFExRzhNYlZiLV9CTmx5UVRfY2M5SWpib1JrOFAySnVrYVR4ZDJkRmNjek9tdjJWVjlxcmo1SzVfcjl5SDViQ3JLT3RvaTV30gHEAUFVX3lxTE5wMXRja2otVjNfTENGSEY3VEVwNlZxMkdkeWhkZldTbF9YLWtxMlFrNWtZOTJ6Njg2SkpZOURsUjI4cGNfTnVYMGpyN1hRdkxIeXp4M0JLMEhuMFVWM3BnOU9HZE41XzRyWkM1NjUxb1o2TTRhbWhkblJuMkFLWjdHT3dFMXdwZDh4bDJYZ2ZKRGw2dUYwM0dHMW5adlVhUHRZTktTMnEzdUlpZUwwWGpHSElvS3owckhQMmpBR1Z4QlVEVHQ?oc=5",
-      "published": "Mon, 27 Jul 2026 05:57:07 GMT",
-      "summary": "UAE flights today: Latest flydubai, Air Arabia, Emirates cancellations, disruptions&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk1KTDQ3OGhCcGtJaV9tRl9zeTVNVXBSQm9CMjJvbDZibUFtd1JLSnJjYl96QnRvUjk5T2hHSzZqY0I5OEh3bGVKXzdUbktpSlRaQU1TaFFHb3BfOVNGMGhKZE5WWWlkWmlKNXNJckhpbFVrVDVkamxfMG5vWDZlWGV1Tk9KR2ZFdFJCU0VIYnpsWkprWENoSnY3dG9kV2wtNENxRzhwRDlJN0VYcDJXbmlYVWd6dWkyM3RkYXVLcUNCTUxFTHlr0gHbAUFVX3lxTE5kRmVYX3laN3JWLXlkbURMd3FtcjYyc05sa1FIOWxTOUh3cGxUX045R0ctNjdwTHkyNWRjSjBBWHAyTWVrNWZ4LXZTUmhzTk5LVU5kdk1HUTJPRWZPbzJKWmplSkZUdlpPS3FSQXFSUlg3NF82RllyUEJpZlluUXZQdGZxZ2puLVVMcHdmM0JmRW9aZXJERlFLVXRBVlNNdWh1RlJkSUlsb3c1ZnRnYTVyTkkyLXFPRFI2dVRQdHpUZ1lELXgyUVBzUGxMSU1EX2VZaDNyYzdubzdUQQ?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "Over 3,600 flights delayed, 83 canceled as nationwide travel disruptions create airport chaos&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
-      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
-      "source": "Google News Travel"
     }
   ]
 }
