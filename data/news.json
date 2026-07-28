@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-28T17:17:19.851234+00:00",
+  "last_updated": "2026-07-28T20:57:26.852773+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Google Is Leaning on Travel to Sell Its AI Ad Story",
+      "link": "https://skift.com/2026/07/28/google-earnings-ads-artificial-intelligence-ihg-booking/",
+      "published": "Tue, 28 Jul 2026 20:12:02 +0000",
+      "summary": "Retail and finance drove Google&apos;s search ad revenue this quarter. But Google chose travel \u2014 IHG for its newest ad format, Booking Holdings for cloud and AI-powered transactions \u2014 to show investors where its AI business lines are converging.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton Cuts Fees to Rebuild Hotel Owners\u2019 Margins as Costs Stay Sticky",
+      "link": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+      "published": "Tue, 28 Jul 2026 19:25:11 +0000",
+      "summary": "Hilton said it wants to help owners facing squeezed margins, such as by cutting some fees. &quot;We&apos;re spending a huge amount of time on this,&quot; says CEO Chris Nassetta.",
+      "source": "Skift"
+    },
+    {
+      "title": "JetBlue Is Still Losing Money, but Investors Are Buying the Turnaround Story",
+      "link": "https://skift.com/2026/07/28/jetblue-is-still-losing-money-but-investors-are-buying-the-turnaround/",
+      "published": "Tue, 28 Jul 2026 18:13:52 +0000",
+      "summary": "Despite some skepticism about JetBlue\u2019s viability, the carrier reaffirmed its outlook for the year and is banking on domestic first class to help it turn a profit.",
+      "source": "Skift"
+    },
+    {
+      "title": "Inside the Math of Fora\u2019s $1 Billion Valuation",
+      "link": "https://skift.com/2026/07/28/inside-the-math-of-foras-1-billion-valuation/",
+      "published": "Tue, 28 Jul 2026 18:00:40 +0000",
+      "summary": "Fora\u2019s $1 billion valuation rests on one bet: its existing advisors will keep booking more, allowing the platform to grow without taking more from them or from hotels.",
+      "source": "Skift"
+    },
     {
       "title": "Iran War Dents Royal Caribbean\u2019s Revenue Forecast",
       "link": "https://skift.com/2026/07/28/royal-caribbean-earnings-impact-iran-war/",
@@ -32,34 +60,6 @@
       "link": "https://skift.com/2026/07/27/why-american-express-wants-to-buy-thefork-new-cardmembers/",
       "published": "Mon, 27 Jul 2026 19:42:21 +0000",
       "summary": "In acquiring TheFork, American Express wouldn&apos;t be merely adding some dining reservations&apos; bookings. Instead, it&apos;s adding valuable data about discretionary spend, expanding its global footprint, and enticing nonmembers to become cardholders.",
-      "source": "Skift"
-    },
-    {
-      "title": "Amazon\u2019s Alexa+ Is Trying to Sell Trips Inside a Chat. Priceline Is an Early Test",
-      "link": "https://skift.com/2026/07/27/amazons-alexa-is-trying-to-sell-trips-inside-a-chat-priceline-is-an-early-test/",
-      "published": "Mon, 27 Jul 2026 17:39:52 +0000",
-      "summary": "Amazon is betting that stored payment credentials, new MCP support and 180 million Prime members can solve the problem that stopped OpenAI cold: getting travelers to complete a purchase inside an AI conversation.",
-      "source": "Skift"
-    },
-    {
-      "title": "Trip.com Killed Tool at the Center of China\u2019s Antitrust Case \u2014 and It\u2019s Already Hitting Profits",
-      "link": "https://skift.com/2026/07/27/trip-com-killed-tool-at-the-center-of-chinas-antitrust-case-and-its-already-hitting-profits/",
-      "published": "Mon, 27 Jul 2026 17:08:24 +0000",
-      "summary": "Trip.com will now have to prove that it can keep hotels, sustain growth, and defend its market position without the commercial tools that regulators ruled crossed the line.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Has Car Rentals Now. What Does That Make It?",
-      "link": "https://skift.com/2026/07/27/airbnb-has-car-rentals-now-what-does-that-make-it/",
-      "published": "Mon, 27 Jul 2026 17:01:00 +0000",
-      "summary": "Airbnb wants to be the only travel app you&apos;ll ever need, but its new car rental tie-up hands the wheel to Expedia \u2014 the same OTA that&apos;s buying CarTrawler, the partner now filling that gap.",
-      "source": "Skift"
-    },
-    {
-      "title": "What the World Cup Could Have Been",
-      "link": "https://skift.com/2026/07/27/what-the-world-cup-could-have-been/",
-      "published": "Mon, 27 Jul 2026 14:32:47 +0000",
-      "summary": "The travel industry bet billions that the 2026 World Cup would bring throngs of international travellers to North America. Instead, it got lower hotel occupancy, price spikes, and fewer travelers. It\u2019s a warning the United States shouldn\u2019t ignore twice.",
       "source": "Skift"
     },
     {
