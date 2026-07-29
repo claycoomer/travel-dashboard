@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-29T10:28:05.272033+00:00",
+  "last_updated": "2026-07-29T13:42:57.463423+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Who Owns Travel: The Sovereign Wealth Map of 2026",
+      "link": "https://skift.com/2026/07/29/who-owns-travel-the-sovereign-wealth-map-of-2026/",
+      "published": "Wed, 29 Jul 2026 13:30:00 +0000",
+      "summary": "We mapped who owns travel&apos;s physical layer in 2026 and it came back sovereign, but the money is not as patient as it used to be, and after the Saudi-UAE rift, not as unified either.",
+      "source": "Skift"
+    },
+    {
+      "title": "What\u2019s Inside Every Skift Global Forum Ticket and How to Use It",
+      "link": "https://skift.com/2026/07/29/whats-inside-every-skift-global-forum-ticket/",
+      "published": "Wed, 29 Jul 2026 11:05:40 +0000",
+      "summary": "Every Skift Global Forum ticket works across six windows, from two weeks out to on-demand afterward. Attendees who use each one walk in with meetings booked, stay present in the room, and leave with the introductions that turn into next quarter&apos;s deals.",
+      "source": "Skift"
+    },
     {
       "title": "China\u2019s Outbound Travel Recovery Has a New Problem: Not Enough Planes",
       "link": "https://skift.com/2026/07/29/chinas-outbound-travel-recovery-has-a-new-problem-not-enough-planes/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Jay Carney to Exit Airbnb. Lime Veteran Appointed Policy Chief",
-      "link": "https://skift.com/2026/07/28/jay-carney-to-exit-airbnb-lime-veteran-appointed-policy-chief/",
-      "published": "Tue, 28 Jul 2026 15:32:36 +0000",
-      "summary": "The choice of a cities-and-operations operator to succeed a former White House press secretary on policy strategy signals that Airbnb could be reverting to a more of an aggressive regulatory ground game in the years ahead.",
-      "source": "Skift"
-    },
-    {
-      "title": "IHG Joins Hilton and Marriott With AI Search",
-      "link": "https://skift.com/2026/07/28/ihg-joins-hilton-and-marriott-with-ai-search/",
-      "published": "Tue, 28 Jul 2026 15:32:01 +0000",
-      "summary": "IHG is the latest major hotel group to test natural-language search in its site and app. An equally notable move is its upcoming content platform to help ensure that its hotels&apos; unique qualities are visible in AI-powered search results.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
       "published": "Sat, 25 Jul 2026 18:52:40 GMT",
@@ -74,6 +74,13 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
       "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Your holiday and the Iran war: what UK travellers need to know - Holiday Extras",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWNsT01pemJVZ044VXhSUl9TZTE0YlNka0VOV080cEJRUjBDcVM0MTBLanVhamNpdkc5YXRDLWxGOGpnTW1pWEpDMlI2aWlDcEtBVTlUMEdFa3FFbWFmQUNZWjZ5MHhteDdfemxHczR2SndhZGpFeXdkMWRSYTNVakJQZXpVYWdkOWNZd253?oc=5",
+      "published": "Wed, 29 Jul 2026 10:33:36 GMT",
+      "summary": "Your holiday and the Iran war: what UK travellers need to know&nbsp;&nbsp;Holiday Extras",
       "source": "Google News Travel"
     },
     {
@@ -91,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
+      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
+      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
       "title": "UAE travel update today: Etihad, Air Arabia, flydubai and Qatar Airways cancel select Gulf flights - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZl84R29JYk5fbmZSdGZwbkdKV0c5d0RsUVk1S1otb25QT29oMXRIN05fazFDWVhiVDE2b241V2FVQ3V1dGE5dFV2UjFkb1JyQmJJZWU1ZzVtY1BlbEhlLTd2S1NoR2xMUDVtN1c0Y1hQSDI5aUk0M1J6QVMzSkYxNnJFSFJQdnV1SkxpZFVyOVVoTGpQQVduYm9LaDhVZHAwYVVoQWV2bm81NmY1dnh5OWpiRldvcmxIV0dVVW5qb3BxZHF4Qi1CTmpKS3FGMTRD0gHgAUFVX3lxTE11X3ptVEdWWjZ4V010T3pBNVlNR2JudjU0LTg4eVhzUmR4UmF3dTUzME9qWWt4dlY2Q3hVaUFEY1doS05yZHdMWWxRRkIyTGg4NGxyVnFQSGNJalFDNGx0emYzNzFYcmd1bjdRU0lwdVRtT0xqZ2NFM2VzMEFjUUxTRHRLY2pXdHMxZVdCbEk1NmJsWlNaRDBScU8tR1hBU3YyZzBMT3BrUlNRODNiMjBULWlIM1VpUXhmaEk5djdPX3c3MmZpaUlmZE9TRGVQUXR5NFhmQjJ3MS1vNTQyUlFZ?oc=5",
       "published": "Wed, 29 Jul 2026 04:45:37 GMT",
@@ -102,20 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUENCdzZON2pQSDFOZDJwbE9yOUU5b0k5OEsxNFdKWE1fMjMzRXBvUkJpTWFvLXB1Y2dQdUtCeTRHQ0gxVDlwVFlmcjk5VmNFaUw5M2RzRW9JcmV4WXVkV1dkVGltVHd4V1RkQ0VuWlZkODBkTF9SRC1aZU5yYnNFbHVxaEEwWVJ3eWhWLUFHQTkzQTE3Q2c?oc=5",
       "published": "Wed, 29 Jul 2026 02:56:15 GMT",
       "summary": "MICE Group Travel Advisory: Key Sourcing and Passenger Rights&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
-      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Latest Middle East travel advisories issued amid renewed US-Iran escalation - connectingtravel.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjgzZ2dOWi1wNEwtcHJ0eXRYWnlSbVEzd3pITTJBVnBTRkpjd3JLejMxWHpKV29MSkxaeDhab3Q5MGM5NS0wU1FZd2JKaHNJYjVqSlFTM0lSQlM3WWkxQjJ5VGRhQlJRUUo3dW1ISGNaY0pJamEwZ3l5N2R2VVBzR1EtTE1xR1IzTDY5S0s3UE1rLWRBLUJWUDhySE1FZVhxUURnY204bTF3NnBoUFE?oc=5",
-      "published": "Fri, 24 Jul 2026 13:53:59 GMT",
-      "summary": "Latest Middle East travel advisories issued amid renewed US-Iran escalation&nbsp;&nbsp;connectingtravel.com",
       "source": "Google News Travel"
     }
   ]
