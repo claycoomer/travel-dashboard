@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-29T01:26:45.453729+00:00",
+  "last_updated": "2026-07-29T06:22:54.331096+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "China\u2019s Outbound Travel Recovery Has a New Problem: Not Enough Planes",
+      "link": "https://skift.com/2026/07/29/chinas-outbound-travel-recovery-has-a-new-problem-not-enough-planes/",
+      "published": "Wed, 29 Jul 2026 04:34:06 +0000",
+      "summary": "Chinese demand for outbound travel continues to grow in 2026 despite war and diplomatic fallout. What&apos;s holding the market back now isn&apos;t hesitation, it&apos;s a shortage of flights.",
+      "source": "Skift"
+    },
     {
       "title": "Google Is Leaning on Travel to Sell Its AI Ad Story",
       "link": "https://skift.com/2026/07/28/google-earnings-ads-artificial-intelligence-ihg-booking/",
@@ -56,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Why American Express Wants to Buy TheFork: New Cardmembers",
-      "link": "https://skift.com/2026/07/27/why-american-express-wants-to-buy-thefork-new-cardmembers/",
-      "published": "Mon, 27 Jul 2026 19:42:21 +0000",
-      "summary": "In acquiring TheFork, American Express wouldn&apos;t be merely adding some dining reservations&apos; bookings. Instead, it&apos;s adding valuable data about discretionary spend, expanding its global footprint, and enticing nonmembers to become cardholders.",
-      "source": "Skift"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 15:09:46 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. State Department Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
       "published": "Sat, 25 Jul 2026 18:52:40 GMT",
@@ -77,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
-      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 15:09:46 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
@@ -95,6 +88,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 14:01:00 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUk9NWFpjblQ4OFJFalZwb3c3VFd4WTdObWNWby04bXJ2MmpCN256eE5qSlFyLVBmVVJ6anJkRkxOTVFNWDFrbkpGLTVJWXFXOFdKQmJFZTFkWktOQkx2X1hyeGRGS3c4bVQtTUxlZnZ2RUNJSUdpTzR3R1JHeVo1NzBfWVBGZlFsdGd6LTNVbXkybUdObUdHczhqY2dMTW13OTFUV2dGRm1TTGdOemVaY1NlbUhER3kyOTNVdVlJNExWQ1lBRlFOeXNxQVpOa0dpQlpveG96WXNTSTBOR1VjS3huYW5nSFVOLTNhZzd3Sm53QQ?oc=5",
+      "published": "Tue, 28 Jul 2026 10:13:18 GMT",
+      "summary": "Dubai and Middle East flight disruption: international airlines extend route suspensions despite US pausing strikes on Iran&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
