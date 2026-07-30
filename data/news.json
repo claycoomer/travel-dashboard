@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-07-30T10:10:41.955341+00:00",
+  "last_updated": "2026-07-30T13:24:24.712061+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Is Verified Identity the Missing Link in Airline Direct Booking?",
+      "link": "https://skift.com/2026/07/30/airline-loyalty-identity-verification/",
+      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "summary": "Airlines are investing heavily in direct bookings, loyalty programs, and more flexible offer creation. But the bigger opportunity may depend on something more basic: knowing who travelers are, what communities they belong to, and how to recognize them in ways that build lasting r",
+      "source": "Skift"
+    },
+    {
+      "title": "Announcing Skift Creator Summit 2026: Creator-Led Demand in Travel",
+      "link": "https://skift.com/2026/07/30/announcing-skift-creator-summit/",
+      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "summary": "Most travel brands still price creators as influencers and budget them as a side experiment. That&apos;s getting expensive twice over: creators now spark the trip, hold the trust, and close the sale, and measuring that against reach alone misses where the value actually sits. The",
+      "source": "Skift"
+    },
+    {
+      "title": "Don\u2019t Start a Travel Startup",
+      "link": "https://skift.com/2026/07/30/dont-start-a-travel-startup/",
+      "published": "Thu, 30 Jul 2026 12:11:43 +0000",
+      "summary": "Fourteen layers of advice from fourteen years of watching where the bodies are buried, from the founder of Skift.",
+      "source": "Skift"
+    },
     {
       "title": "Europe\u2019s Fires Haven\u2019t Stopped Tourism Yet, But EU Officials Warn Risk Could Spread",
       "link": "https://skift.com/2026/07/29/europe-fires-impact-tourism-france-spain/",
@@ -42,31 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Who Owns Travel: The Sovereign Wealth Map of 2026",
-      "link": "https://skift.com/2026/07/29/who-owns-travel-the-sovereign-wealth-map-of-2026/",
-      "published": "Wed, 29 Jul 2026 13:30:00 +0000",
-      "summary": "We mapped who owns travel&apos;s physical layer in 2026 and it came back sovereign, but the money is not as patient as it used to be, and after the Saudi-UAE rift, not as unified either.",
-      "source": "Skift"
-    },
-    {
-      "title": "What\u2019s Inside Every Skift Global Forum Ticket and How to Use It",
-      "link": "https://skift.com/2026/07/29/whats-inside-every-skift-global-forum-ticket/",
-      "published": "Wed, 29 Jul 2026 11:05:40 +0000",
-      "summary": "Every Skift Global Forum ticket works across six windows, from two weeks out to on-demand afterward. Attendees who use each one walk in with meetings booked, stay present in the room, and leave with the introductions that turn into next quarter&apos;s deals.",
-      "source": "Skift"
-    },
-    {
-      "title": "China\u2019s Outbound Travel Recovery Has a New Problem: Not Enough Planes",
-      "link": "https://skift.com/2026/07/29/chinas-outbound-travel-recovery-has-a-new-problem-not-enough-planes/",
-      "published": "Wed, 29 Jul 2026 04:34:06 +0000",
-      "summary": "Chinese demand for outbound travel continues to grow in 2026 despite war and diplomatic fallout. What&apos;s holding the market back now isn&apos;t hesitation, it&apos;s a shortage of flights.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,612 flights delayed today, 433 canceled as travel disruptions impact U.S. airports - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnM0VmpOU1IwRWNDYUJpRXNraEV1MmZTQjRELWc5NDJMVVU2aGI0dHN3MlRVbTAwbDRlOXhKUVdpTWg5X1hVc0pKMGExQV9Qc2lhblZ4aFRBdW9Qb3FZbWpPNGdGRzdKb2VGRXFMOG0zMHB0T3JMZEJqbEdGS21TT2MzYWR4R0JINVctRlhWUFl2MFRoRXczVnB1dGNsek9XX1ZiTFkwaXFqQkItell3dUJKQVl4X1ZNNVlhV0xnQdIB0wFBVV95cUxPVDBVN3hRTjBkZVpySldhYjl4ZXRnZmh6YmVYYTFYU2YzWjZ1ZXNhcWNvN1BMLVFIYkp0em45Y01ackhNTzJHV1VsR2EzbGQ2dDRuNzZKNUd1RDBoUXltbVN3MUp5MlNFVFowRXlxUlFxT3otU24yeUliRkFfdVZQM0dMd0ZMd1hwaVB0SFAzQmNvcWlyMlRmRW53djR5RGlHakNDY1pyX2kxMERhWi0xQ3dvSUV6ZU80eEtCODNuY3BtZ1ZLVHhvZXRfYy1FVGNuempB?oc=5",
       "published": "Wed, 29 Jul 2026 15:19:00 GMT",
       "summary": "Over 1,612 flights delayed today, 433 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -84,24 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 15:09:46 GMT",
       "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXlKY0xJNnZUeXdscFAtT1NhZW5kSEp6RE9ENzdYbEpkMGNlaS1IQ1Y0QmJSa1VTZTZDYnVJVTA2VGtCaVZVTkhoY1M4X3ZpSG9JRkpTb0s0NWJ6ZTdWRkNkTURWeXVSdHZxbDdsV0hHQ0VBNHFSdi1Pdk5xSmVwc1BqRkowQ0tjU1NQaWQ0YUl3bXFTbFZGYzFKTTV6N3picjhudkNocjloRWZORGo4MzIzVGFlRlRoQkZpMEVkbmdxcklpWlJjWWhCMNIB3wFBVV95cUxOWG5VQ3Vva3Z0eWVmVE1GemFJMEY4Mk9FRHBIODloRUlQbFRrYWNJYnFoQ0RDMm5xMERwZFJZSjlaa0NwUTNUcTJQamRqOUFCTldScTFnN3ZqTUwwaXpuQjNDdGNnZDA5UzdLWjB0bW9YWFJBNTBRUEduLTRKeG9lS19iYnNTYkpkV3hxZ0lGTWhRa2tiRDhmUGY2NGN6OFFRYkZOd2JVcU5SYUJPWFZpeENqSUNxVEZ1cmYwVkVKZk5sNXc3dEdDSXFNT3FscFVKTFdKUENSeTM3RHZveDBZ?oc=5",
-      "published": "Wed, 29 Jul 2026 14:57:00 GMT",
-      "summary": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 14:01:00 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Hawaii Travel Warning as Tropical Storm Fausto Triggers High Surf & Heavy Rain: New Travel Alert - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHpPVXpGRnpWLTRNRWxpdFNfeXlTRmZlbUtLLUF2b1lRODJ5ZExJaEVibERVQWlpckVDQ0YtQ3ZjRlVnLWJ6Ukh2NE9mV0xPNkZuODVVVGhJVjVvR0xnZmRfQTg2QU95M2pJU2N3a0RhUGZxbHItTTZkWnAyXzFJaVF3ZERNUUttQlVmaA?oc=5",
+      "published": "Thu, 30 Jul 2026 03:55:13 GMT",
+      "summary": "US Issues Hawaii Travel Warning as Tropical Storm Fausto Triggers High Surf & Heavy Rain: New Travel Alert&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     }
   ]
