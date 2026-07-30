@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-30T17:13:13.036173+00:00",
+  "last_updated": "2026-07-30T20:54:06.159678+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "MGM Resorts Looks to Luxury and \u2018Live Tourism\u2019 Given Tourist Shortfall",
+      "link": "https://skift.com/2026/07/30/mgm-resorts-looks-to-luxury-and-live-tourism-given-tourist-shortfall/",
+      "published": "Thu, 30 Jul 2026 20:04:08 +0000",
+      "summary": "The visitor to Las Vegas who books a mid-priced room and buys show tickets, whether they&apos;re from Cleveland or Calgary, hasn&apos;t come back in full yet.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb\u2019s Next Act: Tickets, Then a Wallet",
+      "link": "https://skift.com/2026/07/30/airbnbs-next-act-tickets-then-a-wallet/",
+      "published": "Thu, 30 Jul 2026 19:59:24 +0000",
+      "summary": "Airbnb spent seven years watching attractions ticketing from inside Tiqets, let Expedia buy the company, and is now hiring to build its own ticketing business.",
+      "source": "Skift"
+    },
     {
       "title": "Hyatt Pressured Over Delayed Openings as It Speeds Up Mid-Tier Buildout",
       "link": "https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/",
@@ -49,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Don\u2019t Start a Travel Startup",
-      "link": "https://skift.com/2026/07/30/dont-start-a-travel-startup/",
-      "published": "Thu, 30 Jul 2026 12:11:43 +0000",
-      "summary": "Fourteen layers of advice from fourteen years of watching where the bodies are buried, from the founder of Skift.",
-      "source": "Skift"
-    },
-    {
-      "title": "Europe\u2019s Fires Haven\u2019t Stopped Tourism Yet, But EU Officials Warn Risk Could Spread",
-      "link": "https://skift.com/2026/07/29/europe-fires-impact-tourism-france-spain/",
-      "published": "Wed, 29 Jul 2026 20:18:29 +0000",
-      "summary": "Wildfires in France and Spain forced evacuations near popular tourist destinations like Bordeaux and Madrid. EU officials say risks could spread to other parts of the continent.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2QyVXBEVTY2enBoamRCWDV3NWRfQ0RVMFlwUHUyMDBLSHBLOERacUFOV3VaRnFrVnJNUXVmT0VfLTJGeG1lX09OaXRMZ2FYUWNYRXJLTGh1SjdPWk1tb0V3ZTh4VWJkTk1STUFFTDdhM09UZ2dZN3VOTTRfTTB3Tlgzd0c5aGtEekR6NC14RTNfUkNwWllhX2M4eXVUTVF1RWU0TU90YlpqV3BlZG93eDFoV05tdW_SAcsBQVVfeXFMT1p5RzVxRC1kY3RyRXFGdlJ3dEEtUHAwWW80dGI3eUlkXzI2cVZFQXpGbi1sa25MZGlDVGNrbk5UM0ExOTl5d1pBRm8tUVhILXFqaGlyMFlONzBIUWx1NFZpSU5jUG40UDlxN1Y5V3VteGlsWWxQRlhkTjhpOEVkaTdBU3BnYWt4alJvVDl2V2tORUpGdTlNRkhhQU9kWGt1TUxaUjBUVVk2RzdOcHRDV1FVRW9fUlY5R1RzSFlEMlo4S0FhNXNDWHlOMm8?oc=5",
+      "title": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports - LehighValleyLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZThmVnNia2VoTGdGRjgwT1FDZGZELTJLbTl3SGNCZG1OY3pJVG1qWVRYeXAwczBvUy1GeWRKYW02NHIwNlgzeWJQY2d4R3RCOUpraXZwa0ZRSjhqd2lzMFFNTmRXSXNnWFBSNUpfWXVOYzgydzZWSEpEeWJGTG11TUg3Nm5kcU5Yejdtb1NLMkkzSUNucEJVT2hsbmRrbVdaSnhZQ0x1U2FqUW5zY1FxMnFXdkU3bkh5Qmp4cXNKN215cHd4N3RZNVdR?oc=5",
       "published": "Thu, 30 Jul 2026 14:50:00 GMT",
-      "summary": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;NJ.com",
+      "summary": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;LehighValleyLive.com",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Your holiday and the Iran war: what UK travellers need to know - Holiday Extras",
+      "title": "Your holiday and the Iran war: what UK travellers need to know - holidayextras.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWNsT01pemJVZ044VXhSUl9TZTE0YlNka0VOV080cEJRUjBDcVM0MTBLanVhamNpdkc5YXRDLWxGOGpnTW1pWEpDMlI2aWlDcEtBVTlUMEdFa3FFbWFmQUNZWjZ5MHhteDdfemxHczR2SndhZGpFeXdkMWRSYTNVakJQZXpVYWdkOWNZd253?oc=5",
       "published": "Thu, 30 Jul 2026 06:35:20 GMT",
-      "summary": "Your holiday and the Iran war: what UK travellers need to know&nbsp;&nbsp;Holiday Extras",
+      "summary": "Your holiday and the Iran war: what UK travellers need to know&nbsp;&nbsp;holidayextras.com",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,612 flights delayed today, 433 canceled as travel disruptions impact U.S. airports - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnM0VmpOU1IwRWNDYUJpRXNraEV1MmZTQjRELWc5NDJMVVU2aGI0dHN3MlRVbTAwbDRlOXhKUVdpTWg5X1hVc0pKMGExQV9Qc2lhblZ4aFRBdW9Qb3FZbWpPNGdGRzdKb2VGRXFMOG0zMHB0T3JMZEJqbEdGS21TT2MzYWR4R0JINVctRlhWUFl2MFRoRXczVnB1dGNsek9XX1ZiTFkwaXFqQkItell3dUJKQVl4X1ZNNVlhV0xnQdIB0wFBVV95cUxPVDBVN3hRTjBkZVpySldhYjl4ZXRnZmh6YmVYYTFYU2YzWjZ1ZXNhcWNvN1BMLVFIYkp0em45Y01ackhNTzJHV1VsR2EzbGQ2dDRuNzZKNUd1RDBoUXltbVN3MUp5MlNFVFowRXlxUlFxT3otU24yeUliRkFfdVZQM0dMd0ZMd1hwaVB0SFAzQmNvcWlyMlRmRW53djR5RGlHakNDY1pyX2kxMERhWi0xQ3dvSUV6ZU80eEtCODNuY3BtZ1ZLVHhvZXRfYy1FVGNuempB?oc=5",
-      "published": "Wed, 29 Jul 2026 15:20:00 GMT",
-      "summary": "Over 1,612 flights delayed today, 433 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 14:01:00 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnRhekVGaGkweVB2LUJ4dHJuVkk4WEV1TmppTWdEdU9mVDF6WmVNemYtUHlYR09YZWRya3VMRkNiR2o3alZxZXdYa3ZoNm1jX2RjS2lxM0JRMVI0Zk5lSnJOTXRmVVRoVDVhS1pIY09UdmkzWUxhX3VzV0lYZVdLY0pzanJITDREeG1JX1daajBVNGtXNS1FU2trYTZkU0pRZzRIWldDdXNfS3RuUGJYR2lKQnFhMjM5a2JJTndB0gHSAUFVX3lxTE9zeTItcE4zSFp3WklXNUdUS294NzM3eHNlQkxOWmVlV2lUeE13V29pVWJ4N3FEMlBzVEpLbG9kdXVmUm1YNnJyd3BvaWlGQXBoZDFJOWkyRERZYm1XRXY0cUw1OHRMTVhBSER5akZRSkdIV0JkNHlESy1xUS1BX0VzTzBiNWJIeFV2VURSOTZVLXdSVlhYbkd2cmdXV1E2S2EyT2tmT0tqM3VWbVhjTDBjb1NhWlQtalhHbkJMOWdPblk3ekxLV0UtcVlGVDltcUN3UQ?oc=5",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "summary": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions&nbsp;&nbsp;AL.com",
       "source": "Google News Travel"
     }
   ]
