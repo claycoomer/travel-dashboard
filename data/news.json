@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-31T17:17:09.068744+00:00",
+  "last_updated": "2026-07-31T20:52:16.167956+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "U.S. Makes Visa Bond Program Permanent \u2014 Visas Granted to Targeted Countries Drop 83%",
+      "link": "https://skift.com/2026/07/31/us-visa-bond-program-final-rule/",
+      "published": "Fri, 31 Jul 2026 18:20:23 +0000",
+      "summary": "Overstays from the targeted countries are down, but so is demand for tourist visas.",
+      "source": "Skift"
+    },
     {
       "title": "UK Pubs and Clubs Get Tax Cuts. Hotels Get Left Out \u2014 Again",
       "link": "https://skift.com/2026/07/31/uk-pubs-and-clubs-get-tax-cuts-hotels-get-left-out-again/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "MGM Resorts Looks to Luxury and \u2018Live Tourism\u2019 Given Tourist Shortfall",
-      "link": "https://skift.com/2026/07/30/mgm-resorts-looks-to-luxury-and-live-tourism-given-tourist-shortfall/",
-      "published": "Thu, 30 Jul 2026 20:04:08 +0000",
-      "summary": "The visitor to Las Vegas who books a mid-priced room and buys show tickets, whether they&apos;re from Cleveland or Calgary, hasn&apos;t come back in full yet.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - AL.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHRlMzE4WGxLY3EtSlJKQ0UyVlBsOHVrZ2txM2tHdnFYVWVUWjZuMmVfQWlCUHFZaTYwTW5pdDh6R1ZrLVlUOS14SDdwWS04dVcwQTdkZ1JDN2VIa3U5Njc4b1k3S05JSE5MSlpKOWJlZnpHX2IwWjR1Y2hYR1M1cWRlQlc1N0J0bkkyaE9PM3VZXy1JSkxpd2RZOEYzTW5ZRDVUT2hMNDdIaElfS2F5NnAxQTJiWmfSAcsBQVVfeXFMUGduOExuS21DamF1Z2lZNGVYUkVFUnhHY1RaMTBZTUQ1dExSVlVKQW9FY1RYdndZNWgxMk40ZjlXTjFEdjk1Um9pNmtIN3V1NFpBZHotcWdWTTc3YkpQU0lteEFCRXZoZF9nNDZtNHVsMDBjZjNHeDk2cXZIWGF0UDNMX2tKWTBSa2tDZldEcWZ6M2JoQjBuenJSV3hwRWQ0c0U2TzBCWUZhaG1HWWY5eUVXYnVFM1EtbTNwNV9rN1RMc0kxd21XSGRLOHM?oc=5",
       "published": "Fri, 31 Jul 2026 14:09:00 GMT",
       "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;AL.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this popular European destination - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR01qSVp1Q2VCZjc2SlJlb0hVWXlzQ3paY21GQ25RZHF5TDZHREU5SW12XzZOdzZ1aUlmbEtPcTEyUVNPTE5FMDQ3V3VGMUdUSmpiSlpPem1vdjFHV3czWlI0anVERklpSzNtbVpJWEZnRkJsWFVNaE9QTWs2TzNTYUcwQnl1T3ZLUzJZdGJ4QVJGQzVBTFF0eGJtTm5oX0c4SHNnNGg2QWV1YWlYRUdsUVRxeWFXWjdsdGtDc2hPNHVaeEs1cUpMekx1cjJWYUwzWWEzY9IB6AFBVV95cUxQdEE4aUtma3FhbkxtY2xHbVV1d2UyVjlhblpRb1IyanpaRTB4c3VxR01ndDhqRTRhVGtoTGMzcFQ0OVhNaDZmekg1VWU1TlZPVlJadUVva1JKY2pqN1BZM0Q3UE9nSTRVZEhVMGNWSmJoSmlzc1d4cFZBc280LVg4eXVaMHJXeEowdTc3MGNjbk1PZGhzdDRvbWU3ejEyZDlvcUY2NTFXUlZwNnlQVTFQcEIteFVkQUIxZzd4OTd4dDJYS3RoVWtReFpNQ2lsLThQem10dV9PWnJrX1RwOHRFbWdURTFsTXkw?oc=5",
-      "published": "Fri, 31 Jul 2026 11:00:00 GMT",
-      "summary": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this popular European destination&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -91,16 +84,23 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - forbes.com",
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;forbes.com",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this popular European destination - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR01qSVp1Q2VCZjc2SlJlb0hVWXlzQ3paY21GQ25RZHF5TDZHREU5SW12XzZOdzZ1aUlmbEtPcTEyUVNPTE5FMDQ3V3VGMUdUSmpiSlpPem1vdjFHV3czWlI0anVERklpSzNtbVpJWEZnRkJsWFVNaE9QTWs2TzNTYUcwQnl1T3ZLUzJZdGJ4QVJGQzVBTFF0eGJtTm5oX0c4SHNnNGg2QWV1YWlYRUdsUVRxeWFXWjdsdGtDc2hPNHVaeEs1cUpMekx1cjJWYUwzWWEzY9IB6AFBVV95cUxQdEE4aUtma3FhbkxtY2xHbVV1d2UyVjlhblpRb1IyanpaRTB4c3VxR01ndDhqRTRhVGtoTGMzcFQ0OVhNaDZmekg1VWU1TlZPVlJadUVva1JKY2pqN1BZM0Q3UE9nSTRVZEhVMGNWSmJoSmlzc1d4cFZBc280LVg4eXVaMHJXeEowdTc3MGNjbk1PZGhzdDRvbWU3ejEyZDlvcUY2NTFXUlZwNnlQVTFQcEIteFVkQUIxZzd4OTd4dDJYS3RoVWtReFpNQ2lsLThQem10dV9PWnJrX1RwOHRFbWdURTFsTXkw?oc=5",
+      "published": "Fri, 31 Jul 2026 11:00:00 GMT",
+      "summary": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this popular European destination&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
       "title": "Airlines suspend Middle East flights amid renewed US-Iran conflict - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmJMTGVvLTRmbnAwaVFKWGRkeEFuMlpEcUxWeFpvSXlObW5wVGxKbjBiOWpQSzdEbDhscWZJVjhtSjZBYXdIRERhTENXUXB1UTNiNm5mai1Qbkx1T0pRczR3UG1mbHRldVF5ZzFNRzh4dTJaR1JuZkpqN09Yb1Y3UjlqWjRHMFhydW51QXNZYUFKZGdS?oc=5",
-      "published": "Fri, 31 Jul 2026 16:04:57 GMT",
+      "published": "Fri, 31 Jul 2026 19:08:05 GMT",
       "summary": "Airlines suspend Middle East flights amid renewed US-Iran conflict&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
