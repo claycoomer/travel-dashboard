@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-02T09:47:25.571999+00:00",
+  "last_updated": "2026-08-02T12:55:16.133404+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Corporate Travel\u2019s Rulebook Is Its AI Booking Advantage",
+      "link": "https://skift.com/2026/08/02/amex-gbt-kayak-ai-agentic-booking-business-travel/",
+      "published": "Sun, 02 Aug 2026 12:00:00 +0000",
+      "summary": "Amex GBT and Kayak for Business moved AI booking into managed travel before consumer tools cracked it. The logic: policies, approvals, and audit trails are the preconditions an agent needs to transact. Consumer AI has to guess at all three.",
+      "source": "Skift"
+    },
     {
       "title": "U.S. Makes Visa Bond Program Permanent \u2014 Visas Granted to Targeted Countries Drop 83%",
       "link": "https://skift.com/2026/07/31/us-visa-bond-program-final-rule/",
@@ -56,17 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "India\u2019s Inbound Problem: With Its Marketing Budget Gutted, Government Enlists Air India and IndiGo",
-      "link": "https://skift.com/2026/07/31/indias-inbound-problem-with-its-marketing-budget-gutted-government-enlists-air-india-and-indigo/",
-      "published": "Fri, 31 Jul 2026 05:07:41 +0000",
-      "summary": "India is compensating for shrinking marketing budgets by giving its airlines a bigger role in selling the country overseas. But this alone won&apos;t fix the structural challenges that continue to hold back inbound tourism.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - al.com",
+      "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - AL.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHRlMzE4WGxLY3EtSlJKQ0UyVlBsOHVrZ2txM2tHdnFYVWVUWjZuMmVfQWlCUHFZaTYwTW5pdDh6R1ZrLVlUOS14SDdwWS04dVcwQTdkZ1JDN2VIa3U5Njc4b1k3S05JSE5MSlpKOWJlZnpHX2IwWjR1Y2hYR1M1cWRlQlc1N0J0bkkyaE9PM3VZXy1JSkxpd2RZOEYzTW5ZRDVUT2hMNDdIaElfS2F5NnAxQTJiWmfSAcsBQVVfeXFMUGduOExuS21DamF1Z2lZNGVYUkVFUnhHY1RaMTBZTUQ1dExSVlVKQW9FY1RYdndZNWgxMk40ZjlXTjFEdjk1Um9pNmtIN3V1NFpBZHotcWdWTTc3YkpQU0lteEFCRXZoZF9nNDZtNHVsMDBjZjNHeDk2cXZIWGF0UDNMX2tKWTBSa2tDZldEcWZ6M2JoQjBuenJSV3hwRWQ0c0U2TzBCWUZhaG1HWWY5eUVXYnVFM1EtbTNwNV9rN1RMc0kxd21XSGRLOHM?oc=5",
       "published": "Fri, 31 Jul 2026 14:09:00 GMT",
-      "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;al.com",
+      "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;AL.com",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East - WION",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
-      "published": "Sat, 01 Aug 2026 13:03:00 GMT",
-      "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
+      "title": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Iran Conflict - News18",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOam1JeWhOSXNQaUdTWm1WSkh1dGxLVG9rYlc2U19OV3JBNVNjVjAyZFEyUjlPQXU2dm51bkRUQXdILUVjczhSbENSS3FQaFpTUjMzdEQ5c1NHNTNkM1JXOTNqSkliOGRwdVYtNFJuZnB6TXAtTUZ6YklDZ3FhbE5WTk05N21waUMtc0s0Q1YwM0RoTEtKQkx5OUt0VUxUT1Z2LVJwNXdibUhqNndkaWFkNVdiODh3VGp5X2FjUTJOUnBXVUxFV0xHTncxd2pocnVHamRacld6WmtmZER4dmfSAd4BQVVfeXFMTmptSXloTklzUGlHU1ptVkpIdXRsS1Rva2JXNlNfTldyQTVTY1YwMmRRMlI5T0F1NnZudW5EVEF3SC1FY3M4UmxDUktxUGhaU1IzM3REOXNTRzUzZDNSVzkzakpJYjhkcHVWLTRSbmZwek1wLU1GemJJQ2dxYWxOVk5NOTdtcGlDLXNLNENWMDNEaExLSkJMeTlLdFVMVE9Wdi1ScDV3Ym1IajZ3ZGlhZDVXYjg4d1RqeV9hY1EyTlJwV1VMRVdMR053MXdqaHJ1R2pkWnJXelprZmREeHZn?oc=5",
+      "published": "Sun, 02 Aug 2026 01:29:32 GMT",
+      "summary": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Iran Conflict&nbsp;&nbsp;News18",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Iran Conflict - News18",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOam1JeWhOSXNQaUdTWm1WSkh1dGxLVG9rYlc2U19OV3JBNVNjVjAyZFEyUjlPQXU2dm51bkRUQXdILUVjczhSbENSS3FQaFpTUjMzdEQ5c1NHNTNkM1JXOTNqSkliOGRwdVYtNFJuZnB6TXAtTUZ6YklDZ3FhbE5WTk05N21waUMtc0s0Q1YwM0RoTEtKQkx5OUt0VUxUT1Z2LVJwNXdibUhqNndkaWFkNVdiODh3VGp5X2FjUTJOUnBXVUxFV0xHTncxd2pocnVHamRacld6WmtmZER4dmfSAd4BQVVfeXFMTmptSXloTklzUGlHU1ptVkpIdXRsS1Rva2JXNlNfTldyQTVTY1YwMmRRMlI5T0F1NnZudW5EVEF3SC1FY3M4UmxDUktxUGhaU1IzM3REOXNTRzUzZDNSVzkzakpJYjhkcHVWLTRSbmZwek1wLU1GemJJQ2dxYWxOVk5NOTdtcGlDLXNLNENWMDNEaExLSkJMeTlLdFVMVE9Wdi1ScDV3Ym1IajZ3ZGlhZDVXYjg4d1RqeV9hY1EyTlJwV1VMRVdMR053MXdqaHJ1R2pkWnJXelprZmREeHZn?oc=5",
-      "published": "Sun, 02 Aug 2026 01:29:32 GMT",
-      "summary": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Iran Conflict&nbsp;&nbsp;News18",
+      "title": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East - WION",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
+      "published": "Sat, 01 Aug 2026 13:03:00 GMT",
+      "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Issues Middle East Security Advisory Warning of Flight Groundings - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQm1HUjZVUERJU2JwWTliMnhRemJscUlZRGpkcTJkVWVFLVRmdDRtVDlPRWltTXlpOXRZVEMteUg5Rm96akNlTkFQZ2lCbFdGRHZJd3RkMGpxVDBKcGQwd3c1TDh5UVZGR3JsREJqS3dBSXctLVN4a0lfM2JrUko0eUNaZWM4b2lWcUZubGJrTEJBQ0oxeDVNdzhaWQ?oc=5",
-      "published": "Sun, 02 Aug 2026 04:27:51 GMT",
-      "summary": "US Issues Middle East Security Advisory Warning of Flight Groundings&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
