@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T06:50:31.386255+00:00",
+  "last_updated": "2026-08-03T11:11:15.690576+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -63,17 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 15:32:00 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
       "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
+      "published": "Sun, 02 Aug 2026 15:32:00 GMT",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     },
     {
@@ -91,16 +91,9 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3pScGhDNnZHOUp4dEdsRm9rWnZza01VaVJpWHExbTFldFVfQXdCV3pqeXVtSVVqREJxWWxQMjU4cXlmbmZpSFdOYWYweWV1cW9BbTVUdU43WngtdmdLRG55RW1ZWFdXVnlvMWRlcllTdm8tQ1NzdURUMklGdDhTWGZoSF9idlBoRDl0bXB5ZkhmQ1U5TmFXUUVoNTRQNmVOQkdhaExMUk1zb1NBMUtHVVVPelRqV1I0UlNoOFQ0OGpLMjBxc0tsRGtlMHRDNEdwWVRiUUVaX18?oc=5",
-      "published": "Wed, 29 Jul 2026 14:57:00 GMT",
-      "summary": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide&nbsp;&nbsp;OregonLive.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Middle East flights: Which airlines have suspended or cancelled services amid US-Iran conflict? - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGdGdUhzelYyOG4wRHIxUmw0SGVqMlJ1OE5lLUxwdEVKRmtjMWZBaUg0NWFYLV9uOGsxNGZLLXVsM040RXB1MW1qQkVwWU4yVm5Cc25nZWNDVndrQ1pvVlFhSGJSQzd5QVZJQ0RaYUJWVFJ6eEszVHM4c0xuSG5EcWhDY19DdVFHMktYZld0Q3hpXzVN?oc=5",
-      "published": "Mon, 03 Aug 2026 04:15:34 GMT",
+      "published": "Mon, 03 Aug 2026 10:17:23 GMT",
       "summary": "Middle East flights: Which airlines have suspended or cancelled services amid US-Iran conflict?&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US urges Americans to leave Middle East if tensions amid war escalate - thenationaldesk.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdXRyanl4Y1BDeEhqUXNrOVU0T1BoNHBCSWFsekx5WEJaTmwxaExQTVpPemVGRVlLZTQ3bXQ0a2EwSjJGVkgwTUZGNmJpWE1ZQ0k2ZC1NOHFNMUEyUXJzWDczVXJfWGZNdXc0M3Z1NzdGU25sNDBQSkFzOGRzTlpPczNXVmdTcmd6LWxjcUd6OGZSMTBtZnNWZG5mNTUtanZjeU1OYkdObHh6UjBrS0JGR2ZzNDlZNzByaTBkUDRMVEZIUmpkZnE3aE1nVDg5SnpzeHBKM3djS0lFVVI5VTRQQUFFWXpJNTdqVU13WkhBZTFXbVZ4SzJFbmZOVHptMGc2RWpDeW5wanBRd1ZRNEtWeGpSZndDanBVRUl0cXcwaWhUdk9GZnhNREw0M2hhTUlRZEt0eU1uSmNSVlppV2FWY1RsdXBSQ3dfSzFYVVhqM0wxbHNwQlhkMnRyY0JvZ1k2M1ViTzlGU1lIVlZqMFNndTZFZnduemFl?oc=5",
+      "published": "Sat, 01 Aug 2026 14:51:58 GMT",
+      "summary": "US urges Americans to leave Middle East if tensions amid war escalate&nbsp;&nbsp;thenationaldesk.com",
       "source": "Google News Travel"
     }
   ]
