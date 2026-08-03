@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-03T11:11:15.690576+00:00",
+  "last_updated": "2026-08-03T14:12:54.857880+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Younger Travelers Are Becoming Timeshare\u2019s Most Vocal Advocates",
+      "link": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+      "published": "Mon, 03 Aug 2026 13:00:00 +0000",
+      "summary": "Vacation ownership, also known as timeshare, may be enjoying a reputational lift with younger buyers. New research suggests Millennials and Gen Z are bringing fresh momentum to the category by seeing ownership as a flexible, high-value way to keep travel central to their lives.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hyatt Weighs \u2018India-for-India\u2019 Brand and Acquisitions for 5x Growth: Exclusive",
+      "link": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+      "published": "Mon, 03 Aug 2026 12:56:24 +0000",
+      "summary": "The world\u2019s biggest hotel companies seem to have settled the \u201cwhy India?\u201d debate. The real competition now is over execution \u2014 acquisitions or partnerships, luxury or midscale, metros or smaller cities.",
+      "source": "Skift"
+    },
+    {
+      "title": "What Travel AI Can Learn From Hipmunk, 16 Years Later",
+      "link": "https://skift.com/2026/08/03/what-travel-ai-can-learn-from-hipmunk-16-years-later/",
+      "published": "Mon, 03 Aug 2026 11:33:37 +0000",
+      "summary": "Hipmunk built a results page around how travelers make decisions, and today\u2019s AI tools have yet to match it.",
+      "source": "Skift"
+    },
     {
       "title": "The Travel Industry Power-Struggle Map",
       "link": "https://skift.com/2026/08/02/the-travel-industry-power-struggle-map/",
@@ -42,27 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Mexico Will Spend $115 Million Fighting Rotting Seaweed as Hotels Slash Rates",
-      "link": "https://skift.com/2026/07/31/mexico-will-spend-115-million-fighting-rotting-seaweed-as-hotels-slash-rates/",
-      "published": "Fri, 31 Jul 2026 14:37:56 +0000",
-      "summary": "Mexico officials will invest in specialized vessels, offshore barriers and monitoring systems to tackle record-levels of sargassum \u2014 but the tourism industry wants more emphasis on environmental solutions.",
-      "source": "Skift"
-    },
-    {
-      "title": "Permira-Backed Engine Buys Options Travel to Build Corporate Booking Tool",
-      "link": "https://skift.com/2026/07/31/permira-backed-engine-buys-options-travel-to-build-corporate-booking-tool/",
-      "published": "Fri, 31 Jul 2026 14:03:02 +0000",
-      "summary": "Engine is a startup that spent a decade selling hotel rooms to businesses that never hired a travel management company for help. Now it&apos;s just bought a TMC, and plans to build the booking software it thinks all business travelers should use.",
-      "source": "Skift"
-    },
-    {
-      "title": "Accor and Treebo Call Off Deal in India: Scoop",
-      "link": "https://skift.com/2026/07/31/accor-and-treebo-call-off-deal-in-india-scoop/",
-      "published": "Fri, 31 Jul 2026 13:34:54 +0000",
-      "summary": "Accor&apos;s 300-hotel target by 2030 was never going to hinge on Treebo alone, but the exit strips out the one partner that gave the joint venture genuine reach into the tier-two and tier-three towns.",
-      "source": "Skift"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
@@ -84,17 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports - MLive.com",
+      "title": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports - mlive.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa25fdkpLUWVrUlg1TEREVmg3a2JQYk1maFRHSDJKd180U2I5NkZlRW9SSElELU40MkMwcDd1QS00ekhnU29yWWV2WFlpQjhwNlItbVYzVVNUSV9WdjFNR1N6cHdhcnRITjBnZDNQSTZaU2VCcnFJcFp0X3RLWmxzM1o2aElDc3VyUnB0a1JNQkNmSWg2LUZaTXBxSktzYlE4OXd4ZFRkSFhqT2psNU1rcXdLblUtQmJMd3J30gHPAUFVX3lxTE9qbkl0MWtaU0paYUtTYnExNHZraUx6VjhTdThTQ3dEZTJjcEhCZUJfUzFaVjh1TE45QzJuNEViVTdhX29GcEhEMF9GUFhHdnJmekxRWVlfZDBXVWtaQURvZTFGY1JiWHVwcU1weE5SVVpFWWg2LXZHUFNNUHJ4bTNJOXA0SFRqeTJ0a3E1d3lYbzNSYkduRWdxQmpUZWJMTHVuTnhYVFRPVUVTeGxsanBDSWVqeTBkbnVoOU9lM1N5dGljVFVjSGxJUkZxWTlZQQ?oc=5",
       "published": "Thu, 30 Jul 2026 14:50:00 GMT",
-      "summary": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;MLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Middle East flights: Which airlines have suspended or cancelled services amid US-Iran conflict? - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGdGdUhzelYyOG4wRHIxUmw0SGVqMlJ1OE5lLUxwdEVKRmtjMWZBaUg0NWFYLV9uOGsxNGZLLXVsM040RXB1MW1qQkVwWU4yVm5Cc25nZWNDVndrQ1pvVlFhSGJSQzd5QVZJQ0RaYUJWVFJ6eEszVHM4c0xuSG5EcWhDY19DdVFHMktYZld0Q3hpXzVN?oc=5",
-      "published": "Mon, 03 Aug 2026 10:17:23 GMT",
-      "summary": "Middle East flights: Which airlines have suspended or cancelled services amid US-Iran conflict?&nbsp;&nbsp;thenationalnews.com",
+      "summary": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;mlive.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US urges Americans to leave Middle East if tensions amid war escalate - thenationaldesk.com",
+      "title": "US urges Americans to leave Middle East if tensions amid war escalate - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdXRyanl4Y1BDeEhqUXNrOVU0T1BoNHBCSWFsekx5WEJaTmwxaExQTVpPemVGRVlLZTQ3bXQ0a2EwSjJGVkgwTUZGNmJpWE1ZQ0k2ZC1NOHFNMUEyUXJzWDczVXJfWGZNdXc0M3Z1NzdGU25sNDBQSkFzOGRzTlpPczNXVmdTcmd6LWxjcUd6OGZSMTBtZnNWZG5mNTUtanZjeU1OYkdObHh6UjBrS0JGR2ZzNDlZNzByaTBkUDRMVEZIUmpkZnE3aE1nVDg5SnpzeHBKM3djS0lFVVI5VTRQQUFFWXpJNTdqVU13WkhBZTFXbVZ4SzJFbmZOVHptMGc2RWpDeW5wanBRd1ZRNEtWeGpSZndDanBVRUl0cXcwaWhUdk9GZnhNREw0M2hhTUlRZEt0eU1uSmNSVlppV2FWY1RsdXBSQ3dfSzFYVVhqM0wxbHNwQlhkMnRyY0JvZ1k2M1ViTzlGU1lIVlZqMFNndTZFZnduemFl?oc=5",
       "published": "Sat, 01 Aug 2026 14:51:58 GMT",
-      "summary": "US urges Americans to leave Middle East if tensions amid war escalate&nbsp;&nbsp;thenationaldesk.com",
+      "summary": "US urges Americans to leave Middle East if tensions amid war escalate&nbsp;&nbsp;National News Desk",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Prepare to leave if escalation rises: US warns its citizens in Middle East - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXV0OVBjLWNyRFJqXzB0bTM1aGNoQ0pRYnpfN3pFWE1DV3FJWUlESUJyZkxsSzZrVHJRTnRVdGtEaXBxdHJRT2RhSU9ZSkhyc1lqUXlRTmwwSTlCaWVDcTM0dkZfUXYxaW1kbGU3RHU4RXgxVFY3TE1BSmdlTmFnVFZZeW9oa09hSWFYOG1tcU51ZlNnWTY1bG1LUF92ZkhZR09OS0xWU2xGS1hUX2htaktOSkMwY1NPSmxtSnhoNXJLNV9sNWlhRmw3a9IB0AFBVV95cUxQREZjZnhaUEpvT3FSanZSdnJSSTVkb3M5Z3NXTlBaTmNLMGw3YkpRdXFsODZ4WkJzUV9Ya0dhRFhRY3J5NGxVZE5STU1WM2NVOGtTeEl4VG5HV2dvVVlyMVF5SFVwcDd5MnFtUThPMUlQZUh4cWtUUXZyc3FlSzRXaVN2Y29WUEFpdmVtZExQNmdxNjVyUERoT1NLc09OWmJlRERuRkxEQnJKeXNZUS1yVXFaN0FXME01MWp5U2pfN0NQSmQxWU1PTFhKNkhqVUNN?oc=5",
+      "published": "Sat, 01 Aug 2026 23:17:46 GMT",
+      "summary": "Prepare to leave if escalation rises: US warns its citizens in Middle East&nbsp;&nbsp;India Today",
       "source": "Google News Travel"
     }
   ]
