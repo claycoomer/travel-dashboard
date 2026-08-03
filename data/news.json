@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-03T17:40:30.792313+00:00",
+  "last_updated": "2026-08-03T20:53:10.128276+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "U.S. Clears Smallest Boeing 737 Max to Fly Following Years of Delays",
+      "link": "https://skift.com/2026/08/03/u-s-clears-smallest-boeing-737-max-to-fly/",
+      "published": "Mon, 03 Aug 2026 17:53:32 +0000",
+      "summary": "The certification is a big win for Southwest, which has been waiting for the aircraft for years as it looks to grow and replace parts of its aging fleet.",
+      "source": "Skift"
+    },
+    {
+      "title": "SAP Concur Adds New AI Tools for Approvals, Cards, and Travel Leakage",
+      "link": "https://skift.com/2026/08/03/sap-concur-adds-new-ai-tools-for-approvals-cards-and-travel-leakage/",
+      "published": "Mon, 03 Aug 2026 17:45:45 +0000",
+      "summary": "Most of what SAP Concur announced adds AI to existing tools. The leakage-reporting tool built with Amex GBT is the exception \u2014 combining data the two platforms couldn&apos;t share before.",
+      "source": "Skift"
+    },
     {
       "title": "MakeMyTrip: Hotel Growth Offsets Decline in Air Travel; New IPO Details",
       "link": "https://skift.com/2026/08/03/makemytrip-hotel-growth-offsets-decline-in-air-travel-new-ipo-details/",
@@ -49,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "What Travel AI Can Learn From Hipmunk, 16 Years Later",
-      "link": "https://skift.com/2026/08/03/what-travel-ai-can-learn-from-hipmunk-16-years-later/",
-      "published": "Mon, 03 Aug 2026 11:33:37 +0000",
-      "summary": "Hipmunk built a results page around how travelers make decisions, and today\u2019s AI tools have yet to match it.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Travel Industry Power-Struggle Map",
-      "link": "https://skift.com/2026/08/02/the-travel-industry-power-struggle-map/",
-      "published": "Sun, 02 Aug 2026 13:26:06 +0000",
-      "summary": "Travel is not one market. It is a series of fights over who answers the traveler, who gets found, who owns the booking, who controls the inventory, who holds the wallet, and eventually, who remembers the trip.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeU1RX0RWWXp6aHU4R1FrY0FIYnV3OWw0dUhielk1RUFZcVI4VFpZS01vWjhuRGozWjZfOTQ2NnVoQjlsUkhEN1RHcng1ek1MVXh3MVZYRjc5X2ZmVldoWWJlWmhDNDhWNk5WaHhHU1hSSlgySTIzZEwtdldUX1Exb191OE9vVjRqNm1vaVppTkVYaWE5bGpwMjZRdEZQd1l1UjVJTm9yM1dpd3ZEZC1ZSmZnY9IBxwFBVV95cUxNVFVnSlV0X2g4UWpLOElXWDhGLXk1enJTa2RMWnU5dElyTVdzT2RNd2FqU1VLS0tjMEV6Y3pNajRxN05TNkpDZlJXMEdmOXZyZVNKam5jd0tabm0yN1R3ejdkeTNSYjdQdEhBUjJBbk1OcmJfNnVVbU5RVU5tcEhaN3NnaHlqMUNrRWdsNkpXUU5UOGU2Z0pwVHg0NGFEYUdhNnZvUHgxTWFaYWNlY2M2dGJMbS1lNFNZRnZmMk5DY0t0aVRwRGVv?oc=5",
+      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd21RQ1d4MXZoLXQtaVVXUlRJX0NkZ0JqZlVaenNVdkVGMnRCMGlPOGpETVRxSGJhTjVfOVlUbTN0N1hFek5tMW95ZmJMUFVZZ1JCYy1UbjFIUmhpOTdrcVctc1plYV8xUkk1c2FzRGx5Qy1wb210OHM2Sk9WajdOczJzUzZlakwtQVpsWWZTeEluUEZIVk00XzNOYTJzbnZEdjV5NFgyejk4UllYMzV2SDNOdw?oc=5",
       "published": "Mon, 03 Aug 2026 15:12:00 GMT",
-      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTklwOEtBWERTaWlGcmxodlNoM2w0V0pfcktpMjdfLTRRQ0JPejJrdVU1N1I1Y0UxOWN6aVlYcDlkWlV4NXZpUDVQMjB2ZmtfSjdKc1U1NjJDWVkybkdBcFlaZ2p3anNoMnhjNlpzdEVyZ2dUdURzc0w1NzVfckxvbUtITEdTdHY3Wk1ZR2R6bTVGSW5mN0s2RU51QXFTYnhzUi1WMjcydmNXMjN4SU9QSEZZR3JFdDEzZUh2OV82bWJYMEdxWk1tSTBB?oc=5",
-      "published": "Fri, 31 Jul 2026 14:09:00 GMT",
-      "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;Lehighvalleylive.com",
+      "title": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUYyTTdJUmc4bHNhS3E1aFJyeVFFMkowTHhQbUxWdEpJWFB2Y1psMVF1ZmdQWXhMUm8xM3BKN0YySFZwQXFDVC1RaTZnd2NDVUZTZnVKemRyS2ZkS2RMOXFCMTFhTnVXSk1hUkE5WTVTZF9iS1Q1SnBxSDNkTVZQaFdaTjBmQjZaSkZQOGRNUmZfcGJweVpzNjJnSlE5c3N6MDRRZUd6VWgwRjNNZDlHeElIWGg0dVFFYTRPY0RzTlhiMkR4Tk1yNXQ2OG9Xd1hBVWJPTl9QM04tOEhZd0E?oc=5",
+      "published": "Wed, 29 Jul 2026 14:57:00 GMT",
+      "summary": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide&nbsp;&nbsp;Lehighvalleylive.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa25fdkpLUWVrUlg1TEREVmg3a2JQYk1maFRHSDJKd180U2I5NkZlRW9SSElELU40MkMwcDd1QS00ekhnU29yWWV2WFlpQjhwNlItbVYzVVNUSV9WdjFNR1N6cHdhcnRITjBnZDNQSTZaU2VCcnFJcFp0X3RLWmxzM1o2aElDc3VyUnB0a1JNQkNmSWg2LUZaTXBxSktzYlE4OXd4ZFRkSFhqT2psNU1rcXdLblUtQmJMd3J30gHPAUFVX3lxTE9qbkl0MWtaU0paYUtTYnExNHZraUx6VjhTdThTQ3dEZTJjcEhCZUJfUzFaVjh1TE45QzJuNEViVTdhX29GcEhEMF9GUFhHdnJmekxRWVlfZDBXVWtaQURvZTFGY1JiWHVwcU1weE5SVVpFWWg2LXZHUFNNUHJ4bTNJOXA0SFRqeTJ0a3E1d3lYbzNSYkduRWdxQmpUZWJMTHVuTnhYVFRPVUVTeGxsanBDSWVqeTBkbnVoOU9lM1N5dGljVFVjSGxJUkZxWTlZQQ?oc=5",
-      "published": "Thu, 30 Jul 2026 14:50:00 GMT",
-      "summary": "Over 1,454 flights delayed, 102 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;MLive.com",
+      "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - MassLive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1RzSUw4c3BkZXlzNVZ6cmthV3pqeDJhaDd2b1dldnZaOWJnMXdFanN1TmdzMWtwSVdJbHdkZjBKZzFOZWphVHFwYV8tblVpdjJISlNrQk53WlRJOFd6cVNwV1RWWU9MNmMtVDR0a195OGF2dl93cVRmYmRHMTctcHFqRmFma0NoY0ZDTERiMlByRWc5UDhhMElYeHk1SGJ4ekRRTUdRSEJ6bEZ6ZU05akJaV2NHYUlZU3lhMGdWONIB0wFBVV95cUxQM19VVmhpUXlfaHFnQkRHNkp3WGdUbXRGY3RIZ2duaW1CWXlYVjFwd2RQSk45MFhkcFdsdVJtaEh6VGRMa1hhUE9HVkZLRnM3c2YtaUt2cnlQeWhLX2MycHNDNVpoc095RGlUQlpkOXQ1eE1rOVpnYW8wZDl4dGc4TFRaLUdWenpWU3VtdzU3VWhQMmxIeG1ZNV9renh5WExuN0o3SXlOQjNSQ0FSSnFSSkVUVXU2d2ROQ0RqXzhFb1JWeHpfWkFpR3NsNTU4TW5UREdj?oc=5",
+      "published": "Fri, 31 Jul 2026 14:09:00 GMT",
+      "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;MassLive",
       "source": "Google News Travel"
     },
     {
