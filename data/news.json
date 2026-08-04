@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-04T13:44:21.285572+00:00",
+  "last_updated": "2026-08-04T17:27:50.010540+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "One Airline Is Carrying the Lufthansa Group \u2013 It Isn\u2019t Lufthansa",
+      "link": "https://skift.com/2026/08/04/one-airline-is-carrying-the-lufthansa-group-it-isnt-lufthansa/",
+      "published": "Tue, 04 Aug 2026 15:03:04 +0000",
+      "summary": "As the German group prepares to double down in Rome and potentially Lisbon, the challenge isn\u2019t finding new hubs \u2013 it&apos;s getting them to perform more like Swiss in Zurich.",
+      "source": "Skift"
+    },
+    {
+      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+      "link": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "published": "Tue, 04 Aug 2026 14:33:14 +0000",
+      "summary": "Q2 came in better than feared across the board, thanks to resilient domestic demand. But no one\u2019s calling it over \u2014 Q4, the Gulf\u2019s peak season, is the real test.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hoshino\u2019s Nara Prison Leans Into the Heritage \u2014 a Test Case for Japan\u2019s Historic Buildings",
+      "link": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+      "published": "Tue, 04 Aug 2026 14:31:26 +0000",
+      "summary": "Japan\u2019s Hoshino Resorts makes a bold move that blends cultural preservation, tourism strategy, and a new \u201ccycle of heritage\u201d model that blends government ownership with private operation. If it works, the rest of Japan will take notice, with its hard-to-maintain civic architectur",
+      "source": "Skift"
+    },
     {
       "title": "Steve Singh\u2019s Business Travel Startup Spotnana Is Now 30% Consumer",
       "link": "https://skift.com/2026/08/04/steve-singhs-business-travel-startup-spotnana-is-now-30-consumer/",
@@ -42,38 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "Hotels Must Balance Comfort and Climate Goals As Guests Demand AC",
-      "link": "https://skift.com/2026/08/03/hotels-must-balance-comfort-and-climate-goals-as-guests-demand-ac/",
-      "published": "Mon, 03 Aug 2026 15:50:34 +0000",
-      "summary": "As extreme heat and guest expectations force European hotels toward air conditioning, EU efficiency standards \u2014 and their own climate commitments \u2014 mean they can\u2019t solve for comfort alone.",
-      "source": "Skift"
-    },
-    {
-      "title": "Accor Concentrates on Makkah and Madinah as Gulf Tourism Cools",
-      "link": "https://skift.com/2026/08/03/accor-concentrates-on-makkah-and-madinah-as-gulf-tourism-cools/",
-      "published": "Mon, 03 Aug 2026 15:09:18 +0000",
-      "summary": "Riyadh sets the pilgrim quota. Accor is building around it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Younger Travelers Are Becoming Timeshare\u2019s Most Vocal Advocates",
-      "link": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
-      "published": "Mon, 03 Aug 2026 13:00:00 +0000",
-      "summary": "Vacation ownership, also known as timeshare, may be enjoying a reputational lift with younger buyers. New research suggests Millennials and Gen Z are bringing fresh momentum to the category by seeing ownership as a flexible, high-value way to keep travel central to their lives.",
-      "source": "Skift"
-    },
-    {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 19:20:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
+      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
+      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd21RQ1d4MXZoLXQtaVVXUlRJX0NkZ0JqZlVaenNVdkVGMnRCMGlPOGpETVRxSGJhTjVfOVlUbTN0N1hFek5tMW95ZmJMUFVZZ1JCYy1UbjFIUmhpOTdrcVctc1plYV8xUkk1c2FzRGx5Qy1wb210OHM2Sk9WajdOczJzUzZlakwtQVpsWWZTeEluUEZIVk00XzNOYTJzbnZEdjV5NFgyejk4UllYMzV2SDNOd9IBxwFBVV95cUxPTTVKMEh6ZlV5UWZWZHo4YUpPMXV4V1U5YWhRekZHMThJSHc2X1YwWlhobm5ESnVsLUs4WVNIdl83V2ZmNy01V1VNejJIT0RRS2QzTnk2eGM2aC1rdlNNSWd4NVZWV25JbHdHXzAtc2dPTFdqbVNHdjRwRE53X1JRWmk2VFRFN0dLOTNhcVhSN2ZGR2IycjJjZTJoSlRTZER5NnVVNGJhNEM0NlBwbi04NjBmS2VBZWsyY2k5WlgyTnM1RXVSMUNJ?oc=5",
-      "published": "Mon, 03 Aug 2026 15:12:00 GMT",
-      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "State Department Issues Fresh Middle East Travel Advisory - travelpulse.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 19:20:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;travelpulse.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
+      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     },
     {
@@ -84,13 +91,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 15:32:00 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUYyTTdJUmc4bHNhS3E1aFJyeVFFMkowTHhQbUxWdEpJWFB2Y1psMVF1ZmdQWXhMUm8xM3BKN0YySFZwQXFDVC1RaTZnd2NDVUZTZnVKemRyS2ZkS2RMOXFCMTFhTnVXSk1hUkE5WTVTZF9iS1Q1SnBxSDNkTVZQaFdaTjBmQjZaSkZQOGRNUmZfcGJweVpzNjJnSlE5c3N6MDRRZUd6VWgwRjNNZDlHeElIWGg0dVFFYTRPY0RzTlhiMkR4Tk1yNXQ2OG9Xd1hBVWJPTl9QM04tOEhZd0E?oc=5",
       "published": "Wed, 29 Jul 2026 14:57:00 GMT",
@@ -98,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports - SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUxmZzd0S1J4WHhjNGlXN3c3YlhCSHhlLThPeHozOEtFc0VSWTlTUENpdEdrbnhOdjZETGo5TDdlWlRzYmRPYjlYb2V1LWd2UTZDanpqLW01clRFcFpaQm9UZ29yMzNUeElxTGZmM3dEck10YmoyT1dPOTNnVHJnU2FYYXFVSGdFYkJ1RTEtdnNValdIT3NMM0lIQWtad2ZUT0gzeHI2N1VZa21GYks4ejRZWjZYX2xoUUFteWdEQdIB0wFBVV95cUxOUGg5dERfVE1uOGdjVXZsYlJEeEZHbmNVbHlndUhtelM4cEJPNWJOZkxsYVlaODUzYTY2MVJoZ1U5ZW1yN2JZVHVxV196d3JEUXBXMEgtS3hxYWFDejFtMjVXMV9yM1F3VWEyUkF4blpnczhRUFctVF81WUM3akhtN1QtRC1pYTk3ZzBnYlF2VE9XWWtIb204VFBHVGdwTEZxYlI2Qk01VUdlaFdGWlB5N2JvdlJQb2ViY3RuT3ZBOUgzUUZUQndjVXB5UHh2ajBUVTBJ?oc=5",
-      "published": "Fri, 31 Jul 2026 14:09:00 GMT",
-      "summary": "Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airports&nbsp;&nbsp;SILive.com",
+      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0Z3TTUwYUwzZHd2N3E2aFVjaFhROC1aRkswbjNZM2JwQ1VXVDJsTlRzRU81NXFRdmhQWFpma0JhTHlYOWNHQ09ZcjF1WUJxSWd0SnhubjVSNk1ITTFUVzBkaHVwLTJEc0Y3NEdXa21JeGc5QzB3YTdkYzAzbHgtbTdjQnVtelBxVlVmZ01raGFJSUNjVXBIb3ZHUjRVb28tOWtVMFd2NFUzZGhSZ2tQR2JxZWhEMjV6cnZlTV9xSXIycWY4T09qcHJZcjhqWnPSAc8BQVVfeXFMT0tGd001MGFMM2R3djdxNmhVY2hYUTgtWkZLMG4zWTNicENVV1QybE5Uc0VPNTVxUXZoUFhaZmtCYUx5WDljR0NPWXIxdVlCcUlndEp4bm41UjZNSE0xVFcwZGh1cC0yRHNGNzRHV2ttSXhnOUMwd2E3ZGMwM2x4LW03Y0J1bXpQcVZVZmdNa2hhSUlDY1VwSG92R1I0VW9vLTlrVTBXdjRVM2RoUmdrUEdicWVoRDI1enJ2ZU1fcUlyMnFmOE9PanByWXI4alpz?oc=5",
+      "published": "Mon, 03 Aug 2026 15:12:00 GMT",
+      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;PennLive.com",
       "source": "Google News Travel"
     },
     {
