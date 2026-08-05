@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-04T21:02:14.231825+00:00",
+  "last_updated": "2026-08-05T01:27:49.928783+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Booking Holdings CEO: AI Overviews Are Squeezing SEO",
+      "link": "https://skift.com/2026/08/04/booking-holdings-saw-pressure-from-googles-ai-overviews/",
+      "published": "Tue, 04 Aug 2026 22:02:55 +0000",
+      "summary": "No travel business has found the silver bullet yet in how to show up prominently on a consistent basis within the major LLMs. As these platforms evolve, such an achievement becomes a moving target.",
+      "source": "Skift"
+    },
     {
       "title": "One Airline Is Carrying the Lufthansa Group \u2013 It Isn\u2019t Lufthansa",
       "link": "https://skift.com/2026/08/04/one-airline-is-carrying-the-lufthansa-group-it-isnt-lufthansa/",
@@ -54,69 +61,6 @@
       "published": "Mon, 03 Aug 2026 17:38:39 +0000",
       "summary": "MakeMyTrip says the future of Indian travel growth lies beyond aviation, and is reorganizing both its business and capital structure around that.",
       "source": "Skift"
-    },
-    {
-      "title": "Marriott Launches Owner Rebate Program Ahead of $125 Million Credit Card Fee Jump",
-      "link": "https://skift.com/2026/08/03/marriott-launches-owner-rebate-program-ahead-of-125-million-credit-card-fee-jump/",
-      "published": "Mon, 03 Aug 2026 17:08:55 +0000",
-      "summary": "Marriott is paying franchisees back from its own pocket, but the credit card revenue owners want a share of is set to get up to $125 million larger a year.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
-      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
-      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 19:20:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
-      "published": "Tue, 04 Aug 2026 07:59:07 GMT",
-      "summary": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "WestJet warning passengers more flight disruptions possible in days ahead - calgary.citynews.ca",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW5uckdFcGVHYXMxTVhYdDIzX21sTDBLTkhmdE1Pbl80VHcyS2hHYUltSkVLQVd6eG9kMHJFOU9oeDdmUXNRbElNOEZMN0dqU0Q1S09pckFZQTZrQ29KTDA1TWlfc3ZXTFZ0QkJUVzVQcXliSllHOHlJSklha3NXMW5uTW85WllEZDFTVnp4Slo4UmxPVUoySmNHa2FjUXBjOW00cDhXZlpreV9CV3l3QldyYw?oc=5",
-      "published": "Tue, 04 Aug 2026 16:30:48 GMT",
-      "summary": "WestJet warning passengers more flight disruptions possible in days ahead&nbsp;&nbsp;calgary.citynews.ca",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUYyTTdJUmc4bHNhS3E1aFJyeVFFMkowTHhQbUxWdEpJWFB2Y1psMVF1ZmdQWXhMUm8xM3BKN0YySFZwQXFDVC1RaTZnd2NDVUZTZnVKemRyS2ZkS2RMOXFCMTFhTnVXSk1hUkE5WTVTZF9iS1Q1SnBxSDNkTVZQaFdaTjBmQjZaSkZQOGRNUmZfcGJweVpzNjJnSlE5c3N6MDRRZUd6VWgwRjNNZDlHeElIWGg0dVFFYTRPY0RzTlhiMkR4Tk1yNXQ2OG9Xd1hBVWJPTl9QM04tOEhZd0E?oc=5",
-      "published": "Wed, 29 Jul 2026 14:57:00 GMT",
-      "summary": "Over 1,788 flights delayed today, 1,346 canceled as travel disruptions affect airports nationwide&nbsp;&nbsp;Lehighvalleylive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0Z3TTUwYUwzZHd2N3E2aFVjaFhROC1aRkswbjNZM2JwQ1VXVDJsTlRzRU81NXFRdmhQWFpma0JhTHlYOWNHQ09ZcjF1WUJxSWd0SnhubjVSNk1ITTFUVzBkaHVwLTJEc0Y3NEdXa21JeGc5QzB3YTdkYzAzbHgtbTdjQnVtelBxVlVmZ01raGFJSUNjVXBIb3ZHUjRVb28tOWtVMFd2NFUzZGhSZ2tQR2JxZWhEMjV6cnZlTV9xSXIycWY4T09qcHJZcjhqWnPSAc8BQVVfeXFMT0tGd001MGFMM2R3djdxNmhVY2hYUTgtWkZLMG4zWTNicENVV1QybE5Uc0VPNTVxUXZoUFhaZmtCYUx5WDljR0NPWXIxdVlCcUlndEp4bm41UjZNSE0xVFcwZGh1cC0yRHNGNzRHV2ttSXhnOUMwd2E3ZGMwM2x4LW03Y0J1bXpQcVZVZmdNa2hhSUlDY1VwSG92R1I0VW9vLTlrVTBXdjRVM2RoUmdrUEdicWVoRDI1enJ2ZU1fcUlyMnFmOE9PanByWXI4alpz?oc=5",
-      "published": "Mon, 03 Aug 2026 15:12:00 GMT",
-      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;PennLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East - WION",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
-      "published": "Sat, 01 Aug 2026 13:03:00 GMT",
-      "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
-      "source": "Google News Travel"
     }
   ]
 }
