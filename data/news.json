@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-08-05T10:23:26.372466+00:00",
+  "last_updated": "2026-08-05T13:39:55.389343+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Air India Names Ethiopian Airlines\u2019 Former CEO to Lead Turnaround",
+      "link": "https://skift.com/2026/08/05/air-india-names-ethiopian-airlines-former-ceo-to-lead-turnaround/",
+      "published": "Wed, 05 Aug 2026 13:39:36 +0000",
+      "summary": "Tewolde Gebremariam coming in as Air India CEO was definitely not in our bingo card, but it may be exactly the kind of operator the airline needs for its next phase.",
+      "source": "Skift"
+    },
+    {
+      "title": "What IndiGo and Ethiopian Say About the Rise of the Rest",
+      "link": "https://skift.com/2026/08/05/what-indigo-and-ethiopian-say-about-the-rise-of-the-rest/",
+      "published": "Wed, 05 Aug 2026 13:21:58 +0000",
+      "summary": "IndiGo and Ethiopian Airlines were built on workers, traders, students, and diaspora travel rather than tourism. Destinations that understand those flows will spend their money differently.",
+      "source": "Skift"
+    },
+    {
+      "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
+      "link": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
+      "published": "Wed, 05 Aug 2026 13:00:00 +0000",
+      "summary": "Capital One Travel built its business around how people actually travel. Its Premier and Lifestyle Collections bring that strategy to lodging, helping premium travelers navigate a growing range of options through more thoughtful discovery and curation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Wynn\u2019s UAE Casino Is Delayed and Costlier \u2014 CEO Calls It a \u2018Monopoly\u2019 Worth the Spend",
+      "link": "https://skift.com/2026/08/05/wynns-uae-casino-is-delayed-and-costlier-ceo-calls-it-a-monopoly-worth-the-spend/",
+      "published": "Wed, 05 Aug 2026 11:35:07 +0000",
+      "summary": "Despite a $600 million overrun, Wynn doubled down on the UAE \u2014 treating regional conflict as a cost, not a reason to pause.",
+      "source": "Skift"
+    },
+    {
+      "title": "Faye Raises $50 Million, Bets on AI to Get Travel Insurance Claims Paid in Minutes",
+      "link": "https://skift.com/2026/08/05/faye-raises-50-million-bets-on-ai-to-get-travel-insurance-claims-paid-in-minutes/",
+      "published": "Wed, 05 Aug 2026 10:45:00 +0000",
+      "summary": "Faye is using AI to move more claims from filing to payment while keeping denials with humans. That makes the claims experience, not just the checkout offer, the core of its pitch to travel brands.",
+      "source": "Skift"
+    },
     {
       "title": "Booking Holdings CEO: AI Overviews Are Squeezing SEO",
       "link": "https://skift.com/2026/08/04/booking-holdings-saw-pressure-from-googles-ai-overviews/",
@@ -28,41 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Hoshino\u2019s Nara Prison Leans Into the Heritage \u2014 a Test Case for Japan\u2019s Historic Buildings",
-      "link": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-      "published": "Tue, 04 Aug 2026 14:31:26 +0000",
-      "summary": "Japan\u2019s Hoshino Resorts makes a bold move that blends cultural preservation, tourism strategy, and a new \u201ccycle of heritage\u201d model that blends government ownership with private operation. If it works, the rest of Japan will take notice, with its hard-to-maintain civic architectur",
-      "source": "Skift"
-    },
-    {
-      "title": "Steve Singh\u2019s Business Travel Startup Spotnana Is Now 30% Consumer",
-      "link": "https://skift.com/2026/08/04/steve-singhs-business-travel-startup-spotnana-is-now-30-consumer/",
-      "published": "Tue, 04 Aug 2026 13:40:51 +0000",
-      "summary": "Spotnana is Steve Singh&apos;s second act after building and flipping Concur. He&apos;s expanding the business travel startup to cover leisure travel, too, after having raised additional funding.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. Clears Smallest Boeing 737 Max to Fly Following Years of Delays",
-      "link": "https://skift.com/2026/08/03/u-s-clears-smallest-boeing-737-max-to-fly/",
-      "published": "Mon, 03 Aug 2026 17:53:32 +0000",
-      "summary": "The certification is a big win for Southwest, which has been waiting for the aircraft for years as it looks to grow and replace parts of its aging fleet.",
-      "source": "Skift"
-    },
-    {
-      "title": "SAP Concur Adds New AI Tools for Approvals, Cards, and Travel Leakage",
-      "link": "https://skift.com/2026/08/03/sap-concur-adds-new-ai-tools-for-approvals-cards-and-travel-leakage/",
-      "published": "Mon, 03 Aug 2026 17:45:45 +0000",
-      "summary": "Most of what SAP Concur announced adds AI to existing tools. The leakage-reporting tool built with Amex GBT is the exception \u2014 combining data the two platforms couldn&apos;t share before.",
-      "source": "Skift"
-    },
-    {
-      "title": "MakeMyTrip: Hotel Growth Offsets Decline in Air Travel; New IPO Details",
-      "link": "https://skift.com/2026/08/03/makemytrip-hotel-growth-offsets-decline-in-air-travel-new-ipo-details/",
-      "published": "Mon, 03 Aug 2026 17:38:39 +0000",
-      "summary": "MakeMyTrip says the future of Indian travel growth lies beyond aviation, and is reorganizing both its business and capital structure around that.",
-      "source": "Skift"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
-      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
-      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
       "published": "Sun, 02 Aug 2026 15:30:11 GMT",
       "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
+      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
+      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -98,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
       "published": "Tue, 04 Aug 2026 07:59:07 GMT",
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
       "published": "Sat, 01 Aug 2026 13:03:00 GMT",
       "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     }
   ]

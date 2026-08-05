@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-08-05T10:23:24.420805+00:00",
+  "last_updated": "2026-08-05T13:39:53.265386+00:00",
   "source": "TSA Checkpoint Travel Numbers",
   "records": [
+    {
+      "date": "8/4/2026",
+      "travelers_current": "2381852",
+      "travelers_prior": "2855684"
+    },
     {
       "date": "8/3/2026",
       "travelers_current": "2726966",
@@ -146,11 +151,6 @@
       "date": "7/6/2026",
       "travelers_current": "2898957",
       "travelers_prior": "3041954"
-    },
-    {
-      "date": "7/5/2026",
-      "travelers_current": "2914375",
-      "travelers_prior": "2457591"
     }
   ]
 }
