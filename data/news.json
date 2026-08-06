@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-06T10:25:41.678821+00:00",
+  "last_updated": "2026-08-06T13:38:32.098748+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Air India and IndiGo Just Hired CEOs for Two Very Different Global Goals",
+      "link": "https://skift.com/2026/08/06/air-india-and-indigo-just-hired-ceos-for-two-very-different-global-goals/",
+      "published": "Thu, 06 Aug 2026 13:31:10 +0000",
+      "summary": "Neither airline hired for today\u2019s problems. Air India is trying to make a 600-aircraft expansion look orderly, while IndiGo is trying to ensure its global ambitions don\u2019t arrive before its widebody fleet.",
+      "source": "Skift"
+    },
     {
       "title": "Expedia B2B Is Mostly Hotels, But It Wants a One-Stop Shop",
       "link": "https://skift.com/2026/08/05/expedia-is-investing-in-its-leading-b2b-product-as-competition-heats-up/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Air India Names New CEO: Former Ethiopian Airlines Boss to Lead Turnaround",
-      "link": "https://skift.com/2026/08/05/air-india-names-ethiopian-airlines-former-ceo-to-lead-turnaround/",
-      "published": "Wed, 05 Aug 2026 13:39:36 +0000",
-      "summary": "Tewolde Gebremariam coming in as Air India CEO was definitely not in our bingo card, but it may be exactly the kind of operator the airline needs for its next phase.",
-      "source": "Skift"
-    },
-    {
-      "title": "Allegiant Airlines adds new in-flight perks to its cabin experience - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlIxbTVpa1NEVVZiTGNOaGpTR2FMYmo3bWV6TGJSUWx1ZzdTRVFvVmFCTEZtVi1SVGJoeE1mdXZNdWhKTTZyQ09ROVF6LUctd2QwdWFReTJ6aGJZeGhsMkhVOEdObUJIRnhVRmhodEk0R2pVeFkyUW5rUWNYdjA4dUozY2ZzbkdXQlpHclRHZVVfRTNqdUFUWGdaamhTbzUwc3VOclVERXJiSThpdVRsbXJ6SjQ4S2tWVGc?oc=5",
-      "published": "Wed, 05 Aug 2026 16:50:00 GMT",
-      "summary": "Allegiant Airlines adds new in-flight perks to its cabin experience&nbsp;&nbsp;Lehighvalleylive.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
       "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Allegiant Airlines adds new in-flight perks to its cabin experience - LehighValleyLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlIxbTVpa1NEVVZiTGNOaGpTR2FMYmo3bWV6TGJSUWx1ZzdTRVFvVmFCTEZtVi1SVGJoeE1mdXZNdWhKTTZyQ09ROVF6LUctd2QwdWFReTJ6aGJZeGhsMkhVOEdObUJIRnhVRmhodEk0R2pVeFkyUW5rUWNYdjA4dUozY2ZzbkdXQlpHclRHZVVfRTNqdUFUWGdaamhTbzUwc3VOclVERXJiSThpdVRsbXJ6SjQ4S2tWVGc?oc=5",
+      "published": "Wed, 05 Aug 2026 16:50:00 GMT",
+      "summary": "Allegiant Airlines adds new in-flight perks to its cabin experience&nbsp;&nbsp;LehighValleyLive.com",
       "source": "Google News Travel"
     },
     {
@@ -91,6 +91,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Americans Issued Travel Warnings As Volcano, Typhoon Hit - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVmZjkyblM1Q1lMdl9rTnIweHBiOVBKNkF3Q1pNcXlKbmFYX1dvdHRucXdCMmRkSkNfVHBwVVJ2bGJocGFpR29zR1BaZkVuY0EwaTVuUS1peERXS3oxZHZJTVNsajdIbzV3RGNtejZnNDNEYWtUUkY3ZzhqNjlwWHQyMFVKeXFSVV90YVo1ZFM2QXpGM25oQ093dE5IU2M?oc=5",
+      "published": "Thu, 06 Aug 2026 07:21:00 GMT",
+      "summary": "Americans Issued Travel Warnings As Volcano, Typhoon Hit&nbsp;&nbsp;Newsweek",
+      "source": "Google News Travel"
+    },
+    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Escalating Iran Co - News18",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaEhjNF9kUF9MQUJWbWdBamkzYlBOdmxCckVCbzZEVVF4NjB2bVdiVlNkUUo0bTJibXM5dWFLWm9PT0V4OWp6OS1hVUk2RmMwazlYRzJKa21JcUNVczJIVWQ3UnBZY0wwZmJIak9LYzdFbmFUNXRicUhaaVVqWWRmRkNSeW94VE1wNUZxMjZ2MXEzLXdkNzRNZTdBV2p4dTlKU05KMmZuVENOZkNWQURmdEwybTQ3ZzExQ0RmLWc5LTI2aU9qYXpWcU9SOU9ZSXFRUWVtQkJRb2vSAd4BQVVfeXFMTmptSXloTklzUGlHU1ptVkpIdXRsS1Rva2JXNlNfTldyQTVTY1YwMmRRMlI5T0F1NnZudW5EVEF3SC1FY3M4UmxDUktxUGhaU1IzM3REOXNTRzUzZDNSVzkzakpJYjhkcHVWLTRSbmZwek1wLU1GemJJQ2dxYWxOVk5NOTdtcGlDLXNLNENWMDNEaExLSkJMeTlLdFVMVE9Wdi1ScDV3Ym1IajZ3ZGlhZDVXYjg4d1RqeV9hY1EyTlJwV1VMRVdMR053MXdqaHJ1R2pkWnJXelprZmREeHZn?oc=5",
-      "published": "Sun, 02 Aug 2026 01:29:32 GMT",
-      "summary": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Escalating Iran Co&nbsp;&nbsp;News18",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East - WION",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
-      "published": "Sat, 01 Aug 2026 13:03:00 GMT",
-      "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
