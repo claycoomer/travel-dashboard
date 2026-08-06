@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:25:07.495119+00:00",
+  "last_updated": "2026-08-06T06:21:12.090167+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -77,13 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
-      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
-      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
       "published": "Sun, 02 Aug 2026 15:30:11 GMT",
@@ -91,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0Z3TTUwYUwzZHd2N3E2aFVjaFhROC1aRkswbjNZM2JwQ1VXVDJsTlRzRU81NXFRdmhQWFpma0JhTHlYOWNHQ09ZcjF1WUJxSWd0SnhubjVSNk1ITTFUVzBkaHVwLTJEc0Y3NEdXa21JeGc5QzB3YTdkYzAzbHgtbTdjQnVtelBxVlVmZ01raGFJSUNjVXBIb3ZHUjRVb28tOWtVMFd2NFUzZGhSZ2tQR2JxZWhEMjV6cnZlTV9xSXIycWY4T09qcHJZcjhqWnPSAc8BQVVfeXFMT0tGd001MGFMM2R3djdxNmhVY2hYUTgtWkZLMG4zWTNicENVV1QybE5Uc0VPNTVxUXZoUFhaZmtCYUx5WDljR0NPWXIxdVlCcUlndEp4bm41UjZNSE0xVFcwZGh1cC0yRHNGNzRHV2ttSXhnOUMwd2E3ZGMwM2x4LW03Y0J1bXpQcVZVZmdNa2hhSUlDY1VwSG92R1I0VW9vLTlrVTBXdjRVM2RoUmdrUEdicWVoRDI1enJ2ZU1fcUlyMnFmOE9PanByWXI4alpz?oc=5",
-      "published": "Mon, 03 Aug 2026 15:12:00 GMT",
-      "summary": "Over 2,200 flights delayed, 546 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;PennLive.com",
+      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
+      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
+      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - cntravellerme.com",
+      "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
       "published": "Tue, 04 Aug 2026 07:59:07 GMT",
-      "summary": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict&nbsp;&nbsp;cntravellerme.com",
+      "summary": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXVxN0Fza3JGV3FOcktQSVcxbnA2X0hYRXdaZGxBN2dlelVjY1dpWTVyUXQwSHU3MWMyRVNkNHZSU19tMThCbVhRMldsSjZCNFVrQ0dRZGhpbHVsME9IenBVbTlzMFk3UkRQbnVJOXJFS1h3TG9VZFNMRzU5V1lDbmE3WjhDOGFTQTlBVks0NndXNGdkZFIxQ0w0djU2VTRaOEpZWGVic0J2ZUh5TjNHLXg3N1lwVkY0cUc3cDFnMFBsbzl5ODk1SXg5NXUzXzVCUkNSQWJOSVJ5aUnSAeABQVVfeXFMTVVVaEpYZDZMX3pZNUlPVy1YNlEwSWpzaTk4SGJUZWN0UVNka2pKV2EwOUNPTmhWeUlpN2xRZFZwU3oxSU1kNUpZeUdkT0xYWXRoLWRwS3A2QnR1Nm5JN19ELVpfZU84RFZ2dnY0Q0R4OVF6YlN6dFBxZTFKaDdZR2J5SE93LXhYbnhHQ3lWVDVNY0tDbzV3SWc0QXdpaUdYLTZELWRXSERiS1dqamVjT083cWNpV3lfRlY4dGlKNDZhN0EyWVVqV0staUhjS0J3QV82VFpDdklRaU9SNVA3OFc?oc=5",
       "published": "Sat, 01 Aug 2026 13:03:00 GMT",
       "summary": "'Exercise caution and heightened vigilance': US issues travel advisory for its citizens in Middle East&nbsp;&nbsp;WION",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Escalating Iran Co - News18",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaEhjNF9kUF9MQUJWbWdBamkzYlBOdmxCckVCbzZEVVF4NjB2bVdiVlNkUUo0bTJibXM5dWFLWm9PT0V4OWp6OS1hVUk2RmMwazlYRzJKa21JcUNVczJIVWQ3UnBZY0wwZmJIak9LYzdFbmFUNXRicUhaaVVqWWRmRkNSeW94VE1wNUZxMjZ2MXEzLXdkNzRNZTdBV2p4dTlKU05KMmZuVENOZkNWQURmdEwybTQ3ZzExQ0RmLWc5LTI2aU9qYXpWcU9SOU9ZSXFRUWVtQkJRb2vSAd4BQVVfeXFMTmptSXloTklzUGlHU1ptVkpIdXRsS1Rva2JXNlNfTldyQTVTY1YwMmRRMlI5T0F1NnZudW5EVEF3SC1FY3M4UmxDUktxUGhaU1IzM3REOXNTRzUzZDNSVzkzakpJYjhkcHVWLTRSbmZwek1wLU1GemJJQ2dxYWxOVk5NOTdtcGlDLXNLNENWMDNEaExLSkJMeTlLdFVMVE9Wdi1ScDV3Ym1IajZ3ZGlhZDVXYjg4d1RqeV9hY1EyTlJwV1VMRVdMR053MXdqaHJ1R2pkWnJXelprZmREeHZn?oc=5",
+      "published": "Sun, 02 Aug 2026 01:29:32 GMT",
+      "summary": "'Be Prepared For Flight Cancellations': US Issues Fresh Middle East Travel Advisory Amid Escalating Iran Co&nbsp;&nbsp;News18",
       "source": "Google News Travel"
     }
   ]
