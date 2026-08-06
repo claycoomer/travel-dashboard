@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-05T20:55:36.341661+00:00",
+  "last_updated": "2026-08-06T01:25:07.495119+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia B2B Is Mostly Hotels, But It Wants a One-Stop Shop",
+      "link": "https://skift.com/2026/08/05/expedia-is-investing-in-its-leading-b2b-product-as-competition-heats-up/",
+      "published": "Wed, 05 Aug 2026 22:06:53 +0000",
+      "summary": "Expedia Group&apos;s B2B offering has been predominantly hotels. The online travel agency, which was founded more than 25 years ago, only recently began offering flights to B2B partners. Its strategy is to expand B2B into many more verticals.",
+      "source": "Skift"
+    },
     {
       "title": "Thank You, Google. Trivago Expects EU Tailwind",
       "link": "https://skift.com/2026/08/05/thank-you-google-trivago-expects-eu-tailwind/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "What IndiGo and Ethiopian Say About the Rise of the Rest",
-      "link": "https://skift.com/2026/08/05/what-indigo-and-ethiopian-say-about-the-rise-of-the-rest/",
-      "published": "Wed, 05 Aug 2026 13:21:58 +0000",
-      "summary": "IndiGo and Ethiopian Airlines were built on workers, traders, students, and diaspora travel rather than tourism. Destinations that understand those flows will spend their money differently.",
-      "source": "Skift"
-    },
-    {
       "title": "Allegiant Airlines adds new in-flight perks to its cabin experience - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlIxbTVpa1NEVVZiTGNOaGpTR2FMYmo3bWV6TGJSUWx1ZzdTRVFvVmFCTEZtVi1SVGJoeE1mdXZNdWhKTTZyQ09ROVF6LUctd2QwdWFReTJ6aGJZeGhsMkhVOEdObUJIRnhVRmhodEk0R2pVeFkyUW5rUWNYdjA4dUozY2ZzbkdXQlpHclRHZVVfRTNqdUFUWGdaamhTbzUwc3VOclVERXJiSThpdVRsbXJ6SjQ4S2tWVGc?oc=5",
       "published": "Wed, 05 Aug 2026 16:50:00 GMT",
@@ -77,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZ2Q2xDQUxUVWFSS0pRckRPRHpXRG5lYUZlLS00RUJyUVppQ2p1enBwaUNCX0phd0taOU1VX29YV0lNNG9wZWdUUVlIM2xhM0Zzb1Rjd0hSZ0JOaUZYT1hPR1N6TGt1YktmeUZHNFhwZUxnZWpPZElFaVFVX3F5RzVXekllbjRjZFJWMDIxLWsxeDdyRVEzU0U3TTNoYXlRUm1XRE1sUmMwajJKLTBsT0tCMNIBxwFBVV95cUxOY19FbzZTS1BVd09FVFNPQWlfRExhTmlDRmpyd2c3cEZDN1Nsam9HTWJpREltVk9tT3BRcVc4MXFicW5vQzZZUDBjQ3Vaekg2aUNtVU5QRnRwNktwYzFCbHloaEFhWG0xcDRNWWlkSVhRYl9iY0d1S1Jva01SV05IYWdyWTlzSXdDZmxOMTNGa2Y5Ul92TGRIU2djZ3pmZVVodUhIVEVWSGdxS1dkbjlyMDBEekJUX0tEMGlIdjM3ODZXWUJEMHY4?oc=5",
       "published": "Tue, 04 Aug 2026 14:39:00 GMT",
       "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
+      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     },
     {
@@ -98,17 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
-      "published": "Tue, 04 Aug 2026 07:59:07 GMT",
-      "summary": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - cntravellerme.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
+      "published": "Tue, 04 Aug 2026 07:59:07 GMT",
+      "summary": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
