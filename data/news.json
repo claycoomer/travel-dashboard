@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-07T16:40:06.203327+00:00",
+  "last_updated": "2026-08-07T20:27:59.568663+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Google Confirms Hotel Agentic Booking Is Now in Testing",
+      "link": "https://skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing/",
+      "published": "Fri, 07 Aug 2026 18:53:06 +0000",
+      "summary": "Google has moved agentic hotel booking from promise to product test. But how much of the transaction \u2014 and customer relationship \u2014 it intends to control remains to be seen.",
+      "source": "Skift"
+    },
+    {
+      "title": "GetYourGuide to Pass Its Digital Services Tax Bill to Tour Operators",
+      "link": "https://skift.com/2026/08/07/getyourguide-to-pass-its-digital-services-tax-bill-on-to-suppliers/",
+      "published": "Fri, 07 Aug 2026 17:44:53 +0000",
+      "summary": "Digital services taxes were designed to hit Big Tech revenues, instead they are being passed onto tour operators.",
+      "source": "Skift"
+    },
     {
       "title": "How Nevis Built a Tourism Strategy Around Refusal",
       "link": "https://skift.com/2026/08/07/how-nevis-built-a-tourism-strategy-around-refusal/",
@@ -46,20 +60,6 @@
       "link": "https://skift.com/2026/08/06/airbnb-is-growing-faster-than-rivals-as-ai-speeds-up-product-releases/",
       "published": "Thu, 06 Aug 2026 22:51:25 +0000",
       "summary": "As Brian Chesky tells it, AI seems to be really kicking in at Airbnb. Excluding the LLMs and hyper-scalers, he argues that Airbnb went from being a middle-of-the-pack AI company to &quot;a leader in AI.&quot;",
-      "source": "Skift"
-    },
-    {
-      "title": "Booking Holdings Has Begun Merging Agoda, Booking.com, and Priceline\u2019s B2B Units: Scoop",
-      "link": "https://skift.com/2026/08/06/booking-holdings-has-begun-merging-agoda-booking-com-and-pricelines-b2b-units-scoop/",
-      "published": "Thu, 06 Aug 2026 19:39:44 +0000",
-      "summary": "Omri Morgenshtern is running B2B plus Agoda and it wouldn&apos;t be surprising to see his role change. He&apos;ll be tasked with executing a massive tech migration, while also trying to win new B2B partnerships.",
-      "source": "Skift"
-    },
-    {
-      "title": "Delta Sells Dirt-Cheap Award Flights to Riyadh Ahead of October Launch",
-      "link": "https://skift.com/2026/08/06/delta-sells-dirt-cheap-award-flights-to-riyadh-ahead-of-october-launch/",
-      "published": "Thu, 06 Aug 2026 18:21:46 +0000",
-      "summary": "Delta is betting that it will see a mix of business and leisure travel to Saudi Arabia as it prepares service to Riyadh. Other carriers have struggled to break into the market.",
       "source": "Skift"
     },
     {
