@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T05:26:36.912803+00:00",
+  "last_updated": "2026-08-07T08:44:26.962875+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -77,20 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnc2X0JuOGktMjQ5VXVERFhaRHpLMU52d1B5MlN3VnpUTV9DeEV3RGc5LTNaVTRXV2xUay1GMkVVRUZiQUMySGNYMEVxN2Z3LVNCQ2Nsb3VDR0NfVXJwN3dETXN4cGV2aHliemRINHY2NldpRW8xRVJHTmFyYUpjZU9vakRYaW45dm5ISGduVDQyM3lvbFNTUFAxRkZ4RWRmWktEQU5ua1Atdmh1ZHRoY2FYa2ZXWFVra0lIWA?oc=5",
-      "published": "Thu, 06 Aug 2026 10:30:10 GMT",
-      "summary": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans Issued Travel Warnings As Volcano, Typhoon Hit - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVmZjkyblM1Q1lMdl9rTnIweHBiOVBKNkF3Q1pNcXlKbmFYX1dvdHRucXdCMmRkSkNfVHBwVVJ2bGJocGFpR29zR1BaZkVuY0EwaTVuUS1peERXS3oxZHZJTVNsajdIbzV3RGNtejZnNDNEYWtUUkY3ZzhqNjlwWHQyMFVKeXFSVV90YVo1ZFM2QXpGM25oQ093dE5IU2M?oc=5",
-      "published": "Thu, 06 Aug 2026 07:21:00 GMT",
-      "summary": "Americans Issued Travel Warnings As Volcano, Typhoon Hit&nbsp;&nbsp;Newsweek",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - SILive.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDd6aVNPT1AyMmdkdjBoRTNpOERnNmIwbEdKZFBKUk1QcU82d0dsWDVwOHhfcnpSWGVRaEhXekdRcHVzbzRLbGFNRl9pNmp5cC1Qd2tvUE53UnNZLWF1d3V3LWtnSWU1Zll6Z0ZaZENvcGh0cUtSQ2tjTkdEd2ZPVldnaDY2NS1mNHhTbmV0OTc0YXk2cEdTY19EYkJZbnFlQmhkZzlaTnVHVEd1VEJqUzJVYmxZQ1RzVzcwRkJGZjlZV0xyaGRYZEc5dEdrQmfSAc8BQVVfeXFMUDA3emlTT09QMjJnZHYwaEUzaThEZzZiMGxHSmRQSlJNUHFPNndHbFg1cDh4X3J6UlhlUWhIV3pHUXB1c280S2xhTUZfaTZqeXAtUHdrb1BOd1JzWS1hdXd1dy1rZ0llNWZZemdGWmRDb3BodHFLUkNrY05HRHdmT1ZXZ2g2NjUtZjR4U25ldDk3NGF5NnBHU2NfRGJCWW5xZUJoZGc5Wk51R1RHdVRCalMyVWJsWUNUc1c3MEZCRmY5WVdMcmhkWGRHOXRHa0Jn?oc=5",
       "published": "Tue, 04 Aug 2026 14:39:00 GMT",
@@ -105,10 +91,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnc2X0JuOGktMjQ5VXVERFhaRHpLMU52d1B5MlN3VnpUTV9DeEV3RGc5LTNaVTRXV2xUay1GMkVVRUZiQUMySGNYMEVxN2Z3LVNCQ2Nsb3VDR0NfVXJwN3dETXN4cGV2aHliemRINHY2NldpRW8xRVJHTmFyYUpjZU9vakRYaW45dm5ISGduVDQyM3lvbFNTUFAxRkZ4RWRmWktEQU5ua1Atdmh1ZHRoY2FYa2ZXWFVra0lIWA?oc=5",
+      "published": "Thu, 06 Aug 2026 10:30:10 GMT",
+      "summary": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Americans Issued Travel Warnings As Volcano, Typhoon Hit - newsweek.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVmZjkyblM1Q1lMdl9rTnIweHBiOVBKNkF3Q1pNcXlKbmFYX1dvdHRucXdCMmRkSkNfVHBwVVJ2bGJocGFpR29zR1BaZkVuY0EwaTVuUS1peERXS3oxZHZJTVNsajdIbzV3RGNtejZnNDNEYWtUUkY3ZzhqNjlwWHQyMFVKeXFSVV90YVo1ZFM2QXpGM25oQ093dE5IU2M?oc=5",
+      "published": "Thu, 06 Aug 2026 07:21:00 GMT",
+      "summary": "Americans Issued Travel Warnings As Volcano, Typhoon Hit&nbsp;&nbsp;newsweek.com",
       "source": "Google News Travel"
     },
     {
