@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-08-07T12:37:41.595965+00:00",
+  "last_updated": "2026-08-07T16:40:06.203327+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "How Nevis Built a Tourism Strategy Around Refusal",
+      "link": "https://skift.com/2026/08/07/how-nevis-built-a-tourism-strategy-around-refusal/",
+      "published": "Fri, 07 Aug 2026 14:56:19 +0000",
+      "summary": "The Premier of Nevis is candid about what his island will not build and what has not worked. Now the government is spending real money to find out whether that positioning holds.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Hilton Overhauled B2B Sales and Taught Reps to \u2018Scrimmage\u2019",
+      "link": "https://skift.com/2026/08/07/how-hilton-overhauled-b2b-sales-and-taught-reps-to-scrimmage/",
+      "published": "Fri, 07 Aug 2026 14:22:14 +0000",
+      "summary": "Hilton spent years reorganizing its B2B sales machine. The reason? Many corporate buyers no longer want to buy the way hotel sellers often want to sell.",
+      "source": "Skift"
+    },
+    {
+      "title": "Gen Z Business Travelers Are Anxious, and Brands Aren\u2019t Helping",
+      "link": "https://skift.com/2026/08/07/gen-z-business-travelers-are-anxious-and-brands-arent-helping/",
+      "published": "Fri, 07 Aug 2026 14:03:57 +0000",
+      "summary": "Gen Z business travelers are anxious and uncertain, navigating booking systems and policies built for a different generation. What they want isn&apos;t more technology \u2014 it&apos;s clarity, guidance and a little reassurance along the way.",
+      "source": "Skift"
+    },
+    {
+      "title": "2026 Skift IDEA Awards: Meet the Finalists",
+      "link": "https://skift.com/2026/08/07/2026-skift-idea-awards-meet-the-finalists/",
+      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "summary": "Skift Take The 2026 Skift IDEA Awards finalists reflect a focus on creativity, ingenuity, and innovation. These companies reflect the brightest future of travel. The eighth-annual Skift IDEA Awards honor those who are driving change and innovation across the travel industry. Toda",
+      "source": "Skift"
+    },
+    {
+      "title": "A Dozen Airlines Put a Number on the Fuel Spike. Here\u2019s How Much They Clawed Back",
+      "link": "https://skift.com/2026/08/07/a-dozen-airlines-put-a-number-on-the-fuel-spike-heres-how-much-they-clawed-back/",
+      "published": "Fri, 07 Aug 2026 13:48:06 +0000",
+      "summary": "Recapture has become the polite word for charging passengers more, and it worked better than many airlines expected.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb Is Growing Faster Than Rivals as AI Speeds Up Product Releases",
       "link": "https://skift.com/2026/08/06/airbnb-is-growing-faster-than-rivals-as-ai-speeds-up-product-releases/",
@@ -28,45 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Apollo Wins EasyJet Takeover Battle",
-      "link": "https://skift.com/2026/08/06/apollo-wins-easyjet-takeover-battle/",
-      "published": "Thu, 06 Aug 2026 16:28:46 +0000",
-      "summary": "Apollo outbid Castlelake and outstructured it. Its winning approach could become the blueprint for how overseas private equity acquires European airlines under strict local ownership rules.",
-      "source": "Skift"
-    },
-    {
-      "title": "Extreme Heat, War, World Cup: Skift Travel Health Index Bounces Back",
-      "link": "https://skift.com/2026/08/06/extreme-heat-war-world-cup-skift-travel-health-index-bounces-back/",
-      "published": "Thu, 06 Aug 2026 16:25:34 +0000",
-      "summary": "June&apos;s flat travel index hid more than it showed. Higher room rates covered for softer international demand, and the early signs of recovery in the Middle East are only due to a fragile peace talks.",
-      "source": "Skift"
-    },
-    {
-      "title": "Tripadvisor\u2019s Growth Is Way Behind Rivals. Next Question: What Gets Sold?",
-      "link": "https://skift.com/2026/08/06/tripadvisors-growth-is-way-behind-rivals-next-question-what-gets-sold/",
-      "published": "Thu, 06 Aug 2026 16:15:39 +0000",
-      "summary": "Tripadvisor has little momentum to show. It&apos;s not lost on investors, or the activist investors who now hold four board seats.",
-      "source": "Skift"
-    },
-    {
-      "title": "Ixigo\u2019s Next Shift: It\u2019s Exploring a Move Into Corporate Travel",
-      "link": "https://skift.com/2026/08/06/ixigos-next-shift-its-exploring-a-move-into-corporate-travel/",
-      "published": "Thu, 06 Aug 2026 15:34:38 +0000",
-      "summary": "As higher airfares squeeze the leisure travelers who fueled Ixigo&apos;s rise, the travel platform is eyeing corporate travel for a steadier source of demand.",
-      "source": "Skift"
-    },
-    {
-      "title": "Extreme Drought Is Upending River Cruises",
-      "link": "https://skift.com/2026/08/06/extreme-drought-is-upending-river-cruises/",
-      "published": "Thu, 06 Aug 2026 13:47:35 +0000",
-      "summary": "Low water levels in Europe are causing widespread disruption to river cruises, leading to one Viking ship running aground. As guests face potential cancellations, the consumer travel insurance industry could be set to win as the sellers of peace of mind.",
-      "source": "Skift"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
       "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmpoQnhvNGl3MWJXZ1ZjajVKcmRBa0pDTGlxNWRQaEVuektuTlFKdnp2cGhtQm1FUmFoa2RTZm1MUWNjcGVReFMxZTJUR01pNk8zd092bllMcmhETWRWempTcVoyeUo5cGpQRGhnZVcwVmI3TTJPbkJFcFZ6emJjREhJRjZvZnlCUmt2X1NYaWhfclhudlNIRHJCTDg3VDZYSW9mYzNBdlZXSFRnQUNTRm1GTmFOamNyQUVv0gHPAUFVX3lxTE1KS1RxWjh3Qkl1VmRIWG9qMGNRVVdZRmNsQ2N5WGx6MllqQk56dUtFZTdvRTdUMm02TFc5aTZPajlWb0Z6ekROWGk2bkhhZzgzcmFvNDdYYjJubDdHakFSY3VrbkxtdDBFYS1yQ0xtcTJ3OHVuR0kzNmp4WVJZTk5PY1lTZW44X0xyNUpVOWRjeU54V0lFUk16cmV4clpmUmN4M3NObFZRb0Z0MWpDelJ2MlVpbS1CYlMzZE41Y2phd0J1MWJyajBRS1ZFZ190Yw?oc=5",
+      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
+      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;PennLive.com",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHpyaVVfMlE1T1pLWjM4NWhDRkJacmdNdm51SnRxalJhaXFsbm1LazlzVnNPQ2xsZ25FSE5wdW0wMGswYlZtWDJWaHRjb01wRW9SYVBiR0E2VjJWVG94WEJ2R3J3ZGlUd0Zjak5VS3hleEZUZzRrZnJfT1ZjcVp6TlZFd0VrM3hEUmw0cy1HdUlreDIzSGR5eUJPMjI0UlNRczBJcnRNY0Q1cTduWnNxN3I3R2E2R2PSAcsBQVVfeXFMT1k2VHA2TS1GcGwxTTZfam13VU14VTlMdWlrM3JFQ0gzMUV0LTdzdmVtckluZE5KWVlRZlpRUl9kQ1BBQWU0TG5hbEVqY0VZSHJCSDZvQ1kybE5jLTZTUkI2YVFQMUtPN1RtRzFURTRRVF9oN3hzb2ozSEZLc1ByUVFkM0NNX2xEQzJMRG1tVUVJYUNaakF4WjRaU0czNERQNG5ma0JESjZPdTNzNDR6eFRFb1ZRZDdHUTA0ZjBCZndTRExMYjA3bndCZjQ?oc=5",
-      "published": "Tue, 04 Aug 2026 14:39:00 GMT",
-      "summary": "Over 1,350 flights delayed, 181 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
+      "title": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEx0SmhRZV9TcGg1R3pCVzk3aDlXcm5DVWwwSzhJeDNlc1VTVnduN0hnWEFFVHAxZjVBc2tGV0hTVkZqZzVmUDFid3JFQkgzcjBIN1VpcmJtZVl6aXozdkNwMHBiZWhjWHdmVVE1d0lVQzhrQ1g1ZnVjSjNIR1lwZUtJekVHUDNCbHpKNVpYeGpJaExNd0Y3ZTdEVjB4NzBSXzB3TXVqX09LcEF3ZjNwck1ZTdIBxwFBVV95cUxOUWN5QlRQRXZGOUQydkFwZ2Y2eDk3TjAtNGRkYjlrRjJWWjN1TFQ0dnJjcjlxNTZEUDItRzFTVjdXcU5ZcVRyYW0zbTY5Y1RuVjV5NVJXeUg0VVdZcDJKQnZvWHdnZEpyMGdnb21tclB6S3pOWkFOalZvTXF5LTB6V2UyVUNYT0o1Zjg5R2ZYUkIxZmdBbWU5RG9pbUpPTXBYMThKWldFRk43RVBoeWxnRTBLUzNqZXFjT3hkTnlFTm82Q3huMjE4?oc=5",
+      "published": "Thu, 06 Aug 2026 14:42:00 GMT",
+      "summary": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - forbes.com",
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;forbes.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnc2X0JuOGktMjQ5VXVERFhaRHpLMU52d1B5MlN3VnpUTV9DeEV3RGc5LTNaVTRXV2xUay1GMkVVRUZiQUMySGNYMEVxN2Z3LVNCQ2Nsb3VDR0NfVXJwN3dETXN4cGV2aHliemRINHY2NldpRW8xRVJHTmFyYUpjZU9vakRYaW45dm5ISGduVDQyM3lvbFNTUFAxRkZ4RWRmWktEQU5ua1Atdmh1ZHRoY2FYa2ZXWFVra0lIWA?oc=5",
-      "published": "Thu, 06 Aug 2026 10:30:10 GMT",
-      "summary": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports&nbsp;&nbsp;TheTravel",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     }
   ]
