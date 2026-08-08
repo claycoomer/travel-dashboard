@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-08T00:47:56.649562+00:00",
+  "last_updated": "2026-08-08T04:44:58.186795+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Google Brings Agentic AI to Ask Maps Hotel Search",
+      "link": "https://skift.com/2026/08/07/google-brings-agentic-ai-to-ask-maps-hotel-search/",
+      "published": "Sat, 08 Aug 2026 01:56:19 +0000",
+      "summary": "Google Maps is bringing spatial context to AI hotel search. Add personal itinerary data, and this becomes more than another AI search update for hotels \u2014 even before booking arrives.",
+      "source": "Skift"
+    },
     {
       "title": "Google Confirms Hotel Agentic Booking Is Now in Testing",
       "link": "https://skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Is Growing Faster Than Rivals as AI Speeds Up Product Releases",
-      "link": "https://skift.com/2026/08/06/airbnb-is-growing-faster-than-rivals-as-ai-speeds-up-product-releases/",
-      "published": "Thu, 06 Aug 2026 22:51:25 +0000",
-      "summary": "As Brian Chesky tells it, AI seems to be really kicking in at Airbnb. Excluding the LLMs and hyper-scalers, he argues that Airbnb went from being a middle-of-the-pack AI company to &quot;a leader in AI.&quot;",
-      "source": "Skift"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
@@ -84,6 +84,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEx0SmhRZV9TcGg1R3pCVzk3aDlXcm5DVWwwSzhJeDNlc1VTVnduN0hnWEFFVHAxZjVBc2tGV0hTVkZqZzVmUDFid3JFQkgzcjBIN1VpcmJtZVl6aXozdkNwMHBiZWhjWHdmVVE1d0lVQzhrQ1g1ZnVjSjNIR1lwZUtJekVHUDNCbHpKNVpYeGpJaExNd0Y3ZTdEVjB4NzBSXzB3TXVqX09LcEF3ZjNwck1ZTdIBxwFBVV95cUxOUWN5QlRQRXZGOUQydkFwZ2Y2eDk3TjAtNGRkYjlrRjJWWjN1TFQ0dnJjcjlxNTZEUDItRzFTVjdXcU5ZcVRyYW0zbTY5Y1RuVjV5NVJXeUg0VVdZcDJKQnZvWHdnZEpyMGdnb21tclB6S3pOWkFOalZvTXF5LTB6V2UyVUNYT0o1Zjg5R2ZYUkIxZmdBbWU5RG9pbUpPTXBYMThKWldFRk43RVBoeWxnRTBLUzNqZXFjT3hkTnlFTm82Q3huMjE4?oc=5",
+      "published": "Thu, 06 Aug 2026 14:42:00 GMT",
+      "summary": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Dubai and Middle East flight disruption: regional airlines continue certain route suspensions amid the US-Iran conflict - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd3Zkb3NLdGFqN0FSUS1mdW5UQWZCVjZRNmRIckh5aGZhY1JxOHIwcUNiQWZpSjQ0amxocjZaVFNFeV9YR004bE5sclk1RmZ2Wk1DNFNvVFFFemdyV0NSWVMwOFVHY3poeVhvQkxRM2F4UHI2ZVUxczNjbmlfTXBoaVl3LXRHLWhudWEtcXNhVFIyMHF6X19UV0ZzWWlfQ0pKR2NkZmE3Ym5OQndYQ1BCQndJOVpHcnFKVVN0dlQ2YkhOMkRMSWpLdS03LXh2V3ViQWwxUlVfR191UXVwU0prWVpKSy1aWTVxNzRTQmttOVRBUQ?oc=5",
       "published": "Tue, 04 Aug 2026 07:59:07 GMT",
@@ -98,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - forbes.com",
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;forbes.com",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVmZjkyblM1Q1lMdl9rTnIweHBiOVBKNkF3Q1pNcXlKbmFYX1dvdHRucXdCMmRkSkNfVHBwVVJ2bGJocGFpR29zR1BaZkVuY0EwaTVuUS1peERXS3oxZHZJTVNsajdIbzV3RGNtejZnNDNEYWtUUkY3ZzhqNjlwWHQyMFVKeXFSVV90YVo1ZFM2QXpGM25oQ093dE5IU2M?oc=5",
       "published": "Thu, 06 Aug 2026 07:21:00 GMT",
       "summary": "Americans Issued Travel Warnings As Volcano, Typhoon Hit&nbsp;&nbsp;Newsweek",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnc2X0JuOGktMjQ5VXVERFhaRHpLMU52d1B5MlN3VnpUTV9DeEV3RGc5LTNaVTRXV2xUay1GMkVVRUZiQUMySGNYMEVxN2Z3LVNCQ2Nsb3VDR0NfVXJwN3dETXN4cGV2aHliemRINHY2NldpRW8xRVJHTmFyYUpjZU9vakRYaW45dm5ISGduVDQyM3lvbFNTUFAxRkZ4RWRmWktEQU5ua1Atdmh1ZHRoY2FYa2ZXWFVra0lIWA?oc=5",
-      "published": "Thu, 06 Aug 2026 10:30:10 GMT",
-      "summary": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     }
   ]
