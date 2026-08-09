@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-09T12:25:55.678148+00:00",
+  "last_updated": "2026-08-09T16:20:38.777509+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Capital Allocation Brief: A New Quarterly Read on Where Travel\u2019s Money Goes",
+      "link": "https://skift.com/2026/08/09/skift-capital-allocation-brief-a-new-quarterly-read-on-where-travels-money-goes/",
+      "published": "Sun, 09 Aug 2026 13:22:18 +0000",
+      "summary": "M&amp;A, venture money, buybacks, take-privates, a free quarterly read on all the capital moving through travel, what it means, and a first look at the decision intelligence Skift is building.",
+      "source": "Skift"
+    },
     {
       "title": "Aman Threatened to Call the Police on a Creator. Why the Whole Industry Should Pay Attention.",
       "link": "https://skift.com/2026/08/08/aman-threatened-to-call-the-police-on-a-creator-why-the-whole-industry-should-pay-attention/",
@@ -56,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "2026 Skift IDEA Awards: Meet the Finalists",
-      "link": "https://skift.com/2026/08/07/2026-skift-idea-awards-meet-the-finalists/",
-      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "summary": "Skift Take The 2026 Skift IDEA Awards finalists reflect a focus on creativity, ingenuity, and innovation. These companies reflect the brightest future of travel. The eighth-annual Skift IDEA Awards honor those who are driving change and innovation across the travel industry. Toda",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3AzUGZhSE9sUGVMcDJuMmtiYV9MN3l0MEU2WXFqbW10a1Z2MjAta3pYakUxT0JYaFRLNnVuVzNSQmF1SEdqa3M5SGFTT2lPZWpqQUw3T3E1M1VyNXFoSlZhMEhHWjlXY1RNaGY4LWpuMk9TVHBFQ3ZuSC1EV01Fb19EMERJcTJxNDBhVHFxNmtUc1lZMVdLUVZrTkF2Wi1rWjNXUWpFallzQUNuUW54Rlg1TdIBxwFBVV95cUxOOHNLUU9CMm43VTJpQnM2T2tOdG5UVWVqWmJaeEVyZWVRUG5nb3dNcTkyMkozMFJZQ1JfUU96ZklBTnJaNWVCeWxIUzdFTzhhVThrZ1pJc3VTTWI5OFhXeVh5WkNTamlITDMzbC02ZEFpczUwYTI4TzB1XzVZako5V3pBMmVvU2U4UE9YSmRBREo3UnJxNXlIbHM0dUtQcUxpZTFpeWk3RFJMSDJWQlY4a0hrRng0b2t3MG44LV9aMHl4ZlF0T1NJ?oc=5",
-      "published": "Fri, 07 Aug 2026 14:48:00 GMT",
-      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 19:20:00 GMT",
       "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     },
     {
@@ -91,6 +77,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
+      "published": "Sun, 02 Aug 2026 15:30:11 GMT",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;usatoday.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today - Men's Journal",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xMVM0YzY4c3FVZTdPUGl1ejdaaDNGMjFyOTBuMmtSRHl6aGxjYU83WHlGMXJhekRkVEtqdWNFMHlTWmI1anBMOFJBaFZpbkMwUWNDOHBRV3YwSWRKZnFNdk8tSjFFbEdaTFBtcjBFdGdlUlZCd2ZLTzNB?oc=5",
       "published": "Sat, 08 Aug 2026 13:58:53 GMT",
@@ -98,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - fodors.com",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;fodors.com",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnc2X0JuOGktMjQ5VXVERFhaRHpLMU52d1B5MlN3VnpUTV9DeEV3RGc5LTNaVTRXV2xUay1GMkVVRUZiQUMySGNYMEVxN2Z3LVNCQ2Nsb3VDR0NfVXJwN3dETXN4cGV2aHliemRINHY2NldpRW8xRVJHTmFyYUpjZU9vakRYaW45dm5ISGduVDQyM3lvbFNTUFAxRkZ4RWRmWktEQU5ua1Atdmh1ZHRoY2FYa2ZXWFVra0lIWA?oc=5",
-      "published": "Thu, 06 Aug 2026 10:30:10 GMT",
-      "summary": "FAA Ground Stops In The Northeast Expected Due To Weather: Delta Air Lines Issues Warning For 9 Different U.S. Airports&nbsp;&nbsp;TheTravel",
+      "title": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 in this African nation - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczFkSU5SNVNTd19oN0NmLTZtcUpURTRtNkV5N3ZteXF3TXlGSXV1Q3U5bElUUWhCNHJWUEd1aFFrM0dyeTN1a1lZbTRyaHdscDFRVEJYbllWQ3E3WUhieXNaVnFTM0Y3QzJ6RkdvanZ1MVlaYlVTYXloMVBhWF9sSndGUmFFMHFkdWFoRGZNRjVnMjl2MzVSVVNtVi1wS2UySmNYTXNISEZyeVFCekJBUWdOaVVacnJtbjV1Ukd4Uno4Z9IB1gFBVV95cUxOWVdldlgxdnJES3ZmLU01Uy1jOG16WHU0ejlFeFByLWRVbkY3M3hwdmF2aUZfRkxnRndrNWdMU2VGcEVCSnlPN3hpVHVCdFFhNmRPMno3cjJwaGNuanRmTWFvNDBRX2dxS1UxN3dsb2Z6MzB6ZXJOamdMQzFJYlZRVVc5T1d2ekFINHpRdlgwUW9xbUw2bi1Tc1FjcnNMRDNERUVpX2tOWkFnZkFmeHBSZTEzbGdZMVFXYVdONHByT2FrWEJuMzdEdGZ6UV9iQ0xQd1FURUV3?oc=5",
+      "published": "Sat, 01 Aug 2026 13:00:00 GMT",
+      "summary": "Travel Advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 in this African nation&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     }
   ]
