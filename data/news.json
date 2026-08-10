@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-10T12:41:58.831109+00:00",
+  "last_updated": "2026-08-10T16:41:15.412974+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Agoda CEO to Lead Booking Holdings\u2019 New B2B Unit, New Tech Details: Scoop",
+      "link": "https://skift.com/2026/08/10/booking-holdings-makes-leadership-appointments-tied-to-new-b2b-unit-as-partners-get-onboarded-scoop/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000",
+      "summary": "If there were an internal debate among its brands about the direction of Booking Holdings&apos; B2B efforts, Agoda seems to have won.",
+      "source": "Skift"
+    },
+    {
+      "title": "Inside GetYourGuide\u2019s Sixteen-Year Road to Profit",
+      "link": "https://skift.com/2026/08/10/inside-getyourguides-sixteen-year-road-to-profit/",
+      "published": "Mon, 10 Aug 2026 15:40:19 +0000",
+      "summary": "Sixteen years, about $750 million in equity funding, half a billion euros of losses, and one answer: repeat customers. Everything else was the cost of finding it.",
+      "source": "Skift"
+    },
+    {
+      "title": "Iceland\u2019s Hotels Were Already Full. Then Came the Eclipse.",
+      "link": "https://skift.com/2026/08/10/iceland-solar-eclipse-2026/",
+      "published": "Mon, 10 Aug 2026 13:36:43 +0000",
+      "summary": "The eclipse is expected to strain Iceland\u2019s infrastructure, but tourism leaders are betting it can also convince travelers their next trip doesn\u2019t need to be a summer stay in Reykjav\u00edk.",
+      "source": "Skift"
+    },
     {
       "title": "Ras Al Khaimah\u2019s New Pitch to Indian Tourists: We\u2019re Premium \u2014 Not Just Cheaper Than Dubai",
       "link": "https://skift.com/2026/08/10/ras-al-khaimahs-new-pitch-to-indian-tourists-were-premium-not-just-cheaper-than-dubai/",
@@ -42,27 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "GetYourGuide to Pass Its Digital Services Tax Bill to Tour Operators",
-      "link": "https://skift.com/2026/08/07/getyourguide-to-pass-its-digital-services-tax-bill-on-to-suppliers/",
-      "published": "Fri, 07 Aug 2026 17:44:53 +0000",
-      "summary": "Digital services taxes were designed to hit Big Tech revenues, instead they are being passed onto tour operators.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Nevis Built a Tourism Strategy Around Refusal",
-      "link": "https://skift.com/2026/08/07/how-nevis-built-a-tourism-strategy-around-refusal/",
-      "published": "Fri, 07 Aug 2026 14:56:19 +0000",
-      "summary": "The Premier of Nevis is candid about what his island will not build and what has not worked. Now the government is spending real money to find out whether that positioning holds.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Hilton Overhauled B2B Sales and Taught Reps to \u2018Scrimmage\u2019",
-      "link": "https://skift.com/2026/08/07/how-hilton-overhauled-b2b-sales-and-taught-reps-to-scrimmage/",
-      "published": "Fri, 07 Aug 2026 14:22:14 +0000",
-      "summary": "Hilton spent years reorganizing its B2B sales machine. The reason? Many corporate buyers no longer want to buy the way hotel sellers often want to sell.",
-      "source": "Skift"
-    },
-    {
       "title": "State Department Issues Fresh Middle East Travel Advisory - travelpulse.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 07:00:00 GMT",
@@ -84,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today - Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xMVM0YzY4c3FVZTdPUGl1ejdaaDNGMjFyOTBuMmtSRHl6aGxjYU83WHlGMXJhekRkVEtqdWNFMHlTWmI1anBMOFJBaFZpbkMwUWNDOHBRV3YwSWRKZnFNdk8tSjFFbEdaTFBtcjBFdGdlUlZCd2ZLTzNB?oc=5",
-      "published": "Sat, 08 Aug 2026 13:58:53 GMT",
-      "summary": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today&nbsp;&nbsp;Men's Journal",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -98,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - forbes.com",
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;forbes.com",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
-      "title": "Travel advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this Caribbean vacation spot - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlYxZm5KZHgwYlFrTHh6OXloZ2ItTHhQR0VpODl0eW9PWktyUHI2QTVuMzBoVEc5U2ZnQ3pOb0dpVEI5WlJJWmYxWFZZczNsclBrbldXWlp2Rk1hb2tjLTNFRmd6WHNzZG5lYVdJZ25ONkE1Um5vZnphYXBLSFFiWkFzUUJ3cjlVRE5hYWhZR3dvU1RHNWstRVdWeVBEUkxORlp0aFF2TlJLSnBIalpBOUFFeWFLQm91X1ZMeC11R1JuSlVUZXVIVlQ5LUFEZ9IB4gFBVV95cUxQWFhna25HZjBNM3UyX2ctN0NhNHJ1S0FRaXdHOFVFS1NHRHV0Q2pNQWp2ZURlUEM0NThUNnlLTGhOUUUxZEJ0RVB2b2Z0S1JzRi1SaE5oanJCblFxOUtmbzBHOWRFQ3N1WHpzX3h1RklCSjFmM09JcnJLcmoyZUVKZnBHZGFXNVJCMWxWS25IZy13ZjREMTJTWVl1cHY0aV82V2R3aE9VeVBmejJvMG44V1VzUG8xekVvMk9PdW1YcjUxLVFwSEkyRWN6Q1U4S3FFZDlnUTRDN19MSkxIVE1Va2tB?oc=5",
-      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "summary": "Travel advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this Caribbean vacation spot&nbsp;&nbsp;NJ.com",
+      "title": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today - Men's Journal",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xMVM0YzY4c3FVZTdPUGl1ejdaaDNGMjFyOTBuMmtSRHl6aGxjYU83WHlGMXJhekRkVEtqdWNFMHlTWmI1anBMOFJBaFZpbkMwUWNDOHBRV3YwSWRKZnFNdk8tSjFFbEdaTFBtcjBFdGdlUlZCd2ZLTzNB?oc=5",
+      "published": "Sat, 08 Aug 2026 13:58:53 GMT",
+      "summary": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today&nbsp;&nbsp;Men's Journal",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this Caribbean vacation spot - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlYxZm5KZHgwYlFrTHh6OXloZ2ItTHhQR0VpODl0eW9PWktyUHI2QTVuMzBoVEc5U2ZnQ3pOb0dpVEI5WlJJWmYxWFZZczNsclBrbldXWlp2Rk1hb2tjLTNFRmd6WHNzZG5lYVdJZ25ONkE1Um5vZnphYXBLSFFiWkFzUUJ3cjlVRE5hYWhZR3dvU1RHNWstRVdWeVBEUkxORlp0aFF2TlJLSnBIalpBOUFFeWFLQm91X1ZMeC11R1JuSlVUZXVIVlQ5LUFEZ9IB4gFBVV95cUxQWFhna25HZjBNM3UyX2ctN0NhNHJ1S0FRaXdHOFVFS1NHRHV0Q2pNQWp2ZURlUEM0NThUNnlLTGhOUUUxZEJ0RVB2b2Z0S1JzRi1SaE5oanJCblFxOUtmbzBHOWRFQ3N1WHpzX3h1RklCSjFmM09JcnJLcmoyZUVKZnBHZGFXNVJCMWxWS25IZy13ZjREMTJTWVl1cHY0aV82V2R3aE9VeVBmejJvMG44V1VzUG8xekVvMk9PdW1YcjUxLVFwSEkyRWN6Q1U4S3FFZDlnUTRDN19MSkxIVE1Va2tB?oc=5",
+      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "summary": "Travel advisory: U.S. warns travelers to \u2018exercise increased caution\u2019 to this Caribbean vacation spot&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
