@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-08-12T12:41:16.426291+00:00",
+  "last_updated": "2026-08-12T16:44:40.680810+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "These 13 Environmental Laws Could be Waived to Speed Up Airport-to-Spaceport Conversions",
+      "link": "https://skift.com/2026/08/12/these-13-environmental-laws-could-be-waived-to-speed-up-airport-to-spaceport-conversions/",
+      "published": "Wed, 12 Aug 2026 16:12:44 +0000",
+      "summary": "The industry praised the move but environmentalists say it\u2019s a giveaway of power.",
+      "source": "Skift"
+    },
+    {
+      "title": "Premier Inn\u2019s UAE and Saudi Expansion Signals Where Gulf Hotel Demand Is Actually Holding Up",
+      "link": "https://skift.com/2026/08/12/premier-inns-uae-and-saudi-expansion-signals-where-gulf-hotel-demand-is-actually-holding-up/",
+      "published": "Wed, 12 Aug 2026 16:06:17 +0000",
+      "summary": "Premier Inn\u2019s war-year numbers back up a Gulf hospitality split: mid-market held occupancy, luxury held rate.",
+      "source": "Skift"
+    },
+    {
+      "title": "American Airlines CEO Outlines C-Suite Overhaul to Close \u2018Meaningful Gap\u2019",
+      "link": "https://skift.com/2026/08/12/american-airlines-ceo-outlines-c-suite-overhaul-close-meaningful-gap/",
+      "published": "Wed, 12 Aug 2026 14:54:47 +0000",
+      "summary": "American is hoping that reshuffling its executive ranks will help boost profitability as it faces more pressure to close the gap with Delta and United.",
+      "source": "Skift"
+    },
+    {
+      "title": "Air Canada Sold Aeroplan, Bought It Back, and Has Now Sold a Quarter of It Again",
+      "link": "https://skift.com/2026/08/12/air-canada-sold-aeroplan-bought-it-back-and-has-now-sold-a-quarter-of-it-again/",
+      "published": "Wed, 12 Aug 2026 14:22:43 +0000",
+      "summary": "Is Air Canada saying goodbye or simply au revoir to 25% of Aeroplan? A repurchase clause suggests the airline is keen to keep its options open.",
+      "source": "Skift"
+    },
+    {
+      "title": "The AI Agent Should Belong to the Traveler",
+      "link": "https://skift.com/2026/08/12/the-ai-agent-should-belong-to-the-traveler/",
+      "published": "Wed, 12 Aug 2026 13:30:00 +0000",
+      "summary": "Every previous layer of travel distribution promised to work for the traveler, and every one ended up selling position to the supplier.",
+      "source": "Skift"
+    },
+    {
+      "title": "Announcing the Return of Skift Aviation Forum 2026 to New York",
+      "link": "https://skift.com/2026/08/12/announcing-skift-aviation-forum-2026-new-york/",
+      "published": "Wed, 12 Aug 2026 13:00:00 +0000",
+      "summary": "Aviation is posting record revenue while margins stay thin and capacity discipline keeps slipping. The airlines that widen the gap in 2027 are deciding how right now.",
+      "source": "Skift"
+    },
     {
       "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
       "link": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
@@ -18,48 +60,6 @@
       "link": "https://skift.com/2026/08/12/the-man-who-led-air-indias-return-to-tata-to-exit-whats-next-for-the-airline/",
       "published": "Wed, 12 Aug 2026 11:45:43 +0000",
       "summary": "N Chandrasekaran\u2019s departure introduces a leadership transition at Tata Sons at a time when Air India is reporting its largest losses since the Tata acquisition and has just appointed a new CEO.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Partners With Tripadvisor Experiences, Drops Build-Your-Own Strategy",
-      "link": "https://skift.com/2026/08/11/airbnb-partners-with-tripadvisor-experiences-drops-build-your-own-strategy/",
-      "published": "Tue, 11 Aug 2026 19:28:38 +0000",
-      "summary": "Airbnb was never going to be able to scale experiences without major partnerships or acquisitions.",
-      "source": "Skift"
-    },
-    {
-      "title": "Canadian Travel to the U.S. Ticks Up Again \u2014 But Still Far from a Full Recovery",
-      "link": "https://skift.com/2026/08/11/canadian-travel-to-the-u-s-ticks-up-again-but-still-far-from-a-full-recovery/",
-      "published": "Tue, 11 Aug 2026 17:44:08 +0000",
-      "summary": "The recent increase in Canadian travel to the U.S. isn&apos;t a full comeback \u2014 it&apos;s a low bar clearing itself.",
-      "source": "Skift"
-    },
-    {
-      "title": "While Rivals Cut Fees, IHG Takes a Different Route on Owner Economics",
-      "link": "https://skift.com/2026/08/11/while-rivals-cut-fees-ihg-takes-a-different-route-on-owner-economics/",
-      "published": "Tue, 11 Aug 2026 17:43:06 +0000",
-      "summary": "Fee cuts are the story of this earnings season. IHG has a different answer and a different argument for why it doesn\u2019t need to follow peer pressure.",
-      "source": "Skift"
-    },
-    {
-      "title": "More Travel Leaders Join the Skift Global Forum 2026 Stage",
-      "link": "https://skift.com/2026/08/11/skift-global-forum-2026-second-round-speakers/",
-      "published": "Tue, 11 Aug 2026 16:41:00 +0000",
-      "summary": "The second round of Skift Global Forum 2026 speakers is here. You get to hear how travel&apos;s biggest operators are pricing and allocating capital while the calls are still open, before any of it reaches an earnings report.",
-      "source": "Skift"
-    },
-    {
-      "title": "Air Canada Heads Into Winter Between CEOs and With Plenty To Prove",
-      "link": "https://skift.com/2026/08/11/air-canada-heads-into-winter-between-ceos-and-with-plenty-to-prove/",
-      "published": "Tue, 11 Aug 2026 15:45:02 +0000",
-      "summary": "The most revealing number on Wednesday may be one Air Canada stopped giving investors in April.",
-      "source": "Skift"
-    },
-    {
-      "title": "Spain\u2019s Eclipse: A Three-Year Tourism Strategy Built Around Two Minutes of Darkness",
-      "link": "https://skift.com/2026/08/11/spain-eclipse-tourism-strategy/",
-      "published": "Tue, 11 Aug 2026 13:48:21 +0000",
-      "summary": "Three eclipse events between now and 2028 give Spain a rare, low-cost tool to redirect demand toward inland regions.",
       "source": "Skift"
     },
     {
@@ -77,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - usatoday.com",
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;usatoday.com",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: regional airlines resume some routes while international airlines extend suspensions - cntravellerme.com",
+      "title": "Dubai and Middle East flight disruption: regional airlines resume some routes while international airlines extend suspensions - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXhhYWM3ano3Vi1wa3BhdVRfRnRwS3c4MjFJTUNWSkgzM3VFS2xHYklVWEdfclB1bnhLNEpYTWlqbVR2ckVyWm9oYUY5WXFpdkozMmNQaWY4S3A5X2hibHBuT20xU3dUbl9oaUl2S1VPOWloc25kLVNEcjdsdlZmbWxQY2RIdG5DTEhSRGR6ZTItdHBTTDBsc0JneVJ4WmwtZTdfa1RVVGRPd0ZraVV5MHJHYVVjbmgyQ3Q2QkdjWVo3dVp4NEJlek42Y3dPZ1FjZ2JMYzd5NjFXTUVqaC1OaHowYTZuWUptR01VQmJsb0pyUQ?oc=5",
       "published": "Mon, 10 Aug 2026 08:20:21 GMT",
-      "summary": "Dubai and Middle East flight disruption: regional airlines resume some routes while international airlines extend suspensions&nbsp;&nbsp;cntravellerme.com",
+      "summary": "Dubai and Middle East flight disruption: regional airlines resume some routes while international airlines extend suspensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
