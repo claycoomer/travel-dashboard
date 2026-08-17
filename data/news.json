@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-17T16:13:44.597009+00:00",
+  "last_updated": "2026-08-17T20:14:00.484920+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Skift State of Travel 2026 Is Out. Here\u2019s What Stood Out.",
+      "link": "https://skift.com/2026/08/17/the-skift-state-of-travel-2026-is-out-heres-what-stood-out/",
+      "published": "Mon, 17 Aug 2026 15:29:00 +0000",
+      "summary": "On Monday's \u2060Good Morning Hospitality, A Skift Podcast\u2060, \u2060Brandreth Canaley\u2060, \u2060Michael Goldin\u2060, and \u2060Jamie Lane\u2060 each share the stat from Skift's State of Travel 2026 report that hit hardest for them, with \u2060Seth Borko\u2060, Skift's Head of \u2060Skift Research\u2060, joining to close with the ",
+      "source": "Skift"
+    },
+    {
+      "title": "Google Scoops Up Spirit Airlines\u2019 Data in Bankruptcy Sale to Train AI",
+      "link": "https://skift.com/2026/08/17/google-scoops-up-spirits-data-in-bankruptcy-sale-to-train-ai/",
+      "published": "Mon, 17 Aug 2026 19:11:51 +0000",
+      "summary": "Google plans to use troves of Spirit\u2019s business data and software code to improve its own AI models and products.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Substack Renaissance in Travel Media Comes With a Catch",
+      "link": "https://skift.com/2026/08/17/the-substack-renaissance-in-travel-media-comes-with-a-catch/",
+      "published": "Mon, 17 Aug 2026 18:49:37 +0000",
+      "summary": "Substack provides space for travel writers with strong points of view honed from years of experience. The best ones embrace the freedom and avoid quick takes.",
+      "source": "Skift"
+    },
     {
       "title": "Lawsuit Against Delta Raises a Bigger Question: How Airlines Use Carbon Offsets",
       "link": "https://skift.com/2026/08/17/delta-greenwashing-lawsuit-carbon-credits/",
@@ -42,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Saudi OTA Almosafer on Track for Year-End IPO Despite Iran War Disruption",
-      "link": "https://skift.com/2026/08/14/saudi-ota-almosafer-on-track-for-year-end-ipo-despite-iran-war-disruption/",
-      "published": "Fri, 14 Aug 2026 15:45:55 +0000",
-      "summary": "Almosafer\u2019s growth story now runs on domestic demand. That\u2019s a bet on Makkah, the Red Sea, and Qiddiya outlasting a war that hit outbound travel first.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Net Unit Growth Ate the Hotel Industry",
-      "link": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
-      "published": "Fri, 14 Aug 2026 13:08:13 +0000",
-      "summary": "The roughly 200 brands across the big hotel groups make more sense as an answer to a quarterly growth metric than to anything travelers asked for.",
-      "source": "Skift"
-    },
-    {
-      "title": "The State of Travel Is Getting Harder to Control",
-      "link": "https://skift.com/2026/08/14/the-state-of-travel-is-getting-harder-to-control/",
-      "published": "Fri, 14 Aug 2026 08:00:00 +0000",
-      "summary": "Sarah Kopit and Seth Borko unpack two forces reshaping travel: the creator economy\u2019s impact on hotel brands and Skift Research\u2019s State of Travel 2026 report.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,595 flights delayed, 65 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObElIZmJiWGlDclNoaEJQZ2hfaElRV3B2SWp5RWlMczAyMjBVSmU3d0tnQU53OEVwM1hfb2hwb1ozSEJsOHRNZkFHcUtPX09XNFcyMFpYLTNabzBncm5rQklpdEY0dldTM2tNUUc1QUdzT29YYkwyQnd2LWpnVFc0SjBSdmZJMmNNUF9oZ3FrX1NIdGFLcXQwQU1YUnNPeDVLLTlNbG41R0YtaVBpNzJHOTVB0gHGAUFVX3lxTE1oQzNiTk9nQlNZQ1d0YjFSb2tTQU9JYVU2cXhSMFR3ZDI1N1UwTmtuS1JoV3BsUGczUGFYY3RrT3o5RWFHQ2FTSjFvTFlXeVo5NXpLTkVkTEEwX1lERzFZaTRid0FrMXlrYmlna2NZY2xOajBnWFM4cmhiMFlSQ3JLZFR2cG1xODZwcldxU2RxZ3dHNEVNOWtYN2JCX0hxTWNTZXJjRzF4NmN4dG1mSUYyLUZnN1NhcDJRQmE5NkZrcGpmcVd5dw?oc=5",
-      "published": "Thu, 13 Aug 2026 15:04:00 GMT",
-      "summary": "Over 1,595 flights delayed, 65 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions - nj.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFVzbVdFdC00b28tX25hcVpLb091MXc3bnl0N1VFMnNTR0hUeV9FSUl6aUMyLWxfUEQ3ZkNQRW1HZjdjRm1sRlVtd0VqRExSdEM2UjNMa05DNExTaHBYYVQtcVdMR0NvalEyWmRrTDRUZE15bWk5ZzJsV0VPRjdrRkNTYjZUUkxZYnJxTGd1STl1U19id0dCOTljQ3pIdVg4ZUFoY1hfbmxUb0xKSVlkNjFoONIBxwFBVV95cUxNazVCNlk3UjFqN3B1VHpSeTJhempOeFR5elF2elZLaTdUSEdnM2NJS2FLcncxUkpZd0tEaXVuTTNVMzgwZTAxMzBFWHF0SV9fM2ZYU05ONzJhN3djUmYwZm81a1FrNjRFcTN3V1lueUlpbVZad2lmTUNPQmcxN1BCSkhDQ3pUZ0RNUzVOOEM5aVZCUVBOWWlvNUJBMTRTSHJaT1R4dWo0Um1QdzB4SEZrSFpXZGlfU09NYzUtSzF5Z1V2ZGpZUV9j?oc=5",
+      "published": "Mon, 17 Aug 2026 14:21:00 GMT",
+      "summary": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
@@ -77,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Flying from UAE today? Emirates, Etihad, Air Arabia cancellations, delays; UAE-India travel advisory - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNTdJQ09SeTJBWGtrejJqNGpYOGZEWms1V0k5UFk0blc3RHdtbDc5T0NnR0drdnNVQ3lvWnVKOGd6d3otWXc4QWJldGVNbnI3aURzMy1OeVdMRWptZklKWUFYN2xfYVVCMmptMktRZ3ZXS3g1cWZwcDlHeHBGZVAxdjhpLUVMRWo1WW9hZVMxMUNnblp1RE5oNFZuQV9TWkpmc2lkaHhTVG93em43TGxIYjFEd2FUekNYdzY4YVJ2blA3SnJ6RER2dGd6ZlVlTk9JdUF5V05rbmduMHE4aThF0gHyAUFVX3lxTE1ycmVVZTVrWFZwZElualZlampobnNJa3dxWGw5UXFaZEF0Zkp1TEZ2a2pMcUtoLUVjRkNIQ2lpcVJnN2hDUEZ5Szk5R2Yta0NQS21BeElkSW12blByT29uZGVkTFkyb01mZW9ieURPN1VFQTV6a3JIOTNVdzlWaTNjcjdNVFpBcWE4a3hWaVp4c1RTM1JHejFMWUt5MUtrTmk2SjEtMEwzX282V3MyR19OdDVfZVR5YUVxZmZoU2t3VUVCRzF4dVRmTThYTlVOeGhFVG1EZjNGMmYyNVdoRzlHSUc0d2VzUU9vdE9hVThBMlp3?oc=5",
+      "published": "Mon, 17 Aug 2026 04:36:55 GMT",
+      "summary": "Flying from UAE today? Emirates, Etihad, Air Arabia cancellations, delays; UAE-India travel advisory&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
       "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT",
       "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: international airlines extend suspensions amid political uncertainty - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3RRT2hHcjAxbzQ5QlF3LVVSOUwyZW1FS3ZRczZCdXhfOFc3NTIxOGFPa2w1Y1N6ekdJN3FmQkNNS1FqNGVzb2ZJQnk5ZnF0QUJiNVZpSDZyT0pzUWVpd2dsWjJXOHU3a1JrR0tEeE16akNibnBZeGV5Q0JLSU9uZVRackYtVFhuQWQwZlVpTk03UEFxWFBkQ2ZzcUQ1Y2ZRSDhaYk5MQThsT3ljLXVzaW1oNHRXVDFOWEVFbjkzMmRnMW12cjZJcVh5cFRDX0RkbG9MYU1LRUFJTjh2?oc=5",
-      "published": "Fri, 14 Aug 2026 08:34:05 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend suspensions amid political uncertainty&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -98,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flying from UAE today? Emirates, Etihad, Air Arabia cancellations, delays; UAE-India travel advisory - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNTdJQ09SeTJBWGtrejJqNGpYOGZEWms1V0k5UFk0blc3RHdtbDc5T0NnR0drdnNVQ3lvWnVKOGd6d3otWXc4QWJldGVNbnI3aURzMy1OeVdMRWptZklKWUFYN2xfYVVCMmptMktRZ3ZXS3g1cWZwcDlHeHBGZVAxdjhpLUVMRWo1WW9hZVMxMUNnblp1RE5oNFZuQV9TWkpmc2lkaHhTVG93em43TGxIYjFEd2FUekNYdzY4YVJ2blA3SnJ6RER2dGd6ZlVlTk9JdUF5V05rbmduMHE4aThF0gHyAUFVX3lxTE1ycmVVZTVrWFZwZElualZlampobnNJa3dxWGw5UXFaZEF0Zkp1TEZ2a2pMcUtoLUVjRkNIQ2lpcVJnN2hDUEZ5Szk5R2Yta0NQS21BeElkSW12blByT29uZGVkTFkyb01mZW9ieURPN1VFQTV6a3JIOTNVdzlWaTNjcjdNVFpBcWE4a3hWaVp4c1RTM1JHejFMWUt5MUtrTmk2SjEtMEwzX282V3MyR19OdDVfZVR5YUVxZmZoU2t3VUVCRzF4dVRmTThYTlVOeGhFVG1EZjNGMmYyNVdoRzlHSUc0d2VzUU9vdE9hVThBMlp3?oc=5",
-      "published": "Mon, 17 Aug 2026 04:36:55 GMT",
-      "summary": "Flying from UAE today? Emirates, Etihad, Air Arabia cancellations, delays; UAE-India travel advisory&nbsp;&nbsp;Gulf News",
+      "title": "Dubai and Middle East flight disruption: international airlines extend suspensions amid political uncertainty - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3RRT2hHcjAxbzQ5QlF3LVVSOUwyZW1FS3ZRczZCdXhfOFc3NTIxOGFPa2w1Y1N6ekdJN3FmQkNNS1FqNGVzb2ZJQnk5ZnF0QUJiNVZpSDZyT0pzUWVpd2dsWjJXOHU3a1JrR0tEeE16akNibnBZeGV5Q0JLSU9uZVRackYtVFhuQWQwZlVpTk03UEFxWFBkQ2ZzcUQ1Y2ZRSDhaYk5MQThsT3ljLXVzaW1oNHRXVDFOWEVFbjkzMmRnMW12cjZJcVh5cFRDX0RkbG9MYU1LRUFJTjh2?oc=5",
+      "published": "Fri, 14 Aug 2026 08:34:05 GMT",
+      "summary": "Dubai and Middle East flight disruption: international airlines extend suspensions amid political uncertainty&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     }
   ]
