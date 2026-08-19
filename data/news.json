@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-19T00:35:36.404269+00:00",
+  "last_updated": "2026-08-19T04:25:33.475115+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Five Asia-Pacific Airlines, One Huge Fuel Shock, Five Different Outcomes",
+      "link": "https://skift.com/2026/08/18/five-asia-pacific-airlines-one-huge-fuel-shock-five-different-outcomes/",
+      "published": "Wed, 19 Aug 2026 01:15:00 +0000",
+      "summary": "Strong demand cushioned many of Asia-Pacific\u2019s largest carriers from a brutal fuel shock, but Q2 exposed how little room there is for error when costs rise faster than revenue.",
+      "source": "Skift"
+    },
     {
       "title": "Travel Has Started Weighing AI\u2019s Worth",
       "link": "https://skift.com/2026/08/18/travel-has-started-weighing-ais-worth/",
@@ -56,17 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Has Quietly Rebuilt the Marketing Engine It Was Famous for Cutting",
-      "link": "https://skift.com/2026/08/17/airbnb-has-quietly-rebuilt-the-marketing-engine-it-was-famous-for-cutting/",
-      "published": "Mon, 17 Aug 2026 14:51:33 +0000",
-      "summary": "Airbnb\u2019s 90% traffic claim may still be true, but it says less and less about how the company is spending on growth.",
-      "source": "Skift"
+      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd29YYkl4Qm53OWpVZ1p0eHI3MzVhc0lHYVZhQkctTC01U0dURUFxcmRscTdnUjRrS2hVSXlmaW5MWDZ4WWszYjIwbEtPRjJVbzVpN1NYbFZ0cklJWW5GZ1F0bUN0TDFtMVpmTVZUcnZ4X2ZnaUdjaEwwSFh2UUs3SUhOV2lza3FzUW1sUjl6c2tyYlFtYTU5cDV0VkxiNl93cXZVVENwS0twY1hiZjhLS21lU0o1bGJlTnfSAc4BQVVfeXFMUHY3YU56Y3VRSGZ6WF94SGh1aEZxOHp0WnkyU3dfWV9LYzd4UXNJWUdLNENoOU1ManU0cjhfUWZZOG9PdGFybjBOcnM5OTViTF9nZFB1blVvb3pmNVpYNmR5RFZlRkNnMmNjakVuYTJFeFNUZFpxcXppeXI0V2l0cFlJMmIxZEp3c2JYeEpqMFpoYjhsNjN6VmlFN29fWDFHUzZYU21sbFdyWGI4MHVULWFZQ0VmcjFJOGJoZktneGc5NEc4UjRFeFkyRHlwcXc?oc=5",
+      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
+      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MassLive.com",
+      "source": "Google News Travel"
     },
     {
-      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmlrZjVrdVk1RnBjZjhoaTBvZlBnSFE5R2FXejZJU0kxdVAxYVdYeDVTNWFwNzBjQV9nYk45U2ZURWtyODBpN053VklicVhpWFRuTGEydVBXQ3hWWU94MkF5R3VZeTNPQU5KSFl2STNzbmVnZTNaUHZjZkQxY2FnS0dRRmlxMmw2aHBQU3RFTHQtR0RSTjNudmdfa05YRERVUUU2UmtCZzYtQ0tydzdzUDlR0gHGAUFVX3lxTE1uT3RpZTBjbkRhcnVTUmJzSjY1ZVJYd09JZEhvVWU2UDNuOGlnS1k4TDNsV1p3dTYyQU1Sa2hEQ0xBcWVRYXBmYW5sa1o5SW95ZFFOelZUOUJsQTVlRFV1XzZqWlFQYmNpMUhVamN6Q2xYZ1ZkZFNSR1JsalhycFM5ZVZWNnNERUUwazVvOHR5cVhLOFdpcjIwdjdGZURnMEdyYkgxOVI5TDF3NEluZzdMRTRmUUFseHd1eHUtSi16SGd2V01TZw?oc=5",
-      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
-      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFVzbVdFdC00b28tX25hcVpLb091MXc3bnl0N1VFMnNTR0hUeV9FSUl6aUMyLWxfUEQ3ZkNQRW1HZjdjRm1sRlVtd0VqRExSdEM2UjNMa05DNExTaHBYYVQtcVdMR0NvalEyWmRrTDRUZE15bWk5ZzJsV0VPRjdrRkNTYjZUUkxZYnJxTGd1STl1U19id0dCOTljQ3pIdVg4ZUFoY1hfbmxUb0xKSVlkNjFoONIBxwFBVV95cUxNazVCNlk3UjFqN3B1VHpSeTJhempOeFR5elF2elZLaTdUSEdnM2NJS2FLcncxUkpZd0tEaXVuTTNVMzgwZTAxMzBFWHF0SV9fM2ZYU05ONzJhN3djUmYwZm81a1FrNjRFcTN3V1lueUlpbVZad2lmTUNPQmcxN1BCSkhDQ3pUZ0RNUzVOOEM5aVZCUVBOWWlvNUJBMTRTSHJaT1R4dWo0Um1QdzB4SEZrSFpXZGlfU09NYzUtSzF5Z1V2ZGpZUV9j?oc=5",
+      "published": "Mon, 17 Aug 2026 14:21:00 GMT",
+      "summary": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -77,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UK Issues US Travel Update as Hurricane Threat Raises Disruption Risks - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORi1iRmJVOGZiOUxYb2lQd0RrQmtmRXpEXzFBdTlVQmo1VzBzaS1mTEhrSHI5ekNlaUgtTUNqczkybHQyaTJ3eGc4dUpSSll2RUdIRmVGd3N6UlRoX2JmS2xpNzdUUE9vVzF4MWVxaG1VcnZhRFFPeEhyLWZUWHlvN0dHZlkzWHdYamFZ?oc=5",
-      "published": "Tue, 18 Aug 2026 17:47:00 GMT",
-      "summary": "UK Issues US Travel Update as Hurricane Threat Raises Disruption Risks&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: regional airlines' schedules continue to be impacted as political tensions rumble on - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYXloWmdIMDdZdzlkamZEOVNGR3MzQ2U5eTdYRHFuZ2E0U1p3SWhVcy1PWEZmZWY2bVAwRFAyQjFVSWxScVpaMm0teWE5Z1BNSlN1a3RLYjRxRkhDVjJhenliOWRBZlZBZy10TmZ0di1hdVhaNGE4cExXNFJhYkdyb1E5eEdNdkMwYjlZX3g4WDVlaW4xUVR1ME0wRTJWQkJsYnY4djlLaDBjYTVyaGQzWGhiUUQ2RXh0NVZXRVZGNVFadVd5X0s2OUNYN2hLMjctbTM1VmlNcTFlV2lEd2RMdHlYTHdVNHVEWFBhWkkyVy0?oc=5",
       "published": "Mon, 17 Aug 2026 07:56:12 GMT",
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - usatoday.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;usatoday.com",
+      "title": "UK Issues US Travel Update as Hurricane Threat Raises Disruption Risks - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORi1iRmJVOGZiOUxYb2lQd0RrQmtmRXpEXzFBdTlVQmo1VzBzaS1mTEhrSHI5ekNlaUgtTUNqczkybHQyaTJ3eGc4dUpSSll2RUdIRmVGd3N6UlRoX2JmS2xpNzdUUE9vVzF4MWVxaG1VcnZhRFFPeEhyLWZUWHlvN0dHZlkzWHdYamFZ?oc=5",
+      "published": "Tue, 18 Aug 2026 17:47:00 GMT",
+      "summary": "UK Issues US Travel Update as Hurricane Threat Raises Disruption Risks&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions - lehighvalleylive.com",
+      "title": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions - LehighValleyLive.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjJlcEJGSmhBTTlCUTBiajVQTzJLaE56WHQzTXpjUFlTX2w5WVNYT0d3RUpIRENENTdQWl9UOXo5RUFndlhmZF9HLVpaekdObmpDcnduUUp3YzZvZ1hnNk1BU1laZUFlQ21UX2VGOExSejZCcE5aMG9rbk1YbkdyM0VaTkRIdjVfT1REVWowOU8wSHlJanh3TXFudDZ5SGNLdS1FN1AtcGVBd3laOGdxYkxIVmhHQ0xnc0pHWWtEQVJWemw3MHc?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;lehighvalleylive.com",
+      "summary": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;LehighValleyLive.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     }
   ]
