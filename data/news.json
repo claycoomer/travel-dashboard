@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-19T08:22:25.999882+00:00",
+  "last_updated": "2026-08-19T12:21:26.980274+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Outgoing Air India CEO Campbell Wilson to Join Air New Zealand Board",
+      "link": "https://skift.com/2026/08/19/outgoing-air-india-ceo-campbell-wilson-to-join-air-new-zealand-board/",
+      "published": "Wed, 19 Aug 2026 11:24:33 +0000",
+      "summary": "Campbell Wilson\u2019s Air India record will inevitably follow him into the Air New Zealand boardroom.",
+      "source": "Skift"
+    },
     {
       "title": "Five Asia-Pacific Airlines, One Huge Fuel Shock, Five Different Outcomes",
       "link": "https://skift.com/2026/08/18/five-asia-pacific-airlines-one-huge-fuel-shock-five-different-outcomes/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Lawsuit Against Delta Raises a Bigger Question: How Airlines Use Carbon Offsets",
-      "link": "https://skift.com/2026/08/17/delta-greenwashing-lawsuit-carbon-credits/",
-      "published": "Mon, 17 Aug 2026 16:05:17 +0000",
-      "summary": "Airlines should reassess their decarbonization strategies to ensure their emissions reductions hold up  \u2014 along with the language used to disclose them.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQjNudEFGQUoyZ1N3QUZlNkkyNjdTWlFvcVYzMmEzRTNwTms1N2ZMR29LRVJIaTRPMVZhSmIwbUlHTmM5NXhFZ0RIMk5uQm5WN1pKVm9GazdsWTlfY2Riclc5N0p3MllCcHgwYW5BVWZWYXhWdkNZd2tRLWJwQWFiQXRLOEFSZVc2U2xtSHNUME83Qkd0M0pveC1XaEZVRXJtYTJDLXBDeE4tUmRjZEFrUGJPU3VKOU0wV3fSAc4BQVVfeXFMT1c4R2dkOGRNQVVjMFpTaDMyNm1uU1hTaVhzNm9IX2xvcU9uNDY5WnE0RDFKeC1vbTdvTEVla2I0NnUyaHlyNlV6NzZRcmpBYXV5OTBIbEZ4cE9DQWxZT0Jlb1NSa1VDSjNlOUhwcEpMa3hMZ3Z2UVN2R0JSZkxQNDdHa0x2MjhnTlBGemtUVEotTzBaOTNNM1hCcVd6RTZ0eWw5aUFOcTBYZHFvSFh0UExIQXh1QVVCRC1OaThya1RCTl9qU2dKUEU5RDAtUkE?oc=5",
-      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
-      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;SILive.com",
+      "title": "Travel advisory issued for popular South American destination: \u2018Exercise increased caution\u2019 - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjRtclJra0UtckM5S2lZcU5ZbFJWM2JfX3BTQWoxVkpyMTdZTjltVVhpRHg4cHo1VzFZcUpGZzZCbUVZc1pKUmh5Uk9Kc1pKSVFmNXhhSlZ6SmZSeWprR1RqVFhCSFJVS1RJVkJtMGYxSzlCeDItVnptNzBXQWs3bHhTZHJEM2lSSGM4SGhEZEtmQVdJbnN1VjN5SFRqQl9wbjJYdGZEalB2MmlyMFItMjRlOVNJVGhxaUpxYXVjVHpSVnfSAdcBQVVfeXFMTjgza1RiUmhxVndYT24zdXJjVWZLRHdqbmZYZXhUOGppMFR0RmFLM3A2elcwRGYyVE5KR3hMNmNtdUp3THZNQ0J3VW9JaDVrT0R6aVlHYjlkUkZMb2VGY29RWno1NV9NS3VacUJtN3cwOUVUa3dMQWVuRjdmYzZ6eG9HRmN3MExEdE5WdnZocjVCMGpKMGs1TEZKY2IyM1U5WUxKNEZWQ1ptZHdMQXdOTllmUk1hQTE3aElnVU54SFh4OUY3V0NOZWFkUng2MU1qRnNVTUdscW8?oc=5",
+      "published": "Wed, 19 Aug 2026 11:00:00 GMT",
+      "summary": "Travel advisory issued for popular South American destination: \u2018Exercise increased caution\u2019&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFVzbVdFdC00b28tX25hcVpLb091MXc3bnl0N1VFMnNTR0hUeV9FSUl6aUMyLWxfUEQ3ZkNQRW1HZjdjRm1sRlVtd0VqRExSdEM2UjNMa05DNExTaHBYYVQtcVdMR0NvalEyWmRrTDRUZE15bWk5ZzJsV0VPRjdrRkNTYjZUUkxZYnJxTGd1STl1U19id0dCOTljQ3pIdVg4ZUFoY1hfbmxUb0xKSVlkNjFoONIBxwFBVV95cUxNazVCNlk3UjFqN3B1VHpSeTJhempOeFR5elF2elZLaTdUSEdnM2NJS2FLcncxUkpZd0tEaXVuTTNVMzgwZTAxMzBFWHF0SV9fM2ZYU05ONzJhN3djUmYwZm81a1FrNjRFcTN3V1lueUlpbVZad2lmTUNPQmcxN1BCSkhDQ3pUZ0RNUzVOOEM5aVZCUVBOWWlvNUJBMTRTSHJaT1R4dWo0Um1QdzB4SEZrSFpXZGlfU09NYzUtSzF5Z1V2ZGpZUV9j?oc=5",
-      "published": "Mon, 17 Aug 2026 14:21:00 GMT",
-      "summary": "Over 1,346 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjdhTnpjdVFIZnpYX3hIaHVoRnE4enRaeTJTd19ZX0tjN3hRc0lZR0s0Q2g5TUxqdTRyOF9RZlk4b090YXJuME5yczk5NWJMX2dkUHVuVW9vemY1Wlg2ZHlEVmVGQ2cyY2NqRW5hMkV4U1RkWnFxeml5cjRXaXRwWUkyYjFkSndzYlh4SmowWmhiOGw2M3pWaUU3b19YMUdTNlhTbWxsV3JYYjgwdVQtYVlDRWZyMUk4YmhmS2d4Zzk0RzhSNEV4WTJEeXBxd9IBzgFBVV95cUxQdjdhTnpjdVFIZnpYX3hIaHVoRnE4enRaeTJTd19ZX0tjN3hRc0lZR0s0Q2g5TUxqdTRyOF9RZlk4b090YXJuME5yczk5NWJMX2dkUHVuVW9vemY1Wlg2ZHlEVmVGQ2cyY2NqRW5hMkV4U1RkWnFxeml5cjRXaXRwWUkyYjFkSndzYlh4SmowWmhiOGw2M3pWaUU3b19YMUdTNlhTbWxsV3JYYjgwdVQtYVlDRWZyMUk4YmhmS2d4Zzk0RzhSNEV4WTJEeXBxdw?oc=5",
+      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
+      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MassLive.com",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Southwest Airlines Hit Hardest By Tropical Storm Lala As Carrier Offers Rebooking At 5 Hawaii Airports - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGtyRmZVR3lXdGFPUnlyeFo3eFJ0dTFiQU1uZUR0MlA1Q1BYU3VFSG1kLUZmbU5DOF80M1RlZU5DMVA0c0dxX1JQOUpMb0xoQW9yOWdtWXcxVUdRay1lWm5JNi1CT21QOXRYYXR3d3ZlZUl1bHNyR0VWODB2bVp2ZkRfNTNEc3RhTXR2Uzh6WDJIeDNSemZRY0RKZkgtNHluSVhkUFlrcDdJaHRGSmxXRE93?oc=5",
-      "published": "Sat, 15 Aug 2026 20:19:15 GMT",
-      "summary": "Southwest Airlines Hit Hardest By Tropical Storm Lala As Carrier Offers Rebooking At 5 Hawaii Airports&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: regional airlines' schedules continue to be impacted as political tensions rumble on - Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: regional airlines' schedules continue to be impacted as political tensions rumble on - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYXloWmdIMDdZdzlkamZEOVNGR3MzQ2U5eTdYRHFuZ2E0U1p3SWhVcy1PWEZmZWY2bVAwRFAyQjFVSWxScVpaMm0teWE5Z1BNSlN1a3RLYjRxRkhDVjJhenliOWRBZlZBZy10TmZ0di1hdVhaNGE4cExXNFJhYkdyb1E5eEdNdkMwYjlZX3g4WDVlaW4xUVR1ME0wRTJWQkJsYnY4djlLaDBjYTVyaGQzWGhiUUQ2RXh0NVZXRVZGNVFadVd5X0s2OUNYN2hLMjctbTM1VmlNcTFlV2lEd2RMdHlYTHdVNHVEWFBhWkkyVy0?oc=5",
       "published": "Mon, 17 Aug 2026 07:56:12 GMT",
-      "summary": "Dubai and Middle East flight disruption: regional airlines' schedules continue to be impacted as political tensions rumble on&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "summary": "Dubai and Middle East flight disruption: regional airlines' schedules continue to be impacted as political tensions rumble on&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
@@ -109,6 +102,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORi1iRmJVOGZiOUxYb2lQd0RrQmtmRXpEXzFBdTlVQmo1VzBzaS1mTEhrSHI5ekNlaUgtTUNqczkybHQyaTJ3eGc4dUpSSll2RUdIRmVGd3N6UlRoX2JmS2xpNzdUUE9vVzF4MWVxaG1VcnZhRFFPeEhyLWZUWHlvN0dHZlkzWHdYamFZ?oc=5",
       "published": "Tue, 18 Aug 2026 17:47:00 GMT",
       "summary": "UK Issues US Travel Update as Hurricane Threat Raises Disruption Risks&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
