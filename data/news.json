@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-19T16:18:01.766843+00:00",
+  "last_updated": "2026-08-19T20:14:04.057403+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Delta\u2019s Texas Ambitions: Is Austin Its Next Hub?",
+      "link": "https://skift.com/2026/08/19/deltas-texas-ambitions-is-austin-its-next-hub/",
+      "published": "Wed, 19 Aug 2026 19:55:49 +0000",
+      "summary": "Texas is one of the fastest growing states in the U.S., and American, Southwest, and United all have a major presence in the state. Now, Delta is looking to cash in with more growth out of Austin and San Antonio.",
+      "source": "Skift"
+    },
+    {
+      "title": "GMH Hotels: The Metric That Broke Hotel Strategy",
+      "link": "https://skift.com/2026/08/19/gmh-hotels-the-metric-that-broke-hotel-strategy/",
+      "published": "Wed, 19 Aug 2026 14:43:00 +0000",
+      "summary": "On this week's \u2060Good Morning Hospitality, A Skift Podcast\u2060: Hotels Edition, \u2060Sarah Dandashy\u2060 and \u2060Steve Turk\u2060 dig into how the hotel industry measures success, where capital is flowing, and who controls the information guests use to make decisions.",
+      "source": "Skift"
+    },
+    {
+      "title": "Disney Has a New Metric to Capture Its Growing Bet on Cruises",
+      "link": "https://skift.com/2026/08/19/disney-global-guest-cruise-growth/",
+      "published": "Wed, 19 Aug 2026 17:04:24 +0000",
+      "summary": "Disney doesn&apos;t break out its cruise financials, but a U.K. subsidiary offers more details on the sector&apos;s growth.",
+      "source": "Skift"
+    },
     {
       "title": "Why American Paused a Climate Trial When Fuel Prices Spiked, Hopes to Resume This Fall",
       "link": "https://skift.com/2026/08/19/why-american-paused-a-climate-trial-when-fuel-prices-spiked/",
@@ -39,27 +60,6 @@
       "link": "https://skift.com/2026/08/18/five-asia-pacific-airlines-one-huge-fuel-shock-five-different-outcomes/",
       "published": "Wed, 19 Aug 2026 01:15:00 +0000",
       "summary": "Strong demand cushioned many of Asia-Pacific\u2019s largest carriers from a brutal fuel shock, but Q2 exposed how little room there is for error when costs rise faster than revenue.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel Has Started Weighing AI\u2019s Worth",
-      "link": "https://skift.com/2026/08/18/travel-has-started-weighing-ais-worth/",
-      "published": "Tue, 18 Aug 2026 20:00:18 +0000",
-      "summary": "Travel companies are starting to separate AI that\u2019s paying off from capabilities that aren\u2019t fully baked yet \u2014 and that\u2019s starting to shape how they talk about both.",
-      "source": "Skift"
-    },
-    {
-      "title": "Can Tweaking Plane Routes Cut Aviation\u2019s Climate Impact? An Airspace-Wide Contrail Trial Will Test It",
-      "link": "https://skift.com/2026/08/18/can-rerouting-planes-cut-aviations-climate-impact-an-airspace-wide-contrail-trial-will-test-it/",
-      "published": "Tue, 18 Aug 2026 13:42:20 +0000",
-      "summary": "It marks a step-change in contrail avoidance research, which has so far been limited to specific airlines. The UK-backed test will cover the Shanwick Oceanic Control Area.",
-      "source": "Skift"
-    },
-    {
-      "title": "American Cut Seatback Screens to Save Money. Now It\u2019s Playing Catch-Up With Delta and United.",
-      "link": "https://skift.com/2026/08/18/american-brings-back-seatback-screens-on-narrowbody-aircraft/",
-      "published": "Tue, 18 Aug 2026 13:00:00 +0000",
-      "summary": "Adding back screens is American&apos;s latest attempt to focus on premium. But it has a lot of catching up to do.",
       "source": "Skift"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "UK FCDO Issues USA Travel Warning as Hurricane Risks Rise - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWphRTlYSHVfRUNHM3JiU2FnM2Nvbjhac21CR1RXZ0Jhb0RaeXk1WVRvSklQSVNOaUZOVnJNZEJ6b0VtOGwzdjVnQ0FoTnAzODREbl9BQXBaeEd5TXg1ejVRRFlSakJRNGtkSGRjbkVpSnRQV1drM05HdFZpbVQ0ZWhfRjE3ems?oc=5",
+      "published": "Wed, 19 Aug 2026 18:06:03 GMT",
+      "summary": "UK FCDO Issues USA Travel Warning as Hurricane Risks Rise&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
       "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT",
       "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
