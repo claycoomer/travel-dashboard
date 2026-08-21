@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-20T20:16:17.577546+00:00",
+  "last_updated": "2026-08-21T00:37:24.738321+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia Cuts Eight Executives as It Reorganizes Around AI",
+      "link": "https://skift.com/2026/08/20/expedia-cuts-eight-executives-as-it-reorganizes-around-ai/",
+      "published": "Thu, 20 Aug 2026 21:00:22 +0000",
+      "summary": "Expedia Group is shedding several senior leaders and shifting others around to reshape leadership and work structure. The goal: To help product and technology efforts move faster.",
+      "source": "Skift"
+    },
     {
       "title": "Travelodge CEO Exits After Mishandling of Guest\u2019s Sexual Assault Case",
       "link": "https://skift.com/2026/08/20/travelodge-ceo-exits-after-mishandling-of-guests-sexual-assault-case/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Why American Paused a Climate Trial When Fuel Prices Spiked, Hopes to Resume This Fall",
-      "link": "https://skift.com/2026/08/19/why-american-paused-a-climate-trial-when-fuel-prices-spiked/",
-      "published": "Wed, 19 Aug 2026 14:17:16 +0000",
-      "summary": "Avoiding the creation of planet-warming contrails is considered one of the cheapest ways to cut aviation\u2019s impact on the environment \u2014 but even marginal costs mount when jet fuel prices spike.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions - LehighValleyLive.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHVrRi1mQkpwYjNnVzl6Zlg1OVAtWFNoTUhjXzhSV09FcVc5eUVKX0dvN0tGcmRLMS1OblZaWEEwRDRCOTYwNTZFT2RPSlBkQTBMd2Y0WXZ6RnNxSEg5YmtMR185aGRLcDVPTU5tVU9SMTJOZTE5ZzRxajBuNHRrT1MyTjZRNUptMlpBMUpxZUg1d0VWTWFrS0pnWXJkMkVBU1ZnU2xfQ0J0Ni1wNVhCMkJScU82QXBYLVA5YktrU2E3TlJWaFE?oc=5",
       "published": "Thu, 20 Aug 2026 15:13:00 GMT",
@@ -71,7 +71,7 @@
     },
     {
       "title": "Dubai and Middle East flight disruption: regional airlines cancel flights amid ongoing tensions - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFBtZWpZcUtYUXNmcDdEb0JIRWloY29HNk91dklGN3I2WXM3TDh5MDJndkF5OXRvbmgxd3FuOER0UXJlT3JqbFFzWlVzMHZRaGpqYkItVWtYZUhhbDBpWTFkRzlpdjlVcGpxMEo4aE4xQ3lKcTc4VkZwbzlQY0hCbzhNbVFNMEZqNFM2U0hOWXU1TFJVa1JKVlN6aDk4cE1YY0t0czRPT3hXQktaUktpMExDeDhZbFI4MEZkRTdEVUh0TFpOT1IzWENuSDJyMGw4d2JOSFJUS2dGUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUno0WGFjYloxNE1XckwxdVZ2R1pNZHBvd0wxdEpWVW05eXdhMGhTSFFvNXN5X3RWQ1gzT205SURkTEtuQWd3RGhrYzg5N25NeEhuMHZWYTJoZVZRcUJvZENkS2lsc01uVVppVm5raTZmQlRJNm1BaVJScVZmM1BKV09oaGhXSWNTZ1NfZU52SDB1c2tMbjdqdVhjbnR5ZXFIT3ZVSmQtdFBXYkp6M1BMZzJvb2E4NWxQSDZUSENFREd2d0xrTW85UVBB?oc=5",
       "published": "Thu, 20 Aug 2026 07:00:16 GMT",
       "summary": "Dubai and Middle East flight disruption: regional airlines cancel flights amid ongoing tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkNPT0xhYkNfSk9QU2h4bmRhbmRZUmREQVMza2pBS2dXVk4wWUZRTzlmQzBVbGFrX1k3VGhtWERGaTJkZ08xRVIxZWV1Z1k2Yk9VUF9haTBObVljM0NFbjlNMEV2bndsTjVicE1XNDZwSXlJSVZNRUw3bjNhdDZNU0JTbjJsVWZNQnlRZHhFWUxsdk14dm4tSkNNajIybTFyTVExT1VaaWZNQldoQnZIdkpTNNIBxwFBVV95cUxOd2wtYlFJR2JhMHVTTnZ2WTc1eDNKdU1zY2pja2RqUTlfVVA0VGg0bThUdVlTWHhLTHhBVTZUU1VVN2hnaGpQVGd5dWdjSDIyRENveDB0UE5lVFlhWEdEMUp5UG16ZThfRzVTNGRpNUE2bzc3US1Xdkc5QmR1bFU0el84QUJ6SFExT2FzRzMtVW16MnB5dnpwMTh1YnJiRmcyRHd2aHZEODFDUDY3c3E4aXlLZWphanM5WUJWMTRIVGYtclU4RjFJ?oc=5",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFc3Ym15SnJtY0VFMWdMc3BrS1FMMmJUSHNxSmNEUlpjdTR1bGUyWE9kNmhVV253Vm9aZFJsV3M0ZHk4MUoxRldwY1ZrbVpTaDhza3F2VGJTSmkyaFIwbWlWX0FCYnl6OHZFZEFHVU5VWENaMHRHdUxGWkc0aE5UaE9HaFpNc0pQSVZDWmZ6a00ycGszamxyR3haVUMwOURUNnpTU080UmszTmtlb1dKZlB2R2Q5dTNINlRtY0dzbmdWdHdpT0Zlc01PWXBVWVdlajNV0gHmAUFVX3lxTFBiY3l5eUJmWGlUMHc4WWRWZC11NDZObGZHbVRLbDNjX1czMlQ1NnBURnVPX2c4aldKWHBJd2RPZmg5Sjk4ZmlLZGhvMFFWb3VnODUzc1pRcFpYT2c1SU9Ob2RaeXJ1aUtncFpqanpnR3R2QUNwZGV1UWtkTloxX0psQ0NtZmFZcFk4RnZsUk1Demlwck90UmV4LWQ4WUJqaWlURE1UUzJsNGZfSGwyaldWRW9LeVlUdHJaMGhTUkotNGtwdWJJV05LLXdhalBiekNjaHN2ZVpkbDFjeFMtd1ZzX3djVDV3?oc=5",
       "published": "Wed, 19 Aug 2026 04:43:08 GMT",
       "summary": "Flying from the UAE today? Emirates, Etihad, Air Arabia flights impacted by regional disruptions&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions - LehighValleyLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjJlcEJGSmhBTTlCUTBiajVQTzJLaE56WHQzTXpjUFlTX2w5WVNYT0d3RUpIRENENTdQWl9UOXo5RUFndlhmZF9HLVpaekdObmpDcnduUUp3YzZvZ1hnNk1BU1laZUFlQ21UX2VGOExSejZCcE5aMG9rbk1YbkdyM0VaTkRIdjVfT1REVWowOU8wSHlJanh3TXFudDZ5SGNLdS1FN1AtcGVBd3laOGdxYkxIVmhHQ0xnc0pHWWtEQVJWemw3MHc?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,579 flights delayed, 128 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;LehighValleyLive.com",
       "source": "Google News Travel"
     },
     {
