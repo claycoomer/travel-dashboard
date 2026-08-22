@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-22T08:16:17.537672+00:00",
+  "last_updated": "2026-08-22T12:16:45.801203+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "In Praise of Kayak, 21 Years Later",
+      "link": "https://skift.com/2026/08/22/in-praise-of-kayak-21-years-later/",
+      "published": "Sat, 22 Aug 2026 12:00:00 +0000",
+      "summary": "Nobody has built a better travel search tool than Kayak. There, I said it.",
+      "source": "Skift"
+    },
     {
       "title": "The New Long-Haul Routes Testing How Far Demand Really Stretches",
       "link": "https://skift.com/2026/08/21/the-new-long-haul-routes-testing-how-far-demand-really-stretches/",
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/08/20/expedia-cuts-eight-executives-as-it-reorganizes-around-ai/",
       "published": "Thu, 20 Aug 2026 21:00:22 +0000",
       "summary": "Expedia Group is shedding several senior leaders and shifting others around to reshape leadership and work structure. The goal: To help product and technology efforts move faster.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travelodge CEO Exits After Mishandling of Guest\u2019s Sexual Assault Case",
-      "link": "https://skift.com/2026/08/20/travelodge-ceo-exits-after-mishandling-of-guests-sexual-assault-case/",
-      "published": "Thu, 20 Aug 2026 12:12:35 +0000",
-      "summary": "Boydell\u2019s departure won\u2019t close the book on Travelodge\u2019s security crisis. An independent review is ongoing and industry-wide safety talks have put the sector on notice.",
       "source": "Skift"
     },
     {
