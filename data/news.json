@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24T16:22:59.186236+00:00",
+  "last_updated": "2026-08-24T20:17:10.939659+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Cruise Ports Top the Labor Day List and the K-Shaped Travel Gap is Narrowing",
+      "link": "https://skift.com/2026/08/24/labor-day-travel-k-shaped-economy/",
+      "published": "Mon, 24 Aug 2026 19:23:35 +0000",
+      "summary": "Airfare and gas prices are up, but research suggests Americans are committed to spending on travel.",
+      "source": "Skift"
+    },
+    {
+      "title": "PE Money Is Coming for STR. The New StayTerra CEO Explains the Strategy.",
+      "link": "https://skift.com/2026/08/24/pe-money-is-coming-for-str-the-new-stayterra-ceo-explains-the-strategy/",
+      "published": "Mon, 24 Aug 2026 15:10:00 +0000",
+      "summary": "On Monday's \u2060Good Morning Hospitality, A Skift Podcast\u2060, \u2060Brandreth Canaley\u2060, and \u2060Michael Goldin\u2060 are joined by \u2060Amy Kothari\u2060, the new CEO of \u2060StayTerra\u2060, to talk PE-backed STR consolidation, what the rollup model looks like when it actually works, and what it all means for inde",
+      "source": "Skift"
+    },
     {
       "title": "Black Tomato Founders Sell 75% to Employee Ownership Trust \u2014 But Keep Control: Exclusive",
       "link": "https://skift.com/2026/08/24/black-tomato-founders-sell-75-to-employee-ownership-trust-but-keep-control-exclusive/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Viator\u2019s Updated Operator Agreement Formalizes a Power Shift in Experiences Pricing: Scoop",
-      "link": "https://skift.com/2026/08/21/viators-updated-operator-agreement-formalizes-a-power-shift-in-experiences-pricing-scoop/",
-      "published": "Fri, 21 Aug 2026 13:52:47 +0000",
-      "summary": "Is Airbnb&apos;s partnership with Tripadvisor merely an expansion of Airbnb&apos;s partnership with Tripadvisor&apos;s res-tech unit Bokun? So far some Airbnb employees aren&apos;t seeing signs of a broad, new Viator inventory partnership in the works.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Iran War Shows How Reliant Indian Airlines Are on Gulf Hubs",
-      "link": "https://skift.com/2026/08/21/the-iran-war-shows-how-reliant-indian-airlines-are-on-gulf-hubs/",
-      "published": "Fri, 21 Aug 2026 12:16:07 +0000",
-      "summary": "India\u2019s global aviation ambitions still run through the Gulf. When that works, it connects Indian travelers to the world. When geopolitics disrupts it, the shock quickly reaches India\u2019s airlines.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPallRVkFmRUlEQ2tTbC1JU25IMUdRblZjV0FQTmVsMHljRE0yMjhGWjBnQTdxMEdVVFA5YWR2Z3hnNE5DTnhsdE4xdnZZSURjUWUxSHlxcXQ3bXUwSmI3aG9NMHVDVnZQRURuRnBoU0hfZ1VEbDZGMzNybW1yMlhpSktRWXZTbWxIdVdFcjNqRTB3RUtPbXo1aWlvcldKeUoyRjUtZkp2YlNxQl90MG16VlJqcldrUTFNendleUt1V0pjcVkt?oc=5",
       "published": "Mon, 24 Aug 2026 15:24:00 GMT",
@@ -84,17 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel Alert: Thunderstorms and FAA Traffic Management Disrupt US Flight Networks - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2ZwUllxNmxrWS0zV2JHNDZrUnVLalJsTmpiTTNWa21oR2RWRHRZZlFiQ0JXaXctRWdYdDY1RXFudk1LamphWVljZW9GOHFsbmJ5X2M4ZHNhSHpWYnlUOWtHa1F3R2FoWXZYWXpNS3Blcnh3Tm1FSFFNYU1GRDFSY3RkNmNBLThIa0FZ?oc=5",
-      "published": "Mon, 24 Aug 2026 05:23:44 GMT",
-      "summary": "Travel Alert: Thunderstorms and FAA Traffic Management Disrupt US Flight Networks&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkNPT0xhYkNfSk9QU2h4bmRhbmRZUmREQVMza2pBS2dXVk4wWUZRTzlmQzBVbGFrX1k3VGhtWERGaTJkZ08xRVIxZWV1Z1k2Yk9VUF9haTBObVljM0NFbjlNMEV2bndsTjVicE1XNDZwSXlJSVZNRUw3bjNhdDZNU0JTbjJsVWZNQnlRZHhFWUxsdk14dm4tSkNNajIybTFyTVExT1VaaWZNQldoQnZIdkpTNNIBxwFBVV95cUxOd2wtYlFJR2JhMHVTTnZ2WTc1eDNKdU1zY2pja2RqUTlfVVA0VGg0bThUdVlTWHhLTHhBVTZUU1VVN2hnaGpQVGd5dWdjSDIyRENveDB0UE5lVFlhWEdEMUp5UG16ZThfRzVTNGRpNUE2bzc3US1Xdkc5QmR1bFU0el84QUJ6SFExT2FzRzMtVW16MnB5dnpwMTh1YnJiRmcyRHd2aHZEODFDUDY3c3E4aXlLZWphanM5WUJWMTRIVGYtclU4RjFJ?oc=5",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "title": "Travel Alert: U.S. Issues Level 1 Travel Advisory for Yucat\u00e1n and Campeche - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSU1BM0hTczN6aDdHbE9MSVh2LXlQMXlfVnhPMW5qMG1kZWRoZWR1dFZIeEJYd3NJNExGVk4wbTdLdnRSd29HR3hWcm9wTFp0Z3ItR1ZqTHVhU1pnLTc1LWtaU0VUb0Y4VTR5RUdQeURjTzJIYVRwU2lBUDVoUFkxSkpSZkViOEtua1E?oc=5",
+      "published": "Mon, 24 Aug 2026 09:57:43 GMT",
+      "summary": "Travel Alert: U.S. Issues Level 1 Travel Advisory for Yucat\u00e1n and Campeche&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazBuRjZLeWJ1cVBQMmlZd0k4TUl2RTVLM3Z3RlBvdUdobWl5cGZBdkpyazBCSVpkTlVQbzVyY0pFcWo3MUdfc1RIMHFCYnNOSkpyYlg4MUp4NDZKQzFieW5hWEpVbC1oc3FGc2ZEYUlhXzJYNDQ4UkFRN3dMZGhqcThEZFk4ZWE4WnNndDdjSk14VXgwRXRqMFN4M3VCSFlSX1RNdVlXelZpMTdlU3ZvT3FESVVzV011MVYtQVJObGxWWU3SAdcBQVVfeXFMTlJzX2tfRExwc1BnNHRjN09QbnR1TmVmRVZ1Y0dNUjd2VHJDZDZILUY0eXRxalpqenQ2S2RKeUtkcjNxb3N0Z2c3MTNVNF9hZU1Ncm1ybUIwWlY0UTVrMWtYVjlPUEx6aXpFbEFDS1RHQW5lZVVWbFA2TWtPSlQ4V0h4Y3RmNl9WZUp2bXVIS3d2LVd6SnZNYUJRV2FuajhuX3F1blVQR3lOak1uRXlQZWlFaXVIcTFMRE94YVAwMENESTNjNHZpeWtOTWFMbjBWbEVvSnIwWHM?oc=5",
       "published": "Sat, 22 Aug 2026 11:00:00 GMT",
       "summary": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmlrZjVrdVk1RnBjZjhoaTBvZlBnSFE5R2FXejZJU0kxdVAxYVdYeDVTNWFwNzBjQV9nYk45U2ZURWtyODBpN053VklicVhpWFRuTGEydVBXQ3hWWU94MkF5R3VZeTNPQU5KSFl2STNzbmVnZTNaUHZjZkQxY2FnS0dRRmlxMmw2aHBQU3RFTHQtR0RSTjNudmdfa05YRERVUUU2UmtCZzYtQ0tydzdzUDlR0gHGAUFVX3lxTE1uT3RpZTBjbkRhcnVTUmJzSjY1ZVJYd09JZEhvVWU2UDNuOGlnS1k4TDNsV1p3dTYyQU1Sa2hEQ0xBcWVRYXBmYW5sa1o5SW95ZFFOelZUOUJsQTVlRFV1XzZqWlFQYmNpMUhVamN6Q2xYZ1ZkZFNSR1JsalhycFM5ZVZWNnNERUUwazVvOHR5cVhLOFdpcjIwdjdGZURnMEdyYkgxOVI5TDF3NEluZzdMRTRmUUFseHd1eHUtSi16SGd2V01TZw?oc=5",
+      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
+      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
