@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24T08:34:41.253279+00:00",
+  "last_updated": "2026-08-24T12:24:00.972851+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "What Radisson\u2019s Saudi Arabia Bet Reveals About the Gulf\u2019s Divided Recovery",
+      "link": "https://skift.com/2026/08/24/what-radissons-saudi-arabia-bet-reveals-about-the-gulfs-divided-recovery/",
+      "published": "Mon, 24 Aug 2026 11:41:49 +0000",
+      "summary": "Radisson\u2019s own development numbers are the latest confirmation of a pattern playing out across the Gulf: domestic demand is the hedge, and Saudi Arabia has it, the UAE doesn\u2019t.",
+      "source": "Skift"
+    },
+    {
+      "title": "Thailand\u2019s Six-Year Tourist Fee Saga Returns With a $14 Price Tag",
+      "link": "https://skift.com/2026/08/24/thailands-six-year-tourist-fee-saga-returns-with-a-14-price-tag/",
+      "published": "Mon, 24 Aug 2026 09:02:02 +0000",
+      "summary": "After five policy reversals and one outright cancellation, Thailand&apos;s six-year-old-tourism fee plan is back at THB 450 \u2014 pending, naturally, another round of approvals.",
+      "source": "Skift"
+    },
     {
       "title": "In Praise of Kayak, 21 Years Later",
       "link": "https://skift.com/2026/08/22/in-praise-of-kayak-21-years-later/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Hilton\u2019s CEO on Why the Fundamentals Still Win in the AI Era",
-      "link": "https://skift.com/2026/08/21/hiltons-ceo-on-why-the-fundamentals-still-win-in-the-ai-era/",
-      "published": "Fri, 21 Aug 2026 10:00:00 +0000",
-      "summary": "As AI models increasingly decide who gets recommended, Chris Nassetta&apos;s view is that the inputs still hold. Reliability, culture, and a lifetime relationship with the guest keep earning the recommendation, even as who does the recommending has changed.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Cuts Eight Executives as It Reorganizes Around AI",
-      "link": "https://skift.com/2026/08/20/expedia-cuts-eight-executives-as-it-reorganizes-around-ai/",
-      "published": "Thu, 20 Aug 2026 21:00:22 +0000",
-      "summary": "Expedia Group is shedding several senior leaders and shifting others around to reshape leadership and work structure. The goal: To help product and technology efforts move faster.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,662 flights delayed, 153 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXItQjlSdnZudnByYk9UVjVmaUNjb1RtTEctMTB4b2k0c0VHZVNFN1U3bVJVb2loV1kwYkY5MG13cHVqZUZEZF9fZGNVT2JGdEF2UVEwejlrS3VEb2lBRFN3OUk5N2F2RDNYT3RIeUJGWXZfVmxMQzFOYXgxTGttTVRMZFVrWlJqVWlweUtpd0Q3UloyRU1IcmphZHRPNG5yM2ZNejBfdjBKTWswM0NLN1VTZ9IBxwFBVV95cUxPQTZEWkJTaGszN1BpNG1yM0I2SkhzYndISzExTE1EaDFXSmJPZVhzUndiSFVrYzN6cF9PMEViMDh3b1JtNlp5SUpwcktjVk4wTWx2UGNqdzVvSHAzMUYyTmVacEhwUnZsUmgxblBHU1BTWFlKeF9laUFWOUlVaGZWX2RLT2xTWVFRXy1DYXZQeDJLbkkwMHRQZnlqUk5sYWx1ZkFONkN5bmM1SzE4VmlRUkptZm1Za1VUWmNSQjVUakNYVlM2dDBB?oc=5",
       "published": "Fri, 21 Aug 2026 15:31:00 GMT",
@@ -74,13 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmlTWUhPSHF5dUlVdmQtMVNzTkRsMWZiMjcxcDVKREtRbXdJTURySzU4cFllaHNURHM2WWEzeTR6MDZYODUwM0xSVXZHRTNOeS1iWFl4cTQwMFJyMnpwb2tFelU1Uy1RVzdGTXVTRVV4TlNTRGtISDRvRVpLcVpLOVY4SlhZVGZKVVdfbWlOWU5sM3EzM04zNl9OQzJBZmFIV3dxMjNnY05KYzlTLWFpOUxZU3VKeUtZMzl0cdIB0AFBVV95cUxPVk5iR2JESWR1QThOekdyOWh0X3YwYXZwRkVyRmJLMUxJcE0wLUljeTFmRlh1cDNpd01LdG5lOHdSc0xRUE16UXNoQjZ1ZGlUQTdFUmtZRXhmUkpycm5VYXlVTDhReVNYT1paUWxHQl9XT3BCT1U4bU1UdUNtMXFZV09pcWdiR1BadHpLYkFpeDdyOEJsTE1sQWY2UjMzSWo3eVlFbUdjQnlVODZrZkV3cjhPT1cyZHhJVWxkMkd1bk01eFQ2R1JxUzJtRnN4M1li?oc=5",
       "published": "Thu, 20 Aug 2026 15:13:00 GMT",
       "summary": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel advisory issued for popular Pacific island destination, and it\u2019s good news for travelers - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMVdEZW8wbEw0X0ZodzVCbXlsWXo3dVhkWXowZzdlc2JLTEZBNkxUMW5USDdmQ3VPeUZzcWQ5RG81WUdhNGtIcGwyQmJ3UDN3R2hJZVVOTmowbGxLbTd0SWpLajhMaW54T1FwU0h4b3RucTZrTFFiQzZhbnVSWkplZEtIS0N3QVQ5V0xydW1JdVFFdVFaOFNNRVdELTRna0cwX3BVSDZLdWUtSnM2azl3aWpzODZra1I4ZmV5LXA3RU9FM3RFVEJOVThsRHhscWF6WGljaGU3THBkckZwNXRibmtxZ0pwZ9IB5gFBVV95cUxOMVdEZW8wbEw0X0ZodzVCbXlsWXo3dVhkWXowZzdlc2JLTEZBNkxUMW5USDdmQ3VPeUZzcWQ5RG81WUdhNGtIcGwyQmJ3UDN3R2hJZVVOTmowbGxLbTd0SWpLajhMaW54T1FwU0h4b3RucTZrTFFiQzZhbnVSWkplZEtIS0N3QVQ5V0xydW1JdVFFdVFaOFNNRVdELTRna0cwX3BVSDZLdWUtSnM2azl3aWpzODZra1I4ZmV5LXA3RU9FM3RFVEJOVThsRHhscWF6WGljaGU3THBkckZwNXRibmtxZ0pwZw?oc=5",
-      "published": "Fri, 21 Aug 2026 16:25:00 GMT",
-      "summary": "Travel advisory issued for popular Pacific island destination, and it\u2019s good news for travelers&nbsp;&nbsp;MassLive.com",
       "source": "Google News Travel"
     },
     {
@@ -102,6 +95,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkNPT0xhYkNfSk9QU2h4bmRhbmRZUmREQVMza2pBS2dXVk4wWUZRTzlmQzBVbGFrX1k3VGhtWERGaTJkZ08xRVIxZWV1Z1k2Yk9VUF9haTBObVljM0NFbjlNMEV2bndsTjVicE1XNDZwSXlJSVZNRUw3bjNhdDZNU0JTbjJsVWZNQnlRZHhFWUxsdk14dm4tSkNNajIybTFyTVExT1VaaWZNQldoQnZIdkpTNNIBxwFBVV95cUxOd2wtYlFJR2JhMHVTTnZ2WTc1eDNKdU1zY2pja2RqUTlfVVA0VGg0bThUdVlTWHhLTHhBVTZUU1VVN2hnaGpQVGd5dWdjSDIyRENveDB0UE5lVFlhWEdEMUp5UG16ZThfRzVTNGRpNUE2bzc3US1Xdkc5QmR1bFU0el84QUJ6SFExT2FzRzMtVW16MnB5dnpwMTh1YnJiRmcyRHd2aHZEODFDUDY3c3E4aXlLZWphanM5WUJWMTRIVGYtclU4RjFJ?oc=5",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
       "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel advisory issued for popular Pacific island destination, and it\u2019s good news for travelers - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEc0cUlKbXhnenBLQ0RtRzdveXo2bVc4WWJZeGEyb1E1RHRqdHpCUFhtaWRzX3N3XzFodnNKcmpuNnNQM0JlOUd6U25JLVNjaHZ4ajQ5Ti16OUVxQWVtNUxoY000MTdxUmZiYkRmdHItR0pobHMyWlR1SU5NeGVKa3phejB5VDhDTktnZ2l3eDlFczZqcGRCWXhzTXpVR1czekU0dVkxTFA5di1CY3ZOMEs2OVRTRHc4dDFGQkdmeGRKMjBfTGJLTWZB0gHeAUFVX3lxTFBTLVRtbUtnYndMWC0zWGpoSkhIR29lVjQ2cnpDNGFROUN1NVZXdUx2TkNTVk5HTFJSc1FyMkgwUDZ4WWloVGtpS3p3UUNuOHA4RDFEWENocjdBUldwN3UxZTVzazdYSVRfVGtFSTVaNjJBMHBFYUEyZkdnNW1iMXdHYVRDTE96eWp6WS1IdE91ZnRwc3M3WlJsLUw3LUhOQUVqNVdpeV80SUtvMVpjb0NQdW1wbkk5R0JKUHhGVkVGX0sza3JiZ2RTa0hSaUlNQ1k4b0xIbkxtZkVqWXJuQQ?oc=5",
+      "published": "Fri, 21 Aug 2026 16:25:00 GMT",
+      "summary": "Travel advisory issued for popular Pacific island destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
