@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24T20:17:10.939659+00:00",
+  "last_updated": "2026-08-25T00:36:29.184159+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Three South Korean Carriers Are Merging Into One Low-Cost Giant",
+      "link": "https://skift.com/2026/08/24/three-south-korean-carriers-are-merging-into-one-low-cost-giant/",
+      "published": "Mon, 24 Aug 2026 23:30:00 +0000",
+      "summary": "A supercharged budget airline backed by the flag carrier changes the math for everyone else in a low-cost market that still has too many brands.",
+      "source": "Skift"
+    },
+    {
+      "title": "Wall Street Is Starting to Believe Airbnb\u2019s Growth Story",
+      "link": "https://skift.com/2026/08/24/wall-street-is-starting-to-believe-airbnbs-growth-story/",
+      "published": "Mon, 24 Aug 2026 21:13:14 +0000",
+      "summary": "The bank&apos;s thesis that Airbnb&apos;s &quot;Acceleration is here to stay&quot; is a bold statement. The potential is there. Focus and execution will be all-important.",
+      "source": "Skift"
+    },
     {
       "title": "Cruise Ports Top the Labor Day List and the K-Shaped Travel Gap is Narrowing",
       "link": "https://skift.com/2026/08/24/labor-day-travel-k-shaped-economy/",
@@ -49,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "In Praise of Kayak, 21 Years Later",
-      "link": "https://skift.com/2026/08/22/in-praise-of-kayak-21-years-later/",
-      "published": "Sat, 22 Aug 2026 12:00:00 +0000",
-      "summary": "Nobody has built a better travel search tool than Kayak. There, I said it.",
-      "source": "Skift"
-    },
-    {
-      "title": "The New Long-Haul Routes Testing How Far Demand Really Stretches",
-      "link": "https://skift.com/2026/08/21/the-new-long-haul-routes-testing-how-far-demand-really-stretches/",
-      "published": "Fri, 21 Aug 2026 16:48:12 +0000",
-      "summary": "From Sapporo to Riyadh, airlines are getting bolder with their long-haul route bets and using efficient widebody jets to test markets that may once have seemed too niche.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPallRVkFmRUlEQ2tTbC1JU25IMUdRblZjV0FQTmVsMHljRE0yMjhGWjBnQTdxMEdVVFA5YWR2Z3hnNE5DTnhsdE4xdnZZSURjUWUxSHlxcXQ3bXUwSmI3aG9NMHVDVnZQRURuRnBoU0hfZ1VEbDZGMzNybW1yMlhpSktRWXZTbWxIdVdFcjNqRTB3RUtPbXo1aWlvcldKeUoyRjUtZkp2YlNxQl90MG16VlJqcldrUTFNendleUt1V0pjcVkt?oc=5",
       "published": "Mon, 24 Aug 2026 15:24:00 GMT",
       "summary": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Lehighvalleylive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmlTWUhPSHF5dUlVdmQtMVNzTkRsMWZiMjcxcDVKREtRbXdJTURySzU4cFllaHNURHM2WWEzeTR6MDZYODUwM0xSVXZHRTNOeS1iWFl4cTQwMFJyMnpwb2tFelU1Uy1RVzdGTXVTRVV4TlNTRGtISDRvRVpLcVpLOVY4SlhZVGZKVVdfbWlOWU5sM3EzM04zNl9OQzJBZmFIV3dxMjNnY05KYzlTLWFpOUxZU3VKeUtZMzl0cdIB0AFBVV95cUxPVk5iR2JESWR1QThOekdyOWh0X3YwYXZwRkVyRmJLMUxJcE0wLUljeTFmRlh1cDNpd01LdG5lOHdSc0xRUE16UXNoQjZ1ZGlUQTdFUmtZRXhmUkpycm5VYXlVTDhReVNYT1paUWxHQl9XT3BCT1U4bU1UdUNtMXFZV09pcWdiR1BadHpLYkFpeDdyOEJsTE1sQWY2UjMzSWo3eVlFbUdjQnlVODZrZkV3cjhPT1cyZHhJVWxkMkd1bk01eFQ2R1JxUzJtRnN4M1li?oc=5",
-      "published": "Thu, 20 Aug 2026 15:13:00 GMT",
-      "summary": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmlrZjVrdVk1RnBjZjhoaTBvZlBnSFE5R2FXejZJU0kxdVAxYVdYeDVTNWFwNzBjQV9nYk45U2ZURWtyODBpN053VklicVhpWFRuTGEydVBXQ3hWWU94MkF5R3VZeTNPQU5KSFl2STNzbmVnZTNaUHZjZkQxY2FnS0dRRmlxMmw2aHBQU3RFTHQtR0RSTjNudmdfa05YRERVUUU2UmtCZzYtQ0tydzdzUDlR0gHGAUFVX3lxTE1uT3RpZTBjbkRhcnVTUmJzSjY1ZVJYd09JZEhvVWU2UDNuOGlnS1k4TDNsV1p3dTYyQU1Sa2hEQ0xBcWVRYXBmYW5sa1o5SW95ZFFOelZUOUJsQTVlRFV1XzZqWlFQYmNpMUhVamN6Q2xYZ1ZkZFNSR1JsalhycFM5ZVZWNnNERUUwazVvOHR5cVhLOFdpcjIwdjdGZURnMEdyYkgxOVI5TDF3NEluZzdMRTRmUUFseHd1eHUtSi16SGd2V01TZw?oc=5",
       "published": "Tue, 18 Aug 2026 14:20:00 GMT",
       "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel advisory issued for popular South American destination: \u2018Exercise increased caution\u2019 - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjRtclJra0UtckM5S2lZcU5ZbFJWM2JfX3BTQWoxVkpyMTdZTjltVVhpRHg4cHo1VzFZcUpGZzZCbUVZc1pKUmh5Uk9Kc1pKSVFmNXhhSlZ6SmZSeWprR1RqVFhCSFJVS1RJVkJtMGYxSzlCeDItVnptNzBXQWs3bHhTZHJEM2lSSGM4SGhEZEtmQVdJbnN1VjN5SFRqQl9wbjJYdGZEalB2MmlyMFItMjRlOVNJVGhxaUpxYXVjVHpSVnfSAdcBQVVfeXFMTjgza1RiUmhxVndYT24zdXJjVWZLRHdqbmZYZXhUOGppMFR0RmFLM3A2elcwRGYyVE5KR3hMNmNtdUp3THZNQ0J3VW9JaDVrT0R6aVlHYjlkUkZMb2VGY29RWno1NV9NS3VacUJtN3cwOUVUa3dMQWVuRjdmYzZ6eG9HRmN3MExEdE5WdnZocjVCMGpKMGs1TEZKY2IyM1U5WUxKNEZWQ1ptZHdMQXdOTllmUk1hQTE3aElnVU54SFh4OUY3V0NOZWFkUng2MU1qRnNVTUdscW8?oc=5",
+      "published": "Wed, 19 Aug 2026 11:00:00 GMT",
+      "summary": "Travel advisory issued for popular South American destination: \u2018Exercise increased caution\u2019&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
