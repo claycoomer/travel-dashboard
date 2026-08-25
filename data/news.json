@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T08:28:44.938034+00:00",
+  "last_updated": "2026-08-25T12:24:40.127271+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,7 +7,14 @@
   ],
   "items": [
     {
-      "title": "Ixigo\u00a0 Tests Packaged Tours for Trains, Uber Becomes a New Distribution Engine",
+      "title": "United Adds 10 Routes Across Europe and Asia \u2014 From Okinawa to Ibiza",
+      "link": "https://skift.com/2026/08/25/united-adds-10-new-international-routes-from-okinawa-to-ibiza/",
+      "published": "Tue, 25 Aug 2026 11:00:00 +0000",
+      "summary": "Unique destinations have become a central part of United\u2019s strategy as it caters to more premium travelers and operates in an increasingly competitive transatlantic market.",
+      "source": "Skift"
+    },
+    {
+      "title": "Ixigo\u00a0Tests Packaged Tours for Trains, Uber Becomes a New Distribution Engine",
       "link": "https://skift.com/2026/08/25/ixigo-tests-packaged-tours-for-trains-uber-becomes-a-new-distribution-engine/",
       "published": "Tue, 25 Aug 2026 06:30:00 +0000",
       "summary": "Ixigo is taking a smart, low-risk approach to packaged travel. Rather than build and operate its own tours, it is testing demand by putting IRCTC-curated trips on its platform. If travelers bite, packaged tours could become the OTA\u2019s next major product category.",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "What Radisson\u2019s Saudi Arabia Bet Reveals About the Gulf\u2019s Divided Recovery",
-      "link": "https://skift.com/2026/08/24/what-radissons-saudi-arabia-bet-reveals-about-the-gulfs-divided-recovery/",
-      "published": "Mon, 24 Aug 2026 11:41:49 +0000",
-      "summary": "Radisson\u2019s own development numbers are the latest confirmation of a pattern playing out across the Gulf: domestic demand is the hedge, and Saudi Arabia has it, the UAE doesn\u2019t.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPallRVkFmRUlEQ2tTbC1JU25IMUdRblZjV0FQTmVsMHljRE0yMjhGWjBnQTdxMEdVVFA5YWR2Z3hnNE5DTnhsdE4xdnZZSURjUWUxSHlxcXQ3bXUwSmI3aG9NMHVDVnZQRURuRnBoU0hfZ1VEbDZGMzNybW1yMlhpSktRWXZTbWxIdVdFcjNqRTB3RUtPbXo1aWlvcldKeUoyRjUtZkp2YlNxQl90MG16VlJqcldrUTFNendleUt1V0pjcVkt?oc=5",
       "published": "Mon, 24 Aug 2026 15:24:00 GMT",
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad and other regional airlines cancel flights amid ongoing tensions - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnNGYUg1ZHhxcXJ1RVlyVVN4N0VOak9iTDBXblJ5M2RyNjVHbDIwMVduTXpzZ215VkJGRTBKdW9oRUZGQ1kwNnc4cDYtZGlkUE9PNVMtZ2xRejVkMDZBRmJsRXdzOU5sTjJCU2N2eEQ5d0lMOURZMHdSTVFZRFQ4SEYxZjlNQmFSN3JZeUlhbTY5by1tbl9tcC1ITlVFSE1OY1VpRGx5akFkeDVnYlNOd2dJVzVwLUNmUHA2RVVwYTRwU0d2QWY0Wkd0MmtVS1BXZFFrX2pMekc2TWxrX0FpWFBMTk9JcmU3OUJyRA?oc=5",
-      "published": "Fri, 21 Aug 2026 07:57:30 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad and other regional airlines cancel flights amid ongoing tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad among regional airlines to adjust schedules amid ongoing tensions - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZTlpZVQ4cDhuVGVHaS1nWXBxc0JYT1NSX3FJSVR6VkZFeUY5Y1YyS1NfQ3V5Q0FLSUFJaGY3YjlfTGVHN1g5TTlHQU9heEhtTVo5VVNDMHUxQ2tKX2k5MV9iUnNRbXZ5TnQ1UXVWUGM0N2pyX2pxWFJNdHdBVnpVVWx2OFpkNzFLYWZ6TlF1alJsRnMtd0pUbkVBVmVkX0tJRk1BSFFHVTdSNC1WdUZzVnpybVJSTHdWTlFpRjVDZkNpbG1feVhhZ29QRUdHRlFsZS1Ob0puYzg2c3EyeXc5OXVVUGV3U2NKUjBHMHJ3?oc=5",
+      "published": "Mon, 24 Aug 2026 07:16:42 GMT",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad among regional airlines to adjust schedules amid ongoing tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmlrZjVrdVk1RnBjZjhoaTBvZlBnSFE5R2FXejZJU0kxdVAxYVdYeDVTNWFwNzBjQV9nYk45U2ZURWtyODBpN053VklicVhpWFRuTGEydVBXQ3hWWU94MkF5R3VZeTNPQU5KSFl2STNzbmVnZTNaUHZjZkQxY2FnS0dRRmlxMmw2aHBQU3RFTHQtR0RSTjNudmdfa05YRERVUUU2UmtCZzYtQ0tydzdzUDlR0gHGAUFVX3lxTE1uT3RpZTBjbkRhcnVTUmJzSjY1ZVJYd09JZEhvVWU2UDNuOGlnS1k4TDNsV1p3dTYyQU1Sa2hEQ0xBcWVRYXBmYW5sa1o5SW95ZFFOelZUOUJsQTVlRFV1XzZqWlFQYmNpMUhVamN6Q2xYZ1ZkZFNSR1JsalhycFM5ZVZWNnNERUUwazVvOHR5cVhLOFdpcjIwdjdGZURnMEdyYkgxOVI5TDF3NEluZzdMRTRmUUFseHd1eHUtSi16SGd2V01TZw?oc=5",
-      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
-      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 820 flights delayed, 50 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVUyX1lzazUwOW5jQ08yZFI2eXF2YS0xNTJNUEJfYjNMVnE2ZVFZOWV6ODBiVGVEYVdJaVoybGk1ZVlzZHhnOFpldThtZXNTZWlnT2taWEVLUkhCYXJaRkpUTW9ya3lPOGNfQWZQRHJBeGlfRVkyWXFKdzBudW5MSVFnYTVJazdydFBwMWdGNDEybjJlSlVYOXI1MENobmwteWNmczZhb3FCR3B1MG94dtIBxAFBVV95cUxNQ0g5bWdzYnBoTHgtazhPZ3U2QmNSUk1DdGFDY1E4bjF0cFZNVm1XdTNac1VrbXYwZ3Z3WV82dGU1Y0VZR3liYUZ2XzhLSjZESFZhMEVORFctcmtaUnZ2YkhDZ1Z4ZzlTRzJVRGNyc3N4czFoZWdpal9HNWhYYm03eTRnX1ZqRWJlRm1keUZvZU9SczZ2T2p1MGlSU2hYcXlRN2NIQTFyYVJNNTRfaTNfS2hmSlM1dEZ1ZmdrczBySmZvWG5N?oc=5",
+      "published": "Thu, 20 Aug 2026 15:38:00 GMT",
+      "summary": "Over 820 flights delayed, 50 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
