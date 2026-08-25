@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-25T04:27:56.240632+00:00",
+  "last_updated": "2026-08-25T08:28:44.938034+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Ixigo\u00a0 Tests Packaged Tours for Trains, Uber Becomes a New Distribution Engine",
+      "link": "https://skift.com/2026/08/25/ixigo-tests-packaged-tours-for-trains-uber-becomes-a-new-distribution-engine/",
+      "published": "Tue, 25 Aug 2026 06:30:00 +0000",
+      "summary": "Ixigo is taking a smart, low-risk approach to packaged travel. Rather than build and operate its own tours, it is testing demand by putting IRCTC-curated trips on its platform. If travelers bite, packaged tours could become the OTA\u2019s next major product category.",
+      "source": "Skift"
+    },
     {
       "title": "Three South Korean Carriers Are Merging Into One Low-Cost Giant",
       "link": "https://skift.com/2026/08/24/three-south-korean-carriers-are-merging-into-one-low-cost-giant/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Thailand\u2019s Six-Year Tourist Fee Saga Returns With a $14 Price Tag",
-      "link": "https://skift.com/2026/08/24/thailands-six-year-tourist-fee-saga-returns-with-a-14-price-tag/",
-      "published": "Mon, 24 Aug 2026 09:02:02 +0000",
-      "summary": "After five policy reversals and one outright cancellation, Thailand&apos;s six-year-old-tourism fee plan is back at THB 450 \u2014 pending, naturally, another round of approvals.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPallRVkFmRUlEQ2tTbC1JU25IMUdRblZjV0FQTmVsMHljRE0yMjhGWjBnQTdxMEdVVFA5YWR2Z3hnNE5DTnhsdE4xdnZZSURjUWUxSHlxcXQ3bXUwSmI3aG9NMHVDVnZQRURuRnBoU0hfZ1VEbDZGMzNybW1yMlhpSktRWXZTbWxIdVdFcjNqRTB3RUtPbXo1aWlvcldKeUoyRjUtZkp2YlNxQl90MG16VlJqcldrUTFNendleUt1V0pjcVkt?oc=5",
       "published": "Mon, 24 Aug 2026 15:24:00 GMT",
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel Alert: U.S. Issues Level 1 Travel Advisory for Yucat\u00e1n and Campeche - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSU1BM0hTczN6aDdHbE9MSVh2LXlQMXlfVnhPMW5qMG1kZWRoZWR1dFZIeEJYd3NJNExGVk4wbTdLdnRSd29HR3hWcm9wTFp0Z3ItR1ZqTHVhU1pnLTc1LWtaU0VUb0Y4VTR5RUdQeURjTzJIYVRwU2lBUDVoUFkxSkpSZkViOEtua1E?oc=5",
-      "published": "Mon, 24 Aug 2026 09:57:43 GMT",
-      "summary": "Travel Alert: U.S. Issues Level 1 Travel Advisory for Yucat\u00e1n and Campeche&nbsp;&nbsp;Nomad Lawyer",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazBuRjZLeWJ1cVBQMmlZd0k4TUl2RTVLM3Z3RlBvdUdobWl5cGZBdkpyazBCSVpkTlVQbzVyY0pFcWo3MUdfc1RIMHFCYnNOSkpyYlg4MUp4NDZKQzFieW5hWEpVbC1oc3FGc2ZEYUlhXzJYNDQ4UkFRN3dMZGhqcThEZFk4ZWE4WnNndDdjSk14VXgwRXRqMFN4M3VCSFlSX1RNdVlXelZpMTdlU3ZvT3FESVVzV011MVYtQVJObGxWWU3SAdcBQVVfeXFMTlJzX2tfRExwc1BnNHRjN09QbnR1TmVmRVZ1Y0dNUjd2VHJDZDZILUY0eXRxalpqenQ2S2RKeUtkcjNxb3N0Z2c3MTNVNF9hZU1Ncm1ybUIwWlY0UTVrMWtYVjlPUEx6aXpFbEFDS1RHQW5lZVVWbFA2TWtPSlQ4V0h4Y3RmNl9WZUp2bXVIS3d2LVd6SnZNYUJRV2FuajhuX3F1blVQR3lOak1uRXlQZWlFaXVIcTFMRE94YVAwMENESTNjNHZpeWtOTWFMbjBWbEVvSnIwWHM?oc=5",
       "published": "Sat, 22 Aug 2026 11:00:00 GMT",
       "summary": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmlrZjVrdVk1RnBjZjhoaTBvZlBnSFE5R2FXejZJU0kxdVAxYVdYeDVTNWFwNzBjQV9nYk45U2ZURWtyODBpN053VklicVhpWFRuTGEydVBXQ3hWWU94MkF5R3VZeTNPQU5KSFl2STNzbmVnZTNaUHZjZkQxY2FnS0dRRmlxMmw2aHBQU3RFTHQtR0RSTjNudmdfa05YRERVUUU2UmtCZzYtQ0tydzdzUDlR0gHGAUFVX3lxTE1uT3RpZTBjbkRhcnVTUmJzSjY1ZVJYd09JZEhvVWU2UDNuOGlnS1k4TDNsV1p3dTYyQU1Sa2hEQ0xBcWVRYXBmYW5sa1o5SW95ZFFOelZUOUJsQTVlRFV1XzZqWlFQYmNpMUhVamN6Q2xYZ1ZkZFNSR1JsalhycFM5ZVZWNnNERUUwazVvOHR5cVhLOFdpcjIwdjdGZURnMEdyYkgxOVI5TDF3NEluZzdMRTRmUUFseHd1eHUtSi16SGd2V01TZw?oc=5",
+      "published": "Tue, 18 Aug 2026 14:20:00 GMT",
+      "summary": "Over 969 flights delayed, 107 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
