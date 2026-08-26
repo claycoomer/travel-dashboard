@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-26T12:27:00.615422+00:00",
+  "last_updated": "2026-08-26T16:40:22.864324+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Why Every Boutique Hotel Founder Eventually Sells",
+      "link": "https://skift.com/2026/08/26/why-every-boutique-hotel-founder-eventually-sells/",
+      "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "summary": "Asset-light lets boutique hotel brands grow without owning the real estate. It also leaves behind exactly what the big hotel companies want to buy: the brand.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Global Forum Preview: Virgin Atlantic\u2019s CEO on Where AI Belongs and Where People Win",
+      "link": "https://skift.com/2026/08/26/skift-global-forum-preview-virgin-atlantic-ceo-ai-people/",
+      "published": "Wed, 26 Aug 2026 12:33:05 +0000",
+      "summary": "Corneel Koster is betting Virgin Atlantic wins on what people feel, the sense of belonging a great crew creates, in an era where AI mediates the booking. He&apos;s backing that bet with premium cabins and scenario-planning discipline. We&apos;ll press him on it at Skift Global Fo",
+      "source": "Skift"
+    },
     {
       "title": "Why Taj-Parent IHCL Wants Full Control of Oriental Hotels",
       "link": "https://skift.com/2026/08/26/why-taj-parent-ihcl-wants-full-control-of-oriental-hotels/",
@@ -49,45 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Brand USA Chief in Advanced Talks to Rejoin NYC Tourism: Scoop",
-      "link": "https://skift.com/2026/08/25/brand-usa-fred-dixon-nyc-tourism/",
-      "published": "Tue, 25 Aug 2026 14:39:27 +0000",
-      "summary": "The pivot comes two years after Fred Dixon joined the nation&apos;s destination marketing organization.",
-      "source": "Skift"
+      "title": "Over 600 flights delayed, 53 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbE04QkszcGtBd3BBRENkZXV5UkdtR3EzS21oTXZPaW4zR0ZTaW5rWU04Q2tVM2lGb0lKWjFkcFJrR0RqVlA1RWF0aHJUcTRaOV9YWWQwYlVFUFNPdDIybmZLakwwWE1CMFRnenhJSGx6MXdkaDhGeExRWng3bFJNYjV5LWlFclJfNW52SWJhUjRWTmRaM1lJOGkxeFdZVkNtcms2NmpKanpFQ0g4bnFyNk5ia01STkN3ZnFlSzdWT0I5U3c?oc=5",
+      "published": "Wed, 26 Aug 2026 13:52:00 GMT",
+      "summary": "Over 600 flights delayed, 53 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Lehighvalleylive.com",
+      "source": "Google News Travel"
     },
     {
-      "title": "Can\u2019t Afford Hoxton or Moxy? Generator\u2019s New CEO Says: We\u2019re Premium Too \u2014 But Just \u00a340 Per Bunk",
-      "link": "https://skift.com/2026/08/25/cant-afford-hoxton-or-moxy-generators-new-ceo-says-were-premium-too-but-just-40-per-bunk/",
-      "published": "Tue, 25 Aug 2026 14:00:50 +0000",
-      "summary": "Strip out the four-star furniture, add bunk beds, charge \u00a340 a night. Now convince your guests they\u2019re staying somewhere premium. That\u2019s Generator\u2019s pitch.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjJRb0Z0elR3My1jcE1Xb0QyZnljekhVdjNEWFB3akJXWXh1NFdsVThsdW42RzRGSHZzVUFHM2FvVGE2Zk5GSDFKUE02RVpYbWhWc2RLNkNoMHU1Yk9TXzE3S25wQTdxU1c2RHRwRFgwd25Vem1vOVNyUGY2ZEhVLVhnSENYQW40WWhkNjktYUhmVUVtRm1qYWpveDNtcURTRFBYZFZzYlY5UEFJSHlUcE5pWDNVd1JrQVBYQkdXd9IB0wFBVV95cUxQcGhfNXNTdXdiRmVLTTZBQ0JIckIzamUwbUxocjRXQXFEWkRZa2xrZW8xYTVvMFh4eGJrMDVkN3F0ZGNSaXUxd0QxajBTOXJrQUFOel85V18xRjhiLXpOODZYYmVzeDJBYXBkMjZZWmdkdEVwdnN2V0NieFpZNDM0cHBETERINWhlbEl4clJqb1R5THJPSWFCY0hvNU1ZMkxfb3dXaDdpOGVaQzNuNHNYU2JoWU13V0VFUHhUMG9ma2FDSndXTmVoMnkxWGpIVFZsYUU0?oc=5",
+      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGZjOHhObTg1eWhubjVmRW5sOTYxTjI3bEl0MUVEaml1N3FiVzJLZFVmZzVEUXRvUndvUjYyUlIzUEhkVC1TNHk3S2JhM18wcmlfSmlIRFU2MnBRMmRrODNFeXJHSnhVbW01c3NyR0NxMHBwRko2amRwNkR1c0FRQXRJOUg5Y1JjVENqWGhGeUtwQjU4WmpROWhvaEJJNnNXcGFlcFJtX1kxZzFCRjFmazI4VnFDa1MySjRyaFQwc1lDUzJHcTRz0gHbAUFVX3lxTE9MU2MzMlBvTjJ6NDdZdkRFcDh1ckllRzNUdkx3aS1JTHd4TTlzT0Y4Z1RhcERYVGVfcF9OOWFJSVYxdmdJV0xxbUVuMEN6dEZEYW10dV9wWE15NUMwV19iaGNTelpQcmoyM2pPZFU5eklLR3IxeTY5Y0FWUkJEaXBHZzhtcUhQTUJQc3J3ZVdsUkdoeFBhX0VWVDhnYmdVMTZJMjR6N3VzaThLbUlNUy14NFZjejJHUGJNdlR3Tk9ubFZpMTBYRkN4aS1XdGMyQk42aW1yR1d3T3JuSQ?oc=5",
       "published": "Wed, 26 Aug 2026 11:00:00 GMT",
-      "summary": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "First-class passengers will no longer be able to enjoy this in-flight amenity during pushback, FAA says - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMmxTNTRGdUJ1SlVVVjl0dUc3SkN5S1BVUWN3X3hLbE5OYmZzQjd1QTJsSk1jZ2NIcXM4eGhZdGFHX0VDbHpweE83Tzg3WlNpcHMyeTl3b0FCTWpsTWR5MkNLMUVqNWhwYWgzYnd2Q2Zqb2lpM1dKM29XOTlNZHg3a1g0RjY1MlFyRGtDRjNlemVHck5wOTY4bGplcnZoWG4yVXRJZWlDN2Y4YklhWTJZcE5xMHI2TzhfY1g4MnJtSDFXLUE0OWtQMXRZUUc4Q1lMZ2VmcGR4ZTVzbEg1akZrWklGMzVOYW10?oc=5",
-      "published": "Tue, 25 Aug 2026 19:26:00 GMT",
-      "summary": "First-class passengers will no longer be able to enjoy this in-flight amenity during pushback, FAA says&nbsp;&nbsp;Lehighvalleylive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJBdVUzOFI5a0F2U3Q1M0ZWa3BCenllWG9GaVZBRDBmZ2pVY0dwMHNEVTBwRV83LWRqSlNhTDV3ZDAtRkNyR05ENzdjckV0YUdKS3RuT3RuU2NKR1M2UGpWbnNRNDJxb0N2RVR2NWVPZWRmNXNlZ2t3NXY0eVlGUUptcF9rVGQ5UTU1RWVBYzVrZWptT2dvMXNEVEVyNnhnbWdIbHRpWGRNendreTRQMTllMkxUbmNVLXNIcjBlVHZUZE0yeXVwdVh30gHKAUFVX3lxTE9xQkF1VTM4UjlrQXZTdDUzRlZrcEJ6eWVYb0ZpVkFEMGZnalVjR3Awc0RVMHBFXzctZGpKU2FMNXdkMC1GQ3JHTkQ3N2NyRXRhR0pLdG5PdG5TY0pHUzZQalZuc1E0MnFvQ3ZFVHY1ZU9lZGY1c2Vna3c1djR5WUZRSm1wX2tUZDlRNTVFZUFjNWtlam1PZ28xc0RURXI2eGdtZ0hsdGlYZE16d2t5NFAxOWUyTFRuY1Utc0hyMGVUdlRkTTJ5dXB1WHc?oc=5",
-      "published": "Mon, 24 Aug 2026 15:24:00 GMT",
-      "summary": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjFMd3ZxbldpVzM4R2xTbmo1S1Z5ZjlndzBnVW5KdGRaYmQ0M3NSZWNwSkF1aVNWSy1QeFU4NTV3dENnZ0dxQi1GREU4R0ZWNWV1UUxwbmhiUGNrMjdLTnZtVmFiX1d1dHh5WHF5c2JHQWc0UWd4QjZIdDh3NjJzbWMyQUVkLUFQMVhqeC1TZS1IOVczcS1ISmtWVF9BRmhxczl3ME15UHJ2Z2VJNE5ZOVRzWjkzZkMtTkxMelRxVi0ydl9yZ0FmV3hn0gHeAUFVX3lxTE1aUVpFdnRfc21YVVhMbXJEaWVTcW8yYU9fNzVweDRxTG5lWUp0S0t5Mkg0STBMUWt4UFdYTlFRak9xVXZDRUluTm5IbUZWZVZ6SWpzblE5ZGd4VnhZUHNGWktTUTZGLXVaYlVJSExadXhfcXdpNTRnRUR4dGhqX19zZXA2Y1QwcFByeEZEYnpqVVJ6QmtGcW5IdXE4LUpEclpjc1AzNTkwQk9pQTB6dHhwTFNmMFkxMXJZLXRsaGhfZXlTYks5QUFfay01ZURoM1AtWi11Q25WeTFUZkdQUQ?oc=5",
-      "published": "Tue, 25 Aug 2026 15:51:00 GMT",
-      "summary": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
+      "summary": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why&nbsp;&nbsp;MassLive.com",
       "source": "Google News Travel"
     },
     {
@@ -98,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad among regional airlines to adjust schedules amid ongoing tensions - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZTlpZVQ4cDhuVGVHaS1nWXBxc0JYT1NSX3FJSVR6VkZFeUY5Y1YyS1NfQ3V5Q0FLSUFJaGY3YjlfTGVHN1g5TTlHQU9heEhtTVo5VVNDMHUxQ2tKX2k5MV9iUnNRbXZ5TnQ1UXVWUGM0N2pyX2pxWFJNdHdBVnpVVWx2OFpkNzFLYWZ6TlF1alJsRnMtd0pUbkVBVmVkX0tJRk1BSFFHVTdSNC1WdUZzVnpybVJSTHdWTlFpRjVDZkNpbG1feVhhZ29QRUdHRlFsZS1Ob0puYzg2c3EyeXc5OXVVUGV3U2NKUjBHMHJ3?oc=5",
-      "published": "Mon, 24 Aug 2026 07:16:42 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad among regional airlines to adjust schedules amid ongoing tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVEMTZYWlFaWGdvZ2paN2FCTmY2VWROQ3hIVmlFbDlXT3FHVWFNd0VneUxxa3BlUjd4YlhhekJYNE1NWW5xMWFFVTYzLXRSeGdLZVlPZ1pBWWtJVkVyWVdxZXNkX3FWRkc2NG5jNHhoT2NldXRSb0FwRkNfWTdqOWI2RWtTY0pwT21CTEo5M244VWJwTlR5SkZldEQzZGdPUEJaTTNpTzNDaWJvcG41M0ZOOVpPRDBLRnRnYdIB0AFBVV95cUxPcEVJenhUQ2Z2SXNBUE02dkxaQ1dtX2hwLVRGU2RaQVVOM3lJOWt5UjFycWFUbkNzZEJhSnVwZ1hHZmh4azZteTBjYXo2OUNNWXZCV20tY204S3pCMGllODZHamtKcFlQd21WenYwTFdVa0lIVWFJTl9YWmpILWF6RFh2WjJBVDFyaEd0a2cyZy1aSERZQ25LTFdwc01fTWp3dWdPeld5elZUSFU4d1ZGcWFKdktsZ1U2T1RUazJZSGtQb3NQbThnMlE0bFVaRzRO?oc=5",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
@@ -112,10 +91,31 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0FaUHZ6MVl1MFdQdzhYYkZHTXRnVWtHNXFvZFMyTjZfUzA1LV8xc0R1akVEdW1jeFNBNmFoOVdOcVJGdUM3TzdRMnRtUk02SkpUaFUwQ3hYX2hZTHJ3Vy1samZYc09oVG5TLTQwRzRQcEwwQ0I1ay1oRGNCX3NsOUw0cThqVjd6R0x1M3ZqVFlyS3UxTWdjY2c1MXNhaVRSTmU4MGtBSmZHSXIzZWFSNUFJT1p1emZ3VFhES9IB0AFBVV95cUxNRG5KNTgxaU1BR0hLcldnWWdwQ1NyekN4V0M4VDktRGNNWURYRmlISFdUdmJrQm5NY1E0YWFvc2VuQUJTYkQyOUZuNXRHU2xnVTRrcThFOVNGd2J5bjVMQ2FSVzYyNzhzYWhPQjFFYkxlNXpxcWdTdDkxTzZGX1IxU3RhYk13MG40X3dTTzlsWW9YbURBTXQ0MzU0MERtNzF2VmJTb2txSlQ0WWxFSFptX0JZWTFvTnVnWlVlNnhiUHV5R1kwWkhjWDZLR1lfbWg5?oc=5",
-      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
+      "title": "First-class passengers will no longer be able to enjoy this in-flight amenity during pushback, FAA says - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMmxTNTRGdUJ1SlVVVjl0dUc3SkN5S1BVUWN3X3hLbE5OYmZzQjd1QTJsSk1jZ2NIcXM4eGhZdGFHX0VDbHpweE83Tzg3WlNpcHMyeTl3b0FCTWpsTWR5MkNLMUVqNWhwYWgzYnd2Q2Zqb2lpM1dKM29XOTlNZHg3a1g0RjY1MlFyRGtDRjNlemVHck5wOTY4bGplcnZoWG4yVXRJZWlDN2Y4YklhWTJZcE5xMHI2TzhfY1g4MnJtSDFXLUE0OWtQMXRZUUc4Q1lMZ2VmcGR4ZTVzbEg1akZrWklGMzVOYW10?oc=5",
+      "published": "Tue, 25 Aug 2026 19:26:00 GMT",
+      "summary": "First-class passengers will no longer be able to enjoy this in-flight amenity during pushback, FAA says&nbsp;&nbsp;Lehighvalleylive.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3lZVWhLUlR3YXNDVVhJTVNXcWNHd1pJZlgxR2s0MmNBV2dnTVR5S0tBTHJ6YWZ6Z1dxQTdWMWxwQ3BrZmZPNEtMRGF4anp5LWphbFRYRWp6WFdLcU94SG4xVURJejYtaFBjdTRZcmJpSVpYZC1DWFVOWlpfNHhoeTA4WVRzRXZhWHB1NXNmQXZDRTFVX1hwWGZOcGRUZTIzUkZNNGhNZ1RJcDh6UjBVMNIBxAFBVV95cUxPdW56YkVDNm9fa2RoQW5mY0hsa056WjREdENINUdOMDhSc3Nid0U4Ri0yMEwxMlBvQWhwTXJnRWZwVUZMeWlJbXg2WmkxcC0wNjNTd3BYZElkM2tGa0lkTnNRTEVERldDekliMkVtSC1HbFJLa3FlVG5LSVRwZXl4ZzZBRXdZdndNWnJLRjBzZXo2RklJWEVCME9KMzdFY1FNZkhFVERSV0NXTFlLWnNpTkZfSThkXzhSLW93YXNZZTcxSk91?oc=5",
+      "published": "Tue, 25 Aug 2026 14:47:00 GMT",
+      "summary": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjFMd3ZxbldpVzM4R2xTbmo1S1Z5ZjlndzBnVW5KdGRaYmQ0M3NSZWNwSkF1aVNWSy1QeFU4NTV3dENnZ0dxQi1GREU4R0ZWNWV1UUxwbmhiUGNrMjdLTnZtVmFiX1d1dHh5WHF5c2JHQWc0UWd4QjZIdDh3NjJzbWMyQUVkLUFQMVhqeC1TZS1IOVczcS1ISmtWVF9BRmhxczl3ME15UHJ2Z2VJNE5ZOVRzWjkzZkMtTkxMelRxVi0ydl9yZ0FmV3hn0gHeAUFVX3lxTE1aUVpFdnRfc21YVVhMbXJEaWVTcW8yYU9fNzVweDRxTG5lWUp0S0t5Mkg0STBMUWt4UFdYTlFRak9xVXZDRUluTm5IbUZWZVZ6SWpzblE5ZGd4VnhZUHNGWktTUTZGLXVaYlVJSExadXhfcXdpNTRnRUR4dGhqX19zZXA2Y1QwcFByeEZEYnpqVVJ6QmtGcW5IdXE4LUpEclpjc1AzNTkwQk9pQTB6dHhwTFNmMFkxMXJZLXRsaGhfZXlTYks5QUFfay01ZURoM1AtWi11Q25WeTFUZkdQUQ?oc=5",
+      "published": "Tue, 25 Aug 2026 15:51:00 GMT",
+      "summary": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,662 flights delayed, 153 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXItQjlSdnZudnByYk9UVjVmaUNjb1RtTEctMTB4b2k0c0VHZVNFN1U3bVJVb2loV1kwYkY5MG13cHVqZUZEZF9fZGNVT2JGdEF2UVEwejlrS3VEb2lBRFN3OUk5N2F2RDNYT3RIeUJGWXZfVmxMQzFOYXgxTGttTVRMZFVrWlJqVWlweUtpd0Q3UloyRU1IcmphZHRPNG5yM2ZNejBfdjBKTWswM0NLN1VTZ9IBxwFBVV95cUxPQTZEWkJTaGszN1BpNG1yM0I2SkhzYndISzExTE1EaDFXSmJPZVhzUndiSFVrYzN6cF9PMEViMDh3b1JtNlp5SUpwcktjVk4wTWx2UGNqdzVvSHAzMUYyTmVacEhwUnZsUmgxblBHU1BTWFlKeF9laUFWOUlVaGZWX2RLT2xTWVFRXy1DYXZQeDJLbkkwMHRQZnlqUk5sYWx1ZkFONkN5bmM1SzE4VmlRUkptZm1Za1VUWmNSQjVUakNYVlM2dDBB?oc=5",
+      "published": "Fri, 21 Aug 2026 15:31:00 GMT",
+      "summary": "Over 1,662 flights delayed, 153 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
