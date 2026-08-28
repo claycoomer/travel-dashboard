@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-28T03:54:26.934753+00:00",
+  "last_updated": "2026-08-28T15:45:39.650890+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "What Hotelbeds\u2019 Shrinking Margins Mean for Hotel Distribution",
+      "link": "https://skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/",
+      "published": "Fri, 28 Aug 2026 14:33:32 +0000",
+      "summary": "Hotelbeds became the dominant independent bed bank through scale. Its results now show that scale alone no longer protects the economics.",
+      "source": "Skift"
+    },
+    {
+      "title": "Cheval Is Riding Out Dubai\u2019s Demand Slump On Long-Stay Guests",
+      "link": "https://skift.com/2026/08/28/cheval-is-riding-out-dubais-demand-slump-on-long-stay-guests/",
+      "published": "Fri, 28 Aug 2026 09:00:00 +0000",
+      "summary": "Cheval is betting Dubai\u2019s domestic demand can carry it to recovery. S&amp;P doesn\u2019t see that recovery until 2027.",
+      "source": "Skift"
+    },
     {
       "title": "Motel 6\u2019s Power: What Prism\u2019s Annual Report Reveals Ahead of Its IPO",
       "link": "https://skift.com/2026/08/27/motel-6s-power-what-prisms-annual-report-reveals-ahead-of-its-ipo/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Marriott Heading for 100 Cities in India, but Country \u2018Has to Tell Its Story Better\u2019",
-      "link": "https://skift.com/2026/08/27/marriott-heading-for-100-cities-in-india-but-country-has-to-tell-its-story-better/",
-      "published": "Thu, 27 Aug 2026 12:59:21 +0000",
-      "summary": "India\u2019s inbound tourism problem isn\u2019t exactly breaking news. But having the CEO of a global hotel giant spell it out does make the missed opportunity look even more glaring.",
-      "source": "Skift"
-    },
-    {
-      "title": "American Joins the Race to Add New European Routes and Premium Upgrades",
-      "link": "https://skift.com/2026/08/27/american-joins-the-race-to-add-new-european-routes-and-premium-upgrades/",
-      "published": "Thu, 27 Aug 2026 12:00:00 +0000",
-      "summary": "The new routes are part of a list of initiatives to shore up American\u2019s profitability and improve its passenger experience compared to Delta and United.",
-      "source": "Skift"
-    },
-    {
       "title": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjFMd3ZxbldpVzM4R2xTbmo1S1Z5ZjlndzBnVW5KdGRaYmQ0M3NSZWNwSkF1aVNWSy1QeFU4NTV3dENnZ0dxQi1GREU4R0ZWNWV1UUxwbmhiUGNrMjdLTnZtVmFiX1d1dHh5WHF5c2JHQWc0UWd4QjZIdDh3NjJzbWMyQUVkLUFQMVhqeC1TZS1IOVczcS1ISmtWVF9BRmhxczl3ME15UHJ2Z2VJNE5ZOVRzWjkzZkMtTkxMelRxVi0ydl9yZ0FmV3hn0gHeAUFVX3lxTE1aUVpFdnRfc21YVVhMbXJEaWVTcW8yYU9fNzVweDRxTG5lWUp0S0t5Mkg0STBMUWt4UFdYTlFRak9xVXZDRUluTm5IbUZWZVZ6SWpzblE5ZGd4VnhZUHNGWktTUTZGLXVaYlVJSExadXhfcXdpNTRnRUR4dGhqX19zZXA2Y1QwcFByeEZEYnpqVVJ6QmtGcW5IdXE4LUpEclpjc1AzNTkwQk9pQTB6dHhwTFNmMFkxMXJZLXRsaGhfZXlTYks5QUFfay01ZURoM1AtWi11Q25WeTFUZkdQUQ?oc=5",
       "published": "Tue, 25 Aug 2026 15:51:00 GMT",
@@ -91,10 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: this major European airline has operated its first Dubai flight in six months - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjVJSnh5aDhwcENVYXYzaHNScVR3aXlwQ25RZmFoeHZrdHhoYklGLUJ1MVBZR0wyU1ZRUndNRDFZc0VuYjd2ZEs4ZDlhWWJwSWNRdEJieWlWNHhmVzlPSTVkMkNqYXNWZll0M1NWWHRDcE5JLU5UNjl1TG9oS3VFOEd2Y243eVJtanhDYnNlMWlFVC1kdU5GR3o2VmJ2akl6QlBaSi1VcHBIM25sTzVCQ2xPekZnY3QzT0gzWkotdF8zaFRLTFFyU01UcXhrT2JuZkUzX29rdm1PYUI1NnIxZHdIWW91TzNh?oc=5",
-      "published": "Thu, 27 Aug 2026 08:42:25 GMT",
-      "summary": "Dubai and Middle East flight disruption: this major European airline has operated its first Dubai flight in six months&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVEMTZYWlFaWGdvZ2paN2FCTmY2VWROQ3hIVmlFbDlXT3FHVWFNd0VneUxxa3BlUjd4YlhhekJYNE1NWW5xMWFFVTYzLXRSeGdLZVlPZ1pBWWtJVkVyWVdxZXNkX3FWRkc2NG5jNHhoT2NldXRSb0FwRkNfWTdqOWI2RWtTY0pwT21CTEo5M244VWJwTlR5SkZldEQzZGdPUEJaTTNpTzNDaWJvcG41M0ZOOVpPRDBLRnRnYdIB0AFBVV95cUxPcEVJenhUQ2Z2SXNBUE02dkxaQ1dtX2hwLVRGU2RaQVVOM3lJOWt5UjFycWFUbkNzZEJhSnVwZ1hHZmh4azZteTBjYXo2OUNNWXZCV20tY204S3pCMGllODZHamtKcFlQd21WenYwTFdVa0lIVWFJTl9YWmpILWF6RFh2WjJBVDFyaEd0a2cyZy1aSERZQ25LTFdwc01fTWp3dWdPeld5elZUSFU4d1ZGcWFKdktsZ1U2T1RUazJZSGtQb3NQbThnMlE0bFVaRzRO?oc=5",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVEMTZYWlFaWGdvZ2paN2FCTmY2VWROQ3hIVmlFbDlXT3FHVWFNd0VneUxxa3BlUjd4YlhhekJYNE1NWW5xMWFFVTYzLXRSeGdLZVlPZ1pBWWtJVkVyWVdxZXNkX3FWRkc2NG5jNHhoT2NldXRSb0FwRkNfWTdqOWI2RWtTY0pwT21CTEo5M244VWJwTlR5SkZldEQzZGdPUEJaTTNpTzNDaWJvcG41M0ZOOVpPRDBLRnRnYdIB0AFBVV95cUxPcEVJenhUQ2Z2SXNBUE02dkxaQ1dtX2hwLVRGU2RaQVVOM3lJOWt5UjFycWFUbkNzZEJhSnVwZ1hHZmh4azZteTBjYXo2OUNNWXZCV20tY204S3pCMGllODZHamtKcFlQd21WenYwTFdVa0lIVWFJTl9YWmpILWF6RFh2WjJBVDFyaEd0a2cyZy1aSERZQ25LTFdwc01fTWp3dWdPeld5elZUSFU4d1ZGcWFKdktsZ1U2T1RUazJZSGtQb3NQbThnMlE0bFVaRzRO?oc=5",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions - AL.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDF4RzFHV0pMeDZOSERIMHZlVEFkY2F3em5mTzVVY19odWMyUHBua2NTZllrdmFJQ0dYYzR0TjFCMC1vQzBrMkdPQXptUTI5VHg0Z28zN2FwRmc4V0dqeEJqRHUxa21ZbWEtenFsR3I0a0NiSnpERERyVEF5enFiX0htVkxkYnJfUzBkSDhxMGVhRG1sdFpUSkFsam10cjdjaUlLaS1JR3VhazYyZEVEbFJFRdIBxwFBVV95cUxOQTNud3FlNDY5X0h5dlJoVFliczIwemV5dVAzSXhZU3QtOFB6Q1dvbXdlcUpHVVNDRE5lQlJTekk5Z3N4ay1aa2Q1NXRVenNQY1VDRmZqdlNieHBxeWducEF2bDFyNzlBaWlzek5XYmlhR09BaGY2UHd5RlpKX2hQUFNQbnlqUjNYUnJGWEZKVGJCVG9haUNoQUtwRElWaEhYMy1LYXh4UUVVa0Z6WVIzbTRqa1piWjlBQVlvXzl3SG9EWW5MZkVr?oc=5",
       "published": "Wed, 12 Aug 2026 07:00:00 GMT",
       "summary": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: this major European airline has operated its first Dubai flight in six months - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjVJSnh5aDhwcENVYXYzaHNScVR3aXlwQ25RZmFoeHZrdHhoYklGLUJ1MVBZR0wyU1ZRUndNRDFZc0VuYjd2ZEs4ZDlhWWJwSWNRdEJieWlWNHhmVzlPSTVkMkNqYXNWZll0M1NWWHRDcE5JLU5UNjl1TG9oS3VFOEd2Y243eVJtanhDYnNlMWlFVC1kdU5GR3o2VmJ2akl6QlBaSi1VcHBIM25sTzVCQ2xPekZnY3QzT0gzWkotdF8zaFRLTFFyU01UcXhrT2JuZkUzX29rdm1PYUI1NnIxZHdIWW91TzNh?oc=5",
+      "published": "Thu, 27 Aug 2026 08:42:25 GMT",
+      "summary": "Dubai and Middle East flight disruption: this major European airline has operated its first Dubai flight in six months&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
