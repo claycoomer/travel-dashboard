@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-28T15:45:39.650890+00:00",
+  "last_updated": "2026-08-29T00:13:09.196758+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Canadians Were Just Starting to Come Around to U.S. Travel. Then Came the Trade War.",
+      "link": "https://skift.com/2026/08/28/canada-us-trade-war-tourism/",
+      "published": "Fri, 28 Aug 2026 18:12:39 +0000",
+      "summary": "Canadian travel to the U.S. had just hit its fourth straight month of year-over-year gains when tariff disputes between the two countries escalated \u2014 a worrisome development for hotel operators and destinations.",
+      "source": "Skift"
+    },
+    {
+      "title": "Booking Holdings vs. Expedia in B2B: Bombshell Estimate Says Booking Leads in Room Nights",
+      "link": "https://skift.com/2026/08/28/booking-holdings-vs-expedia-in-b2b-bombshell-estimate-says-booking-leads-in-room-nights/",
+      "published": "Fri, 28 Aug 2026 17:56:37 +0000",
+      "summary": "No matter how you parse the numbers, Booking Holdings&apos; B2B business appears to be a lot larger than the travel industry previously understood. Its in-process reorganization could have significant implications for OTA competition.",
+      "source": "Skift"
+    },
     {
       "title": "What Hotelbeds\u2019 Shrinking Margins Mean for Hotel Distribution",
       "link": "https://skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/",
@@ -49,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "More Americans Could Soon Be Eligible for Online Passport Renewals",
-      "link": "https://skift.com/2026/08/27/passport-renewal-expand-americans-overseas/",
-      "published": "Thu, 27 Aug 2026 15:47:33 +0000",
-      "summary": "The State Department has proposed a new rule that would allow online passport renewals for Americans overseas and lift restrictions for domestic online renewal eligibility.",
-      "source": "Skift"
-    },
-    {
-      "title": "The UK\u2019s Airport Record Hides a Huge Traffic Shift",
-      "link": "https://skift.com/2026/08/27/the-uks-airport-record-hides-a-huge-traffic-shift/",
-      "published": "Thu, 27 Aug 2026 13:43:38 +0000",
-      "summary": "A record quarter for UK airports was less a boom than a reshuffle: Gulf traffic collapsed as low-cost carriers and European leisure routes picked up the slack.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjFMd3ZxbldpVzM4R2xTbmo1S1Z5ZjlndzBnVW5KdGRaYmQ0M3NSZWNwSkF1aVNWSy1QeFU4NTV3dENnZ0dxQi1GREU4R0ZWNWV1UUxwbmhiUGNrMjdLTnZtVmFiX1d1dHh5WHF5c2JHQWc0UWd4QjZIdDh3NjJzbWMyQUVkLUFQMVhqeC1TZS1IOVczcS1ISmtWVF9BRmhxczl3ME15UHJ2Z2VJNE5ZOVRzWjkzZkMtTkxMelRxVi0ydl9yZ0FmV3hn0gHeAUFVX3lxTE1aUVpFdnRfc21YVVhMbXJEaWVTcW8yYU9fNzVweDRxTG5lWUp0S0t5Mkg0STBMUWt4UFdYTlFRak9xVXZDRUluTm5IbUZWZVZ6SWpzblE5ZGd4VnhZUHNGWktTUTZGLXVaYlVJSExadXhfcXdpNTRnRUR4dGhqX19zZXA2Y1QwcFByeEZEYnpqVVJ6QmtGcW5IdXE4LUpEclpjc1AzNTkwQk9pQTB6dHhwTFNmMFkxMXJZLXRsaGhfZXlTYks5QUFfay01ZURoM1AtWi11Q25WeTFUZkdQUQ?oc=5",
-      "published": "Tue, 25 Aug 2026 15:51:00 GMT",
-      "summary": "Travel advisory issued for popular South American destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGZjOHhObTg1eWhubjVmRW5sOTYxTjI3bEl0MUVEaml1N3FiVzJLZFVmZzVEUXRvUndvUjYyUlIzUEhkVC1TNHk3S2JhM18wcmlfSmlIRFU2MnBRMmRrODNFeXJHSnhVbW01c3NyR0NxMHBwRko2amRwNkR1c0FRQXRJOUg5Y1JjVENqWGhGeUtwQjU4WmpROWhvaEJJNnNXcGFlcFJtX1kxZzFCRjFmazI4VnFDa1MySjRyaFQwc1lDUzJHcTRz0gHbAUFVX3lxTE9MU2MzMlBvTjJ6NDdZdkRFcDh1ckllRzNUdkx3aS1JTHd4TTlzT0Y4Z1RhcERYVGVfcF9OOWFJSVYxdmdJV0xxbUVuMEN6dEZEYW10dV9wWE15NUMwV19iaGNTelpQcmoyM2pPZFU5eklLR3IxeTY5Y0FWUkJEaXBHZzhtcUhQTUJQc3J3ZVdsUkdoeFBhX0VWVDhnYmdVMTZJMjR6N3VzaThLbUlNUy14NFZjejJHUGJNdlR3Tk9ubFZpMTBYRkN4aS1XdGMyQk42aW1yR1d3T3JuSQ?oc=5",
-      "published": "Wed, 26 Aug 2026 11:00:00 GMT",
-      "summary": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why&nbsp;&nbsp;MassLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 600 flights delayed, 53 canceled amid widespread U.S. travel disruptions - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmRvMHdFMFNodHVhMVdvcWZaLUlacnRENENoN3ExZUtsT19VSnJrRUVNdGRWblFxXzJmX3lHZ0tqNmJoOU9YeVc5M3lqSFU3Ymg5NlI1cmVsSHpNVmlGVFUxd2ZEMGVINFRDaGZHVDFhLVRwcjY3SHA3ejJPb3JieUs0YmJKYmQxYWtndTdhd2dEbWU2VUwxeHRiTGJkS0dreF9ZNHc1cjFtajBLdnIwem4tX19xelNNOFJQQmJEMzFWZWV6cHR3b9IByAFBVV95cUxPbmRvMHdFMFNodHVhMVdvcWZaLUlacnRENENoN3ExZUtsT19VSnJrRUVNdGRWblFxXzJmX3lHZ0tqNmJoOU9YeVc5M3lqSFU3Ymg5NlI1cmVsSHpNVmlGVFUxd2ZEMGVINFRDaGZHVDFhLVRwcjY3SHA3ejJPb3JieUs0YmJKYmQxYWtndTdhd2dEbWU2VUwxeHRiTGJkS0dreF9ZNHc1cjFtajBLdnIwem4tX19xelNNOFJQQmJEMzFWZWV6cHR3bw?oc=5",
-      "published": "Wed, 26 Aug 2026 13:52:00 GMT",
-      "summary": "Over 600 flights delayed, 53 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
+      "title": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3lZVWhLUlR3YXNDVVhJTVNXcWNHd1pJZlgxR2s0MmNBV2dnTVR5S0tBTHJ6YWZ6Z1dxQTdWMWxwQ3BrZmZPNEtMRGF4anp5LWphbFRYRWp6WFdLcU94SG4xVURJejYtaFBjdTRZcmJpSVpYZC1DWFVOWlpfNHhoeTA4WVRzRXZhWHB1NXNmQXZDRTFVX1hwWGZOcGRUZTIzUkZNNGhNZ1RJcDh6UjBVMNIBxAFBVV95cUxPdW56YkVDNm9fa2RoQW5mY0hsa056WjREdENINUdOMDhSc3Nid0U4Ri0yMEwxMlBvQWhwTXJnRWZwVUZMeWlJbXg2WmkxcC0wNjNTd3BYZElkM2tGa0lkTnNRTEVERldDekliMkVtSC1HbFJLa3FlVG5LSVRwZXl4ZzZBRXdZdndNWnJLRjBzZXo2RklJWEVCME9KMzdFY1FNZkhFVERSV0NXTFlLWnNpTkZfSThkXzhSLW93YXNZZTcxSk91?oc=5",
+      "published": "Tue, 25 Aug 2026 14:47:00 GMT",
+      "summary": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -91,13 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVEMTZYWlFaWGdvZ2paN2FCTmY2VWROQ3hIVmlFbDlXT3FHVWFNd0VneUxxa3BlUjd4YlhhekJYNE1NWW5xMWFFVTYzLXRSeGdLZVlPZ1pBWWtJVkVyWVdxZXNkX3FWRkc2NG5jNHhoT2NldXRSb0FwRkNfWTdqOWI2RWtTY0pwT21CTEo5M244VWJwTlR5SkZldEQzZGdPUEJaTTNpTzNDaWJvcG41M0ZOOVpPRDBLRnRnYdIB0AFBVV95cUxPcEVJenhUQ2Z2SXNBUE02dkxaQ1dtX2hwLVRGU2RaQVVOM3lJOWt5UjFycWFUbkNzZEJhSnVwZ1hHZmh4azZteTBjYXo2OUNNWXZCV20tY204S3pCMGllODZHamtKcFlQd21WenYwTFdVa0lIVWFJTl9YWmpILWF6RFh2WjJBVDFyaEd0a2cyZy1aSERZQ25LTFdwc01fTWp3dWdPeld5elZUSFU4d1ZGcWFKdktsZ1U2T1RUazJZSGtQb3NQbThnMlE0bFVaRzRO?oc=5",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel Alert: Severe Weather Triggers Widespread Flight Delays Across United States - Nomad Lawyer",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOS1QSHAyY3p1SjZQTEFPWk5UQV9oOUU0S2tFZzZDOWZzaGgxWjJmTGtwOXp0NVdtY3I2TmdHeEpQMVpBVzNKSEI4TFBhU0pnaTFaTVluazRfTGFYWlQ5LUlHUXRMMEpaWEtsQjNheFF1bVpWYVdfRjU0ZVY3RzB6eUZNWlBCUDA3bWgzZzlGWXVObWhC?oc=5",
       "published": "Tue, 25 Aug 2026 02:03:24 GMT",
@@ -105,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDF4RzFHV0pMeDZOSERIMHZlVEFkY2F3em5mTzVVY19odWMyUHBua2NTZllrdmFJQ0dYYzR0TjFCMC1vQzBrMkdPQXptUTI5VHg0Z28zN2FwRmc4V0dqeEJqRHUxa21ZbWEtenFsR3I0a0NiSnpERERyVEF5enFiX0htVkxkYnJfUzBkSDhxMGVhRG1sdFpUSkFsam10cjdjaUlLaS1JR3VhazYyZEVEbFJFRdIBxwFBVV95cUxOQTNud3FlNDY5X0h5dlJoVFliczIwemV5dVAzSXhZU3QtOFB6Q1dvbXdlcUpHVVNDRE5lQlJTekk5Z3N4ay1aa2Q1NXRVenNQY1VDRmZqdlNieHBxeWducEF2bDFyNzlBaWlzek5XYmlhR09BaGY2UHd5RlpKX2hQUFNQbnlqUjNYUnJGWEZKVGJCVG9haUNoQUtwRElWaEhYMy1LYXh4UUVVa0Z6WVIzbTRqa1piWjlBQVlvXzl3SG9EWW5MZkVr?oc=5",
-      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,396 flights delayed, 163 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "title": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
+      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "summary": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +95,27 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjVJSnh5aDhwcENVYXYzaHNScVR3aXlwQ25RZmFoeHZrdHhoYklGLUJ1MVBZR0wyU1ZRUndNRDFZc0VuYjd2ZEs4ZDlhWWJwSWNRdEJieWlWNHhmVzlPSTVkMkNqYXNWZll0M1NWWHRDcE5JLU5UNjl1TG9oS3VFOEd2Y243eVJtanhDYnNlMWlFVC1kdU5GR3o2VmJ2akl6QlBaSi1VcHBIM25sTzVCQ2xPekZnY3QzT0gzWkotdF8zaFRLTFFyU01UcXhrT2JuZkUzX29rdm1PYUI1NnIxZHdIWW91TzNh?oc=5",
       "published": "Thu, 27 Aug 2026 08:42:25 GMT",
       "summary": "Dubai and Middle East flight disruption: this major European airline has operated its first Dubai flight in six months&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     }
   ]
