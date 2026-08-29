@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-08-29T10:33:12.620076+00:00",
+  "last_updated": "2026-08-29T15:53:48.379644+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "How SingleThread Is Growing Without Copying Itself",
+      "link": "https://skift.com/2026/08/29/how-singlethread-is-growing-without-copying-itself/",
+      "published": "Sat, 29 Aug 2026 12:00:00 +0000",
+      "summary": "SingleThread is expanding thoughtfully, leaning on translating its service culture through people and giving them bigger challenges to tackle.",
+      "source": "Skift"
+    },
     {
       "title": "Canadians Were Just Starting to Come Around to U.S. Travel. Then Came the Trade War.",
       "link": "https://skift.com/2026/08/28/canada-us-trade-war-tourism/",
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/08/27/why-flight-attendants-are-fighting-googles-purchase-of-spirits-data/",
       "published": "Thu, 27 Aug 2026 20:20:36 +0000",
       "summary": "Spirit says it is working with a third-party to scrub any personal information from the data before the transaction is approved.",
-      "source": "Skift"
-    },
-    {
-      "title": "Google\u2019s Agentic Hotel Booking Tool Comes to AI Mode",
-      "link": "https://skift.com/2026/08/27/googles-agentic-hotel-booking-tool-comes-to-ai-mode/",
-      "published": "Thu, 27 Aug 2026 19:09:55 +0000",
-      "summary": "Google&apos;s agentic hotel booking is finally launching in AI Mode, nine months after it was first teased. Skeptics may see it as a redux of the shuttered Book on Google tool, but here&apos;s why the company thinks it has a better shot.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVndhamN3YTNtLXgyV0I3b1RROFlVbHV1WkVSdDFvZ211d0VWeHNyTGtLR055Zm43Ry1Vdi1EMHNTM0V3Ymp3a0p5MGplc2ZxTkJMN0JlNkhQX3UwSEg3Q3c5RHlfR1prQ1Zha2t6dUpUR2hBUmc3LVRlZUo4cW5QeFo0RzNJV0VLM3N6b0hQRVJsLUNKazZBVTEzVU5XNGhEZHdUY3VCZnRTYW1lcC10MzRRSTVPc3fSAcsBQVVfeXFMT2Q4dE5QVnUzakQycjRhYkhHNENKSGlYeW9KMFBYMU95MTB2MWRtUU40dXRON3pvRXJSWFExbmVwdGF0REhacTJnWVY3SHBwSFBxXzVLYm1aVEtQVTZobHl5V1BBdzVBZFNKSkNpNFVJUkVoSnB5ckt0TVBRTVdfSHdESUNCenUtVXdSMmtBTzBjNFpTdXR1YVE0OTUxdTZzSW9pYXpTQ0NaVUhnQUN1aThKU2dKaFJ6SDFFS0h5RlpWTVNxTmhPNHllems?oc=5",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,904 flights delayed, 652 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
+      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     }
   ]
