@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T15:42:37.670364+00:00",
+  "last_updated": "2026-09-01T18:57:37.382802+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,7 +7,28 @@
   ],
   "items": [
     {
-      "title": "Airbnb Names Ex-Booking.com Hotel Boss and Viator President as Chief Business Officer",
+      "title": "JetBlue Unveils New Domestic First Class Seats as It Hopes to End Losing Streak",
+      "link": "https://skift.com/2026/09/01/jetblue-unveils-new-domestic-first-class-seats/",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "summary": "JetBlue\u2019s new domestic first class seats seek to give customers a more premium experience with customized cocktails, meals, and roomy seats made with mattress foam. The carrier is banking on the seats to help it turn a profit.",
+      "source": "Skift"
+    },
+    {
+      "title": "What Happens to a Travel Company Owned by Private Equity for Too Long?",
+      "link": "https://skift.com/2026/09/01/what-happens-to-a-travel-company-owned-by-private-equity-for-too-long/",
+      "published": "Tue, 01 Sep 2026 16:40:38 +0000",
+      "summary": "One of travel&apos;s best tour operators went to market and couldn&apos;t sell. The reasons tell you as much about where the industry is headed as about the company itself.",
+      "source": "Skift"
+    },
+    {
+      "title": "AirDNA Enters Revenue Management Market With Host Dynamic Pricing Tool: Exclusive",
+      "link": "https://skift.com/2026/09/01/airdna-enters-revenue-management-market-with-host-dynamic-pricing-tool-exclusive/",
+      "published": "Tue, 01 Sep 2026 16:35:49 +0000",
+      "summary": "Short-term rental hosts are leaving money on the table if they don&apos;t at least dabble in dynamic pricing. If AirDNA can make the process easier for hosts, then there is a big upside awaiting.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb Names Ex-Booking.com Hotel Boss and Tripadvisor Exec as Chief Business Officer",
       "link": "https://skift.com/2026/09/01/airbnb-names-ex-booking-com-hotel-boss-and-viator-president-as-chief-business-officer/",
       "published": "Tue, 01 Sep 2026 15:30:00 +0000",
       "summary": "If Airbnb needs people connections and know-how to scale its boutique hotels business, it found someone with deep experience in Pepijn Rijvers. He also has marketing and tours and activities experience at Booking.com and Viator, respectively.",
@@ -42,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Your Hotel Is Hot on TikTok Go. But AI Got All The Facts Wrong.",
-      "link": "https://skift.com/2026/08/31/ai-generated-tiktok-go-hotel-videos/",
-      "published": "Mon, 31 Aug 2026 14:45:54 +0000",
-      "summary": "TikTok&apos;s new hotel and experience booking feature is supposed to connect travelers with real properties, but an abundance of AI-generated content has property owners concerned.",
-      "source": "Skift"
-    },
-    {
-      "title": "Choice Hotels Hands CEO Job to Insider as It Tries to Reverse a Slump Versus Rivals",
-      "link": "https://skift.com/2026/08/31/choice-hotels-hands-ceo-job-to-insider-as-it-tries-to-reverse-a-slump-versus-rivals/",
-      "published": "Mon, 31 Aug 2026 14:40:26 +0000",
-      "summary": "Choice moved Dominic Dragisich around various key leadership roles over nearly a decade to prepare him for the top job.",
-      "source": "Skift"
-    },
-    {
-      "title": "Africa\u2019s Next Tourism Boom Will Be Won in the Mid-Market",
-      "link": "https://skift.com/2026/08/31/africa-tourism-mid-market-opportunity/",
-      "published": "Mon, 31 Aug 2026 13:00:00 +0000",
-      "summary": "As travelers increasingly seek value without compromising on quality or experience, Africa\u2019s biggest tourism opportunity may lie in building the reliable, professionally managed middle tier that much of the continent has historically lacked.",
-      "source": "Skift"
-    },
-    {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after Iranian missile strikes - The Independent",
+      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after missile strikes - The Independent",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLS1UTjhGNUhXcjZWRTc1Zk9EdnpVQ1lWalFkSEp6LTBraDUtSGg1MnVDUE1nZTRqRlo2TGJyUjlJQVBFazlqQUF3MEJSbDBOV1FiNFRjR3Y5dmhqdzY1aF9aMlZIUU9OMFp5UnVyaFpzOE5yTXRqWnQ2T3pGQkg0R2pVMXFhandlLWszRXRMVG9abHAtbk9NVVl1U2NCMnVaZWRGcWVUeWNEYlRCQVlRVlg5a3VaOFRseml1TXBhY1p4VTdwbzFz?oc=5",
       "published": "Tue, 01 Sep 2026 08:31:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after Iranian missile strikes&nbsp;&nbsp;The Independent",
+      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after missile strikes&nbsp;&nbsp;The Independent",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month - Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQclFDODBJSU5MVlhJZmh1MFBmbzNvX3VTX3JKdVcyd1hpbTZhd0N4UWM1MXFYczlQbFJQOTVwSThTNFZpQUppcUtrN0JRZ2pobTJPaWJycXMzWkdNdHhqM3NVbVVHVFdIczdlcVFQSmc5ZTBOLTlLblhFNkpNakRneHlWZHVDNHJIbWhoRmJSN29oRXZlUEdBdXBkeElsaHBXVElyLWhtaTNiRjYxWXF5LUprVVdISXV5VXlES1pHTkRhVVhhWkxfOWhQVkNFRU1hWmVNRG9GUzlKMGp4aGdjMkppQVQ?oc=5",
       "published": "Mon, 31 Aug 2026 07:55:24 GMT",
-      "summary": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "summary": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today - Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xMVM0YzY4c3FVZTdPUGl1ejdaaDNGMjFyOTBuMmtSRHl6aGxjYU83WHlGMXJhekRkVEtqdWNFMHlTWmI1anBMOFJBaFZpbkMwUWNDOHBRV3YwSWRKZnFNdk8tSjFFbEdaTFBtcjBFdGdlUlZCd2ZLTzNB?oc=5",
-      "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-      "summary": "Transportation Secretary Issues U.S. Travel Warning as Airlines Cancel 485 Flights Today&nbsp;&nbsp;Men's Journal",
+      "title": "US Embassy warns of potential flight cancellations due to security situation - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VRVdjaXFNbU5XcW5telc3ODNiR2p2bFBoS2VfQmEyTnRkRTNtWXQxTGx5NVNVVXNuVTAxQ1VaUzV1R2FNWXk4Y2pkSC12bkxhbTZVd3BmdS1JNWJw?oc=5",
+      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "summary": "US Embassy warns of potential flight cancellations due to security situation&nbsp;&nbsp;The Jerusalem Post",
       "source": "Google News Travel"
     }
   ]
