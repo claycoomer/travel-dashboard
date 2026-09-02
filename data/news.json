@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-09-02T08:12:41.758572+00:00",
+  "last_updated": "2026-09-02T15:32:19.008415+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Southwest to Launch Airport Lounges in 2027",
+      "link": "https://skift.com/2026/09/02/southwest-to-launch-airport-lounges-in-2027/",
+      "published": "Wed, 02 Sep 2026 14:24:13 +0000",
+      "summary": "Lounges are the latest step in Southwest\u2019s rapid transformation from a low-cost domestic carrier to a full-service operator.",
+      "source": "Skift"
+    },
+    {
+      "title": "Virgin\u2019s New International Trains Could Cut Emissions, Fares \u2014 and Fuel Its Loyalty Program",
+      "link": "https://skift.com/2026/09/02/virgins-new-international-trains-could-cut-emissions-fares-and-fuel-its-loyalty-program/",
+      "published": "Wed, 02 Sep 2026 14:18:21 +0000",
+      "summary": "Increased competition on the track connecting the UK and continental Europe could be a win for the environment if it pulls travelers off planes, but prices need to be lower. Virgin has another incentive in mind: loyalty points.",
+      "source": "Skift"
+    },
+    {
+      "title": "Ryanair Pulls Winter Capacity and Warns Rivals May Struggle to Survive",
+      "link": "https://skift.com/2026/09/02/ryanair-pulls-winter-capacity-and-warns-rivals-may-struggle-to-survive/",
+      "published": "Wed, 02 Sep 2026 13:37:12 +0000",
+      "summary": "Ryanair has a fuel hedge most airlines would envy, and it&apos;s still cutting unprofitable winter flights. Its more exposed rivals should be nervous.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Economics of Flight Search, Post-Google",
+      "link": "https://skift.com/2026/09/02/the-economics-of-flight-search-post-google/",
+      "published": "Wed, 02 Sep 2026 13:30:00 +0000",
+      "summary": "Skyscanner, Kiwi.com, and Wego built different businesses around the same problem: helping people find flights. Their latest private company filings show what that business is worth after Google \u2014 and what AI may change next.",
+      "source": "Skift"
+    },
+    {
+      "title": "Saudi Tourism Names New CEO As Kingdom Pulls Back On Vision 2030 Spending",
+      "link": "https://skift.com/2026/09/02/saudi-tourism-names-new-ceo-as-kingdom-pulls-back-on-vision-2030-spending/",
+      "published": "Wed, 02 Sep 2026 12:17:09 +0000",
+      "summary": "Ageel Alshaibani inherits a goal of drawing 150 million tourists \u2014 a tough ask now that the Public Investment Fund is pulling back on the giga projects built to draw them.",
+      "source": "Skift"
+    },
+    {
+      "title": "Intrepid Partners With Air Canada Vacations Right as Canada Pushes For More Domestic Travel: Exclusive",
+      "link": "https://skift.com/2026/09/02/intrepid-air-canada-vacations-partner/",
+      "published": "Wed, 02 Sep 2026 12:00:00 +0000",
+      "summary": "The partnership launches as escalating trade tensions have politicians asking Canadians to trade U.S. travel for destinations closer to home.",
+      "source": "Skift"
+    },
+    {
+      "title": "For UAE Short-Term Rentals, Occupancy Is Recovering \u2014 Demand Hasn\u2019t Fully Caught Up",
+      "link": "https://skift.com/2026/09/02/for-uae-short-term-rentals-occupancy-is-recovering-demand-hasnt-fully-caught-up/",
+      "published": "Wed, 02 Sep 2026 10:00:00 +0000",
+      "summary": "Occupancy is recovering faster than demand because supply is shrinking. AirDNA\u2019s Q3 numbers still show bookings running 13% behind last year.",
+      "source": "Skift"
+    },
     {
       "title": "JetBlue Unveils New Domestic First Class Seats as It Hopes to End Losing Streak",
       "link": "https://skift.com/2026/09/01/jetblue-unveils-new-domestic-first-class-seats/",
@@ -14,94 +63,31 @@
       "source": "Skift"
     },
     {
-      "title": "What Happens to a Travel Company Owned by Private Equity for Too Long?",
-      "link": "https://skift.com/2026/09/01/what-happens-to-a-travel-company-owned-by-private-equity-for-too-long/",
-      "published": "Tue, 01 Sep 2026 16:40:38 +0000",
-      "summary": "One of travel&apos;s best tour operators went to market and couldn&apos;t sell. The reasons tell you as much about where the industry is headed as about the company itself.",
-      "source": "Skift"
-    },
-    {
-      "title": "AirDNA Enters Revenue Management Market With Host Dynamic Pricing Tool: Exclusive",
-      "link": "https://skift.com/2026/09/01/airdna-enters-revenue-management-market-with-host-dynamic-pricing-tool-exclusive/",
-      "published": "Tue, 01 Sep 2026 16:35:49 +0000",
-      "summary": "Short-term rental hosts are leaving money on the table if they don&apos;t at least dabble in dynamic pricing. If AirDNA can make the process easier for hosts, then there is a big upside awaiting.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Names Ex-Booking.com Hotel Boss and Tripadvisor Exec as Chief Business Officer",
-      "link": "https://skift.com/2026/09/01/airbnb-names-ex-booking-com-hotel-boss-and-viator-president-as-chief-business-officer/",
-      "published": "Tue, 01 Sep 2026 15:30:00 +0000",
-      "summary": "If Airbnb needs people connections and know-how to scale its boutique hotels business, it found someone with deep experience in Pepijn Rijvers. He also has marketing and tours and activities experience at Booking.com and Viator, respectively.",
-      "source": "Skift"
-    },
-    {
-      "title": "The F&B Strategy That Starts With Winning Over Locals, Not Just Guests",
-      "link": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-      "summary": "As hotel owners look for growth beyond the guest room, restaurants and bars are playing a more central role in how a property attracts locals, builds identity, and generates revenue. Paris Society, part of Ennismore and the wider Accor Group, offers a model for turning F&amp;B ve",
-      "source": "Skift"
-    },
-    {
-      "title": "Vrbo Brings Sponsored Listings to Vacation Rental Search",
-      "link": "https://skift.com/2026/09/01/vrbo-brings-paid-placement-to-vacation-rental-search/",
-      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-      "summary": "For vacation rental managers, Vrbo\u2019s new ad product could unlock more business. The question is whether managers see incremental demand \u2014 or pay more just to stay visible.",
-      "source": "Skift"
-    },
-    {
-      "title": "Fosun Files for ClubMed IPO in Hong Kong",
-      "link": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-      "published": "Mon, 31 Aug 2026 16:50:15 +0000",
-      "summary": "ClubMed&apos;s revenue rose less than 2% last year, suggesting that &quot;premiumization&quot; isn&apos;t delivering pricing power yet. An IPO would generate capital that might help fix that.",
-      "source": "Skift"
-    },
-    {
-      "title": "Marriott Presses Sales Teams on $1.55 Billion \u2018Gap to Goal\u2019 for 2027 Groups",
-      "link": "https://skift.com/2026/08/31/marriott-presses-sales-teams-on-1-55-billion-gap-to-goal-for-2027-groups/",
-      "published": "Mon, 31 Aug 2026 16:10:24 +0000",
-      "summary": "Marriott has given sales teams a year-end stretch goal of $1.55 billion for group bookings for next year at the hotels it manages in the U.S. and Canada. Its global 2027 group sales look &quot;flattish.&quot; Other companies are more upbeat.",
-      "source": "Skift"
-    },
-    {
-      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXowOTE5M0d5bmJEYUctY3RkeTdUWnlOYWhGM3lVNk1KajNHWVBnLXJMNWpKZ252eW16bDZhNjN0UEY5ckdINGNSNmZUeGptU3JoN0dNRFJOS3Y1c21fZkxQRFVfZGFKTGRLX2lzWkNOM0lINWVmUjlYR1FJV19nSA?oc=5",
-      "published": "Wed, 02 Sep 2026 07:28:07 GMT",
-      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
+      "title": "Dubai and Middle East flight disruption: US embassies issue alert to citizens as Kuwait, Bahrain and Jordan intercept missiles - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VickZWWFBuNWRNSkVVNHBwRWtfeElDaUF6ZEhlT3hDbnBZWU9OSkI2dExlNGZkaGVVcG1QVjd2Y1lLOWh1YlF2UVFBU01Xa2NmYjZOY2k0YUJHREZpUHJ4VVhwdmQ4VzFmcVpjczJ6bGhLUEdfb2xQUklMWlBrdXJFWWRFS1Z0Y2EtZ2QwNGRwUGhEaFhScUFPX0I0cW1uamlRTVJQQ2E3MWo2WHM0ekNNZ2NjcHQ4ZEl6MTllRVRDU1NpNjF1eVdMNV9hRUtOWWg1ZWJQV1cxMENhdkRoWVZXTXM5Skstd2g4MDNMWEtIUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 05:56:05 GMT",
+      "summary": "Dubai and Middle East flight disruption: US embassies issue alert to citizens as Kuwait, Bahrain and Jordan intercept missiles&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "US Flight Cancellations and Delays Disrupt Air Travel Network - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2bGliY0wxV0ZWbGkzVHhJalg1SzVoazhDalR0V0JSLWR1R0RsSE9iY2VzcDdyQnYxVHp5WDVPV2lsWWk3OWhnaHViLWlrQ1ZhYkxuU0N4dl9Ta3p0RGFSZ0Y4ZWUyaGxpejNDVU93QUtzR215eXQ5Umhn?oc=5",
-      "published": "Sat, 29 Aug 2026 04:24:24 GMT",
-      "summary": "US Flight Cancellations and Delays Disrupt Air Travel Network&nbsp;&nbsp;Nomad Lawyer",
+      "title": "US Embassy warns citizens of potential for escalation in region - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HYXNWOWhfY3VWTEZXY1VQTlpzNXNhbEhVdWJZbkdPY1R5YXo5MmVZclFXdmlqQlNwVnltRTRldmRmNE5hOFNGMG5MN0IwQmVKeF9ENDNvbi1sU0w0?oc=5",
+      "published": "Tue, 01 Sep 2026 23:21:26 GMT",
+      "summary": "US Embassy warns citizens of potential for escalation in region&nbsp;&nbsp;The Jerusalem Post",
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQclFDODBJSU5MVlhJZmh1MFBmbzNvX3VTX3JKdVcyd1hpbTZhd0N4UWM1MXFYczlQbFJQOTVwSThTNFZpQUppcUtrN0JRZ2pobTJPaWJycXMzWkdNdHhqM3NVbVVHVFdIczdlcVFQSmc5ZTBOLTlLblhFNkpNakRneHlWZHVDNHJIbWhoRmJSN29oRXZlUEdBdXBkeElsaHBXVElyLWhtaTNiRjYxWXF5LUprVVdISXV5VXlES1pHTkRhVVhhWkxfOWhQVkNFRU1hWmVNRG9GUzlKMGp4aGdjMkppQVQ?oc=5",
-      "published": "Mon, 31 Aug 2026 07:55:24 GMT",
-      "summary": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "UAE travel advisory: Which flights are delayed at Abu Dhabi airport? - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVkzcXhWOFJUbFZUY3RwRWhxWldDTWkzUGlWU0d1Z2lUQnhLenRCTU1CcGpneXhUME5uRVVqdWFSb292Y1IxcnYwZnJQM0dobGlicHFuckZxNnZLQ0tSZ0MtbVhQellGZHJfSFRQYmVMNnpvSUNhYWFDRmRXVzVNWmVOdmhlWkE5VEF6YTM0NThhdG00NVJVRzNyRnFRUWJmWnZBOG94dGlCWnQ5N0tOWlNTMHIxUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 05:29:48 GMT",
+      "summary": "UAE travel advisory: Which flights are delayed at Abu Dhabi airport?&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazBuRjZLeWJ1cVBQMmlZd0k4TUl2RTVLM3Z3RlBvdUdobWl5cGZBdkpyazBCSVpkTlVQbzVyY0pFcWo3MUdfc1RIMHFCYnNOSkpyYlg4MUp4NDZKQzFieW5hWEpVbC1oc3FGc2ZEYUlhXzJYNDQ4UkFRN3dMZGhqcThEZFk4ZWE4WnNndDdjSk14VXgwRXRqMFN4M3VCSFlSX1RNdVlXelZpMTdlU3ZvT3FESVVzV011MVYtQVJObGxWWU3SAdcBQVVfeXFMTlJzX2tfRExwc1BnNHRjN09QbnR1TmVmRVZ1Y0dNUjd2VHJDZDZILUY0eXRxalpqenQ2S2RKeUtkcjNxb3N0Z2c3MTNVNF9hZU1Ncm1ybUIwWlY0UTVrMWtYVjlPUEx6aXpFbEFDS1RHQW5lZVVWbFA2TWtPSlQ4V0h4Y3RmNl9WZUp2bXVIS3d2LVd6SnZNYUJRV2FuajhuX3F1blVQR3lOak1uRXlQZWlFaXVIcTFMRE94YVAwMENESTNjNHZpeWtOTWFMbjBWbEVvSnIwWHM?oc=5",
-      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-      "summary": "Travel advisory issued for popular Caribbean destination, and it\u2019s good news for travelers&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVNYN1l4ZXJQbkxRSk1tTGM2ajluUmZ5Nk9IcURRUUJNYjVjVUo2TURqZi1ybVRBR003c2NTaUllQTBmbU1YajFVMHdFY2FMWHg2bnRDZS1xdEZxQm9oWVJkcW9iZlFIZVAxQVdNZmYxWTAyX25HdlA2TDc2aG84RUtOTjlOUlNHcXBVdmhwOTRKNC1Kb0RsNVNrc1ZIMkVhTjJOWnhPUnpYN0F4a0NDTjdzTzMwV3BEOEtqTzhkdUVTeFFoMU1DeXNMLWU5QdIB4AFBVV95cUxOVmdxT0h0Z1dnV2Z2YnF4R0dUcGhHVDR4OHZaSFY0QTdtMUN0MmNYa3JzUmVUYml5VVgyZ3BCRlh1Vkc4bW5zOVoxRVoxVHpqa3V2eWxLdl94TEs4cEJodEZiX3NXU3pSNjhFUVd4LWJrY3pKdDJUX3RreFNhSVlCWWZ5aEwxNzlmNTRYRGRldy1qZVpBMXFheTVnS0cwWWVPWUo4aHdpcFNuMUpDX1ZJYUJlOWtfc3c4TnVuYS1xbFZnSGdhdFV4ckczeFVHRElidFNERUhzS0RfVEFydk5vUw?oc=5",
-      "published": "Mon, 31 Aug 2026 05:44:35 GMT",
-      "summary": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;TheTravel",
+      "title": "\u2018Unforeseen Escalation\u2019: US issues urgent Middle East security alert, warns citizens of travel disruptions - indianexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmlwajllZ2hEbkRaNW5Tdk1BV09YY3BZUVZDcl8wVWNaTENRNklYQllXbkNQZVpSeEpQZER1SnFkSlpEWHA0VUxpOXNsODBpV25GUy0wdUpjSTI3UUlhVHhmbmxjaTJ2SjRraG11QlkwSXhNWEduTlNWRlZfejhMbXNtVUdfczJJbC1KNjhrc0JJWmt5dHo0S1daMzFhM19aMWpBMC1HYnNvSXFBclpFVWl5WDJoZTRJeGJ1SdIBwwFBVV95cUxNWU1RS3ZZSXl0VnZGT2E4Q0ZiV0FvMDVRWWs0UjJfV0VlLXlyMTY3Q2VPSUxpT0VaTHNfNEFTSmlhZzNMWWFESThuY29VRk9VWkpCTm1KUDVVNGEwakVCZFpTM1RMMmR0Mmw3NmFfVGx5VHlSSnNleUN4bk52cUJxQ2MtMTBkcFBZR0lSV1EzTUlIMmV2cVJUNUFiaWZHVm9pTHJRaDR6Y21ET3hJX3ZUTVhab01PMHE5eTNyeV9xVkdhbTg?oc=5",
+      "published": "Wed, 02 Sep 2026 08:11:44 GMT",
+      "summary": "\u2018Unforeseen Escalation\u2019: US issues urgent Middle East security alert, warns citizens of travel disruptions&nbsp;&nbsp;indianexpress.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "title": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjJRb0Z0elR3My1jcE1Xb0QyZnljekhVdjNEWFB3akJXWXh1NFdsVThsdW42RzRGSHZzVUFHM2FvVGE2Zk5GSDFKUE02RVpYbWhWc2RLNkNoMHU1Yk9TXzE3S25wQTdxU1c2RHRwRFgwd25Vem1vOVNyUGY2ZEhVLVhnSENYQW40WWhkNjktYUhmVUVtRm1qYWpveDNtcURTRFBYZFZzYlY5UEFJSHlUcE5pWDNVd1JrQVBYQkdXd9IB0wFBVV95cUxQcGhfNXNTdXdiRmVLTTZBQ0JIckIzamUwbUxocjRXQXFEWkRZa2xrZW8xYTVvMFh4eGJrMDVkN3F0ZGNSaXUxd0QxajBTOXJrQUFOel85V18xRjhiLXpOODZYYmVzeDJBYXBkMjZZWmdkdEVwdnN2V0NieFpZNDM0cHBETERINWhlbEl4clJqb1R5THJPSWFCY0hvNU1ZMkxfb3dXaDdpOGVaQzNuNHNYU2JoWU13V0VFUHhUMG9ma2FDSndXTmVoMnkxWGpIVFZsYUU0?oc=5",
+      "published": "Wed, 26 Aug 2026 11:00:00 GMT",
+      "summary": "Travelers to popular Caribbean destination are in luck with latest advisory: Here\u2019s why&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVNYN1l4ZXJQbkxRSk1tTGM2ajluUmZ5Nk9IcURRUUJNYjVjVUo2TURqZi1ybVRBR003c2NTaUllQTBmbU1YajFVMHdFY2FMWHg2bnRDZS1xdEZxQm9oWVJkcW9iZlFIZVAxQVdNZmYxWTAyX25HdlA2TDc2aG84RUtOTjlOUlNHcXBVdmhwOTRKNC1Kb0RsNVNrc1ZIMkVhTjJOWnhPUnpYN0F4a0NDTjdzTzMwV3BEOEtqTzhkdUVTeFFoMU1DeXNMLWU5QdIB4AFBVV95cUxOVmdxT0h0Z1dnV2Z2YnF4R0dUcGhHVDR4OHZaSFY0QTdtMUN0MmNYa3JzUmVUYml5VVgyZ3BCRlh1Vkc4bW5zOVoxRVoxVHpqa3V2eWxLdl94TEs4cEJodEZiX3NXU3pSNjhFUVd4LWJrY3pKdDJUX3RreFNhSVlCWWZ5aEwxNzlmNTRYRGRldy1qZVpBMXFheTVnS0cwWWVPWUo4aHdpcFNuMUpDX1ZJYUJlOWtfc3c4TnVuYS1xbFZnSGdhdFV4ckczeFVHRElidFNERUhzS0RfVEFydk5vUw?oc=5",
+      "published": "Mon, 31 Aug 2026 05:44:35 GMT",
+      "summary": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXowOTE5M0d5bmJEYUctY3RkeTdUWnlOYWhGM3lVNk1KajNHWVBnLXJMNWpKZ252eW16bDZhNjN0UEY5ckdINGNSNmZUeGptU3JoN0dNRFJOS3Y1c21fZkxQRFVfZGFKTGRLX2lzWkNOM0lINWVmUjlYR1FJV19nSA?oc=5",
+      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     }
   ]
