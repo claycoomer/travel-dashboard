@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-03T08:21:40.267799+00:00",
+  "last_updated": "2026-09-03T15:25:07.582844+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Why Luxury GMs Need a Razor Sharp Point of View",
+      "link": "https://skift.com/2026/09/03/why-luxury-gms-need-a-razor-sharp-point-of-view/",
+      "published": "Thu, 03 Sep 2026 14:51:46 +0000",
+      "summary": "As brands scale and standards spread, the property leader\u2019s most important role is preserving the reason a hotel belongs where it is.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Airports Are Growing Without Blowing Their Climate Goals",
+      "link": "https://skift.com/2026/09/03/how-airports-are-growing-without-blowing-their-climate-goals/",
+      "published": "Thu, 03 Sep 2026 14:38:04 +0000",
+      "summary": "Airports insist that passenger growth and net zero aren\u2019t in conflict but nearly all of their progress is over emissions that they control. The bigger problem, emissions that lie in the supply chain, is starting to gain traction.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Short-Term Rental Model for Shrinking Places",
+      "link": "https://skift.com/2026/09/03/the-short-term-rental-model-for-shrinking-places/",
+      "published": "Thu, 03 Sep 2026 12:17:07 +0000",
+      "summary": "The short-term rental fight was designed for cities running out of homes. A growing number of places face the opposite problem with population decline: too many homes and too few people.",
+      "source": "Skift"
+    },
+    {
+      "title": "Swiggy Has a New Travel Concierge. Can a Food Delivery App Make It Work?",
+      "link": "https://skift.com/2026/09/03/swiggy-has-a-new-travel-concierge-can-a-food-delivery-app-make-it-work/",
+      "published": "Thu, 03 Sep 2026 12:05:25 +0000",
+      "summary": "Travel is full of problems that don&apos;t fit neatly into an app. Swiggy&apos;s Crew is betting it can handle the messy parts.",
+      "source": "Skift"
+    },
     {
       "title": "The Race for Chinese Travel Demand Is Now a Fight to Get on the AI Shortlist",
       "link": "https://skift.com/2026/09/03/the-race-for-chinese-travel-demand-is-now-a-fight-to-get-on-the-ai-shortlist/",
@@ -35,38 +63,31 @@
       "source": "Skift"
     },
     {
-      "title": "Southwest to Launch \u2018at Least\u2019 11 Airport Lounges in Chase Partnership",
-      "link": "https://skift.com/2026/09/02/southwest-to-launch-airport-lounges-in-2027/",
-      "published": "Wed, 02 Sep 2026 14:24:13 +0000",
-      "summary": "Lounges are the latest step in Southwest\u2019s rapid transformation from a low-cost domestic carrier to a full-service operator.",
-      "source": "Skift"
+      "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV240TXpWTEk3UVNkNk1Rd0dYR19ieG1mWk9YY1NlTXpMQy1FX0dXRnZYb3RPLVVfOHhmLUZrMGU3aGNldnI5X1YteXQtanRMYnJndENiNkZSRlhMeFdUb3dROEROMGxubVZ2eXpsR1F4bHpkczlfQm1FNkFxVXE4dlJ4a3JhTnhmc3BpaE9VZlJfaFZjTDdXV0VYX2tDUFRZSzI1VFQtbkNLWXJKZG5nMzRKTdIBxwFBVV95cUxNMFF0dzFvSGJWbDhVT0dhWDg4R3drSXVrazlVb2tXTmRGRWZQMFdKaUcyaWtSdDI5bVd0d3FtUmFjNUtRelF5dFNSQnljMTJzZW5lVWtEcjU2MWxGcnFvU2FiaEFRVTBWVThya1VyUWNYLU80Wm1Wc3E5aFpQSXgweTJGMlItdTBEdHNvdm9qVThlU0hIWDFUNUJ0SVkxcFJNR0V1N2tlVy01RUtCeFh2ZHZObThfVDUzZ3pqSzUwbTJOZ2xPa19n?oc=5",
+      "published": "Thu, 03 Sep 2026 14:41:00 GMT",
+      "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
     },
     {
-      "title": "Virgin\u2019s New International Trains Could Cut Emissions, Fares \u2014 and Fuel Its Loyalty Program",
-      "link": "https://skift.com/2026/09/02/virgins-new-international-trains-could-cut-emissions-fares-and-fuel-its-loyalty-program/",
-      "published": "Wed, 02 Sep 2026 14:18:21 +0000",
-      "summary": "Increased competition on the track connecting the UK and continental Europe could be a win for the environment if it pulls travelers off planes, but prices need to be lower. Virgin has another incentive in mind: loyalty points.",
-      "source": "Skift"
+      "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - PAX News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFLbHRsdzJCUm5GTFl3cmwxZUt1VHJraHJkOU4zWXF5aHBDSGljVFl5aHE4Mk5xU1JKcmdiNzVjVVlwNDVaLUFOSDVHZEducHFoazBveWJqT2NZYkRwMWtIdUVuWFZsU2FCZ0JEZHRRX3d5ajdaTjdNZG5XMmxtVDlSYVQ2MmhLRDRxSGNqaVAyTXVwbE1QeDdlQ1JlU0pLQ2ZuMTRpbjgtZTZqU2c?oc=5",
+      "published": "Thu, 03 Sep 2026 11:11:34 GMT",
+      "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;PAX News",
+      "source": "Google News Travel"
     },
     {
-      "title": "Ryanair Pulls Winter Capacity and Warns Rivals May Struggle to Survive",
-      "link": "https://skift.com/2026/09/02/ryanair-pulls-winter-capacity-and-warns-rivals-may-struggle-to-survive/",
-      "published": "Wed, 02 Sep 2026 13:37:12 +0000",
-      "summary": "Ryanair has a fuel hedge most airlines would envy, and it&apos;s still cutting unprofitable winter flights. Its more exposed rivals should be nervous.",
-      "source": "Skift"
+      "title": "US Embassy warns citizens of potential for escalation in region - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HYXNWOWhfY3VWTEZXY1VQTlpzNXNhbEhVdWJZbkdPY1R5YXo5MmVZclFXdmlqQlNwVnltRTRldmRmNE5hOFNGMG5MN0IwQmVKeF9ENDNvbi1sU0w0?oc=5",
+      "published": "Tue, 01 Sep 2026 23:21:26 GMT",
+      "summary": "US Embassy warns citizens of potential for escalation in region&nbsp;&nbsp;The Jerusalem Post",
+      "source": "Google News Travel"
     },
     {
-      "title": "The Economics of Flight Search, Post-Google",
-      "link": "https://skift.com/2026/09/02/the-economics-of-flight-search-post-google/",
-      "published": "Wed, 02 Sep 2026 13:30:00 +0000",
-      "summary": "Skyscanner, Kiwi.com, and Wego built different businesses around the same problem: helping people find flights. Their latest private company filings show what that business is worth after Google \u2014 and what AI may change next.",
-      "source": "Skift"
-    },
-    {
-      "title": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms - Travel Market Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUxqa1J5LTRvS0VMbmppM1o5dldWV0hOcUVwUDZRUGVYdElQZjl3Ylh6cmpYYk5rYTlBMW5YTUpyMjRJd2lNSjMxcC1Hckl2NXRSM3NocHhKRENUbDNFZWVfOENWZWdzWTRSVnJocnF0eWt2ak1BRHRUNnF0b0oydlJuUWNrZ0hPUVZNSjFYM0tTWnJDVTZFUTJvbEpJYkVQWk5VUG1WeTJjOThkMnB4a3lOOUw3Z1NuSUVuNmJRc0VkRnZOYzlxYnZuaHBmZw?oc=5",
-      "published": "Tue, 01 Sep 2026 17:36:41 GMT",
-      "summary": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms&nbsp;&nbsp;Travel Market Report",
+      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
+      "published": "Thu, 03 Sep 2026 05:53:04 GMT",
+      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
@@ -74,13 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTJUZ2xKVFo5bHltdC00aDhfbWlLY1R0OHluUU1ObDNaUTd1dThFTGpUbGRLNUc5eDVmUk92MzM2LWRxbGg5UVRYWUEwR2ptdjJMZG1YYm91QWJKN0Q1UXlRX05UV1FhaWdkcjBQTUtwRXVWc3VnQ0JHNWZsRTNnaVhxM3B0cjlreE16UElhWEE0V2otVEN1UzNTaGZZQ01ybkpBQ0hGa2RHSkxH?oc=5",
       "published": "Tue, 01 Sep 2026 17:00:15 GMT",
       "summary": "United Airlines Leads U.S. Flight Cancellations As 4 Hubs Face Weather Warning&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXowOTE5M0d5bmJEYUctY3RkeTdUWnlOYWhGM3lVNk1KajNHWVBnLXJMNWpKZ252eW16bDZhNjN0UEY5ckdINGNSNmZUeGptU3JoN0dNRFJOS3Y1c21fZkxQRFVfZGFKTGRLX2lzWkNOM0lINWVmUjlYR1FJV19nSA?oc=5",
-      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to visit Dubai right now? What you need to know about travelling to the UAE - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHF3MDBDZ3VzOGNiWURyb1prS19IMmRELWZtRUUzWWpCZ3E4V0FLNWkyVDJ2TkpaRjVOVk84TFc0by1meG9RaVBBUi1wdlpiaGV6T0JVb2hEUmJINHk5cXh6bzNkU2tzVlNpSHVsRUxTaFBPSUNPb0ZTazlENGxDcmpFNV9PeDN3b3RmcjN1MzFlTEVWN1BRSElaV1hQZ2NOTVhMSFpLMl8yWTBlLTE1ZHhVVWUtSnAzT0lkVmln?oc=5",
-      "published": "Mon, 31 Aug 2026 11:51:48 GMT",
-      "summary": "Is it safe to visit Dubai right now? What you need to know about travelling to the UAE&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVNYN1l4ZXJQbkxRSk1tTGM2ajluUmZ5Nk9IcURRUUJNYjVjVUo2TURqZi1ybVRBR003c2NTaUllQTBmbU1YajFVMHdFY2FMWHg2bnRDZS1xdEZxQm9oWVJkcW9iZlFIZVAxQVdNZmYxWTAyX25HdlA2TDc2aG84RUtOTjlOUlNHcXBVdmhwOTRKNC1Kb0RsNVNrc1ZIMkVhTjJOWnhPUnpYN0F4a0NDTjdzTzMwV3BEOEtqTzhkdUVTeFFoMU1DeXNMLWU5QdIB4AFBVV95cUxOVmdxT0h0Z1dnV2Z2YnF4R0dUcGhHVDR4OHZaSFY0QTdtMUN0MmNYa3JzUmVUYml5VVgyZ3BCRlh1Vkc4bW5zOVoxRVoxVHpqa3V2eWxLdl94TEs4cEJodEZiX3NXU3pSNjhFUVd4LWJrY3pKdDJUX3RreFNhSVlCWWZ5aEwxNzlmNTRYRGRldy1qZVpBMXFheTVnS0cwWWVPWUo4aHdpcFNuMUpDX1ZJYUJlOWtfc3c4TnVuYS1xbFZnSGdhdFV4ckczeFVHRElidFNERUhzS0RfVEFydk5vUw?oc=5",
-      "published": "Mon, 31 Aug 2026 05:44:35 GMT",
-      "summary": "Flying from UAE today? Emirates, Etihad, Air Arabia, flydubai flight delays and cancellations&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
+      "title": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXZNcEZ1eGl1RFNIOW0yMXJTa0FPZ2t3NzNneHJHc3hhSnA2djhzUTA3UU9aNmR6SVRoVzYxYmRIdGVEM1ZHSjU1LU9POG04dVpMcHViQXNPS2t5OURQZHJySHVvdnZNOE10OXNLdThLRW1wYzE4YXk5NHBFa2lYX04waUM?oc=5",
+      "published": "Wed, 26 Aug 2026 13:44:47 GMT",
+      "summary": "Over 775 flights delayed, 52 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     }
   ]
