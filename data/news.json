@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-03T01:56:44.481213+00:00",
+  "last_updated": "2026-09-03T08:21:40.267799+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Race for Chinese Travel Demand Is Now a Fight to Get on the AI Shortlist",
+      "link": "https://skift.com/2026/09/03/the-race-for-chinese-travel-demand-is-now-a-fight-to-get-on-the-ai-shortlist/",
+      "published": "Thu, 03 Sep 2026 04:52:14 +0000",
+      "summary": "Travel marketers have spent decades convincing Chinese travelers to pick them. Now they have to convince AI to mention them.",
+      "source": "Skift"
+    },
     {
       "title": "Skift Global Forum Preview: Amadeus\u2019s President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls",
       "link": "https://skift.com/2026/09/02/skift-global-forum-preview-amadeus-traveler-platform-controls/",
@@ -56,17 +63,38 @@
       "source": "Skift"
     },
     {
-      "title": "Saudi Tourism Names New CEO As Kingdom Pulls Back On Vision 2030 Spending",
-      "link": "https://skift.com/2026/09/02/saudi-tourism-names-new-ceo-as-kingdom-pulls-back-on-vision-2030-spending/",
-      "published": "Wed, 02 Sep 2026 12:17:09 +0000",
-      "summary": "Ageel Alshaibani inherits a goal of drawing 150 million tourists \u2014 a tough ask now that the Public Investment Fund is pulling back on the giga projects built to draw them.",
-      "source": "Skift"
+      "title": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms - Travel Market Report",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUxqa1J5LTRvS0VMbmppM1o5dldWV0hOcUVwUDZRUGVYdElQZjl3Ylh6cmpYYk5rYTlBMW5YTUpyMjRJd2lNSjMxcC1Hckl2NXRSM3NocHhKRENUbDNFZWVfOENWZWdzWTRSVnJocnF0eWt2ak1BRHRUNnF0b0oydlJuUWNrZ0hPUVZNSjFYM0tTWnJDVTZFUTJvbEpJYkVQWk5VUG1WeTJjOThkMnB4a3lOOUw3Z1NuSUVuNmJRc0VkRnZOYzlxYnZuaHBmZw?oc=5",
+      "published": "Tue, 01 Sep 2026 17:36:41 GMT",
+      "summary": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms&nbsp;&nbsp;Travel Market Report",
+      "source": "Google News Travel"
     },
     {
-      "title": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions - nomadlawyer.org",
+      "title": "United Airlines Leads U.S. Flight Cancellations As 4 Hubs Face Weather Warning - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTJUZ2xKVFo5bHltdC00aDhfbWlLY1R0OHluUU1ObDNaUTd1dThFTGpUbGRLNUc5eDVmUk92MzM2LWRxbGg5UVRYWUEwR2ptdjJMZG1YYm91QWJKN0Q1UXlRX05UV1FhaWdkcjBQTUtwRXVWc3VnQ0JHNWZsRTNnaVhxM3B0cjlreE16UElhWEE0V2otVEN1UzNTaGZZQ01ybkpBQ0hGa2RHSkxH?oc=5",
+      "published": "Tue, 01 Sep 2026 17:00:15 GMT",
+      "summary": "United Airlines Leads U.S. Flight Cancellations As 4 Hubs Face Weather Warning&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXowOTE5M0d5bmJEYUctY3RkeTdUWnlOYWhGM3lVNk1KajNHWVBnLXJMNWpKZ252eW16bDZhNjN0UEY5ckdINGNSNmZUeGptU3JoN0dNRFJOS3Y1c21fZkxQRFVfZGFKTGRLX2lzWkNOM0lINWVmUjlYR1FJV19nSA?oc=5",
+      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions - Nomad Lawyer",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMklLUl9tQkw3M01qZDhDdHZpcUtUSzdHWC0yNEZNbzQxSmlfUjlGbkR0dGtITTRFNkttWENsUXVVb3pGRlJnWWxic1ZXU3VzdS1iV0M3TC0yNkd0ODFBbjRTXy1keDRaZHZBOVVzVWcwYUc4d0RkZ29mVzkzQ3g1VEFOeUd6LWliU3FR?oc=5",
       "published": "Mon, 31 Aug 2026 04:13:36 GMT",
-      "summary": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions&nbsp;&nbsp;nomadlawyer.org",
+      "summary": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions&nbsp;&nbsp;Nomad Lawyer",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US warns citizens in Middle East of flight cancellations, disruptions - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmlwajllZ2hEbkRaNW5Tdk1BV09YY3BZUVZDcl8wVWNaTENRNklYQllXbkNQZVpSeEpQZER1SnFkSlpEWHA0VUxpOXNsODBpV25GUy0wdUpjSTI3UUlhVHhmbmxjaTJ2SjRraG11QlkwSXhNWEduTlNWRlZfejhMbXNtVUdfczJJbC1KNjhrc0JJWmt5dHo0S1daMzFhM19aMWpBMC1HYnNvSXFBclpFVWl5WDJoZTRJeGJ1SdIBwwFBVV95cUxNWU1RS3ZZSXl0VnZGT2E4Q0ZiV0FvMDVRWWs0UjJfV0VlLXlyMTY3Q2VPSUxpT0VaTHNfNEFTSmlhZzNMWWFESThuY29VRk9VWkpCTm1KUDVVNGEwakVCZFpTM1RMMmR0Mmw3NmFfVGx5VHlSSnNleUN4bk52cUJxQ2MtMTBkcFBZR0lSV1EzTUlIMmV2cVJUNUFiaWZHVm9pTHJRaDR6Y21ET3hJX3ZUTVhab01PMHE5eTNyeV9xVkdhbTg?oc=5",
+      "published": "Wed, 02 Sep 2026 08:11:44 GMT",
+      "summary": "US warns citizens in Middle East of flight cancellations, disruptions&nbsp;&nbsp;The Indian Express",
       "source": "Google News Travel"
     },
     {
@@ -84,38 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - thetravel.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;thetravel.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19UZnBzN3NFTUYxTWpYd0ZGbmdIck9TclBKUTcxWVJnVVUtM21rTmpXelR5R2E0N3NfRkIwU09vX1YzUmEzbmxLVnVrZ0hlT2l4eFV5eGphOUhPQ2hDNXhyeDk5cjRQbXZPazY3RVBaZkd6ZW5VVWtXS3pfWkhhRDZnWnhCLWNkZzJXLUlhTDlLd3laR0Q2TllHWE5JWjREaHlEb0JkY3JmQnRjUmxKdHZCZmlmOXBmMVozWDdkX3lrMTBSMldz0gHPAUFVX3lxTE8xZHByMUM2S05oZnZjRWZkT3o3ZzNsVmxkVXFGdmJPQmk3d29yZ05ENnBlV0R0aDRXRGVKYzRRQ2lSMHBlcFY0WDZWX05fMElKVU9HTUs1RHVkM0NlT2oxN1hLOUZjYWxLanJlS3BnV3BmcVhwRlJvc0RSS3ZKWDE5aFhZSG14VGxkdmF2bWtTZmZXY25raXlVVUY2ZXMtVXZ2QkZRMWlaZFMzbUprdkJfVmJBekFDOGZwWnA3UzdRZkU0aEFrdG5yaF9DT3lvZw?oc=5",
-      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "summary": "US Issues Travel Advisory For Americans Amid Iran Conflict; Flight Disruptions Possible&nbsp;&nbsp;NDTV Profit",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Flight Cancellations and Delays Disrupt Air Travel Network - nomadlawyer.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2bGliY0wxV0ZWbGkzVHhJalg1SzVoazhDalR0V0JSLWR1R0RsSE9iY2VzcDdyQnYxVHp5WDVPV2lsWWk3OWhnaHViLWlrQ1ZhYkxuU0N4dl9Ta3p0RGFSZ0Y4ZWUyaGxpejNDVU93QUtzR215eXQ5Umhn?oc=5",
-      "published": "Sat, 29 Aug 2026 04:24:24 GMT",
-      "summary": "US Flight Cancellations and Delays Disrupt Air Travel Network&nbsp;&nbsp;nomadlawyer.org",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Dept. warns Americans in Middle East to 'be prepared to depart' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDRSUFl4Z2JlcFFmN19pcS1qbEpET0dHS1drUENPNXpBV1hSaFlyZjVMNzRTTGtZSEZxZklJUTl3X2NIWFNLQjF0RUJMN0lkM2Nmd0dwUURacUtuUDJBQ3Uyc01POE9tdTFta092RUlKVllwRXpsdnM4TTVlZkN6SFQ0eXRjZFlFSXo4ZVhoMzNFaEdrdVp1NWZHWEFOQQ?oc=5",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "summary": "State Dept. warns Americans in Middle East to 'be prepared to depart'&nbsp;&nbsp;USA Today",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Department Issues Worldwide Travel Warning for U.S. Citizens - The Presidential Prayer Team",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVBGOXRGai04aXlaZERKOEE1bnFuc1c2RGxiT1FvZFpLZjUyeC1UMU94a2dmQWZrWWdCWTBIbXIzOFg2ZWZQS2NEbFNwbnpFcGprZW55ckJRbTNFdTFyMGU3V2lYNnkwUWpUSlJSQW0tM1ZwVXZHZUZoSWVILVlaSGJCd3RFWGtvQzl2cEJwZlJhVzE3RzdZb0d5RjBZX2lYZ25MUDdyUGoxUHRqOE9pYmRvbXlNc1k?oc=5",
-      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "summary": "State Department Issues Worldwide Travel Warning for U.S. Citizens&nbsp;&nbsp;The Presidential Prayer Team",
+      "title": "Flight cancellations and airspace closures expected as US raises worldwide security alert - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWF1NXFVZnd5QnVqVThvWnlnRVM5YTV5aUtXQUhBajVJS0JJZm9mQU53Z3RIVlZ5MFp1eS1EbDBDYTFCal9aeHJqQ0t0N2FTMXhZWEozRzg5U0pmQUJqNHJzVEt3V2pCc01QLWhnYkdxaWdFODFYZnlyRExsWWF1ZVZpQjh5QjZnZjcwNVhBUEpJMkVjdW1QLV9Kdm9SalB2dmxhandGSnY1Wl9IanFtVGsxSlVEbWowVENUZVhTc0s?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Flight cancellations and airspace closures expected as US raises worldwide security alert&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     }
   ]
