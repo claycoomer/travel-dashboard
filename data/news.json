@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-04T18:40:12.459694+00:00",
+  "last_updated": "2026-09-04T21:55:35.035337+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Blackstone Plans $7 Billion IPO of Spanish Resort Owner Hotel Investment Partners: Report",
+      "link": "https://skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/",
+      "published": "Fri, 04 Sep 2026 21:22:52 +0000",
+      "summary": "After nearly two years of weighing a sale, the private equity giant is reportedly steering the Barcelona-based owner of hotels and resorts across the Mediterranean toward a Madrid listing this fall.",
+      "source": "Skift"
+    },
+    {
+      "title": "Europe Prepares New Law to Support Cities\u2019 Airbnb Crackdowns",
+      "link": "https://skift.com/2026/09/04/european-commission-short-term-rental-crackdown/",
+      "published": "Fri, 04 Sep 2026 21:21:10 +0000",
+      "summary": "Brussels is looking to advance legislation that would clarify local authorities\u2019 power to crack down on short-term rentals amid Europe&apos;s housing crisis.",
+      "source": "Skift"
+    },
     {
       "title": "Biggest Innovators in Travel and Hospitality: Summer 2026",
       "link": "https://skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/",
@@ -42,45 +56,24 @@
       "source": "Skift"
     },
     {
-      "title": "Air India\u2019s $1.1 Billion Lifeline Comes with Conditions: Reports",
-      "link": "https://skift.com/2026/09/04/air-indias-1-1-billion-lifeline-comes-with-conditions-reports/",
-      "published": "Fri, 04 Sep 2026 09:55:09 +0000",
-      "summary": "Air India&apos;s owners haven&apos;t run out of money. They&apos;ve run out of patience. The $1.1 billion lifeline shows they are still willing to back the airline, but now they want results.",
+      "title": "Fake AI Hotel Videos Are Coming for Travel",
+      "link": "https://skift.com/2026/09/04/fake-ai-hotel-videos-are-coming-for-travel/",
+      "published": "Fri, 04 Sep 2026 07:00:00 +0000",
+      "summary": "Sarah Kopit and Seth Borko break down two travel distribution stories that are really about trust.",
       "source": "Skift"
     },
     {
-      "title": "Amadeus Brings Travel Tech Into Claude",
-      "link": "https://skift.com/2026/09/03/amadeus-brings-travel-tech-into-claude/",
-      "published": "Thu, 03 Sep 2026 23:21:01 +0000",
-      "summary": "Weeks after closing its self-service developer portal, Amadeus revealed that building new ties to connect its travel systems to Claude, both for developers and the travel workforce.",
-      "source": "Skift"
-    },
-    {
-      "title": "Emirates Pushes Premium Economy Upmarket as Business Class Gets Sliced Up",
-      "link": "https://skift.com/2026/09/03/emirates-pushes-premium-economy-upmarket-as-business-class-gets-sliced-up/",
-      "published": "Thu, 03 Sep 2026 17:23:52 +0000",
-      "summary": "Airlines can no longer rely on passenger growth alone, so they&apos;re fighting harder for travelers who will pay more.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjZpVzhsMjktUUJzTjhlMlltQjRrX3hCbkZma1F4ZVk5S08zVG83REpxcXFWTUg3dmpNck9wVmRVLVlmRDdpQnlyMExrdExCaXhRM0luMGtVXzRTMTZwaGZvRzU0MFFRTmF0aFFINklud2RZdWk3aHFIejl2QWdaRnJlOGdaM3JESVhuazJ5cmQtVkl2aDYzSWxkSGhJSld5WHMwQklwckdNT3plWFNpSWNR0gHGAUFVX3lxTFBlUUppcEtJdUNMZDVOMHQzVEdEVkVzWEtMcGFSajI1Z3o1Sm5rLXQxRUZnRWtVZ2dfdzdxOVdtQktPbHBkRDdjWkFFU0RFLUswMVdRSnU2UFVPWEs0UExqaFJjV2hodjYtX0xidl85X0lYWFJ0bUhwOVhIMjItZ3FMSGpXTGJyU2RYcEZNMlQ0LTNIQWNfWGc1N1dLNl9pX0ZseDVEZlVxU00wLS1lWXBhandrMm5sMEJ0R1FrR3F0TGpLUjZRdw?oc=5",
+      "title": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkMwX01iX2FoNy03Wk1JTzV5VmJTTUtENS1fdGRJRlFhSTZneU9oOEIyZ2MyRGJTV0Fpb25sQUNvb0ZtWHgzME9TMWhIOW0xVC1MUmp0WVlsX1BrYmd2ZlVURmhKMEdHd1RvbmRnVDl4RFNubG5vN2RCako1ODhSZkprSWtHWTRGcF90WkJZd1BXaElJSmF5RXB4ajVKM3JxMnoxWlNDNmNIMDJ2bEV0WE9pUEpMRTdMMDFn0gHPAUFVX3lxTFBVMHFfRE9hMGlmYTZyWWVYMDF6eUFxMkxxOWxCQzhkRWg1SklYWk41c0x4Y0N4WXA3ckVNWHZhc1JWT3FwZkZVTTRIYm4wX1k2VzBwazc4MUtLdTZzVml1X3JZUmF4VGNtUXJxcmlQSUJsT1JBYllRWVZXNk12WXY4c1NwQ1RLYzlDdGVjbm9pNy1yTWlOODdwU3duVGtzMDIzTUxRZ2ljSk1QQmF6WHhQc2tOd3Z6b2RLMm9xUGlkUnZoRVpDNXZCWUhlblpySQ?oc=5",
       "published": "Fri, 04 Sep 2026 14:43:00 GMT",
-      "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month - Cond\u00e9 Nast Traveller India",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajl1OC03b09aQUw0VzIxV29xLUZqRmFSVWhRNzZ6WFNiOG5aTFpQaFR2VUhNM2RMMEUzWjJlN0lBYkc1Y1dja3J3ZXczU244RmhzZDd6Y0xycnVzQmxFZWxPLUdsaFhPQWY5S2Q1RmFBXzFhX3lrbkU1SF81NWdzenc2V29zeHlFWU0tc1JGc2lRVVk2UWswbDNGUWJ0M2I2NF9SNEswM0tkQnJpNG55dDM2RjhDVDJkSHprUGQ1eFNTc2YzTGl2cXhMQWs?oc=5",
-      "published": "Fri, 04 Sep 2026 11:30:00 GMT",
-      "summary": "Dubai and Middle East flight disruption: UAE intercepts Iranian drone as US and Iran exchange first fire in a month&nbsp;&nbsp;Cond\u00e9 Nast Traveller India",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
-      "published": "Thu, 03 Sep 2026 23:59:53 GMT",
-      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
+      "title": "Dubai and Middle East flight disruption: US embassies issue alert to citizens as Kuwait, Bahrain and Jordan intercept missiles - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VickZWWFBuNWRNSkVVNHBwRWtfeElDaUF6ZEhlT3hDbnBZWU9OSkI2dExlNGZkaGVVcG1QVjd2Y1lLOWh1YlF2UVFBU01Xa2NmYjZOY2k0YUJHREZpUHJ4VVhwdmQ4VzFmcVpjczJ6bGhLUEdfb2xQUklMWlBrdXJFWWRFS1Z0Y2EtZ2QwNGRwUGhEaFhScUFPX0I0cW1uamlRTVJQQ2E3MWo2WHM0ekNNZ2NjcHQ4ZEl6MTllRVRDU1NpNjF1eVdMNV9hRUtOWWg1ZWJQV1cxMENhdkRoWVZXTXM5Skstd2g4MDNMWEtIUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 05:56:05 GMT",
+      "summary": "Dubai and Middle East flight disruption: US embassies issue alert to citizens as Kuwait, Bahrain and Jordan intercept missiles&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - paxnews.com",
+      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
+      "published": "Thu, 03 Sep 2026 23:59:53 GMT",
+      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - PAX News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFLbHRsdzJCUm5GTFl3cmwxZUt1VHJraHJkOU4zWXF5aHBDSGljVFl5aHE4Mk5xU1JKcmdiNzVjVVlwNDVaLUFOSDVHZEducHFoazBveWJqT2NZYkRwMWtIdUVuWFZsU2FCZ0JEZHRRX3d5ajdaTjdNZG5XMmxtVDlSYVQ2MmhLRDRxSGNqaVAyTXVwbE1QeDdlQ1JlU0pLQ2ZuMTRpbjgtZTZqU2c?oc=5",
       "published": "Thu, 03 Sep 2026 11:11:34 GMT",
-      "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;paxnews.com",
+      "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;PAX News",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE travel advisory: Which flights are delayed at Abu Dhabi airport? - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVkzcXhWOFJUbFZUY3RwRWhxWldDTWkzUGlWU0d1Z2lUQnhLenRCTU1CcGpneXhUME5uRVVqdWFSb292Y1IxcnYwZnJQM0dobGlicHFuckZxNnZLQ0tSZ0MtbVhQellGZHJfSFRQYmVMNnpvSUNhYWFDRmRXVzVNWmVOdmhlWkE5VEF6YTM0NThhdG00NVJVRzNyRnFRUWJmWnZBOG94dGlCWnQ5N0tOWlNTMHIxUQ?oc=5",
-      "published": "Wed, 02 Sep 2026 05:29:48 GMT",
-      "summary": "UAE travel advisory: Which flights are delayed at Abu Dhabi airport?&nbsp;&nbsp;thenationalnews.com",
+      "title": "US warns citizens in Middle East of flight cancellations, disruptions - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmlwajllZ2hEbkRaNW5Tdk1BV09YY3BZUVZDcl8wVWNaTENRNklYQllXbkNQZVpSeEpQZER1SnFkSlpEWHA0VUxpOXNsODBpV25GUy0wdUpjSTI3UUlhVHhmbmxjaTJ2SjRraG11QlkwSXhNWEduTlNWRlZfejhMbXNtVUdfczJJbC1KNjhrc0JJWmt5dHo0S1daMzFhM19aMWpBMC1HYnNvSXFBclpFVWl5WDJoZTRJeGJ1SdIBwwFBVV95cUxNWU1RS3ZZSXl0VnZGT2E4Q0ZiV0FvMDVRWWs0UjJfV0VlLXlyMTY3Q2VPSUxpT0VaTHNfNEFTSmlhZzNMWWFESThuY29VRk9VWkpCTm1KUDVVNGEwakVCZFpTM1RMMmR0Mmw3NmFfVGx5VHlSSnNleUN4bk52cUJxQ2MtMTBkcFBZR0lSV1EzTUlIMmV2cVJUNUFiaWZHVm9pTHJRaDR6Y21ET3hJX3ZUTVhab01PMHE5eTNyeV9xVkdhbTg?oc=5",
+      "published": "Wed, 02 Sep 2026 08:11:44 GMT",
+      "summary": "US warns citizens in Middle East of flight cancellations, disruptions&nbsp;&nbsp;The Indian Express",
       "source": "Google News Travel"
     }
   ]
