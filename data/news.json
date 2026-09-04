@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-04T08:17:42.851068+00:00",
+  "last_updated": "2026-09-04T15:21:54.937792+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Could AI Agents Turn the Time Between Trips Into a Revenue Channel?",
+      "link": "https://skift.com/2026/09/04/ai-agents-travel-customer-lifecycle/",
+      "published": "Fri, 04 Sep 2026 12:30:00 +0000",
+      "summary": "AI agents are helping airlines and other travel companies stay connected with customers throughout the journey. By retaining context and acting on signals over time, they could turn isolated service interactions into a more persistent source of loyalty, direct bookings, and reven",
+      "source": "Skift"
+    },
+    {
+      "title": "BRICS Summit Pushes Delhi Hotel Rates Up 4x as Room Supply Tightens",
+      "link": "https://skift.com/2026/09/04/brics-summit-pushes-delhi-hotel-rates-up-4x-as-room-supply-tightens/",
+      "published": "Fri, 04 Sep 2026 12:25:44 +0000",
+      "summary": "Major events can send hotel rates sharply higher. But Delhi\u2019s BRICS spike also shows how quickly hotel supply can get squeezed when demand arrives all at once.",
+      "source": "Skift"
+    },
+    {
+      "title": "Qatar\u2019s Arrivals Are Down 30% This Year \u2014 Its Recovery Now Rests on F1",
+      "link": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
+      "published": "Fri, 04 Sep 2026 11:40:22 +0000",
+      "summary": "Arrivals are still down a third from last year. Qatar\u2019s answer, as it was for the World Cup, is another mega event on the calendar.",
+      "source": "Skift"
+    },
+    {
+      "title": "Air India\u2019s $1.1 Billion Lifeline Comes with Conditions: Reports",
+      "link": "https://skift.com/2026/09/04/air-indias-1-1-billion-lifeline-comes-with-conditions-reports/",
+      "published": "Fri, 04 Sep 2026 09:55:09 +0000",
+      "summary": "Air India&apos;s owners haven&apos;t run out of money. They&apos;ve run out of patience. The $1.1 billion lifeline shows they are still willing to back the airline, but now they want results.",
+      "source": "Skift"
+    },
     {
       "title": "Amadeus Brings Travel Tech Into Claude",
       "link": "https://skift.com/2026/09/03/amadeus-brings-travel-tech-into-claude/",
@@ -35,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "The Short-Term Rental Model for Shrinking Places",
-      "link": "https://skift.com/2026/09/03/the-short-term-rental-model-for-shrinking-places/",
-      "published": "Thu, 03 Sep 2026 12:17:07 +0000",
-      "summary": "The short-term rental fight was designed for cities running out of homes. A growing number of places face the opposite problem with population decline: too many homes and too few people.",
-      "source": "Skift"
-    },
-    {
-      "title": "Swiggy Has a New Travel Concierge. Can a Food Delivery App Make It Work?",
-      "link": "https://skift.com/2026/09/03/swiggy-has-a-new-travel-concierge-can-a-food-delivery-app-make-it-work/",
-      "published": "Thu, 03 Sep 2026 12:05:25 +0000",
-      "summary": "Travel is full of problems that don&apos;t fit neatly into an app. Swiggy&apos;s Crew is betting it can handle the messy parts.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Race for Chinese Travel Demand Is Now a Fight to Get on the AI Shortlist",
-      "link": "https://skift.com/2026/09/03/the-race-for-chinese-travel-demand-is-now-a-fight-to-get-on-the-ai-shortlist/",
-      "published": "Thu, 03 Sep 2026 04:52:14 +0000",
-      "summary": "Travel marketers have spent decades convincing Chinese travelers to pick them. Now they have to convince AI to mention them.",
-      "source": "Skift"
-    },
-    {
-      "title": "Skift Global Forum Preview: Amadeus\u2019s President of Travel on Why the Traveler, Not the Platform, Should Hold the Controls",
-      "link": "https://skift.com/2026/09/02/skift-global-forum-preview-amadeus-traveler-platform-controls/",
-      "published": "Wed, 02 Sep 2026 17:50:56 +0000",
-      "summary": "Decius Valmorbida thinks the industry competes too hard on closed ecosystems and cooperates too little on the plumbing. His bet: open, shared foundations grow the pie for everyone. We&apos;ll test whether rivals actually build them together at Skift Global Forum this September.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV240TXpWTEk3UVNkNk1Rd0dYR19ieG1mWk9YY1NlTXpMQy1FX0dXRnZYb3RPLVVfOHhmLUZrMGU3aGNldnI5X1YteXQtanRMYnJndENiNkZSRlhMeFdUb3dROEROMGxubVZ2eXpsR1F4bHpkczlfQm1FNkFxVXE4dlJ4a3JhTnhmc3BpaE9VZlJfaFZjTDdXV0VYX2tDUFRZSzI1VFQtbkNLWXJKZG5nMzRKTdIBxwFBVV95cUxNMFF0dzFvSGJWbDhVT0dhWDg4R3drSXVrazlVb2tXTmRGRWZQMFdKaUcyaWtSdDI5bVd0d3FtUmFjNUtRelF5dFNSQnljMTJzZW5lVWtEcjU2MWxGcnFvU2FiaEFRVTBWVThya1VyUWNYLU80Wm1Wc3E5aFpQSXgweTJGMlItdTBEdHNvdm9qVThlU0hIWDFUNUJ0SVkxcFJNR0V1N2tlVy01RUtCeFh2ZHZObThfVDUzZ3pqSzUwbTJOZ2xPa19n?oc=5",
-      "published": "Thu, 03 Sep 2026 14:41:00 GMT",
-      "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions - nj.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjZpVzhsMjktUUJzTjhlMlltQjRrX3hCbkZma1F4ZVk5S08zVG83REpxcXFWTUg3dmpNck9wVmRVLVlmRDdpQnlyMExrdExCaXhRM0luMGtVXzRTMTZwaGZvRzU0MFFRTmF0aFFINklud2RZdWk3aHFIejl2QWdaRnJlOGdaM3JESVhuazJ5cmQtVkl2aDYzSWxkSGhJSld5WHMwQklwckdNT3plWFNpSWNR0gHGAUFVX3lxTFBlUUppcEtJdUNMZDVOMHQzVEdEVkVzWEtMcGFSajI1Z3o1Sm5rLXQxRUZnRWtVZ2dfdzdxOVdtQktPbHBkRDdjWkFFU0RFLUswMVdRSnU2UFVPWEs0UExqaFJjV2hodjYtX0xidl85X0lYWFJ0bUhwOVhIMjItZ3FMSGpXTGJyU2RYcEZNMlQ0LTNIQWNfWGc1N1dLNl9pX0ZseDVEZlVxU00wLS1lWXBhandrMm5sMEJ0R1FrR3F0TGpLUjZRdw?oc=5",
+      "published": "Fri, 04 Sep 2026 14:43:00 GMT",
+      "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
@@ -77,13 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Embassy warns citizens of potential for escalation in region - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HYXNWOWhfY3VWTEZXY1VQTlpzNXNhbEhVdWJZbkdPY1R5YXo5MmVZclFXdmlqQlNwVnltRTRldmRmNE5hOFNGMG5MN0IwQmVKeF9ENDNvbi1sU0w0?oc=5",
-      "published": "Tue, 01 Sep 2026 23:21:26 GMT",
-      "summary": "US Embassy warns citizens of potential for escalation in region&nbsp;&nbsp;The Jerusalem Post",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Dubai and Middle East flight disruption: US embassies issue alert to citizens as Kuwait, Bahrain and Jordan intercept missiles - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3VickZWWFBuNWRNSkVVNHBwRWtfeElDaUF6ZEhlT3hDbnBZWU9OSkI2dExlNGZkaGVVcG1QVjd2Y1lLOWh1YlF2UVFBU01Xa2NmYjZOY2k0YUJHREZpUHJ4VVhwdmQ4VzFmcVpjczJ6bGhLUEdfb2xQUklMWlBrdXJFWWRFS1Z0Y2EtZ2QwNGRwUGhEaFhScUFPX0I0cW1uamlRTVJQQ2E3MWo2WHM0ekNNZ2NjcHQ4ZEl6MTllRVRDU1NpNjF1eVdMNV9hRUtOWWg1ZWJQV1cxMENhdkRoWVZXTXM5Skstd2g4MDNMWEtIUQ?oc=5",
       "published": "Wed, 02 Sep 2026 05:56:05 GMT",
@@ -91,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - PAX News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFLbHRsdzJCUm5GTFl3cmwxZUt1VHJraHJkOU4zWXF5aHBDSGljVFl5aHE4Mk5xU1JKcmdiNzVjVVlwNDVaLUFOSDVHZEducHFoazBveWJqT2NZYkRwMWtIdUVuWFZsU2FCZ0JEZHRRX3d5ajdaTjdNZG5XMmxtVDlSYVQ2MmhLRDRxSGNqaVAyTXVwbE1QeDdlQ1JlU0pLQ2ZuMTRpbjgtZTZqU2c?oc=5",
-      "published": "Thu, 03 Sep 2026 11:11:34 GMT",
-      "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;PAX News",
+      "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZlZETVNkSW5wdjRxdzREeWRoUml2MHdkUjB0UlZwcFhJeExKS0xGV2lTVmM3Z2djZEhVVjdlbjhfdHZqaXQ2TmNoUlRrWjJySmc1cFZhLUpOd2QzVTVENllPeFVkT0FTczBHVDlqYnVnSEhmZmFKQUpfZFhqWjFSMVdhWlJyUnVRUkdsYlZ6eXBBaGVCb2s4eGlRbkJvbFlldC1BUnVoYzN6QVF4U3BIa3ZZbGo4MmhadFRHLTYtN1otSTlTcFE5Z2NsZkxvamfSAc8BQVVfeXFMUGZWRE1TZElucHY0cXc0RHlkaFJpdjB3ZFIwdFJWcHBYSXhMSktMRldpU1ZjN2dnY2RIVVY3ZW44X3R2aml0Nk5jaFJUa1oyckpnNXBWYS1KTndkM1U1RDZZT3hVZE9BU3MwR1Q5amJ1Z0hIZmZhSkFKX2RYaloxUjFXYVpSclJ1UVJHbGJWenlwQWhlQm9rOHhpUW5Cb2xZZXQtQVJ1aGMzekFReFNwSGt2WWxqODJoWnRURy02LTdaLUk5U3BROWdjbGZMb2pn?oc=5",
+      "published": "Thu, 03 Sep 2026 14:41:00 GMT",
+      "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;PennLive.com",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms - Travel Market Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUxqa1J5LTRvS0VMbmppM1o5dldWV0hOcUVwUDZRUGVYdElQZjl3Ylh6cmpYYk5rYTlBMW5YTUpyMjRJd2lNSjMxcC1Hckl2NXRSM3NocHhKRENUbDNFZWVfOENWZWdzWTRSVnJocnF0eWt2ak1BRHRUNnF0b0oydlJuUWNrZ0hPUVZNSjFYM0tTWnJDVTZFUTJvbEpJYkVQWk5VUG1WeTJjOThkMnB4a3lOOUw3Z1NuSUVuNmJRc0VkRnZOYzlxYnZuaHBmZw?oc=5",
-      "published": "Tue, 01 Sep 2026 17:36:41 GMT",
-      "summary": "Flight Cancellations and Delays Mount Across Northeast Hubs Amid Severe Thunderstorms&nbsp;&nbsp;Travel Market Report",
+      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - nj.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmt0VWZzZ0ZNZ0JWTzFFeEYwc05wRUVYWlJvQ0k3d3dwRl9qeFdJQ3lyaVYteEFFSFBWVXdhcHZaak1rYWJLTWxWQ2p3MWFBYjY0dVQwdUlfSEtEY1RkMDR3NWMxUmlUbnd4S05DRVRGUk9fbGRXXy1HaGZCLXlfVUhtZ3NpV0t4RnRFLWF4VFdOaTdQXzdEX3FHMl9FU2RUSnY4Yl9QZkxCY0d3UnhsY0V30gHGAUFVX3lxTFB3STFXUVNmSGtMMmdRVFBjYWdUYk1kaTZNVlpSR2t1aFFmb05UTi03Uy05YS1TNUJZSlRjS1FaSGtRUGEyWkFabUxpTVlrejhPOEstMTdGSlhDWnlPSExTV3JQX2xYaTNSYzMzZHNENkZOZ1h4U2YyTEdoLWhCZXF1SGQ2Q2RlckprQXBMRTBpR0duQllzdVRNaEo1eFdXWm1fTWdycTFJMTdJd3FDejRISHdKNXhKRW9NWWs1ZXJoMWN6NEJydw?oc=5",
+      "published": "Wed, 02 Sep 2026 14:49:00 GMT",
+      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmt0VWZzZ0ZNZ0JWTzFFeEYwc05wRUVYWlJvQ0k3d3dwRl9qeFdJQ3lyaVYteEFFSFBWVXdhcHZaak1rYWJLTWxWQ2p3MWFBYjY0dVQwdUlfSEtEY1RkMDR3NWMxUmlUbnd4S05DRVRGUk9fbGRXXy1HaGZCLXlfVUhtZ3NpV0t4RnRFLWF4VFdOaTdQXzdEX3FHMl9FU2RUSnY4Yl9QZkxCY0d3UnhsY0V30gHGAUFVX3lxTFB3STFXUVNmSGtMMmdRVFBjYWdUYk1kaTZNVlpSR2t1aFFmb05UTi03Uy05YS1TNUJZSlRjS1FaSGtRUGEyWkFabUxpTVlrejhPOEstMTdGSlhDWnlPSExTV3JQX2xYaTNSYzMzZHNENkZOZ1h4U2YyTEdoLWhCZXF1SGQ2Q2RlckprQXBMRTBpR0duQllzdVRNaEo1eFdXWm1fTWdycTFJMTdJd3FDejRISHdKNXhKRW9NWWs1ZXJoMWN6NEJydw?oc=5",
-      "published": "Wed, 02 Sep 2026 14:49:00 GMT",
-      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - PAX News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFLbHRsdzJCUm5GTFl3cmwxZUt1VHJraHJkOU4zWXF5aHBDSGljVFl5aHE4Mk5xU1JKcmdiNzVjVVlwNDVaLUFOSDVHZEducHFoazBveWJqT2NZYkRwMWtIdUVuWFZsU2FCZ0JEZHRRX3d5ajdaTjdNZG5XMmxtVDlSYVQ2MmhLRDRxSGNqaVAyTXVwbE1QeDdlQ1JlU0pLQ2ZuMTRpbjgtZTZqU2c?oc=5",
+      "published": "Thu, 03 Sep 2026 11:11:34 GMT",
+      "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;PAX News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXowOTE5M0d5bmJEYUctY3RkeTdUWnlOYWhGM3lVNk1KajNHWVBnLXJMNWpKZ252eW16bDZhNjN0UEY5ckdINGNSNmZUeGptU3JoN0dNRFJOS3Y1c21fZkxQRFVfZGFKTGRLX2lzWkNOM0lINWVmUjlYR1FJV19nSA?oc=5",
+      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     }
   ]
