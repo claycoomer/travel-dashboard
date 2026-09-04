@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-03T21:58:45.688985+00:00",
+  "last_updated": "2026-09-04T01:50:48.760663+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Amadeus Brings Travel Tech Into Claude",
+      "link": "https://skift.com/2026/09/03/amadeus-brings-travel-tech-into-claude/",
+      "published": "Thu, 03 Sep 2026 23:21:01 +0000",
+      "summary": "Weeks after closing its self-service developer portal, Amadeus revealed that building new ties to connect its travel systems to Claude, both for developers and the travel workforce.",
+      "source": "Skift"
+    },
     {
       "title": "Emirates Pushes Premium Economy Upmarket as Business Class Gets Sliced Up",
       "link": "https://skift.com/2026/09/03/emirates-pushes-premium-economy-upmarket-as-business-class-gets-sliced-up/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Travel Execs Push Trump for 100 Million+ International Visitors by 2030",
-      "link": "https://skift.com/2026/09/02/travel-execs-meet-trump-white-house/",
-      "published": "Wed, 02 Sep 2026 17:40:36 +0000",
-      "summary": "The meeting comes on the heels of the World Cup tournament and follows four consecutive months of inbound travel declines.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV240TXpWTEk3UVNkNk1Rd0dYR19ieG1mWk9YY1NlTXpMQy1FX0dXRnZYb3RPLVVfOHhmLUZrMGU3aGNldnI5X1YteXQtanRMYnJndENiNkZSRlhMeFdUb3dROEROMGxubVZ2eXpsR1F4bHpkczlfQm1FNkFxVXE4dlJ4a3JhTnhmc3BpaE9VZlJfaFZjTDdXV0VYX2tDUFRZSzI1VFQtbkNLWXJKZG5nMzRKTdIBxwFBVV95cUxNMFF0dzFvSGJWbDhVT0dhWDg4R3drSXVrazlVb2tXTmRGRWZQMFdKaUcyaWtSdDI5bVd0d3FtUmFjNUtRelF5dFNSQnljMTJzZW5lVWtEcjU2MWxGcnFvU2FiaEFRVTBWVThya1VyUWNYLU80Wm1Wc3E5aFpQSXgweTJGMlItdTBEdHNvdm9qVThlU0hIWDFUNUJ0SVkxcFJNR0V1N2tlVy01RUtCeFh2ZHZObThfVDUzZ3pqSzUwbTJOZ2xPa19n?oc=5",
       "published": "Thu, 03 Sep 2026 14:41:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLU5LUXhCekM1RnlXM3RfMllreXFyVG5adHJQMlhPZDVTVXdvSk02YWVVVC1nRTZhRFE0RGtvZEhSRGhpNFpTTW11Nm9salRJTWZaNWh1R2NUSnptOFhCcDRrZTJJc0FGeTdVbElyR3ItYWdpb1B0TmJvNzVTYnZzcHUzQ0w1Z1BsaGpRSmNtTjZEcldkVkNVb0JDeHdtY3RtaHdBQWNESXlzS2g3d3lCUlhrODNOS2hQVlhFVlhhcmhxRjVReVdkQVpIMGdXdmhGRmpSM1ZkZzgzMzJxVlVscmg1Z2hWbkRHcjN6dU0zYmtXR29u?oc=5",
-      "published": "Thu, 03 Sep 2026 08:14:14 GMT",
-      "summary": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
+      "published": "Thu, 03 Sep 2026 23:59:53 GMT",
+      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region - cntravellerme.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLU5LUXhCekM1RnlXM3RfMllreXFyVG5adHJQMlhPZDVTVXdvSk02YWVVVC1nRTZhRFE0RGtvZEhSRGhpNFpTTW11Nm9salRJTWZaNWh1R2NUSnptOFhCcDRrZTJJc0FGeTdVbElyR3ItYWdpb1B0TmJvNzVTYnZzcHUzQ0w1Z1BsaGpRSmNtTjZEcldkVkNVb0JDeHdtY3RtaHdBQWNESXlzS2g3d3lCUlhrODNOS2hQVlhFVlhhcmhxRjVReVdkQVpIMGdXdmhGRmpSM1ZkZzgzMzJxVlVscmg1Z2hWbkRHcjN6dU0zYmtXR29u?oc=5",
+      "published": "Thu, 03 Sep 2026 08:14:14 GMT",
+      "summary": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region&nbsp;&nbsp;cntravellerme.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts - PAX News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFLbHRsdzJCUm5GTFl3cmwxZUt1VHJraHJkOU4zWXF5aHBDSGljVFl5aHE4Mk5xU1JKcmdiNzVjVVlwNDVaLUFOSDVHZEducHFoazBveWJqT2NZYkRwMWtIdUVuWFZsU2FCZ0JEZHRRX3d5ajdaTjdNZG5XMmxtVDlSYVQ2MmhLRDRxSGNqaVAyTXVwbE1QeDdlQ1JlU0pLQ2ZuMTRpbjgtZTZqU2c?oc=5",
       "published": "Thu, 03 Sep 2026 11:11:34 GMT",
       "summary": "Toronto storm recovery, U.S. thunderstorms trigger Air Canada travel alerts&nbsp;&nbsp;PAX News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
-      "published": "Thu, 03 Sep 2026 05:53:04 GMT",
-      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMklLUl9tQkw3M01qZDhDdHZpcUtUSzdHWC0yNEZNbzQxSmlfUjlGbkR0dGtITTRFNkttWENsUXVVb3pGRlJnWWxic1ZXU3VzdS1iV0M3TC0yNkd0ODFBbjRTXy1keDRaZHZBOVVzVWcwYUc4d0RkZ29mVzkzQ3g1VEFOeUd6LWliU3FR?oc=5",
-      "published": "Mon, 31 Aug 2026 04:13:36 GMT",
-      "summary": "U.S. Issues Level 3 Travel Advisory for Israel Citing Security Risks and Border Restrictions&nbsp;&nbsp;Nomad Lawyer",
+      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmt0VWZzZ0ZNZ0JWTzFFeEYwc05wRUVYWlJvQ0k3d3dwRl9qeFdJQ3lyaVYteEFFSFBWVXdhcHZaak1rYWJLTWxWQ2p3MWFBYjY0dVQwdUlfSEtEY1RkMDR3NWMxUmlUbnd4S05DRVRGUk9fbGRXXy1HaGZCLXlfVUhtZ3NpV0t4RnRFLWF4VFdOaTdQXzdEX3FHMl9FU2RUSnY4Yl9QZkxCY0d3UnhsY0V30gHGAUFVX3lxTFB3STFXUVNmSGtMMmdRVFBjYWdUYk1kaTZNVlpSR2t1aFFmb05UTi03Uy05YS1TNUJZSlRjS1FaSGtRUGEyWkFabUxpTVlrejhPOEstMTdGSlhDWnlPSExTV3JQX2xYaTNSYzMzZHNENkZOZ1h4U2YyTEdoLWhCZXF1SGQ2Q2RlckprQXBMRTBpR0duQllzdVRNaEo1eFdXWm1fTWdycTFJMTdJd3FDejRISHdKNXhKRW9NWWs1ZXJoMWN6NEJydw?oc=5",
+      "published": "Wed, 02 Sep 2026 14:49:00 GMT",
+      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
