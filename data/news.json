@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T14:33:36.361780+00:00",
+  "last_updated": "2026-09-06T17:51:04.293477+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -77,10 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - travelpulse.com",
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;travelpulse.com",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLU5LUXhCekM1RnlXM3RfMllreXFyVG5adHJQMlhPZDVTVXdvSk02YWVVVC1nRTZhRFE0RGtvZEhSRGhpNFpTTW11Nm9salRJTWZaNWh1R2NUSnptOFhCcDRrZTJJc0FGeTdVbElyR3ItYWdpb1B0TmJvNzVTYnZzcHUzQ0w1Z1BsaGpRSmNtTjZEcldkVkNVb0JDeHdtY3RtaHdBQWNESXlzS2g3d3lCUlhrODNOS2hQVlhFVlhhcmhxRjVReVdkQVpIMGdXdmhGRmpSM1ZkZzgzMzJxVlVscmg1Z2hWbkRHcjN6dU0zYmtXR29u?oc=5",
+      "published": "Thu, 03 Sep 2026 08:14:14 GMT",
+      "summary": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -88,20 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
       "published": "Thu, 03 Sep 2026 23:59:53 GMT",
       "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region - cntravellerme.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLU5LUXhCekM1RnlXM3RfMllreXFyVG5adHJQMlhPZDVTVXdvSk02YWVVVC1nRTZhRFE0RGtvZEhSRGhpNFpTTW11Nm9salRJTWZaNWh1R2NUSnptOFhCcDRrZTJJc0FGeTdVbElyR3ItYWdpb1B0TmJvNzVTYnZzcHUzQ0w1Z1BsaGpRSmNtTjZEcldkVkNVb0JDeHdtY3RtaHdBQWNESXlzS2g3d3lCUlhrODNOS2hQVlhFVlhhcmhxRjVReVdkQVpIMGdXdmhGRmpSM1ZkZzgzMzJxVlVscmg1Z2hWbkRHcjN6dU0zYmtXR29u?oc=5",
-      "published": "Thu, 03 Sep 2026 08:14:14 GMT",
-      "summary": "Dubai and Middle East flight disruption: Kuwait faces \u2018heinous\u2019 Iranian drone and missile fire, impacting air travel in the region&nbsp;&nbsp;cntravellerme.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to visit Dubai right now? What you need to know about travelling to the UAE - Cond\u00e9 Nast Traveller India",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE14by1pYjdTcks0clRra2UtamlGWEJ3V0Y4b3hkN0MtRFdsQjQtcDVfc21ibFc3dUtBS1k0bUd0RkFUUXBpeFZqeDJKQThiZE9IVFVGTXRwcmRoTlB0U2tuSGY1QUplcjZOSF9sc0RfdkprVHBTUjZKMzFHUF83bnFqb0NzdU9Udnl1czJEMTNqYV9wSDJDZGFqUV9jc2F6X1lmTDVwbzFCbHdZOElabFgtdjctY2t2T1hOdDJwQktLTlk?oc=5",
-      "published": "Sun, 06 Sep 2026 08:30:00 GMT",
-      "summary": "Is it safe to visit Dubai right now? What you need to know about travelling to the UAE&nbsp;&nbsp;Cond\u00e9 Nast Traveller India",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2pBcDZzNFBMSmxURXVqbFVlSHg5TGhSdlBMX3QxeTluTUdSdURqQXJnbWFvaHFVOFZIYmN5M3RRTlA4SjB0c3VMdzg3VUU1aHVkQVNTSWFBRFNKN0lPZldRTTJyZ0c5UnJyc05iTXB6Wld2OWVsc0NnTmVWU05nelBpSkd1UkVNYlpnQkpSbWhaNENSZllZX2UyZ2VxdnJlT2FlbWU0RENJZ0pGYklVWHFRTdIBxwFBVV95cUxNSDlDMlpIVkl5R3RlZ0t3d0JheWZKZXFGSGwybkI3QTZOdWY1aVpIclpvNE5nei05VWwwcnNYcmhxOWxlYW5sU09QNVlGTjlEcktKVktDNDQyS2FrNHkyT0pLREwzbWZFWjNIUTdlY1duUmtTaW9iLVIzdVFZamRTTHlKaFZPQlBvSjBwU1JYVk9tT3N1cG11eFZLQTQ4U2k2b2pkSVhRcDVZeU5lWVlmZDY3NjJfRWJ2S1ZVM3hKS0RzSW1XTUMw?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
       "summary": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3BfSFdfLUt4czVlZUhRaDQ0Vld6Z2FHeTgyUXhsUUdwaGNqeGpPWjJ3bVdzTUZ5Q2NGTXdLZkp6TS1nclRIOW9uX0szSm4zTWJ5cWVrN1VzWV9Kb2dpTzZJTzI1YjNrekJtY1dEbktvOTZWYS0yT2paTlFlWXdiNy1mT3ZxdmVabW5FSms5SUdFNlp6SHo0VEMyQ2hqNjV5THBXZElaa1ktSGdsWi11OW9n0gHGAUFVX3lxTFBCREVKR1BhRU1NaU9iMjZIclpQd005UDlpSnBXTmN4OVRPd0NCazNCTDFYcGE1cldjVk1Hb2I3WFVYc2UzczVicmstYnBHUmZaTFZ4X18zSlh4UktwMUJNN1h5eVJ5OWNESkRpdjZEMXN6SldSOWdGS3pmaE1wUENnMnNVVkQ5STJUYklwNm1POHpCbWI1aW9wd3BOd1hBLTkyYnlYRXh5ZVdRQ1FtRmZrMmltSnd6TUh6SFpTVFBHTnoxSzQ0QQ?oc=5",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,469 flights delayed, 91 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
