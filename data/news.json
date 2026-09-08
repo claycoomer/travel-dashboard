@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-08T08:24:10.082748+00:00",
+  "last_updated": "2026-09-08T15:35:52.073996+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Global Forum Preview: Intrepid\u2019s Chairman on the Climate Cost His Rivals Sidestep",
+      "link": "https://skift.com/2026/09/08/skift-global-forum-preview-intrepid-chairman-carbon-emissions-flights/",
+      "published": "Tue, 08 Sep 2026 13:54:39 +0000",
+      "summary": "You created the demand, so you own the emissions. That&apos;s Darrell Wade&apos;s case for counting the customer flights most operators leave off their carbon books, and the competitive cost it carries. We&apos;ll test whether the industry can afford to follow at Skift Global For",
+      "source": "Skift"
+    },
+    {
+      "title": "Everyone Is All In on the Airbus A321XLR \u2014 Except Delta",
+      "link": "https://skift.com/2026/09/08/everyone-is-all-in-on-the-airbus-a321xlr-except-for-delta/",
+      "published": "Tue, 08 Sep 2026 13:07:00 +0000",
+      "summary": "More airlines are embracing long-haul flying on narrowbody jets \u2014 in a competitive transatlantic market, they allow airlines to launch service in smaller cities. However, Delta is not convinced.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Wellness Hospitality Is Breaking Out of the Luxury Bubble",
+      "link": "https://skift.com/2026/09/08/novotel-longevity-travel-everyday-wellness/",
+      "published": "Tue, 08 Sep 2026 12:30:00 +0000",
+      "summary": "Health-conscious travel is entering the mainstream. Novotel\u2019s Longevity Everyday model shows how hotel brands can extend wellness beyond premium retreats by embedding supportive choices into the ordinary rhythms of a stay.",
+      "source": "Skift"
+    },
+    {
+      "title": "Flagship Group Makes First Three Acquisitions For Experiences Roll-Up",
+      "link": "https://skift.com/2026/09/08/flagship-group-makes-first-three-acquisitions-for-experiences-roll-up/",
+      "published": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "summary": "Appetite for an experiences roll-up has long existed, but Covid put plans on ice. Now P&amp;Ls have had a chance to rebound, and the timing is perhaps even better today, with experiences positioned as a counter-AI play.",
+      "source": "Skift"
+    },
     {
       "title": "Vrbo\u2019s Biggest Product Push Yet, and What Hosts Need to Know",
       "link": "https://skift.com/2026/09/07/vrbos-biggest-product-push-yet-and-what-hosts-need-to-know/",
@@ -35,45 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "A Viral AI Bot Just Showed Travel What Frictionless Actually Means",
-      "link": "https://skift.com/2026/09/04/a-viral-ai-bot-just-showed-travel-what-frictionless-actually-means/",
-      "published": "Fri, 04 Sep 2026 23:40:28 +0000",
-      "summary": "Instinct, a freshman AI assistant that has Silicon Valley buzzing, can book and rebook trips from a text thread. Key lesson for travel: Talking about frictionless booking isn&apos;t the same as delivering it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Blackstone Plans $7 Billion IPO of Spanish Resort Owner Hotel Investment Partners: Report",
-      "link": "https://skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/",
-      "published": "Fri, 04 Sep 2026 21:22:52 +0000",
-      "summary": "After nearly two years of weighing a sale, the private equity giant is reportedly steering the Barcelona-based owner of hotels and resorts across the Mediterranean toward a Madrid listing this fall.",
-      "source": "Skift"
-    },
-    {
-      "title": "Europe Prepares New Law to Support Cities\u2019 Airbnb Crackdowns",
-      "link": "https://skift.com/2026/09/04/european-commission-short-term-rental-crackdown/",
-      "published": "Fri, 04 Sep 2026 21:21:10 +0000",
-      "summary": "Brussels is looking to advance legislation that would clarify local authorities\u2019 power to crack down on short-term rentals amid Europe&apos;s housing crisis.",
-      "source": "Skift"
-    },
-    {
-      "title": "Biggest Innovators in Travel and Hospitality: Summer 2026",
-      "link": "https://skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/",
-      "published": "Fri, 04 Sep 2026 16:30:27 +0000",
-      "summary": "There is no shortage of launches and you can easily find the most expensive hospitality offerings. We&apos;re most interested in judgment that leads to truly exceptional service.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - LehighValleyLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajRkcmNEcXhrbERqcEVOMDZaRFBzNVFLSlZHaDB0RW1hNXRyLXh5RGxKYnc3Z3NHekZMZ1hWMWhqMzR3c1BUcFppcVBNYUZGV1pES1VBQ0lWZWJKU215OFltUE13allpZFlmbmV3UGNUMU53U1Rab0VHR2xqQnE0Ym5OSm5FLXhMWTA1T01mam9OOENnVjZBeWVnWHkzVWc2enVZbEZfZmRHUDRFbGZRQi1IR2xsT24yZ2xWWVlKVEcwcGwwUWc?oc=5",
-      "published": "Thu, 03 Sep 2026 14:41:00 GMT",
-      "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;LehighValleyLive.com",
+      "title": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions - nj.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9OSEc0OW85RldrS1dRQVVoVk9JVk5tNjNWMV9LendHTnd4bTc1X2h5VktRTzZfaHF4ZERLYnJkTUlwNHNzeFhiM01aWVhlWVZSZTludDFqMm5IU05aWTA1djVLc01sckhHdWFvU3BMYl9xTjNpMm1Qc1ZrWUlQTkNoWk1Uc2UxN0xhSEN4N1NSSlVPTERBb1A4Ui10UnpZNmxjZFgwMTJrVWwyZzlJTUp30gHGAUFVX3lxTE9WaGdzWXRSS0VFaDdLWFoyOWx3UGx0a2tCYlpuNmJ0blk5VDM0SEFHSlZrTERodkhERVFSa2VXSnBHSW1NY1cwMlMtZjRyd1hvYW90d1dkazN2dnhPTE9zbXU2emwzY2lCejUzY3lpMjdwR19XYmJJckJ4bmJBbnIzQ1ItU1JOeEdGa3hibFl1VXB1WFE2QVBEaFY0NDFvNWF6OTJiUU1MUlp1QzBnaGlyTjRKY3N2aTNmVzZwNUpUOFh6UFkzZw?oc=5",
+      "published": "Tue, 08 Sep 2026 14:22:00 GMT",
+      "summary": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjZpVzhsMjktUUJzTjhlMlltQjRrX3hCbkZma1F4ZVk5S08zVG83REpxcXFWTUg3dmpNck9wVmRVLVlmRDdpQnlyMExrdExCaXhRM0luMGtVXzRTMTZwaGZvRzU0MFFRTmF0aFFINklud2RZdWk3aHFIejl2QWdaRnJlOGdaM3JESVhuazJ5cmQtVkl2aDYzSWxkSGhJSld5WHMwQklwckdNT3plWFNpSWNR0gHGAUFVX3lxTFBlUUppcEtJdUNMZDVOMHQzVEdEVkVzWEtMcGFSajI1Z3o1Sm5rLXQxRUZnRWtVZ2dfdzdxOVdtQktPbHBkRDdjWkFFU0RFLUswMVdRSnU2UFVPWEs0UExqaFJjV2hodjYtX0xidl85X0lYWFJ0bUhwOVhIMjItZ3FMSGpXTGJyU2RYcEZNMlQ0LTNIQWNfWGc1N1dLNl9pX0ZseDVEZlVxU00wLS1lWXBhandrMm5sMEJ0R1FrR3F0TGpLUjZRdw?oc=5",
-      "published": "Fri, 04 Sep 2026 14:43:00 GMT",
-      "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions - lehighvalleylive",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajRkcmNEcXhrbERqcEVOMDZaRFBzNVFLSlZHaDB0RW1hNXRyLXh5RGxKYnc3Z3NHekZMZ1hWMWhqMzR3c1BUcFppcVBNYUZGV1pES1VBQ0lWZWJKU215OFltUE13allpZFlmbmV3UGNUMU53U1Rab0VHR2xqQnE0Ym5OSm5FLXhMWTA1T01mam9OOENnVjZBeWVnWHkzVWc2enVZbEZfZmRHUDRFbGZRQi1IR2xsT24yZ2xWWVlKVEcwcGwwUWc?oc=5",
+      "published": "Thu, 03 Sep 2026 14:41:00 GMT",
+      "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;lehighvalleylive",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, flydubai face cancellations and delays to Gulf and Indonesian destinations - cntravellerme.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnFHeXVFcVdBTGZMTkZaTTRhb2gyUGFSenIzQ3pfY1RIV09kd2FaOEREQ1JvQ1pRdVUwVE5yeFd0QURaMmJMaHEwV0F4b3h1dmcybkJYVThMd21pZmQzcnJLNnVuU25lNnM3aGg5VXJnNWN6Wlk5a21iai1yV1VoeHNhMk10a1JEQ254Q2dRSW15a1AwWUdlYnRJa0lZZEs4SFZUQW1Eb1dQRkppQXdOMmF0LXo4MzM0YUhTRFlEd3dDSkR3alc5NFNsTlRGV3UyanRCWHFFNGlOdWNyZzZ5NUpfSUF4Q0d0STE2blNJbkFQV3dVb1V4R3Jn?oc=5",
+      "published": "Mon, 07 Sep 2026 08:46:46 GMT",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, flydubai face cancellations and delays to Gulf and Indonesian destinations&nbsp;&nbsp;cntravellerme.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions - MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2ZpeFh4SHNsTzJiNUp6RnlLQmtEV3V3LWdpdjdsaE9PMzNJX19OdVNiUjFmd0cyeEM0MlkyLWtOajZRQUM5bDhQYlpLQl9aYmVKVFhDai1ObW5EaVJVNVEtbElZNTg3bHdndDhhN2VpUXdXUjg5YXA1QjZmcHkzNWkwRTZ1MEFLV0pXMW9McENuNW15VWhXN1ZzbUNPTmh6YzdDeGZPb01jQlFqR3JfUk1uSjdPUdIBygFBVV95cUxNWVdMNnVYTzdBdWdyREF3bFYxUHVhdnV5WkJQbGZXazB0LTRZZUxZdG1nOF9WaDBscHVsYVMyM1R6dkdzRl9xYUhHeDNOWWV6MWtkRXV3bjFpb2pQODh4TVI0UUt3OGRyTV9aYWVqckF0NFdrejNabi1FMnRRQXR2Q0llM3pkdmhtMUFxMG5ldTcxUjQwNF8zOUdadEdZeDd3b3FmdFZDS0FrNk5VSXBkMjFQSzNDZGMyZGVCNVppTXVzMzBvME5HM1Nn?oc=5",
+      "published": "Fri, 04 Sep 2026 14:43:00 GMT",
+      "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - AL.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUDV1eHpwc1M1TzZmRUo3aEJ0QndQMGtSX0JxTW1RUXk5Tk9WZlg0TGlVaElULVlwNG5GaFF2cTR5cGU2VmVpM1FsMWtQQWFDNGxaRHEzaGZMUlFpME96VVZ6ZlFCWkI0WFh4djRORUs0Z2tRMXBPc2VoYkg3RUxKWHNrckFPYkcyQVpqcjZ5NUhHdXdQUWk0aURLT2FLRVB3OXFnNGFEU0NMTjhhM0Y1YTlB0gHGAUFVX3lxTE9MZGpmUzY2cjJ0czRqVnAtX2xfNW9KcTRiYnlGT0JqSWVNMWxxVnkxQW1CX3ctakpYcDBKZXdxLVk2MFRCODllLVZFblN5NW9mNzNfd05MNWxGbjh4eExjbFZsRHlxMUlIZ2JoLUdjck9ndjZKTGZLSVlMQ3ZXWDk2Y1pIUTB0WHpwaWZPdm9yZnVFWkw4cHVUUE9QSmRjVmtGS0h6UWxWenhYVXVqRndnWC1Ldk9RTVp0a1FubzllREZqU2tRUQ?oc=5",
       "published": "Wed, 02 Sep 2026 14:49:00 GMT",
       "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, flydubai face cancellations and delays to Gulf and Indonesian destinations - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnFHeXVFcVdBTGZMTkZaTTRhb2gyUGFSenIzQ3pfY1RIV09kd2FaOEREQ1JvQ1pRdVUwVE5yeFd0QURaMmJMaHEwV0F4b3h1dmcybkJYVThMd21pZmQzcnJLNnVuU25lNnM3aGg5VXJnNWN6Wlk5a21iai1yV1VoeHNhMk10a1JEQ254Q2dRSW15a1AwWUdlYnRJa0lZZEs4SFZUQW1Eb1dQRkppQXdOMmF0LXo4MzM0YUhTRFlEd3dDSkR3alc5NFNsTlRGV3UyanRCWHFFNGlOdWNyZzZ5NUpfSUF4Q0d0STE2blNJbkFQV3dVb1V4R3Jn?oc=5",
-      "published": "Mon, 07 Sep 2026 08:46:46 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, flydubai face cancellations and delays to Gulf and Indonesian destinations&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzFvT29HQmFQWUFoTHFGWHpOOFNHVG1vaTcyMWY5dDBVZDdKWDBMdzVpWDhrXzFVTFoyQWJNaGJYemhXbzJkUWJaNGtKaHNmWUlXUTF0RnQyX2VXYWJJOTFPbzJ6VkVTcVgxQlVsOWhfOTRxWGRSWVExdkZnN3ZhNQ?oc=5",
       "published": "Sun, 06 Sep 2026 07:00:00 GMT",
       "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUR1Qy1PcDMtZXhEODZzOVROMW4zNFZIQkx3LW4wSk5TVURLNWl0VHBCS0FRX0FtN2hieEpIajdjdDJIMlBYb1Z6MjB3cXJlV2pOY0RmSWNKRHRCN1E0M2Z5a20zTy1lVTR5WnF4Z0ViUVRjazB3THIzRk9Jc0lIbkc3V2hrZWdwdllSWTVwZE9MZ2dBYnZ2eTJNVVQ0dHdyLVhZaGFCYk9iLVhncVRtMEI4YXhaVHhORkZz0gHPAUFVX3lxTE85S2RTRk5sbXJvSjFLV0I0TkZnM2sxNUhtWndRR1B1LTZkLWRNb1R3MnEweEhnOUNrRG1USFVtMGIwU1RLTktCb3FJXzB1NGE1a3YtUm82N1g3X0xZc2thVWtoNHhwbjdzRTlFVVNxS3hxSFNGYmZLaHVQclEtSE5seXlBc0dVWFQzTmcwcTR4YUs0UTNsQWlPSkFaZEFrT0JxbWJPV0pjS0tIbnNQNXBfdV9tbjNEQV9OOU5Vdk56elBHT2xMWlIyT1hBQVFLYw?oc=5",
-      "published": "Tue, 01 Sep 2026 14:55:00 GMT",
-      "summary": "Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     }
   ]
