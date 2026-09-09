@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-09T15:29:41.424837+00:00",
+  "last_updated": "2026-09-09T18:54:45.205045+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "EU Unveils Rules to Help Cities Crack Down on Airbnbs",
+      "link": "https://skift.com/2026/09/09/eu-proposed-rules-short-term-rentals/",
+      "published": "Wed, 09 Sep 2026 18:25:34 +0000",
+      "summary": "Brussels has laid out a legal roadmap for restricting short-term rentals in stressed housing markets. Critics argue the rules lack oversight.",
+      "source": "Skift"
+    },
+    {
+      "title": "Marriott CEO Says AI Will Impact Hotel Distribution First",
+      "link": "https://skift.com/2026/09/09/marriott-ceo-says-ai-will-impact-hotel-distribution-first/",
+      "published": "Wed, 09 Sep 2026 17:35:42 +0000",
+      "summary": "Marriott CEO Anthony Capuano was asked where AI is showing up in practice. He said the &quot;biggest impact&quot; so far has been on &quot;distribution,&quot; or how travelers discover hotels online.",
+      "source": "Skift"
+    },
     {
       "title": "United Airlines\u2019 CEO Wants The U.S. To Fund SAF Like It Funded Solar",
       "link": "https://skift.com/2026/09/09/united-airlines-ceo-wants-u-s-to-fund-saf-like-it-funded-solar/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Inside the Financial Engineering of Club Med\u2019s IPO",
-      "link": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
-      "published": "Tue, 08 Sep 2026 16:15:14 +0000",
-      "summary": "Club Med wants to grow from 69 resorts to about 85 without owning the next wave, and its new financial structure helps explain why.",
-      "source": "Skift"
-    },
-    {
-      "title": "Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?",
-      "link": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
-      "published": "Tue, 08 Sep 2026 15:38:31 +0000",
-      "summary": "The owner of The Connaught and The Berkeley has hired the man who scaled Six Senses to build an operating company for luxury lifestyle hotels it owns and doesn&apos;t own.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVltbnlOaEVNX1Zjei1jS0lOODRTUGJHTDlrRm0tS0RsNUNFc2VTWU1oRG56YVJZYVN2emJUaklEM19hVjJaWG84YUZORU9xNmZ3SjFNazFCdUNpZy1CeWRkZWNrVENWMUo4VnFubENjSEczT0lGYW5TWGJGY3VpSVBtUGlfZU5vS0lSZnB0VDhFVWlxTWFEUlA5Rm9pc2tXdmV1RURLdFZlSGFkcTRGRF9Vb0hfdG9ENi1N0gHPAUFVX3lxTFBhVWlsTUhpVTVHU3FyS0Flbi1CY3cwN0xFeG00d2I5aC0xNXVSNzkyRzNGR2FkZzY0UFM5bU9PMmdBRzktTGhRZTFfTlBHS1Z1OWRsa1A3UG9fRGE2RzhFVlVSb21GbHh3T1ptc2ZnQmtrN2pWOUxpZFpneVZOR01uYU1yMmdvZVNFOHB1NXVDU1pOdF9rN1RlS2NYOVRxU2FLeGJtSjBjLVdCQnBKOW53aXNNU1dEelBRUjVIb0ZnbkFYOWhzaUtnMWJzbWFibw?oc=5",
       "published": "Tue, 08 Sep 2026 14:22:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions - Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2RzcHZUZEpYZnJaZHpYVUlJWXkzNzM5b0tQcU43Wm02bmRjbG5rVnhLUExnejVzN1FrY1gzM1Q1RTA0Q1EyZVJqa3lRRzh4cWZBaW91OXFCQnNQWmFwbnREdmlRMmlnSGwzbF9kWlpKNlNLM3NTZGo0eG5YSDhwUlU2WG5DVlQtWUFxbVB1TVEwZWM4eEZGaW5nVGhpV1NxOTNaaDJ5bFVtd1JrcDVVVmdQRVpHei1NYkotSGtDSEZhUkNNdmJPbVBub25HUnNCSkhWLV9QRmFZOGRlM283MXlmV1FEZmFvSE5yUWc4OHRiVHJSSUJTSXZsMnhVUmZTMGdseUtHV3Y3SXFrT2ZFSWtEWC1oNWtRM0ZOLUJMRjk?oc=5",
       "published": "Wed, 09 Sep 2026 07:04:36 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
@@ -91,6 +91,20 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions - Syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1iUGFBNzhtdm1tUDlyUHFSUlVERXBUNUptVGY5Snc5SGt5bnZadGlNUDJDWWVTdnlJZXlDVXZqeEROOG5uZUJWbUlNbHVmd2I1N2VEVGk2TGY5dUR2T2FIRjJZLWZza3BWa28wTVdEaUtFd1l6U2lkRi1RSnVQZ25NLUVWT252M0FhNG50STZiVHNhbTNUYm5oMWJGbGNvNUZ1XzN6Qk5JUzhpWFNfSFlaVVVDZm1PTTM0NXRGRdIB0wFBVV95cUxNUW9zNWFIY21aNnJsaUlhZUtrU25jcWl3bkpjM18xRjZ4M1lMSlZCRjN1T1UyZVdvMlRlS25feXBrTWNua193RWdEYmtGcmVCV3B6Z2xBRTF5N1R4VGFEVWdnX3hSOGxHU3JxaEd1ZW5NcE9jYU1sOGEtYWoxVTE0SWJRQ3NrZmpoSUpia05pWFhQUTNyX0tCS1ZkTmliMnJqcm1oOWhaaW04N2g5emRoYnhMVVNOVE4tcnR2YlFrY2ZkSGRSR2pmeXZLSVR5VWtEd2ZR?oc=5",
+      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Syracuse.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzFvT29HQmFQWUFoTHFGWHpOOFNHVG1vaTcyMWY5dDBVZDdKWDBMdzVpWDhrXzFVTFoyQWJNaGJYemhXbzJkUWJaNGtKaHNmWUlXUTF0RnQyX2VXYWJJOTFPbzJ6VkVTcVgxQlVsOWhfOTRxWGRSWVExdkZnN3ZhNQ?oc=5",
       "published": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -102,20 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUE5XbHFsOUtMTm9fVjhIWlFnbE5fVjFLNHhYOXV2VHI1OVltMlV2Y2FEVUM0RWFNcm5Nb2tJTXZxZmdDUkJmM244eTdGUFF4VDdEampBTE1pbW11REFJRnpoU0stR1F3bDZGYXROSExXRUREWmJBempHbUNZcVp3SGxmX05YSTJmY3BVRkI4akQyVVViY3g5NVZJN180LVdmeFVQem1kWEVDN0lZR1B5bDRORdIBxwFBVV95cUxNRWhScGJJaVRNeEdDenIzb21TUlljcG04MnJ5M2lpb2xidEVVU25rQ05rQ2p4S1FhZnUwUHBUNkVlSEVkN0VVd2pJNXNEQUtES0FMTEFFM1p3Wno5WVJsQ2JaWUxMdXNGTzAyMENHSWZSX1M5Ni1MdG5VdmhBVDhORHlTYU8yZWE1YTJXY3VnNXFZSmNRYl9SZjh4eXNzQ0E0aTE1bGFhMnZYVkR3VElVOFowQWhQTWY3Q1VlVXVRREJSQ2k1UHVF?oc=5",
       "published": "Thu, 20 Aug 2026 07:00:00 GMT",
       "summary": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblFMMTdCWFpLQWV6R2N4LURYNjhCQW5Sc2owcUdqRExTaHM5eEloT3BDTlJsU2dNRmlVNVVvMVdScndGbHgyZmdVSVJZNGF1MDJlTDB6QldFMnlmSTFrSnhZM3RlSXdIX1ZZWU1INmUxMnVPbUlFd1RQUU81SzZORXBKb2hFVmE5SkRtNjkxeG5RbERzMzB4WnNZMjdWUVZwcGZnMEtEeVRNTi1jSFpzQWpHR0M?oc=5",
-      "published": "Thu, 03 Sep 2026 23:59:53 GMT",
-      "summary": "UAE travel advisory: Flights delayed and cancelled at Dubai and Abu Dhabi airports&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - travelpulse.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;travelpulse.com",
       "source": "Google News Travel"
     }
   ]
