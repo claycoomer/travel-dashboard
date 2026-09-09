@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-09-09T18:54:45.205045+00:00",
+  "last_updated": "2026-09-09T22:04:47.926707+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Global Forum: Five Decisions in the Room",
+      "link": "https://skift.com/2026/09/09/skift-global-forum-2026-five-decisions-in-the-room/",
+      "published": "Wed, 09 Sep 2026 20:28:11 +0000",
+      "summary": "Every leader at Skift Global Forum is recalibrating amid technological and economic disruption. The open question is whether they\u2019re doing it for the right decade.",
+      "source": "Skift"
+    },
+    {
+      "title": "Navan Buys BoomPop to Push Into Meetings and Events",
+      "link": "https://skift.com/2026/09/09/navan-buys-boompop-to-push-into-meetings-and-events/",
+      "published": "Wed, 09 Sep 2026 20:22:50 +0000",
+      "summary": "A public travel company growing 35% is buying its way into the meetings-and-events spend that managed travel never tamed.",
+      "source": "Skift"
+    },
+    {
+      "title": "Choice\u2019s New CEO Has 3 Top Fixes \u2014 Plus $450 Million in Hotels to Sell",
+      "link": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
+      "published": "Wed, 09 Sep 2026 20:03:54 +0000",
+      "summary": "New CEO Dominic Dragisich says Choice&apos;s build-and-buy era is over. His formula is to grow U.S. room count, close the revenue-generation gap with peer brands like Wyndham, and sell real estate it doesn&apos;t need to own.",
+      "source": "Skift"
+    },
     {
       "title": "EU Unveils Rules to Help Cities Crack Down on Airbnbs",
       "link": "https://skift.com/2026/09/09/eu-proposed-rules-short-term-rentals/",
@@ -42,27 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Klook Bets Creators Can Sell the Whole Trip, Not Just the Viral Attraction",
-      "link": "https://skift.com/2026/09/08/klook-bets-creators-can-sell-the-whole-trip-not-just-the-viral-attraction/",
-      "published": "Wed, 09 Sep 2026 03:30:00 +0000",
-      "summary": "The social media influencer\u2019s \u201cLike, Comment and Share\u201d button just got a new friend\u2026 Meet the \u201cBook\u201d link.",
-      "source": "Skift"
-    },
-    {
-      "title": "What Hurricane Season Means For Hospitality\u2019s Capex",
-      "link": "https://skift.com/2026/09/08/what-hurricane-season-means-for-hospitalitys-capex/",
-      "published": "Tue, 08 Sep 2026 17:15:00 +0000",
-      "summary": "Host Hotels &amp; Resorts\u2019 $105 million work on The Don CeSar puts a real number on the cost of hurricane repairs and preparedness \u2014 but, as the company notes, investing in resilience doesn\u2019t reduce risk to zero.",
-      "source": "Skift"
-    },
-    {
-      "title": "Google Strips Out EU Travel Search Features to Avoid More Fines",
-      "link": "https://skift.com/2026/09/08/google-update-europe-travel-search-results-dma/",
-      "published": "Tue, 08 Sep 2026 16:59:31 +0000",
-      "summary": "Google is scaling back certain search features in Europe as DMA enforcement escalates.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVltbnlOaEVNX1Zjei1jS0lOODRTUGJHTDlrRm0tS0RsNUNFc2VTWU1oRG56YVJZYVN2emJUaklEM19hVjJaWG84YUZORU9xNmZ3SjFNazFCdUNpZy1CeWRkZWNrVENWMUo4VnFubENjSEczT0lGYW5TWGJGY3VpSVBtUGlfZU5vS0lSZnB0VDhFVWlxTWFEUlA5Rm9pc2tXdmV1RURLdFZlSGFkcTRGRF9Vb0hfdG9ENi1N0gHPAUFVX3lxTFBhVWlsTUhpVTVHU3FyS0Flbi1CY3cwN0xFeG00d2I5aC0xNXVSNzkyRzNGR2FkZzY0UFM5bU9PMmdBRzktTGhRZTFfTlBHS1Z1OWRsa1A3UG9fRGE2RzhFVlVSb21GbHh3T1ptc2ZnQmtrN2pWOUxpZFpneVZOR01uYU1yMmdvZVNFOHB1NXVDU1pOdF9rN1RlS2NYOVRxU2FLeGJtSjBjLVdCQnBKOW53aXNNU1dEelBRUjVIb0ZnbkFYOWhzaUtnMWJzbWFibw?oc=5",
       "published": "Tue, 08 Sep 2026 14:22:00 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions - cntravellerme.com",
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2RzcHZUZEpYZnJaZHpYVUlJWXkzNzM5b0tQcU43Wm02bmRjbG5rVnhLUExnejVzN1FrY1gzM1Q1RTA0Q1EyZVJqa3lRRzh4cWZBaW91OXFCQnNQWmFwbnREdmlRMmlnSGwzbF9kWlpKNlNLM3NTZGo0eG5YSDhwUlU2WG5DVlQtWUFxbVB1TVEwZWM4eEZGaW5nVGhpV1NxOTNaaDJ5bFVtd1JrcDVVVmdQRVpHei1NYkotSGtDSEZhUkNNdmJPbVBub25HUnNCSkhWLV9QRmFZOGRlM283MXlmV1FEZmFvSE5yUWc4OHRiVHJSSUJTSXZsMnhVUmZTMGdseUtHV3Y3SXFrT2ZFSWtEWC1oNWtRM0ZOLUJMRjk?oc=5",
       "published": "Wed, 09 Sep 2026 07:04:36 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions&nbsp;&nbsp;cntravellerme.com",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -88,13 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjZpVzhsMjktUUJzTjhlMlltQjRrX3hCbkZma1F4ZVk5S08zVG83REpxcXFWTUg3dmpNck9wVmRVLVlmRDdpQnlyMExrdExCaXhRM0luMGtVXzRTMTZwaGZvRzU0MFFRTmF0aFFINklud2RZdWk3aHFIejl2QWdaRnJlOGdaM3JESVhuazJ5cmQtVkl2aDYzSWxkSGhJSld5WHMwQklwckdNT3plWFNpSWNR0gHGAUFVX3lxTFBlUUppcEtJdUNMZDVOMHQzVEdEVkVzWEtMcGFSajI1Z3o1Sm5rLXQxRUZnRWtVZ2dfdzdxOVdtQktPbHBkRDdjWkFFU0RFLUswMVdRSnU2UFVPWEs0UExqaFJjV2hodjYtX0xidl85X0lYWFJ0bUhwOVhIMjItZ3FMSGpXTGJyU2RYcEZNMlQ0LTNIQWNfWGc1N1dLNl9pX0ZseDVEZlVxU00wLS1lWXBhandrMm5sMEJ0R1FrR3F0TGpLUjZRdw?oc=5",
       "published": "Fri, 04 Sep 2026 14:43:00 GMT",
       "summary": "Over 1,990 flights delayed, 78 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUE5XbHFsOUtMTm9fVjhIWlFnbE5fVjFLNHhYOXV2VHI1OVltMlV2Y2FEVUM0RWFNcm5Nb2tJTXZxZmdDUkJmM244eTdGUFF4VDdEampBTE1pbW11REFJRnpoU0stR1F3bDZGYXROSExXRUREWmJBempHbUNZcVp3SGxmX05YSTJmY3BVRkI4akQyVVViY3g5NVZJN180LVdmeFVQem1kWEVDN0lZR1B5bDRORdIBxwFBVV95cUxNRWhScGJJaVRNeEdDenIzb21TUlljcG04MnJ5M2lpb2xidEVVU25rQ05rQ2p4S1FhZnUwUHBUNkVlSEVkN0VVd2pJNXNEQUtES0FMTEFFM1p3Wno5WVJsQ2JaWUxMdXNGTzAyMENHSWZSX1M5Ni1MdG5VdmhBVDhORHlTYU8yZWE1YTJXY3VnNXFZSmNRYl9SZjh4eXNzQ0E0aTE1bGFhMnZYVkR3VElVOFowQWhQTWY3Q1VlVXVRREJSQ2k1UHVF?oc=5",
       "published": "Thu, 20 Aug 2026 07:00:00 GMT",
       "summary": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "American Airlines, Delta, And United Update Travel Advisories For Severe Weather In The Northeast - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmR1NVJPV21rN3NNZUQyX0pvN2dMTzgtcmdUelF4NkdUZHRzZVl5eTZicENhRi1wdnBicnRMRC1VWFpKcTEyb05ycGN4RDFaOW5uXzktYTBRZVFIaHpzUzBGVlM4cW1nTHo3amd6ZGlpSVk3aWpFSU9QZTBmTHVDUDFMc0cyNTBqekJDTmhWb2Zzc3ZQaXRCNE1aZGVMMTJaRGVGbHFlSXVlZzNEZDhaTk9Fa01ZUl9rekNZbmFZMA?oc=5",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "American Airlines, Delta, And United Update Travel Advisories For Severe Weather In The Northeast&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     }
   ]
