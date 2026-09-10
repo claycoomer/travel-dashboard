@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-10T15:25:04.517763+00:00",
+  "last_updated": "2026-09-10T18:47:51.270653+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Google\u2019s New Hotel Search in Europe: What it Looks Like Now",
+      "link": "https://skift.com/2026/09/10/google-update-europe-hotel-flight-search-results/",
+      "published": "Thu, 10 Sep 2026 18:12:42 +0000",
+      "summary": "Google\u2019s new user interface is meant to help the company avoid fines from EU regulators.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hotels Have Focused on Coral Restoration \u2014 Palladium Is Betting on Seagrass Too",
+      "link": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
+      "published": "Thu, 10 Sep 2026 15:34:58 +0000",
+      "summary": "Coastal hotels rely on clear water and white beaches to fill rooms, but Palladium\u2019s conservation work protecting them is still funded by its foundation rather than operating budget.",
+      "source": "Skift"
+    },
     {
       "title": "With Booking\u2019s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A",
       "link": "https://skift.com/2026/09/10/with-bookings-etraveli-deal-still-blocked-expedia-has-the-edge-in-ma/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Global Forum: Five Decisions in the Room",
-      "link": "https://skift.com/2026/09/09/skift-global-forum-2026-five-decisions-in-the-room/",
-      "published": "Wed, 09 Sep 2026 20:28:11 +0000",
-      "summary": "Every leader at Skift Global Forum is recalibrating amid technological and economic disruption. The open question is whether they\u2019re doing it for the right decade.",
-      "source": "Skift"
-    },
-    {
-      "title": "Navan Buys BoomPop to Push Into Meetings and Events",
-      "link": "https://skift.com/2026/09/09/navan-buys-boompop-to-push-into-meetings-and-events/",
-      "published": "Wed, 09 Sep 2026 20:22:50 +0000",
-      "summary": "A public travel company growing 35% is buying its way into the meetings-and-events spend that managed travel never tamed.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 777 flights delayed, 48 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYi04R2p3M1k5aVFNdG52bk5fUTJjTWoxcFVmY3EtVnhVTTA5bXZwUWJtZ2Zkb3BydWpEbmNVMDRDTHNPVTlVTFpRMWc0T3pXSmJYTExoMG1QMzU4OG5TUTZkVXNVVXpmdlAxSW4xOG1sOHVyVHJoMndaMXNPcHF1WGVlRlhzV2MyZzVJV2tucUl1R2U3S21HVzJfZGphNzBqb1JDQWpvYVFEZEl0QUFxYdIBxAFBVV95cUxPenQ2Q3FUREdXZjhpLTQxZ3IwVVoySXpSY2dVaGdKallNRDYtYjhrdXJZVVBLYWlibHZGR0RtdUFfUDkyamJRZmQta1U0QzNZbTZ1VnpHemVxU2xINXlHMk9Td1EwM0JUVXZueTJaMmc5S0txTGNCZzYwSXpSS1d6a2tCLWdlWERLY0t0bkxsOXp1bmJiQTVPY3hEYm91MGVqVXp3NW16WktzYU1RakJDcGtmVGF2dktoajJPeklqZERIa2Ff?oc=5",
       "published": "Wed, 09 Sep 2026 14:34:00 GMT",
@@ -91,6 +91,20 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions - syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1iUGFBNzhtdm1tUDlyUHFSUlVERXBUNUptVGY5Snc5SGt5bnZadGlNUDJDWWVTdnlJZXlDVXZqeEROOG5uZUJWbUlNbHVmd2I1N2VEVGk2TGY5dUR2T2FIRjJZLWZza3BWa28wTVdEaUtFd1l6U2lkRi1RSnVQZ25NLUVWT252M0FhNG50STZiVHNhbTNUYm5oMWJGbGNvNUZ1XzN6Qk5JUzhpWFNfSFlaVVVDZm1PTTM0NXRGRdIB0wFBVV95cUxNUW9zNWFIY21aNnJsaUlhZUtrU25jcWl3bkpjM18xRjZ4M1lMSlZCRjN1T1UyZVdvMlRlS25feXBrTWNua193RWdEYmtGcmVCV3B6Z2xBRTF5N1R4VGFEVWdnX3hSOGxHU3JxaEd1ZW5NcE9jYU1sOGEtYWoxVTE0SWJRQ3NrZmpoSUpia05pWFhQUTNyX0tCS1ZkTmliMnJqcm1oOWhaaW04N2g5emRoYnhMVVNOVE4tcnR2YlFrY2ZkSGRSR2pmeXZLSVR5VWtEd2ZR?oc=5",
+      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;syracuse.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Is it safe to travel to Dubai and Abu Dhabi? Advice following Saudi Arabia attacks - The Independent",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWlR3RS0wS0Y2d0x5bnJneFpVMk1OclJDbVhrVVV6cXMxeHBoMTB3S3RHZEJ3UmNUZnBBSzlZSDA0TGdRdzU0QzFoSzZMb3hEQ3JpbzBOM0NzQUVCX0xiSm9LaHkxak9sZm41MXR0THlycTFUMk1VOTEzYlpGQ0c2ZTExNDVzaU9PaEpEOVh4cHgwVS1HQ1pMM2h5LXRJMXB4SUM1c1FpX1RobldLa2hxdVIzMFRrSFZlb3gxX3VNZFRaT1RWcF9B?oc=5",
       "published": "Tue, 08 Sep 2026 09:37:00 GMT",
@@ -98,24 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions - Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1iUGFBNzhtdm1tUDlyUHFSUlVERXBUNUptVGY5Snc5SGt5bnZadGlNUDJDWWVTdnlJZXlDVXZqeEROOG5uZUJWbUlNbHVmd2I1N2VEVGk2TGY5dUR2T2FIRjJZLWZza3BWa28wTVdEaUtFd1l6U2lkRi1RSnVQZ25NLUVWT252M0FhNG50STZiVHNhbTNUYm5oMWJGbGNvNUZ1XzN6Qk5JUzhpWFNfSFlaVVVDZm1PTTM0NXRGRdIB0wFBVV95cUxNUW9zNWFIY21aNnJsaUlhZUtrU25jcWl3bkpjM18xRjZ4M1lMSlZCRjN1T1UyZVdvMlRlS25feXBrTWNua193RWdEYmtGcmVCV3B6Z2xBRTF5N1R4VGFEVWdnX3hSOGxHU3JxaEd1ZW5NcE9jYU1sOGEtYWoxVTE0SWJRQ3NrZmpoSUpia05pWFhQUTNyX0tCS1ZkTmliMnJqcm1oOWhaaW04N2g5emRoYnhMVVNOVE4tcnR2YlFrY2ZkSGRSR2pmeXZLSVR5VWtEd2ZR?oc=5",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Syracuse.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Middle East flights: Which airlines are flying and which remain suspended? - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzFvT29HQmFQWUFoTHFGWHpOOFNHVG1vaTcyMWY5dDBVZDdKWDBMdzVpWDhrXzFVTFoyQWJNaGJYemhXbzJkUWJaNGtKaHNmWUlXUTF0RnQyX2VXYWJJOTFPbzJ6VkVTcVgxQlVsOWhfOTRxWGRSWVExdkZnN3ZhNQ?oc=5",
-      "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "summary": "Middle East flights: Which airlines are flying and which remain suspended?&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUE5XbHFsOUtMTm9fVjhIWlFnbE5fVjFLNHhYOXV2VHI1OVltMlV2Y2FEVUM0RWFNcm5Nb2tJTXZxZmdDUkJmM244eTdGUFF4VDdEampBTE1pbW11REFJRnpoU0stR1F3bDZGYXROSExXRUREWmJBempHbUNZcVp3SGxmX05YSTJmY3BVRkI4akQyVVViY3g5NVZJN180LVdmeFVQem1kWEVDN0lZR1B5bDRORdIBxwFBVV95cUxNRWhScGJJaVRNeEdDenIzb21TUlljcG04MnJ5M2lpb2xidEVVU25rQ05rQ2p4S1FhZnUwUHBUNkVlSEVkN0VVd2pJNXNEQUtES0FMTEFFM1p3Wno5WVJsQ2JaWUxMdXNGTzAyMENHSWZSX1M5Ni1MdG5VdmhBVDhORHlTYU8yZWE1YTJXY3VnNXFZSmNRYl9SZjh4eXNzQ0E0aTE1bGFhMnZYVkR3VElVOFowQWhQTWY3Q1VlVXVRREJSQ2k1UHVF?oc=5",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Over 1,410 flights delayed, 250 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Over 1,662 flights delayed, 153 canceled amid widespread U.S. travel disruptions - MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2Q2dXVWQVNrUFRvREdwNFhEWmg3UF9haFRQcnpKd1F0VU01UFRBS2w3cGx4SWhUcFVDNVdBdjV1VHdTNkdac1dnQ1ZoN2NsSW1nU3dhWGJUUkpMVTE2cWRaSGRINUN1QkRQTEZfTnA1bUIxNTd5QkY3MXpyTzBWaWJpam5FLTZLQU1sSjU5TXlwQUZEYVRvQ1R5M3IzTG5FTTRrWVZ4R0huYmY5RXRKR1RURnFqOFnSAcsBQVVfeXFMUEVSa3hyRjltOGRnQTJ4cVhRVk1HS1I5aFVwRXlKV0Rzc0Rmc3VTRmFoOWtMTzl0dUdxSE95ZHhnQVBNVTNDRF9jTUg5d2pEMmp4aDU5M2ppVHpNMDBsWElKVVhXZmt6amh5UUVhM1R6MzJuTjFFTFhFUHczZ2lpejJfdG9oeF9RbkJycmo0MXZLZnVZMlE3SDJsVzh1X2NwMU1CQjI2cDdXVVUtYUl4M1Z1NmpQRmJzaTQtdHNNeEhNamlDU3hhTWxPQ0E?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "Over 1,662 flights delayed, 153 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
       "source": "Google News Travel"
     }
   ]
