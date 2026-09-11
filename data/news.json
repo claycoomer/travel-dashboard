@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-11T15:27:21.100328+00:00",
+  "last_updated": "2026-09-11T18:51:06.708616+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Canadian Travel to the U.S. Grew for a 5th Month Despite Trade War \u2014 Still Down 27% From 2024",
+      "link": "https://skift.com/2026/09/11/canadian-travel-to-the-u-s-grew-for-a-5th-month-despite-trade-war-still-down-27-from-2024/",
+      "published": "Fri, 11 Sep 2026 18:27:02 +0000",
+      "summary": "Many thought rising political tensions would mean fewer trips \u2014 the national data says otherwise. But not every state is seeing the same rebound.",
+      "source": "Skift"
+    },
     {
       "title": "\u2018I Don\u2019t Want Cookie Cutter\u2019: Dorchester\u2019s Stand Against the Flattening of Luxury",
       "link": "https://skift.com/2026/09/11/i-dont-want-cookie-cutter-dorchesters-stand-against-the-flattening-of-luxury/",
@@ -56,17 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "With Booking\u2019s Etraveli Deal Still Blocked, Expedia Has the Edge in M&A",
-      "link": "https://skift.com/2026/09/10/with-bookings-etraveli-deal-still-blocked-expedia-has-the-edge-in-ma/",
-      "published": "Thu, 10 Sep 2026 15:06:19 +0000",
-      "summary": "Expedia is making acquisitions to build its business while Booking in Europe doesn&apos;t have that option. Companies such as Uber would find it tougher to advance its superapp strategy in Europe if regulators deemed it to have a dominant position in particular markets.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1BVNTY0ZWVhUzNGXzNUSEhsb3lXdThRRks2M2x2TnVEVl9WRUFpT01QcHdKdGdyOHlUN0prS04zYmIwMTliRGxKdS1HalRiejRLa1h2Vm0weHBuUHV3NmNuNDJoQlZZTm1TQXhtVmFiY0RZWG9kY3I0eG93ZW1ha3JsUFJjWjhDWmdWQ05YSFVlc0ZLWlVXNHZHMzUycjBoTWxqbzBOS01sbHI1dlY2ctIBxAFBVV95cUxNc3NVX1VyWGNNempMOHF3clZZS0NJQzlIRTdwT2I5QjdUNDVtY0xZN0NJR0NiQzlGZnlxaXY5UEE4bXdiZWNUWk1HaFpOSi1IaTlmTnFRLS05V2ZWRUl0b1lTVXMxd1NLdnNRUjR4RXMxQWo2c0tUMjdrRDczM181bnJxWFhqMzFUTng2VFVnSllSV19JU0wwNUtEcWU0TUV6ZzVzcUgzYTVYRnNvY3VwQ1ByUVVKRVRzVThWUFJOM212OC1K?oc=5",
       "published": "Fri, 11 Sep 2026 14:43:00 GMT",
       "summary": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai face delays, and Air France extends regional route suspensions - cntravellerme.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN282UzBVT0xac19acXRTV0ZBNE9ySFYzY29qSXVoUXVTbDcybFFoeGhERndnamVXVzhleXFBd2hGcGVuX1lWUGdtQXFMbG1PaHFSYXZRMjlEXzhiOVlNNlI2Q2ZKSTc5YU5pajJtbDF6a24tamJHdHJfcGVjakZEd21XamlTU1pZd053SENtcTNXalBlSkRwbjVoTUpzZTlTcU8tSU5HQ1ppLVFtN0RhQWVvN3VPblNrTGFiTTFZUjgxb1dFbGl3RVBERUV6aW81aUxUZ2ZzRkhYQ1czRllGR3lwOUxRWlh1VzE0eE9PNnJPMFpu?oc=5",
+      "published": "Fri, 11 Sep 2026 08:25:34 GMT",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai face delays, and Air France extends regional route suspensions&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
@@ -77,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2RzcHZUZEpYZnJaZHpYVUlJWXkzNzM5b0tQcU43Wm02bmRjbG5rVnhLUExnejVzN1FrY1gzM1Q1RTA0Q1EyZVJqa3lRRzh4cWZBaW91OXFCQnNQWmFwbnREdmlRMmlnSGwzbF9kWlpKNlNLM3NTZGo0eG5YSDhwUlU2WG5DVlQtWUFxbVB1TVEwZWM4eEZGaW5nVGhpV1NxOTNaaDJ5bFVtd1JrcDVVVmdQRVpHei1NYkotSGtDSEZhUkNNdmJPbVBub25HUnNCSkhWLV9QRmFZOGRlM283MXlmV1FEZmFvSE5yUWc4OHRiVHJSSUJTSXZsMnhVUmZTMGdseUtHV3Y3SXFrT2ZFSWtEWC1oNWtRM0ZOLUJMRjk?oc=5",
-      "published": "Wed, 09 Sep 2026 07:04:36 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad, Flydubai affected following a UK air traffic control failure and ongoing regional tensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 1,246 flights delayed, 334 canceled amid widespread U.S. travel disruptions - Lehighvalleylive.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkJZZjgySE1lelpLVF9ubXIzTVEtSGpEYkgxVUMtck1aTHVMTWZjaVRqZHBIdlQ1R2puOW0wV0lrQmE4enhaeG91U1VCUXZ5VDlhNTB6STZyMW9yU2ZBM29WRFB3dXkyYjd1dGp4SU9KbVJjWUpJTnpIZU9la1pHQWNVMkQtWi1GNFpDOUZ0ZWZ3U2hocHlNc2NUZDFqVXk0Ukd2RDNEUXI0cE9pTXhnWkFUangtZHVhRVlYWDZwZ2otUmw3bkE?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -91,17 +91,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - travelpulse.com",
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;travelpulse.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE flights status: Emirates, Etihad, Air Arabia, flydubai delays and cancellations - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDEtVEw2TVR5eFNCblNMSE9rQmxnRzJCTDJZVjRDU21zWWFTSVlVV1JSUGkwRFlQMTlWaXZZN2RVR0I5TTVnMWd4eU1IYXhod0IzUHZTRHNPWGJYUW9ibG1PcVhjdzVHUmJDSm1ITkMwMTk1T1NxVjZzQ0JVRlhHMUZMaGVPUS1KVkw0R3BzbkpETW4zSlYzYUtqdUNvdE5lYThURnVYTGM2c0F2SmVIcWJMekx0a296bWxXWU92WEYzMW1XMXJiNXhn0gHcAUFVX3lxTE85WDZmSTBVOHIxMjBLX0F3OXYtZEdPcTNrUWlCWGUwYjltNG80VUkxU1N4azdfUENWZWNfNmJ4dHRlQWR0eVMtSktIM1pDSGpRZFhHbUVZZWdjOGhYV2ZBLWRHV0tyQ3ZnT01FYjZtdnlPWDBfcXVIcklLdWoyUmFnSEp0S1NDWDV3bE9NVW9sOGV0MXg3X1ItdEVQSzg1bV9obGlIclJLUklYWlZDQkVHYmxEMFlXZTN6UlNxYVhELTlRcUhmZW9YSzljMG4tX3BabnhOaFRKc0tFdGM?oc=5",
-      "published": "Fri, 11 Sep 2026 05:34:20 GMT",
-      "summary": "UAE flights status: Emirates, Etihad, Air Arabia, flydubai delays and cancellations&nbsp;&nbsp;Gulf News",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV240TXpWTEk3UVNkNk1Rd0dYR19ieG1mWk9YY1NlTXpMQy1FX0dXRnZYb3RPLVVfOHhmLUZrMGU3aGNldnI5X1YteXQtanRMYnJndENiNkZSRlhMeFdUb3dROEROMGxubVZ2eXpsR1F4bHpkczlfQm1FNkFxVXE4dlJ4a3JhTnhmc3BpaE9VZlJfaFZjTDdXV0VYX2tDUFRZSzI1VFQtbkNLWXJKZG5nMzRKTdIBxwFBVV95cUxNMFF0dzFvSGJWbDhVT0dhWDg4R3drSXVrazlVb2tXTmRGRWZQMFdKaUcyaWtSdDI5bVd0d3FtUmFjNUtRelF5dFNSQnljMTJzZW5lVWtEcjU2MWxGcnFvU2FiaEFRVTBWVThya1VyUWNYLU80Wm1Wc3E5aFpQSXgweTJGMlItdTBEdHNvdm9qVThlU0hIWDFUNUJ0SVkxcFJNR0V1N2tlVy01RUtCeFh2ZHZObThfVDUzZ3pqSzUwbTJOZ2xPa19n?oc=5",
       "published": "Thu, 03 Sep 2026 07:00:00 GMT",
       "summary": "Over 1,572 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZC04eXRtdmtMeWxsR3EzcmxLQ0U2SFpkM1BIeXpzOThrYThXNUh5UmdiY2ZzSmt4NFV3aUMyTnc5SWJxRXFTSU8yUVIwekVsTWgtX0hpOWtfRWRremJwYVFuTjl2aHJpOTZrRVB2ZktlZGM4Y3QxZ3dtcHZxQVBLUGhEMVpfODlSYWdyYkJ5bzZNNjFqRUhjYnFOLWMwMUpYQmU3eU9SLWJnVnBweXE4ZDhB0gHGAUFVX3lxTE5iTmhQY3VrMWRfQ2daSWJ6Y3JLZUVhRkxiTm8tMzQ3dWFsUjdzTG1ja0hyOVFXS2RLdnZqdlRkb1hxazhlWGxOLWR5QzBJeDRBMlQ5Q1ktY1NhQmNQMk5fZmthdHMwR0NMeWNILWlYQlN2dkFQZzE4emdoRlhYU0FYVzM4c0c4LWp0NGx4Q0dfVW9tbVFpYXlZMW1sUzFJRmY0ZnBvV2dUWVZpSUNCcVlsQWx6MDZoOHY2TUtQVnVxN3o2MlNVdw?oc=5",
+      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "summary": "Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
