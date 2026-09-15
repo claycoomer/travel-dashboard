@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-09-15T09:02:08.453845+00:00",
+  "last_updated": "2026-09-15T15:51:41.184956+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Broken Creator-to-Booking Chain, and Why It Matters Now",
+      "link": "https://skift.com/2026/09/15/the-broken-creator-to-booking-chain-and-why-it-matters-now/",
+      "published": "Tue, 15 Sep 2026 13:50:23 +0000",
+      "summary": "The fight in travel&apos;s creator economy has shifted. It used to be about attention, now it&apos;s about who gets the attribution for the booking.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why Human Connection Is Hospitality\u2019s Next Wellness Frontier",
+      "link": "https://skift.com/2026/09/15/relational-wellness-future-of-hospitality/",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "summary": "As loneliness rises and travelers seek more meaningful time together, hospitality may have a new role to play in wellness. Evermore Orlando Resort is testing whether social connection can be intentionally designed into the guest experience and measured as an outcome of the stay.",
+      "source": "Skift"
+    },
+    {
+      "title": "Barry Sternlicht\u2019s Field & Stream Lodge Adds Two Hotels. Building the Brand Will Take Time.",
+      "link": "https://skift.com/2026/09/15/barry-sternlichts-field-stream-lodge-adds-two-hotels-building-the-brand-will-take-time/",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "summary": "Field &amp; Stream Lodge launched in 2023. Deals two and three are conversions in Bend and Big Bear, opening in 2028. Starwood Capital and AJ Capital say high capital costs are setting the pace for brand-building.",
+      "source": "Skift"
+    },
+    {
+      "title": "Lindblad Adds a Luxury Antarctic Brand in Its Latest Founder-Led Deal: Exclusive",
+      "link": "https://skift.com/2026/09/15/lindblad-acquires-white-desert-echo-charlie/",
+      "published": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "summary": "White Desert and Echo Charlie will keep their founder-led vision and culture while benefitting from Lindblad&apos;s resources and reach.",
+      "source": "Skift"
+    },
+    {
+      "title": "GetYourGuide Taps Creators to Write Reviews for Tour Operators",
+      "link": "https://skift.com/2026/09/15/getyourguide-creator-reviews-new-listings/",
+      "published": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "summary": "Listings with no reviews can struggle to attract new customers. GetYourGuide is hoping an extensive network of content creators can help.",
+      "source": "Skift"
+    },
     {
       "title": "UAE Hotels Give Up on Q4, Hope for 2027 Recovery",
       "link": "https://skift.com/2026/09/15/uae-hotels-give-up-on-q4-hope-for-2027-recovery/",
@@ -28,45 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Global Forum Preview: Revolution\u2019s Steve Case on Which Friction to Protect From AI",
-      "link": "https://skift.com/2026/09/14/skift-global-forum-preview-steve-case-friction-ai-travel/",
-      "published": "Mon, 14 Sep 2026 15:06:13 +0000",
-      "summary": "Will this become abundant, or stay scarce? That one question drives how Steve Case invests in the AI era: AI on the abundant, capital on the rest. It leads him somewhere counterintuitive: the industry&apos;s real job now is protecting the friction worth keeping. We&apos;ll get in",
-      "source": "Skift"
+      "title": "Over 1,238 flights delayed, 53 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGpnN3h5VUI5VUxvblVFeEZnamVYZjJNSTBzUDlRN1ZzRG5JYW1KOXZUQmNXemZ3azdQTE0yR2NmNUxVR0JVOUF0OXppSkhQbWZTVjhVSE14NW4zc1BTMUJOX3BMQnJSZUQ1S2hEb2Fpc2NtN1J5NGVpZ3BtUm45X1BsZnl0SHZONm5lYW9kS185WEE5R1pUcjJyTWo1ejlmcXVEX0lwU3FwQUFjMWtKNmdn0gHGAUFVX3lxTE10TVBYNVhYMmpsaEJJV2xWTXRUMzlFTWtEbUw3NGdGbkZKY2locmdqMEZUTUhrdklqdGdLVmN2WERuSEdoeTJDOGxjWk0xNUdpMEJsOUhCUjFtUjBXZm5kM29NSkk5c1VYTjhFN0k1MVNPQnpCbWNqUzdXb25hb0xYcVhwa01KVDJYSmlrVWc3NUM5TmNsTkRFSHpxamlIcjZwdHd0SVl5NjRIbUR1dzJkeU5iNmR5T19RYU9PbUZZWjhMOUhhQQ?oc=5",
+      "published": "Tue, 15 Sep 2026 14:45:00 GMT",
+      "summary": "Over 1,238 flights delayed, 53 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
     },
     {
-      "title": "Thailand Tightens Entry Rules to Focus on \u2018Quality Tourism\u2019",
-      "link": "https://skift.com/2026/09/14/thailand-tightens-entry-rules-to-focus-on-quality-tourism/",
-      "published": "Mon, 14 Sep 2026 13:48:34 +0000",
-      "summary": "Thailand&apos;s shorter visa-free stays are likely to hit long-haul itineraries harder than short breaks \u2014 and the property market harder than hotels. For travel companies, the business impact will depend more on trip length and asset class than visitor volume.",
-      "source": "Skift"
+      "title": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2xIeWlHamZwb2hwUmZHcjFiWUtQRWtFYlBUbXpyX0pWdmd2WXNLX3BRaDQ1bkpnNlQydGE1T3pwZndxTjNFVHR0X2tFTmNTX3NwOVE1RXYtV3RlM3VRSnJGSnUyT0xfenM2UEVRTGxjMHRBcE1aRHExQnZGTkxrdEZR?oc=5",
+      "published": "Tue, 15 Sep 2026 15:19:41 GMT",
+      "summary": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
     },
     {
-      "title": "New Research: 5 Revenue Moves to Make Amid Market Uncertainty",
-      "link": "https://skift.com/2026/09/14/new-research-5-revenue-moves-to-make-amid-market-uncertainty/",
-      "published": "Mon, 14 Sep 2026 12:30:00 +0000",
-      "summary": "A new report from Sabre makes the case that leaders who make themselves comfortable with uncertainty will be able to pull ahead in a volatile market. Travel companies across sectors that balance financial discipline with investments in AI and modern retailing will be a step ahead",
-      "source": "Skift"
-    },
-    {
-      "title": "Etihad CEO Says \u2018Aircraft Is the Constraint\u2019 as China and Africa Drive Growth",
-      "link": "https://skift.com/2026/09/14/etihad-ceo-says-aircraft-is-the-constraint-as-china-and-africa-drive-growth/",
-      "published": "Mon, 14 Sep 2026 12:19:23 +0000",
-      "summary": "Etihad\u2019s turnaround has created a new kind of problem as demand outpaces aircraft availability. With China and Africa next, the Abu Dhabi carrier now needs planes to match its ambitions",
-      "source": "Skift"
-    },
-    {
-      "title": "AirBaltic Files for Chapter 11 Bankruptcy Protection as Financial Pressures Mount",
-      "link": "https://skift.com/2026/09/14/airbaltic-files-for-chapter-11-bankruptcy-protection-as-financial-pressures-mount/",
-      "published": "Mon, 14 Sep 2026 09:56:40 +0000",
-      "summary": "Passengers probably won\u2019t notice AirBaltic\u2019s bankruptcy filing. Its creditors, lessors and shareholders certainly will.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,122 flights delayed, 43 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHZIQXB3LW1UX1pCOVdZV0FiQzJ4dmZLQ1oxb0R6N0lJMktJTUhuWVBuUkVUbEt3LWc1WF9POHJkWUhqWjE1ZXpUZnYxTTJtSkpJUmhYSnc5alk2cG52eUdfNEI3X1FGTEVxaG84QUZ4N0VpSkhpUmU2WHM3Wm1IMEhhRWlkS2xkLThjR1JGUlkyYWJBVXNzaVVOTGY3VDF1bEI3UTZTOFllS1F5WUZPaU130gHGAUFVX3lxTFAyS29qRHZyLW1JLWZGa0lpbkFOX3A3blE5VVpodmEwTm1LYjR5X0RaQld4SUtKa2NYcER0c2NGNDZuTEZZYmctMjJYY3IyZG9UbTl5LTB1UHE3d0pFR3p3bjJIR3J4anNxT3dpLTZCdVJMOGdsMk95VWJVajhuRzB2bFp6RUxTaHhDM1dUV2trTi0wdnYxcWlMNmpzRmRFUEJYUEJCZEF3SjhFdmdvS1Jwai1lNWZ3Tmp3WnB6VmJ3LXlUaVFHQQ?oc=5",
+      "title": "Over 1,122 flights delayed, 43 canceled amid widespread U.S. travel disruptions - pennlive.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVlSSEk4Q1dQLThmNWVkeTBoeG5udjMySXpSdTgwVGNORm1UckJqbC0tLWplOHZTVVBjNkJ0OXVEcVVlQmlMYVFSQ2dyS1JfM3M3QldjNVdfcnhJSlliTXQ0Sm5tT2JZM2dLa1VDdU9KeGJFTDZSdm9POWZ0Rk1LTExLN3Frbkh3T0VZcEVoTjlKNGZfemh6dzJ4V2NtZklqbHkyXzVVVkhkbEFZcEU5UkpJZ210VTNpUjV4bG5nMGJTYU4ybUN0WGdWdVNUZ9IBzgFBVV95cUxNMVlSSEk4Q1dQLThmNWVkeTBoeG5udjMySXpSdTgwVGNORm1UckJqbC0tLWplOHZTVVBjNkJ0OXVEcVVlQmlMYVFSQ2dyS1JfM3M3QldjNVdfcnhJSlliTXQ0Sm5tT2JZM2dLa1VDdU9KeGJFTDZSdm9POWZ0Rk1LTExLN3Frbkh3T0VZcEVoTjlKNGZfemh6dzJ4V2NtZklqbHkyXzVVVkhkbEFZcEU5UkpJZ210VTNpUjV4bG5nMGJTYU4ybUN0WGdWdVNUZw?oc=5",
       "published": "Mon, 14 Sep 2026 14:33:00 GMT",
-      "summary": "Over 1,122 flights delayed, 43 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "summary": "Over 1,122 flights delayed, 43 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;pennlive.com",
       "source": "Google News Travel"
     },
     {
@@ -77,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension - Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZVJsc3owY3RmT0oxZnBHQVN1MmdjdHBSdnlGTVM0ak9LM0gtd21CNmNBS2hramJ5Z1dBYW80TmdTNG81RG1HWERkVENEeklnT2dkSU1oZXN2eUhsMzlxNVlQVEkyUVNjTXYxcWR6UzNRWHNYWC1UWVdCUWlESDZ3dmNEWkdjMjE5VXFtN1lGOEdsR0lxT29FM0duX0tjVmxsZ001RjNXOVp1alBIbTVkTGhBODdBVk5XSVBnalFfOHNqXzlVeThJcGt2YVlXNVBDVC1FREFidUQ3czljWGdn?oc=5",
       "published": "Mon, 14 Sep 2026 09:10:55 GMT",
-      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "summary": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension&nbsp;&nbsp;cntravellerme.com",
       "source": "Google News Travel"
     },
     {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "title": "UAE weekend flights status: Emirates, Etihad, Air Arabia, flydubai delays, cancellations \u2013 what travellers need to know - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdFoyQndyZUppVjF3LVBWQ0ZNb3paS19ubVEtdlg2eHo0WXJGLVNFdVdyWWtyM3pMTkxqdFpsTEN3ZlZKdmI0MFZTVGZZblZXSEYxZVc4U081eHZnTllKQlI1eFpOdXdzcEdhUW9jRmNOY2ltYkFCc3ZXbTJWUWtxYkotWEk4T2s5dUlwM09Eb2JSRlhMTzNqdlZzZ0dLbVQtWS14OThmWGlQUVVxOUJtSmc3SHctQVFxVWNyOEhEajRCTklHVmJzVDI4dEl6LUpmSDkxQ3ZTbnIwQUpNdGdQTjNYanRJZk5jVkprRzYxWG9YUmh1dmfSAYgCQVVfeXFMTlJPM0hkRXdjZnRETXc0UEt6ZlY2dEs5T0ZlTC15NEktMGRRVVduakp6TERQMTBCM0JCSGgwemJqTktBdXFpSTFSRkxuRlE1TXFqX1FZcjlfR1BjNmlOdWtOc295amhzX2FJdDNFbGVOQ2EydFRvRTV5LWx5b3hMd1k2NzhNZmJ3MFZqbzlBaXZrOGZOOFNnd1FhNzRBX2VGd2pBbEF5T1M2ckM3V210aXBEWFpFRXhRNG1EZUx1RXNSQVladVBueDVQXzdlTFpPNVlGOC1haGYzUklJVVBOWl9rZFhMaEpETW5ZS2dvU3FvR29WREk3czNQdm1JdXNWZ3FtWEV2elVw?oc=5",
+      "published": "Sat, 12 Sep 2026 09:51:36 GMT",
+      "summary": "UAE weekend flights status: Emirates, Etihad, Air Arabia, flydubai delays, cancellations \u2013 what travellers need to know&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakYwNURlR1puQ2pKT29Bd01VSFBpTUx4ZGFtNllJc1k4SnMwMkhlQXFVbFlSSzBUZUdBX3hPblVnTDJfZGlSVlFqRUZsU0J2RENZWFFfY1FraUt5dEtwTUpadjVValZ3YkxRMzBtWVNkRXl3Y0wwQ1RSYVhzZDhDOGh4VWZyYlZtZGZ0U3FzcmwwZ3lDT3AwUG44V2xueG5MWk9NRGxIY24zWmNYYzVYdkJBNlQ3X1JtTlRMaG4zMzNWZXpnV2J0OUhaOUFlRVE?oc=5",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "U.S. Government Follows Up Rare Worldwide Travel Alert To All Americans With Renewed \"Flight Cancellations\" And \"Reconsider Travel\" Warning&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmlrOGNldTdaUmphdnRWUzh3SHJpVVIzc0ZqSk5tZmU1VE1UcWJLbk9SM3ZkMzlidVpWMmxCMkx2ckVhY1RqdlRYbkg0MWVLd2ZWeG1jbXdscXlQV0JRbG9xRlNPU0xNcndQamR1eGhsUUotV0lsdUVHYy0yX2JfNUxNRTRmNi1Fcm9ocm1weEt5UW51d3IzRWV1ejRKVDFOOWJQVHRUb0dmMV95d3hhUmp30gHGAUFVX3lxTE4tZW9WWG5TN3pLOUxseEFTSlpRYjRqVEc3Q0dZSHFLTTBQNGJfQzFjUTJCQlBxUVYwUWw0M2hJcG5TNFBwSFpkWTV6Y2lYYlliTlVOTGlyQ0hTWjBBaktwZzlVN3RPZHByV2ZEbGVtQ1NSQi1WTWhNVDFvZHVzc1ppd0gzUVBzTUtPRWVYNUFrcVg4X0tuQmpReWFVNXoxMWZSR3VBTE1XYTZadGpKWG5VVjE4VXhrZGJUWnRYUklqV0hqbDNWQQ?oc=5",
       "published": "Thu, 10 Sep 2026 14:06:00 GMT",
       "summary": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 777 flights delayed, 48 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYi04R2p3M1k5aVFNdG52bk5fUTJjTWoxcFVmY3EtVnhVTTA5bXZwUWJtZ2Zkb3BydWpEbmNVMDRDTHNPVTlVTFpRMWc0T3pXSmJYTExoMG1QMzU4OG5TUTZkVXNVVXpmdlAxSW4xOG1sOHVyVHJoMndaMXNPcHF1WGVlRlhzV2MyZzVJV2tucUl1R2U3S21HVzJfZGphNzBqb1JDQWpvYVFEZEl0QUFxYdIBxAFBVV95cUxPenQ2Q3FUREdXZjhpLTQxZ3IwVVoySXpSY2dVaGdKallNRDYtYjhrdXJZVVBLYWlibHZGR0RtdUFfUDkyamJRZmQta1U0QzNZbTZ1VnpHemVxU2xINXlHMk9Td1EwM0JUVXZueTJaMmc5S0txTGNCZzYwSXpSS1d6a2tCLWdlWERLY0t0bkxsOXp1bmJiQTVPY3hEYm91MGVqVXp3NW16WktzYU1RakJDcGtmVGF2dktoajJPeklqZERIa2Ff?oc=5",
-      "published": "Wed, 09 Sep 2026 14:34:00 GMT",
-      "summary": "Over 777 flights delayed, 48 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
