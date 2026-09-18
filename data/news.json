@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-18T15:22:46.506287+00:00",
+  "last_updated": "2026-09-18T18:43:30.017223+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Cutting Passenger Demand May Be Only Way to Save Heathrow\u2019s Net Zero Case",
+      "link": "https://skift.com/2026/09/18/cutting-passenger-demand-may-be-only-way-to-save-heathrows-net-zero-case/",
+      "published": "Fri, 18 Sep 2026 15:40:59 +0000",
+      "summary": "The UK&apos;s official climate advisors just told the government that a Heathrow expansion does not work with the country\u2019s climate goals \u2014 and if technology to bring emissions down doesn\u2019t materialize, demand management could be on the cards.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Global Forum Preview: IHG\u2019s Chief Commercial & Marketing Officer on Making Hotels Legible to AI",
+      "link": "https://skift.com/2026/09/18/skift-global-forum-preview-ihg-ai-hotel-visibility/",
+      "published": "Fri, 18 Sep 2026 15:25:16 +0000",
+      "summary": "Heather Balsley is making IHG legible to the AI models while arguing the models will never own the guest. Two bets, one strategy, at Skift Global Forum.",
+      "source": "Skift"
+    },
     {
       "title": "The Billion-Dollar Travel Company You\u2019ve Probably Never Heard Of",
       "link": "https://skift.com/2026/09/18/the-billion-dollar-travel-company-youve-probably-never-heard-of/",
@@ -49,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Ultra-Low-Cost Carriers Face Soaring Jet Fuel Costs With No Relief and Little Room to Raise Fares",
-      "link": "https://skift.com/2026/09/17/ultra-low-cost-airlines-renew-push-for-tax-break-to-offset-soaring-jet-fuel-costs/",
-      "published": "Thu, 17 Sep 2026 20:21:52 +0000",
-      "summary": "Rising fuel prices are once again becoming a concern for the airline industry. Some airline executives have said to expect more capacity cuts and higher airfares.",
-      "source": "Skift"
-    },
-    {
-      "title": "Europe Handed Out \u20ac430 Million in SAF Permits Last Year \u2014 See Which Airlines Got the Most",
-      "link": "https://skift.com/2026/09/17/europe-handed-out-e430-million-in-saf-permits-last-year-see-which-airlines-got-the-most/",
-      "published": "Thu, 17 Sep 2026 15:36:24 +0000",
-      "summary": "Europe\u2019s support to the industry through its Emissions Trading Scheme swelled to four times 2024\u2019s figure as the race to meet mandated blending targets gets underway.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
-      "published": "Thu, 17 Sep 2026 14:29:00 GMT",
-      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions - MassLive",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjlUWVJKMUo4WHg2Y1NhTjhQekZ6TVFOQnl2TUdJMkltMlhDRC1BUkM3bDhQc3BKWkV6NkNzQXg1bURhdjg3OFVycV92LUpTdk1yMXNkeEpQclNoWnVnUHRlQTdSOFlsX1lKMm9peFlLSzRSZkNVMm1sZUE3akRFcGF2STdsWUNTSVZocFpISVhVekFDQXBXdHN2bGdYUV9fc1ROZlh2RDJqNVg5MDVkcUQ0WXc0Uzlh0gHMAUFVX3lxTFBSQ2JvTENULWo2ODZZanY1M3k3Nmt3cHloODdJc3E4M2gtV0hPRXUtY0VQZF9ZVlZWbU5OaGJNLVJzUXpaTkRqbmd1bEdVMDZMTE1zd2J5Ui1YTjVQN25lT1U5ZUpUTEEweExTUW5iM2hlMXZ5LTgtcXhvZVY1QTQzN3FpUGF2ck13ZWhlRUpYQjl0X05WVFhfdWw5a3Y4NlR1aTVFLWhuUDFZTjM2R2lJQl9MVVpHM0tQMmZvbE1VZ2ZMSTROYnNYX0h6Qw?oc=5",
+      "title": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEVWZTR3bkZyaUJ3ekpPRFYtV3NwM1VLakVmZWFqM2dnV2t4QTUyTTZvcVloYWloYUU4bEdTRHpOYnptSDAybUt1Vmc3MTdCT2d2NXJFd1g1Sm9naVB4MGtkZnZ5WFNLdTVLby1lYUlFVFc4SG1FZGpEY3VJc2szNlZuT3ZIX0NhZ25XQ2x3dFNJZEtISElaZkJNa19CUFBwSmxNT0VPX0taOE1VVjMxT9IBxAFBVV95cUxOT25TejRzQnBaNzZhTmd6elNubnZYUnBlcGZlQlJrZWJ1LUpRV2JsYVJ1NFlUa0F6TjJGdEFZSUxRV1pBNVhhZTFIMVl2YXNJT3pMeHpLTjFDS2VDQVB5TDRZaUt0cy1wSDBtRmJxWXFHVnNDWUN0OUVzSTBGSU1BOWJGa1ZKRS16WV83Y201dXcxU3VfallnRklma2pJTGlzV1pKUkd6Nm9Nd2JEa19uRjJiTnNOSnpSd1hqN0N4cnplQ0wt?oc=5",
       "published": "Wed, 16 Sep 2026 14:37:00 GMT",
-      "summary": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MassLive",
+      "summary": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Colombia Aligns With Panama and More as Australia Issues New - nomadlawyer.org",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVhnaFJWdWY2MnQ3NjhpZWN4NlAzSUFnenpZQnM3M2FUNmZLVnE0TXZnSG82M3VyWmphdFdDQi05aEhINjNUem5FWjJRWlVFNWNNVXg2dXZmdWhMcXdEa1RVaVFLZTZsaUVpaVhSYUo1UXVRT0tlNlFmdFdLemRFcDZhUlJ2dV9sZ3BTa2RtQmlHZ2xhRnhYc0YtUEIwUjUwc0JUWFJibWE1R25JbllscTdSelFVd3kybUtybE1KOU53dE9CZGR4eHhxSHdhc1dWU0VENEFGeDlPU2ZI?oc=5",
-      "published": "Fri, 18 Sep 2026 13:09:21 GMT",
-      "summary": "Colombia Aligns With Panama and More as Australia Issues New&nbsp;&nbsp;nomadlawyer.org",
+      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
+      "published": "Thu, 17 Sep 2026 14:29:00 GMT",
+      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "title": "Colombia Aligns With Panama and More as Australia Issues New - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVhnaFJWdWY2MnQ3NjhpZWN4NlAzSUFnenpZQnM3M2FUNmZLVnE0TXZnSG82M3VyWmphdFdDQi05aEhINjNUem5FWjJRWlVFNWNNVXg2dXZmdWhMcXdEa1RVaVFLZTZsaUVpaVhSYUo1UXVRT0tlNlFmdFdLemRFcDZhUlJ2dV9sZ3BTa2RtQmlHZ2xhRnhYc0YtUEIwUjUwc0JUWFJibWE1R25JbllscTdSelFVd3kybUtybE1KOU53dE9CZGR4eHhxSHdhc1dWU0VENEFGeDlPU2ZI?oc=5",
+      "published": "Fri, 18 Sep 2026 13:09:21 GMT",
+      "summary": "Colombia Aligns With Panama and More as Australia Issues New&nbsp;&nbsp;Nomad Lawyer",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZVJsc3owY3RmT0oxZnBHQVN1MmdjdHBSdnlGTVM0ak9LM0gtd21CNmNBS2hramJ5Z1dBYW80TmdTNG81RG1HWERkVENEeklnT2dkSU1oZXN2eUhsMzlxNVlQVEkyUVNjTXYxcWR6UzNRWHNYWC1UWVdCUWlESDZ3dmNEWkdjMjE5VXFtN1lGOEdsR0lxT29FM0duX0tjVmxsZ001RjNXOVp1alBIbTVkTGhBODdBVk5XSVBnalFfOHNqXzlVeThJcGt2YVlXNVBDVC1FREFidUQ3czljWGdn?oc=5",
       "published": "Mon, 14 Sep 2026 09:10:55 GMT",
       "summary": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 777 flights delayed, 48 canceled amid widespread U.S. travel disruptions - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXNRNUNNM3E1QmdXU2RDY2ZXZWM4dnViYkNRbXRSLUNjU25LdWtSc0dnMTNNSmd0MzdfckFuRzQ1ZWg1bkl6X1lOWE5DWmN6S2FQYmVIWXV6aVA3ci1ndVlYNUxLdXJSS0E4c0dGOERCdzQwZThBb2RKZ1VGRkNwcXN1MmxnLWc0N2JQeFJvTEp3N2dITXVJVGRjVko4ZDBDcC0xQW1wOEZic0wzQldKeEFCNkdXWVViN1HSAc4BQVVfeXFMT3R3TlV5V3FIcDgtVERnV3p0WWpMYTJkT1czUFA1NklEaVF1Nm83RTVDWDVEZGxjTG11VkI1cHBEaHZVMGxKSUZVb2otajRQY2F6Vnp3T2FOSUd2enRJUldxMjZ6WEdWSENLcWRac25Ubm5qaENncGxWS0pPZGFCUXVmTnRkdzFuLXNGcDBvTC00cnJLemdSaDgxM20wM0FXS19oMG5ndDZHbmxBcGV3OGxUWFlWNnZWSFFtV2xyVVpjWWw2VndYWDRWNUtVTmc?oc=5",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "Over 777 flights delayed, 48 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     }
   ]
