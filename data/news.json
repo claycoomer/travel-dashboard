@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-09-18T08:34:10.444247+00:00",
+  "last_updated": "2026-09-18T15:22:46.506287+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Billion-Dollar Travel Company You\u2019ve Probably Never Heard Of",
+      "link": "https://skift.com/2026/09/18/the-billion-dollar-travel-company-youve-probably-never-heard-of/",
+      "published": "Fri, 18 Sep 2026 13:25:11 +0000",
+      "summary": "OneSpaWorld\u2019s path to $1 billion in revenue offers an unusually clear look at who captures the money inside the cruise economy\u2026and why controlling the customer matters more than controlling the service.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand",
+      "link": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
+      "published": "Fri, 18 Sep 2026 12:30:00 +0000",
+      "summary": "Grand Ji Hotel, the new premium hotel brand from H World Group, brings a distinctly Chinese design philosophy and aesthetic to the guest experience, shaped by ideas around privacy, calm, and hospitality. Behind it are the technology, supply chain, and operating capabilities neede",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton Has Luxury \u2018Coming Out of Its Ears\u2019 in Saudi Arabia. Now It Wants the Middle Market.",
+      "link": "https://skift.com/2026/09/18/hilton-has-luxury-coming-out-of-its-ears-in-saudi-arabia-now-it-wants-the-middle-market/",
+      "published": "Fri, 18 Sep 2026 11:30:00 +0000",
+      "summary": "Saudi Arabia\u2019s luxury hotel boom is mostly built. Hilton\u2019s bet on what comes next is mid-market brands and franchises \u2014 and it has Turkey as proof the playbook works.",
+      "source": "Skift"
+    },
+    {
+      "title": "IndiGo\u2019s Low Fares Remain. The Extras Are Getting Pricier",
+      "link": "https://skift.com/2026/09/18/indigos-low-fares-remain-the-extras-are-getting-pricier/",
+      "published": "Fri, 18 Sep 2026 10:06:59 +0000",
+      "summary": "The commercial challenge for IndiGo is how much more it can monetize the passenger without making a low-cost airline feel less low-cost?",
+      "source": "Skift"
+    },
+    {
+      "title": "AirAsia Pushes Back on Rivals Taking Its Place in Malaysia",
+      "link": "https://skift.com/2026/09/18/airasia-pushes-back-on-rivals-taking-its-place-in-malaysia/",
+      "published": "Fri, 18 Sep 2026 08:58:55 +0000",
+      "summary": "AirAsia is defending its dominance in Malaysia as rivals eye its domestic capacity, while higher fuel costs and liquidity concerns test its advantage.",
+      "source": "Skift"
+    },
     {
       "title": "U.S. Tourism Slide Deepens With 12% Drop in August",
       "link": "https://skift.com/2026/09/17/u-s-tourism-slide-deepens-with-12-drop-in-august/",
@@ -25,41 +60,6 @@
       "link": "https://skift.com/2026/09/17/europe-handed-out-e430-million-in-saf-permits-last-year-see-which-airlines-got-the-most/",
       "published": "Thu, 17 Sep 2026 15:36:24 +0000",
       "summary": "Europe\u2019s support to the industry through its Emissions Trading Scheme swelled to four times 2024\u2019s figure as the race to meet mandated blending targets gets underway.",
-      "source": "Skift"
-    },
-    {
-      "title": "What It Takes to Make AI Booking Work at Scale",
-      "link": "https://skift.com/2026/09/17/reservations-ai-travel-booking-technology/",
-      "published": "Thu, 17 Sep 2026 14:44:08 +0000",
-      "summary": "The travel industry is largely still testing AI bookings in controlled environments. Companies that can prove the technology works across live bookings at scale could gain a valuable head start.",
-      "source": "Skift"
-    },
-    {
-      "title": "Singapore\u2019s Banyan Group Buys Newmark to Add 26 Hotels in Africa",
-      "link": "https://skift.com/2026/09/17/singapores-banyan-group-buys-newmark-to-add-26-hotels-in-africa/",
-      "published": "Thu, 17 Sep 2026 14:39:26 +0000",
-      "summary": "The owner of the Banyan Tree brand has taken a majority stake in a Cape Town safari and lodge operator. The deal is asset-light, adding fee income instead of bricks, and gives Banyan a foothold in safari and nature hospitality.",
-      "source": "Skift"
-    },
-    {
-      "title": "Southwest Airlines Hopes to Capture More High-Spend Customers With New Lounges",
-      "link": "https://skift.com/2026/09/17/southwest-hopes-to-capture-more-high-spend-customers-with-new-lounges/",
-      "published": "Thu, 17 Sep 2026 14:37:13 +0000",
-      "summary": "Southwest is looking to lure in more premium customers with the new lounges and credit card it will launch next year, making Rapid Rewards more \u201caspirational.\u201d",
-      "source": "Skift"
-    },
-    {
-      "title": "Hotel Locks Are Becoming Software as Dormakaba Buys Alliants",
-      "link": "https://skift.com/2026/09/17/hotel-locks-are-becoming-software-as-dormakaba-buys-alliants/",
-      "published": "Thu, 17 Sep 2026 14:13:39 +0000",
-      "summary": "Dormakaba\u2019s Alliants deal shows how quickly hotel hardware and software are converging.",
-      "source": "Skift"
-    },
-    {
-      "title": "Thai Airways Expands Flight Network Across Europe and Asia",
-      "link": "https://skift.com/2026/09/17/thai-airways-expands-flight-network-across-europe-and-asia/",
-      "published": "Thu, 17 Sep 2026 13:55:36 +0000",
-      "summary": "Thai Airways\u2019 expansion across Europe and Asia could strengthen Bangkok\u2019s role as a regional hub, giving hotels and tour operators more opportunities to attract travelers combining Thailand with neighboring destinations.",
       "source": "Skift"
     },
     {
@@ -91,6 +91,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Colombia Aligns With Panama and More as Australia Issues New - nomadlawyer.org",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVhnaFJWdWY2MnQ3NjhpZWN4NlAzSUFnenpZQnM3M2FUNmZLVnE0TXZnSG82M3VyWmphdFdDQi05aEhINjNUem5FWjJRWlVFNWNNVXg2dXZmdWhMcXdEa1RVaVFLZTZsaUVpaVhSYUo1UXVRT0tlNlFmdFdLemRFcDZhUlJ2dV9sZ3BTa2RtQmlHZ2xhRnhYc0YtUEIwUjUwc0JUWFJibWE1R25JbllscTdSelFVd3kybUtybE1KOU53dE9CZGR4eHhxSHdhc1dWU0VENEFGeDlPU2ZI?oc=5",
+      "published": "Fri, 18 Sep 2026 13:09:21 GMT",
+      "summary": "Colombia Aligns With Panama and More as Australia Issues New&nbsp;&nbsp;nomadlawyer.org",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Emirates, Air Arabia and flydubai cancel flights as US raises Saudi travel advisory - Arabian Business",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE1xYllRbUI4WEZJdXR4dmR0NjdKY1RZWjMxdGFYMFJSQTBaX0k5T25RbC1SeGJvTGpZY0lWZmJaRnZvYUdVV1Rubzl5V0lvUGVxcGlOYVc0MHoyeENCNGV0R1Zrdk02S09aeExzSlVrY3E4Q1dHb1N3d05tZGNxQQ?oc=5",
       "published": "Wed, 16 Sep 2026 05:08:50 GMT",
@@ -98,24 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZVJsc3owY3RmT0oxZnBHQVN1MmdjdHBSdnlGTVM0ak9LM0gtd21CNmNBS2hramJ5Z1dBYW80TmdTNG81RG1HWERkVENEeklnT2dkSU1oZXN2eUhsMzlxNVlQVEkyUVNjTXYxcWR6UzNRWHNYWC1UWVdCUWlESDZ3dmNEWkdjMjE5VXFtN1lGOEdsR0lxT29FM0duX0tjVmxsZ001RjNXOVp1alBIbTVkTGhBODdBVk5XSVBnalFfOHNqXzlVeThJcGt2YVlXNVBDVC1FREFidUQ3czljWGdn?oc=5",
       "published": "Mon, 14 Sep 2026 09:10:55 GMT",
       "summary": "Dubai and Middle East flight disruption: Emirates, Etihad and Flydubai face delays amid ongoing regional tension&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9OSEc0OW85RldrS1dRQVVoVk9JVk5tNjNWMV9LendHTnd4bTc1X2h5VktRTzZfaHF4ZERLYnJkTUlwNHNzeFhiM01aWVhlWVZSZTludDFqMm5IU05aWTA1djVLc01sckhHdWFvU3BMYl9xTjNpMm1Qc1ZrWUlQTkNoWk1Uc2UxN0xhSEN4N1NSSlVPTERBb1A4Ui10UnpZNmxjZFgwMTJrVWwyZzlJTUp30gHGAUFVX3lxTE9WaGdzWXRSS0VFaDdLWFoyOWx3UGx0a2tCYlpuNmJ0blk5VDM0SEFHSlZrTERodkhERVFSa2VXSnBHSW1NY1cwMlMtZjRyd1hvYW90d1dkazN2dnhPTE9zbXU2emwzY2lCejUzY3lpMjdwR19XYmJJckJ4bmJBbnIzQ1ItU1JOeEdGa3hibFl1VXB1WFE2QVBEaFY0NDFvNWF6OTJiUU1MUlp1QzBnaGlyTjRKY3N2aTNmVzZwNUpUOFh6UFkzZw?oc=5",
-      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "summary": "Over 709 flights delayed, 110 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmt0VWZzZ0ZNZ0JWTzFFeEYwc05wRUVYWlJvQ0k3d3dwRl9qeFdJQ3lyaVYteEFFSFBWVXdhcHZaak1rYWJLTWxWQ2p3MWFBYjY0dVQwdUlfSEtEY1RkMDR3NWMxUmlUbnd4S05DRVRGUk9fbGRXXy1HaGZCLXlfVUhtZ3NpV0t4RnRFLWF4VFdOaTdQXzdEX3FHMl9FU2RUSnY4Yl9QZkxCY0d3UnhsY0V30gHGAUFVX3lxTFB3STFXUVNmSGtMMmdRVFBjYWdUYk1kaTZNVlpSR2t1aFFmb05UTi03Uy05YS1TNUJZSlRjS1FaSGtRUGEyWkFabUxpTVlrejhPOEstMTdGSlhDWnlPSExTV3JQX2xYaTNSYzMzZHNENkZOZ1h4U2YyTEdoLWhCZXF1SGQ2Q2RlckprQXBMRTBpR0duQllzdVRNaEo1eFdXWm1fTWdycTFJMTdJd3FDejRISHdKNXhKRW9NWWs1ZXJoMWN6NEJydw?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
