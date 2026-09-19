@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-19T08:21:23.556278+00:00",
+  "last_updated": "2026-09-19T14:59:01.240375+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number",
+      "link": "https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/",
+      "published": "Sat, 19 Sep 2026 12:41:33 +0000",
+      "summary": "The industry pours its attention into search and booking. Steve Singh thinks the money is in what happens after. Spotnana&apos;s AI now handles cancellations and refunds, and he believes servicing costs can fall by half. He makes the case at Skift Global Forum.",
+      "source": "Skift"
+    },
     {
       "title": "Cutting Passenger Demand May Be Only Way to Save Heathrow\u2019s Net Zero Case",
       "link": "https://skift.com/2026/09/18/cutting-passenger-demand-may-be-only-way-to-save-heathrows-net-zero-case/",
@@ -56,17 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "U.S. Tourism Slide Deepens With 12% Drop in August",
-      "link": "https://skift.com/2026/09/17/u-s-tourism-slide-deepens-with-12-drop-in-august/",
-      "published": "Thu, 17 Sep 2026 21:41:41 +0000",
-      "summary": "The U.S. travel industry expected a banner summer for visitor numbers.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - nj.com",
+      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
       "published": "Thu, 17 Sep 2026 14:29:00 GMT",
-      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
+      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know - travelpirates.com",
+      "title": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2xIeWlHamZwb2hwUmZHcjFiWUtQRWtFYlBUbXpyX0pWdmd2WXNLX3BRaDQ1bkpnNlQydGE1T3pwZndxTjNFVHR0X2tFTmNTX3NwOVE1RXYtV3RlM3VRSnJGSnUyT0xfenM2UEVRTGxjMHRBcE1aRHExQnZGTkxrdEZR?oc=5",
       "published": "Tue, 15 Sep 2026 19:08:05 GMT",
-      "summary": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know&nbsp;&nbsp;travelpirates.com",
+      "summary": "Is It Safe to Travel to Dubai and Abu Dhabi? What Americans Should Know&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions - nj.com",
+      "title": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmlrOGNldTdaUmphdnRWUzh3SHJpVVIzc0ZqSk5tZmU1VE1UcWJLbk9SM3ZkMzlidVpWMmxCMkx2ckVhY1RqdlRYbkg0MWVLd2ZWeG1jbXdscXlQV0JRbG9xRlNPU0xNcndQamR1eGhsUUotV0lsdUVHYy0yX2JfNUxNRTRmNi1Fcm9ocm1weEt5UW51d3IzRWV1ejRKVDFOOWJQVHRUb0dmMV95d3hhUmp30gHGAUFVX3lxTE4tZW9WWG5TN3pLOUxseEFTSlpRYjRqVEc3Q0dZSHFLTTBQNGJfQzFjUTJCQlBxUVYwUWw0M2hJcG5TNFBwSFpkWTV6Y2lYYlliTlVOTGlyQ0hTWjBBaktwZzlVN3RPZHByV2ZEbGVtQ1NSQi1WTWhNVDFvZHVzc1ppd0gzUVBzTUtPRWVYNUFrcVg4X0tuQmpReWFVNXoxMWZSR3VBTE1XYTZadGpKWG5VVjE4VXhrZGJUWnRYUklqV0hqbDNWQQ?oc=5",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "summary": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
+      "summary": "Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions - nj.com",
+      "title": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1BVNTY0ZWVhUzNGXzNUSEhsb3lXdThRRks2M2x2TnVEVl9WRUFpT01QcHdKdGdyOHlUN0prS04zYmIwMTliRGxKdS1HalRiejRLa1h2Vm0weHBuUHV3NmNuNDJoQlZZTm1TQXhtVmFiY0RZWG9kY3I0eG93ZW1ha3JsUFJjWjhDWmdWQ05YSFVlc0ZLWlVXNHZHMzUycjBoTWxqbzBOS01sbHI1dlY2ctIBxAFBVV95cUxNc3NVX1VyWGNNempMOHF3clZZS0NJQzlIRTdwT2I5QjdUNDVtY0xZN0NJR0NiQzlGZnlxaXY5UEE4bXdiZWNUWk1HaFpOSi1IaTlmTnFRLS05V2ZWRUl0b1lTVXMxd1NLdnNRUjR4RXMxQWo2c0tUMjdrRDczM181bnJxWFhqMzFUTng2VFVnSllSV19JU0wwNUtEcWU0TUV6ZzVzcUgzYTVYRnNvY3VwQ1ByUVVKRVRzVThWUFJOM212OC1K?oc=5",
       "published": "Fri, 11 Sep 2026 14:43:00 GMT",
-      "summary": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
+      "summary": "Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - nj.com",
+      "title": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmt0VWZzZ0ZNZ0JWTzFFeEYwc05wRUVYWlJvQ0k3d3dwRl9qeFdJQ3lyaVYteEFFSFBWVXdhcHZaak1rYWJLTWxWQ2p3MWFBYjY0dVQwdUlfSEtEY1RkMDR3NWMxUmlUbnd4S05DRVRGUk9fbGRXXy1HaGZCLXlfVUhtZ3NpV0t4RnRFLWF4VFdOaTdQXzdEX3FHMl9FU2RUSnY4Yl9QZkxCY0d3UnhsY0V30gHGAUFVX3lxTFB3STFXUVNmSGtMMmdRVFBjYWdUYk1kaTZNVlpSR2t1aFFmb05UTi03Uy05YS1TNUJZSlRjS1FaSGtRUGEyWkFabUxpTVlrejhPOEstMTdGSlhDWnlPSExTV3JQX2xYaTNSYzMzZHNENkZOZ1h4U2YyTEdoLWhCZXF1SGQ2Q2RlckprQXBMRTBpR0duQllzdVRNaEo1eFdXWm1fTWdycTFJMTdJd3FDejRISHdKNXhKRW9NWWs1ZXJoMWN6NEJydw?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
+      "summary": "Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     }
   ]
