@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-20T08:52:54.823284+00:00",
+  "last_updated": "2026-09-20T15:02:39.932314+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "What Uber and Airbnb Reveal About Expanding Beyond the Core",
+      "link": "https://skift.com/2026/09/20/what-uber-and-airbnb-reveal-about-expanding-beyond-the-core/",
+      "published": "Sun, 20 Sep 2026 14:36:37 +0000",
+      "summary": "Uber has frequency and Airbnb has travel intent; their expansion into hotels will show which advantage travels further.",
+      "source": "Skift"
+    },
+    {
+      "title": "Brand USA\u2019s Covid-Era Funding Windfall Is Running Thin",
+      "link": "https://skift.com/2026/09/20/brand-usa-budget-fiscal-2027/",
+      "published": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "summary": "A one-time $250 million boost from Congress let Brand USA operate with a nearly fully funded budget after a dramatic cut to federal funding \u2014 but that extra funding is about to run dry.",
+      "source": "Skift"
+    },
     {
       "title": "Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number",
       "link": "https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "IndiGo\u2019s Low Fares Remain. The Extras Are Getting Pricier",
-      "link": "https://skift.com/2026/09/18/indigos-low-fares-remain-the-extras-are-getting-pricier/",
-      "published": "Fri, 18 Sep 2026 10:06:59 +0000",
-      "summary": "The commercial challenge for IndiGo is how much more it can monetize the passenger without making a low-cost airline feel less low-cost?",
-      "source": "Skift"
-    },
-    {
-      "title": "AirAsia Pushes Back on Rivals Taking Its Place in Malaysia",
-      "link": "https://skift.com/2026/09/18/airasia-pushes-back-on-rivals-taking-its-place-in-malaysia/",
-      "published": "Fri, 18 Sep 2026 08:58:55 +0000",
-      "summary": "AirAsia is defending its dominance in Malaysia as rivals eye its domestic capacity, while higher fuel costs and liquidity concerns test its advantage.",
-      "source": "Skift"
-    },
-    {
       "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
       "published": "Sun, 20 Sep 2026 04:06:52 GMT",
@@ -70,10 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Environment complex': US issues Middle East travel advisory amid Houthi attacks - The Times of India",
+      "title": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFFuNDEwZGtWR2RJRzdDd1ZFb05IRVdUYXI5XzdDNkRoY05BZE56MUI0TENpRnhMOVc2N2tRVTBHaHhFT2MtaXpVTm9jTjEtZlVkVmVPVlFUbFVnaWpqSnpnVVVsZ2JjUjAzWHdmcVdpdEx2RVRnc2o4SDRBZ3pBcmQtY0JjUTlYZ05jM3NMdUlmbDZUOWZRWGdqNjd1djNnYWpoWVZobFVpSm0tZ192M2JyaVI0dDJZZWFhWFg1NEJPX3ZkaW5DTEhfSW53ZktaR2xMa2xDRWEtZWh3NlFmYURKb0xDLUk1SnZ5MlN30gHzAUFVX3lxTFBxT1UzZFd2UVcxaWZUVDVzcDZTLXJXNVktWjF4ZkZRNEpzMkFjVkFIakVNa0sza1dJREtLNG1lZzFIN0hRcS1kTXhfLWdpSk9acFVjNDNmTTRRWTlqeGx0RWpoeXpqQUJYbzJSdWI0S2dZRHFEa2NJWmxqVkx6ekhERk5GN0pvc09lYUdIRWJVbkJ6c05JazZnWFpDTkZOaEJIQWM1TXhkQWUyTTFoUXVCVDNhTHdyV2RXZWlIeHg0NWtlRFRscFpqbEFSUDlCVmJuRW5CRXNhTkdLRG1nTVZPdmxJUDN3RlczdmdPYU1HQ0lvUQ?oc=5",
       "published": "Sun, 20 Sep 2026 01:44:00 GMT",
-      "summary": "'Environment complex': US issues Middle East travel advisory amid Houthi attacks&nbsp;&nbsp;The Times of India",
+      "summary": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert&nbsp;&nbsp;The Times of India",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVNZMUtnbndKbU1YdTVGdXNkSTJCY0JRZlJhNjdjUzF5YjRscEZ2SkdTdVFnQmZOSmtKMWlya0F1WElMVno3QUk2dUJYUnYtYVFTN3htQ3U0b0RXSEg3VnNxaE8taHpLUjZYa1hpQ183aUZuOVpfSlllVXFldVdGMTRSRlEwX0R6d1dWelotQ0FQTG5TYl8tV3NMMVVLakZSLXJieEVTeE1XZEIybmVxaEdUM0hWZ2xib3l6eFJtMTNpR1FpNmhjRVZzMFpXSmhPQy0tZmd3QmZBeFFCWGxWQ0lFTVV2RU5NTnBZNjhlRldsbDg?oc=5",
-      "published": "Sat, 19 Sep 2026 23:01:00 GMT",
-      "summary": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia&nbsp;&nbsp;ANI News",
+      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
+      "published": "Thu, 17 Sep 2026 14:29:00 GMT",
+      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGtDa09ILW1WSzI0eUZTLVQtN1RpaHR4T1hFcS02bjVtdW9sQmd5YzRmclJ6Y2RZNGp4Q1ZTcUVDU0Z0T2c3MUtpSl8tVG9GYkVhZklQc0dRdjJPd3FkYzlrUEZ0c2otSlhXb1loSjNWbmJTU0pOR21sVXFHdTc5WU5tdV9JQWI5cEVYc1kxbHhkbXJWVDJ5RVNkaTQ4QW1FY1hlZjQ3c0dZOHFBRTItT1VYS2IwbERMQldjbdIBxAFBVV95cUxQRkkyQml2VEVqTEJ5bDFpelpiendic2dMR0t3ejdsbW5ERTBuVktjX3dPck1fR1R5b253VWpSUmQ3QVB0aHRWblNDVTI2RXoza1FxSW5FNkxPVWtvVlBlUDQwU3VwMEpPc3RUYWtzRjNRMlBjdTRtTUM0RWQ3VDJ3X0dRUmVvMVlpaW1xd3RIOS15di03dC1xRU9rU3ZNRVVFSGgwVHR1Sk1CM0pxYnJXLTFyZWwxMVFVOVdzT0N4RkhNUjd3?oc=5",
-      "published": "Sun, 20 Sep 2026 05:03:24 GMT",
-      "summary": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict&nbsp;&nbsp;NDTV Profit",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
-      "published": "Thu, 17 Sep 2026 14:29:00 GMT",
-      "summary": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions - MassLive",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjlUWVJKMUo4WHg2Y1NhTjhQekZ6TVFOQnl2TUdJMkltMlhDRC1BUkM3bDhQc3BKWkV6NkNzQXg1bURhdjg3OFVycV92LUpTdk1yMXNkeEpQclNoWnVnUHRlQTdSOFlsX1lKMm9peFlLSzRSZkNVMm1sZUE3akRFcGF2STdsWUNTSVZocFpISVhVekFDQXBXdHN2bGdYUV9fc1ROZlh2RDJqNVg5MDVkcUQ0WXc0Uzlh0gHMAUFVX3lxTFBSQ2JvTENULWo2ODZZanY1M3k3Nmt3cHloODdJc3E4M2gtV0hPRXUtY0VQZF9ZVlZWbU5OaGJNLVJzUXpaTkRqbmd1bEdVMDZMTE1zd2J5Ui1YTjVQN25lT1U5ZUpUTEEweExTUW5iM2hlMXZ5LTgtcXhvZVY1QTQzN3FpUGF2ck13ZWhlRUpYQjl0X05WVFhfdWw5a3Y4NlR1aTVFLWhuUDFZTjM2R2lJQl9MVVpHM0tQMmZvbE1VZ2ZMSTROYnNYX0h6Qw?oc=5",
       "published": "Wed, 16 Sep 2026 14:37:00 GMT",
       "summary": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MassLive",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia - aninews.in",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVNZMUtnbndKbU1YdTVGdXNkSTJCY0JRZlJhNjdjUzF5YjRscEZ2SkdTdVFnQmZOSmtKMWlya0F1WElMVno3QUk2dUJYUnYtYVFTN3htQ3U0b0RXSEg3VnNxaE8taHpLUjZYa1hpQ183aUZuOVpfSlllVXFldVdGMTRSRlEwX0R6d1dWelotQ0FQTG5TYl8tV3NMMVVLakZSLXJieEVTeE1XZEIybmVxaEdUM0hWZ2xib3l6eFJtMTNpR1FpNmhjRVZzMFpXSmhPQy0tZmd3QmZBeFFCWGxWQ0lFTVV2RU5NTnBZNjhlRldsbDg?oc=5",
+      "published": "Sat, 19 Sep 2026 23:01:00 GMT",
+      "summary": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia&nbsp;&nbsp;aninews.in",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGtDa09ILW1WSzI0eUZTLVQtN1RpaHR4T1hFcS02bjVtdW9sQmd5YzRmclJ6Y2RZNGp4Q1ZTcUVDU0Z0T2c3MUtpSl8tVG9GYkVhZklQc0dRdjJPd3FkYzlrUEZ0c2otSlhXb1loSjNWbmJTU0pOR21sVXFHdTc5WU5tdV9JQWI5cEVYc1kxbHhkbXJWVDJ5RVNkaTQ4QW1FY1hlZjQ3c0dZOHFBRTItT1VYS2IwbERMQldjbdIBxAFBVV95cUxQRkkyQml2VEVqTEJ5bDFpelpiendic2dMR0t3ejdsbW5ERTBuVktjX3dPck1fR1R5b253VWpSUmQ3QVB0aHRWblNDVTI2RXoza1FxSW5FNkxPVWtvVlBlUDQwU3VwMEpPc3RUYWtzRjNRMlBjdTRtTUM0RWQ3VDJ3X0dRUmVvMVlpaW1xd3RIOS15di03dC1xRU9rU3ZNRVVFSGgwVHR1Sk1CM0pxYnJXLTFyZWwxMVFVOVdzT0N4RkhNUjd3?oc=5",
+      "published": "Sun, 20 Sep 2026 05:03:24 GMT",
+      "summary": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
     }
   ]
