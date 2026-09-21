@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T02:12:10.587562+00:00",
+  "last_updated": "2026-09-21T09:23:13.648283+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -70,13 +70,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFFuNDEwZGtWR2RJRzdDd1ZFb05IRVdUYXI5XzdDNkRoY05BZE56MUI0TENpRnhMOVc2N2tRVTBHaHhFT2MtaXpVTm9jTjEtZlVkVmVPVlFUbFVnaWpqSnpnVVVsZ2JjUjAzWHdmcVdpdEx2RVRnc2o4SDRBZ3pBcmQtY0JjUTlYZ05jM3NMdUlmbDZUOWZRWGdqNjd1djNnYWpoWVZobFVpSm0tZ192M2JyaVI0dDJZZWFhWFg1NEJPX3ZkaW5DTEhfSW53ZktaR2xMa2xDRWEtZWh3NlFmYURKb0xDLUk1SnZ5MlN30gHzAUFVX3lxTFBxT1UzZFd2UVcxaWZUVDVzcDZTLXJXNVktWjF4ZkZRNEpzMkFjVkFIakVNa0sza1dJREtLNG1lZzFIN0hRcS1kTXhfLWdpSk9acFVjNDNmTTRRWTlqeGx0RWpoeXpqQUJYbzJSdWI0S2dZRHFEa2NJWmxqVkx6ekhERk5GN0pvc09lYUdIRWJVbkJ6c05JazZnWFpDTkZOaEJIQWM1TXhkQWUyTTFoUXVCVDNhTHdyV2RXZWlIeHg0NWtlRFRscFpqbEFSUDlCVmJuRW5CRXNhTkdLRG1nTVZPdmxJUDN3RlczdmdPYU1HQ0lvUQ?oc=5",
-      "published": "Sun, 20 Sep 2026 01:44:00 GMT",
-      "summary": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert&nbsp;&nbsp;The Times of India",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 2,234 flights delayed, 237 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnI0d2h0R3ltbHRPanpYQVZmZ2hOZzJTeHhIamVnY19sUjdLUV8xb3I4OHdzRVRtaFMxZzF3NnhLbW5ENm1Ld1ZNZmNsbHNwZnBJdFJKNEJGdnNZQkpvZHZQZlFSWnFRTXFCX3k1OXZaZjRmSHZ4Wk5wZkcxTmJXcy16YUZuR0pFblFGUzRyUFRnSzFaSFRIQXQyYnZlUE1Kb2xvRUtMSnJYVWNwWmdDSm4zWdIBxwFBVV95cUxQWUw2SmtTN3JfcmhBMC1fUFNHdkUxX3kxbTlwRGNWNkpzS3pLcTIyZHJabGZHc2NHMl9KVTZtOG1IdUl2VnlEMzhsTXJOc3FfWS0ta0FObm9WZGpyWjVScldFb1hCUllqWVVsWWw2bzJaYWxRZlU4OWQ0Nm9hM2p0TERHMEk1SzF6LWw4Nm1CRDFIaG5lSGZVcWcwQnJuNGVGZ2pXdUo3c1I4VFdxY0xkTWx0ZXpEX21sUUVyaXZSemlCX0xqblJF?oc=5",
       "published": "Thu, 17 Sep 2026 14:29:00 GMT",
@@ -84,10 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Announces Urgent Travel Warning for 11 Countries - Charlotte Observer",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WYXY1SC00UnB6cldTenp6YW1EVDZET1hpeTZwZTltdHFQMjNYUDRKSkVaZVVFdUtCdGc5VENoaXI3Z1pOM1A3al9CcVlEb0t4cjYycE5nTTNndmVrTFlXb2FnUnM0cGYyUkFiY3B5TQ?oc=5",
-      "published": "Sun, 20 Sep 2026 04:08:05 GMT",
-      "summary": "U.S. Announces Urgent Travel Warning for 11 Countries&nbsp;&nbsp;Charlotte Observer",
+      "title": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFFuNDEwZGtWR2RJRzdDd1ZFb05IRVdUYXI5XzdDNkRoY05BZE56MUI0TENpRnhMOVc2N2tRVTBHaHhFT2MtaXpVTm9jTjEtZlVkVmVPVlFUbFVnaWpqSnpnVVVsZ2JjUjAzWHdmcVdpdEx2RVRnc2o4SDRBZ3pBcmQtY0JjUTlYZ05jM3NMdUlmbDZUOWZRWGdqNjd1djNnYWpoWVZobFVpSm0tZ192M2JyaVI0dDJZZWFhWFg1NEJPX3ZkaW5DTEhfSW53ZktaR2xMa2xDRWEtZWh3NlFmYURKb0xDLUk1SnZ5MlN30gHzAUFVX3lxTFBxT1UzZFd2UVcxaWZUVDVzcDZTLXJXNVktWjF4ZkZRNEpzMkFjVkFIakVNa0sza1dJREtLNG1lZzFIN0hRcS1kTXhfLWdpSk9acFVjNDNmTTRRWTlqeGx0RWpoeXpqQUJYbzJSdWI0S2dZRHFEa2NJWmxqVkx6ekhERk5GN0pvc09lYUdIRWJVbkJ6c05JazZnWFpDTkZOaEJIQWM1TXhkQWUyTTFoUXVCVDNhTHdyV2RXZWlIeHg0NWtlRFRscFpqbEFSUDlCVmJuRW5CRXNhTkdLRG1nTVZPdmxJUDN3RlczdmdPYU1HQ0lvUQ?oc=5",
+      "published": "Sun, 20 Sep 2026 01:44:00 GMT",
+      "summary": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert&nbsp;&nbsp;The Times of India",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. Announces Urgent Travel Warning for 11 Countries - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGpjWHB0TVVfMGRMWUQ5S3VrcjdMb1B3UmFEb3BKQ1VtT3lNWlA5TDBKOXdMUFUzX3JXVmtKMnUxVU5hc2FaaTVNNThlb18zdHRJLUMzXzJ6aV8xMVRQM29vOFpTRlFnMlFXM3BlSjFRam1zMmRDS0U1MktoQTRfWFdKTDFiMVY4RU1WSEo5b0Y?oc=5",
+      "published": "Sun, 20 Sep 2026 02:54:00 GMT",
+      "summary": "U.S. Announces Urgent Travel Warning for 11 Countries&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
@@ -98,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "\u2018Leave Iran now\u2019: US issues stark warning as Houthi attacks widen West Asia security fears - The Statesman",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFJHVGdpTFlvLXFBQ3Y0TVI0RTdPR2pEc3ctaEdqWmNwdC1ta0kycVVCNENMcXNEUEFqLUh1QnFfZzFBU3hUdmRPNXZPd2RHel9BNVYzWWRMNHdmNjk0aXYxbTByM2NEdjNLSUFjX0s3SERlV3QxRGJ4ekZLLUExcElseEJYamJpYWRNd0xncDhIX2M4YWlVcXRxNHh0X1VJSVI4bVNfZl9tY3BQS0VIb3E3YkF1aUNiX0JwTHFoYkhaZDVSNHNZclZzeHY0UHF4aVhGUNIB2gFBVV95cUxPdUxIRmJyVzB1M2NTRFBDM2hzMkVKalFRemdXdXB5WHBtWmdkNFpwNmhVOWYzckQwSEFrYXpXN0UxMVhCTEl1aFFHUEdtLXVpTEVOZm45MXhpTEVkc0FZUFhMUUVPR3lFTERHb2k0UGI5NTI1WHJaMWtUZmVTRE9veUhYT3k3dm5vLUs0UUlUMkdCellPTnBiR0JOcTlMeW1UZGNZaHRIMXVTLWt4Ti1aRGs2OHFGV2I3OUpRd09KU1YzLWpvTFBYVHRxRUZKdGowOHk5S2tJdjV4QQ?oc=5",
+      "published": "Mon, 21 Sep 2026 04:12:00 GMT",
+      "summary": "\u2018Leave Iran now\u2019: US issues stark warning as Houthi attacks widen West Asia security fears&nbsp;&nbsp;The Statesman",
+      "source": "Google News Travel"
+    },
+    {
       "title": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVNZMUtnbndKbU1YdTVGdXNkSTJCY0JRZlJhNjdjUzF5YjRscEZ2SkdTdVFnQmZOSmtKMWlya0F1WElMVno3QUk2dUJYUnYtYVFTN3htQ3U0b0RXSEg3VnNxaE8taHpLUjZYa1hpQ183aUZuOVpfSlllVXFldVdGMTRSRlEwX0R6d1dWelotQ0FQTG5TYl8tV3NMMVVLakZSLXJieEVTeE1XZEIybmVxaEdUM0hWZ2xib3l6eFJtMTNpR1FpNmhjRVZzMFpXSmhPQy0tZmd3QmZBeFFCWGxWQ0lFTVV2RU5NTnBZNjhlRldsbDg?oc=5",
       "published": "Sat, 19 Sep 2026 23:01:00 GMT",
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US sounds alarm over Saudi-Houthi tensions, issues travel advisory for citizens in Middle East | World News - hindustantimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUtOUWlKc0ZDeno3UWdXLVFPQXM4UDg4eVdQWU1JUlZhUXNTejZSUjZuXzNudkNDRGlkc3VwQW9QTkRWOEdNazVZeDdibzBzWThqWXVnMFByaWgwa2tVWXNlR2h4VWFTY1lJMzlqOWoydl9rZUNvMTFTQ2YzR2ZtYWc3bjlMT1RvbEhId3dST1NqOU0tWE1Ba1h2OXRyUGFZNVJHVnVXUXBHdnJEd0dHbTliN3F4eWxQU1BGbEZHMWVRQ291TTNZN0xLaVlrbjJRRDZXZmx0SzV1a2ZYN0pxRkVkY3RtQzhQeHk5RlcyNW5LVFQxaFN3RWpEWVhFZ9IBgwJBVV95cUxPLVpYMHFiNjdfWUU1Y3dzb2RPSHRvTHgwOGhSNzZwWXh6UU9PdDhkMlhmcDBoWEpPaGFTdjNPQ3c1dkp2Q3gtNjVteGZCUkstSVotTjVyOHBHaTQ2TUVHY21kQ2x2eTJXdXpBU2poR0ZJZFZLc3AyVWstaWJwSjMyejV0ZlZVazZ4cHE3Tlp5YU9ZRFFsemtralNtckpDVFd4SGZxNjROWlRMNWh0cHVWbVZFeE1fbVNaWkx5NVc3Y0ZMSTFvYjM1XzlXWHgyUDlVa19rNnlxZzgxZW1iTlRTR3RwUnpyY0FLOHZCOEVmSTczeHg5Qi14bkpZR2FsQ29PU3Y0?oc=5",
-      "published": "Sun, 20 Sep 2026 02:10:49 GMT",
-      "summary": "US sounds alarm over Saudi-Houthi tensions, issues travel advisory for citizens in Middle East | World News&nbsp;&nbsp;hindustantimes.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGtDa09ILW1WSzI0eUZTLVQtN1RpaHR4T1hFcS02bjVtdW9sQmd5YzRmclJ6Y2RZNGp4Q1ZTcUVDU0Z0T2c3MUtpSl8tVG9GYkVhZklQc0dRdjJPd3FkYzlrUEZ0c2otSlhXb1loSjNWbmJTU0pOR21sVXFHdTc5WU5tdV9JQWI5cEVYc1kxbHhkbXJWVDJ5RVNkaTQ4QW1FY1hlZjQ3c0dZOHFBRTItT1VYS2IwbERMQldjbdIBxAFBVV95cUxQRkkyQml2VEVqTEJ5bDFpelpiendic2dMR0t3ejdsbW5ERTBuVktjX3dPck1fR1R5b253VWpSUmQ3QVB0aHRWblNDVTI2RXoza1FxSW5FNkxPVWtvVlBlUDQwU3VwMEpPc3RUYWtzRjNRMlBjdTRtTUM0RWQ3VDJ3X0dRUmVvMVlpaW1xd3RIOS15di03dC1xRU9rU3ZNRVVFSGgwVHR1Sk1CM0pxYnJXLTFyZWwxMVFVOVdzT0N4RkhNUjd3?oc=5",
-      "published": "Sun, 20 Sep 2026 05:03:24 GMT",
-      "summary": "US Issues Middle East Travel Warning For 10 Nations Amid Saudi-Houthi Conflict&nbsp;&nbsp;NDTV Profit",
+      "title": "UAE flights: Cancellations in Dubai, Abu Dhabi and Sharjah after US travel warnings - Arabian Business",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWJfbUpDRXh2OUd3eUNPZ3NNMXhOb2xLWFF0YVBmMjZ2d3VvZ2VCR21CYTVyZVptZ1Jtc1VmS0gxZ2FXTTYtYUZHb0MxcHpGaF9xZXRZYUM3WGhyd09JZEpINWtxWjdQTEhiZk9YRFc1NGk1Ymx0dDhBVDZuRXA4QThnenM4OWR2Nk8xZDhWTVY5SEx0MjVWV3Z3LWpHNHR3Zm1nTVR5VzgtUkZ6YTRtNlZnOVVEMlJkY2xGVzU4emhtQkVqNmxkMHpKVU8?oc=5",
+      "published": "Mon, 21 Sep 2026 05:32:11 GMT",
+      "summary": "UAE flights: Cancellations in Dubai, Abu Dhabi and Sharjah after US travel warnings&nbsp;&nbsp;Arabian Business",
       "source": "Google News Travel"
     }
   ]
