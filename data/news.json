@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-21T17:20:48.602044+00:00",
+  "last_updated": "2026-09-21T22:54:44.956905+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Equipment Outage Triggers Flight Delays, Cancellations at Northeast Airports",
+      "link": "https://skift.com/2026/09/21/equipment-outage-snarls-air-travel-in-new-york-philadelphia/",
+      "published": "Mon, 21 Sep 2026 19:33:23 +0000",
+      "summary": "Airports in the New York area and Philadelphia are facing flight disruptions after the FAA issued a ground stop due to an equipment outage.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb\u2019s Pivot: Inside Its New Push Into Hotels",
       "link": "https://skift.com/2026/09/21/airbnbs-pivot-inside-its-new-push-into-hotels/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Global Forum Preview: IHG\u2019s Chief Commercial & Marketing Officer on Making Hotels Legible to AI",
-      "link": "https://skift.com/2026/09/18/skift-global-forum-preview-ihg-ai-hotel-visibility/",
-      "published": "Fri, 18 Sep 2026 15:25:16 +0000",
-      "summary": "Heather Balsley is making IHG legible to the AI models while arguing the models will never own the guest. Two bets, one strategy, at Skift Global Forum.",
-      "source": "Skift"
-    },
-    {
-      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - nj.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjM2dHd4aDBCS053QWFDc0Nwd1M1VFhNaGlLX0dJM1A0eG5zUUJfZ2NydG9kejA1bzBON1RuOGpJTWZpaHdOTS1CbXQ0UkRKTHRCSUZMNWxJam82SDJobWxDS3Y0RmtrNHBfS0Uyek9ySkh5MHViSUNYUF9EVFV0ZlNEdXBQNmJucDFkenREQVJVR0ZlYzVzSG10dldHWkhORFlmM2RwQm9jLTdfQ0FfMjFR0gHGAUFVX3lxTE43VkU0MUVPMzdHYnZKbEI0bjJpX3pDUmZvUUZTU2ZudFBkMU96SkdBM2JWMVd3b3pDb0tiX05iOVBfMXNZMVVFUl9lT0VHOUhLV01kMmlTQzF4dkVVUUdlMjc5RC1xb0Vad1hDODZVcGpyQ3EteU5zdl8yczRqaUlOZERzTHNqeWJxc0ZRMlhyMGVLVS1ncEtXMkRYS2N5OGktREcybzR0cTVvYmlESmdRRW5ObFV5NHB0OHBuQU5MV0tzRlNVQQ?oc=5",
       "published": "Mon, 21 Sep 2026 14:21:00 GMT",
-      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
-      "published": "Mon, 21 Sep 2026 12:06:07 GMT",
-      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
@@ -84,24 +77,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFFuNDEwZGtWR2RJRzdDd1ZFb05IRVdUYXI5XzdDNkRoY05BZE56MUI0TENpRnhMOVc2N2tRVTBHaHhFT2MtaXpVTm9jTjEtZlVkVmVPVlFUbFVnaWpqSnpnVVVsZ2JjUjAzWHdmcVdpdEx2RVRnc2o4SDRBZ3pBcmQtY0JjUTlYZ05jM3NMdUlmbDZUOWZRWGdqNjd1djNnYWpoWVZobFVpSm0tZ192M2JyaVI0dDJZZWFhWFg1NEJPX3ZkaW5DTEhfSW53ZktaR2xMa2xDRWEtZWh3NlFmYURKb0xDLUk1SnZ5MlN30gHzAUFVX3lxTFBxT1UzZFd2UVcxaWZUVDVzcDZTLXJXNVktWjF4ZkZRNEpzMkFjVkFIakVNa0sza1dJREtLNG1lZzFIN0hRcS1kTXhfLWdpSk9acFVjNDNmTTRRWTlqeGx0RWpoeXpqQUJYbzJSdWI0S2dZRHFEa2NJWmxqVkx6ekhERk5GN0pvc09lYUdIRWJVbkJ6c05JazZnWFpDTkZOaEJIQWM1TXhkQWUyTTFoUXVCVDNhTHdyV2RXZWlIeHg0NWtlRFRscFpqbEFSUDlCVmJuRW5CRXNhTkdLRG1nTVZPdmxJUDN3RlczdmdPYU1HQ0lvUQ?oc=5",
-      "published": "Sun, 20 Sep 2026 01:44:00 GMT",
-      "summary": "'Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert&nbsp;&nbsp;The Times of India",
+      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
+      "published": "Mon, 21 Sep 2026 12:06:07 GMT",
+      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
       "source": "Google News Travel"
     },
     {
-      "title": "US Warns Citizens: Do Not Travel to Iran, Leave Immediately - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa284b2ZkZzF6SHp5Vk40TV80bDIzS2tMSlBENEFoek5KT25CVGJKbDNTaDl5eDJFQVMzd01xRU4yMnVfbjVMRnBtRVVsUl90MC1tLVdSTk50MXNVd1A2V3lFaDVZWl9XM1FrZTJVRl9YQkoxSVZ3VVZHclZTSGNseFpEU0RucGpSelZSZVo4LTFVN1JjXzdoX2J4c0l4U1h5SWdZVWltS19HaFFFMkZEdkF30gG3AUFVX3lxTE5zT1VieU5HTU9yUzFYTHJ6OVk2aXltN2JRQ1MwNmtlTURlSlI0Z3pMQXZPWGdkOEwtU3JRTktBTTRXb3FFc3BmSUx4aEM0R0RPWmgwYXlWWVk2dVpCVFJVZ2U4UXBXbkRUZkE1a2ZhU1lsYUdKUEVyeEpjZml3VTk1czRTbnhiZmQzNG03UFQ3TDJvZ0FXWHo3bjZUOTZ0M19ENVUwckdMQkFTV2JVSlNsQnBFUlROYw?oc=5",
-      "published": "Mon, 21 Sep 2026 01:41:29 GMT",
-      "summary": "US Warns Citizens: Do Not Travel to Iran, Leave Immediately&nbsp;&nbsp;Deccan Chronicle",
+      "title": "U.S. Announces Urgent Travel Warning for 11 Countries - miamiherald.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9reEthSlFlX3c5UWQ4SzdDTHVnZjZPSTY3N1owdG5KdHExdmdrb2pjNFFpRTBGQjlOWFY0SFZaYkRZeHJxOGloNG41ZGszWjkyRDZrMmg4Qi1ib082TjBORWM5bTEtWDg?oc=5",
+      "published": "Sun, 20 Sep 2026 04:08:05 GMT",
+      "summary": "U.S. Announces Urgent Travel Warning for 11 Countries&nbsp;&nbsp;miamiherald.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4aGhhMjBkdHRjbkw0UWFnaUN2M05iYlhNMm95VW9IaUwzTjJoazhBc25PSkEyWnlLT2owMmx0N3lNSHU0Nl9uTWVJRnRXN3FGOFdaV1ZZRmxPVXRhbFBPblFPVlJYcW8xMXpGY1R6SU02d3FvQ2drLQ?oc=5",
-      "published": "Mon, 21 Sep 2026 10:46:36 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates&nbsp;&nbsp;Yahoo News UK",
+      "title": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjlUWVJKMUo4WHg2Y1NhTjhQekZ6TVFOQnl2TUdJMkltMlhDRC1BUkM3bDhQc3BKWkV6NkNzQXg1bURhdjg3OFVycV92LUpTdk1yMXNkeEpQclNoWnVnUHRlQTdSOFlsX1lKMm9peFlLSzRSZkNVMm1sZUE3akRFcGF2STdsWUNTSVZocFpISVhVekFDQXBXdHN2bGdYUV9fc1ROZlh2RDJqNVg5MDVkcUQ0WXc0Uzlh0gHMAUFVX3lxTFBSQ2JvTENULWo2ODZZanY1M3k3Nmt3cHloODdJc3E4M2gtV0hPRXUtY0VQZF9ZVlZWbU5OaGJNLVJzUXpaTkRqbmd1bEdVMDZMTE1zd2J5Ui1YTjVQN25lT1U5ZUpUTEEweExTUW5iM2hlMXZ5LTgtcXhvZVY1QTQzN3FpUGF2ck13ZWhlRUpYQjl0X05WVFhfdWw5a3Y4NlR1aTVFLWhuUDFZTjM2R2lJQl9MVVpHM0tQMmZvbE1VZ2ZMSTROYnNYX0h6Qw?oc=5",
+      "published": "Wed, 16 Sep 2026 14:37:00 GMT",
+      "summary": "Over 868 flights delayed, 45 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MassLive.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Announces Urgent Travel Warning for 11 Countries - Hilton Head Island Packet",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93YWxNT3RmeEdTSzBKMTJINHlqWHFRSmcxNUJfMGJlWlRpVEJyQUthSDZhXzlWMFJBQUtYWDhnTmxsLUY4NmJWdU45NVkteC12NzdCZXpaOU9FT2dPdVZGcHF6bUtJMG0x?oc=5",
-      "published": "Sun, 20 Sep 2026 04:08:05 GMT",
-      "summary": "U.S. Announces Urgent Travel Warning for 11 Countries&nbsp;&nbsp;Hilton Head Island Packet",
+      "title": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVNZMUtnbndKbU1YdTVGdXNkSTJCY0JRZlJhNjdjUzF5YjRscEZ2SkdTdVFnQmZOSmtKMWlya0F1WElMVno3QUk2dUJYUnYtYVFTN3htQ3U0b0RXSEg3VnNxaE8taHpLUjZYa1hpQ183aUZuOVpfSlllVXFldVdGMTRSRlEwX0R6d1dWelotQ0FQTG5TYl8tV3NMMVVLakZSLXJieEVTeE1XZEIybmVxaEdUM0hWZ2xib3l6eFJtMTNpR1FpNmhjRVZzMFpXSmhPQy0tZmd3QmZBeFFCWGxWQ0lFTVV2RU5NTnBZNjhlRldsbDg?oc=5",
+      "published": "Sat, 19 Sep 2026 23:01:00 GMT",
+      "summary": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia&nbsp;&nbsp;ANI News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US tells citizens to leave Iran immediately, warns of travel disruptions - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcC1ORVM2N3A2cThnUWlkUHZpWlZZYVhmMFRaVF9IOU9FSEFpbm1JUjZLMzJLeUVlc24xcHBlU2hJSXFWMjVmT193cDdfck5xMWdlUUR4T1RXY1FoVmlfU0NkOXFhdVVKYWJ6el9HU255aHlzSktLYmtBTl9WMGJtZ25jRDRCOUx5Y0xYQTRMejdGM21VM3FPelp4NWptN2lhUEpLbGM3VU9kd2pSZzY5NWd5dHlWYzFxSjRlb0FiWFRmRlNOQm1HcS01YmtkX3lIQzJqWl9TenMwY3RjQVFSNXFhWFh0QdIB6wFBVV95cUxQcVMtRTV4R0VKaE9zT2E3WDRFR09WcjhDNUNqU2dlYzVOeTdFSFRtbmpmVUVocG05M04yellfQmdqUnREelFLMXJCanRHMHYyZkRDSEJTUGg5bmN1QlAtXzlIakZlSVBoLU5mcWh1UVZ6WHNuRE5pT2JkOUsxUjREa2h3M21uSV9KcGVmdEJIWmxhdUllV1FiYVc1bC1UcDQ3cENUN2M2NnZ1M3NLcnFCZ2VaMlZIZk42NnZYci16YlMwWjQydlJhQTctZ3dXY3g4amlLTi1sWHdwUXNEZG5IZzVVVWdJOXhNbVZv?oc=5",
+      "published": "Mon, 21 Sep 2026 02:30:00 GMT",
+      "summary": "US tells citizens to leave Iran immediately, warns of travel disruptions&nbsp;&nbsp;The Times of India",
       "source": "Google News Travel"
     }
   ]
