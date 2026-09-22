@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-22T15:54:42.912986+00:00",
+  "last_updated": "2026-09-22T19:21:05.480631+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact",
+      "link": "https://skift.com/2026/09/22/how-travel-measure-content-creator-lift/",
+      "published": "Tue, 22 Sep 2026 17:58:20 +0000",
+      "summary": "The path from online inspiration to booking isn\u2019t linear. Travel brands say measurement is all about &quot;incrementality.&quot;",
+      "source": "Skift"
+    },
+    {
+      "title": "How Travel Brands Learned to Stop Worrying and Trust Creators",
+      "link": "https://skift.com/2026/09/22/how-travel-brands-learned-to-stop-worrying-and-trust-creators/",
+      "published": "Tue, 22 Sep 2026 17:17:45 +0000",
+      "summary": "Travel brands are letting go of the curated campaigns and heavily produced videos in favor of giving more creative control to creators.",
+      "source": "Skift"
+    },
     {
       "title": "Sponsored Listings Are Spreading Across Online Travel \u2014 Just as AI Agents Threaten to Ignore Them",
       "link": "https://skift.com/2026/09/22/sponsored-listings-are-spreading-across-online-travel-just-as-ai-agents-threaten-to-ignore-them/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Ex-Remington CEO Is Building an \u2018AI-Native\u2019 Hotel Operator: Exclusive",
-      "link": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-      "published": "Mon, 21 Sep 2026 12:23:23 +0000",
-      "summary": "AI Hospitality Group (AIHG) wants to run full-service hotels with more tech and fewer managers, plus a fee tied to profit growth instead of the usual top-line revenue.",
-      "source": "Skift"
-    },
-    {
-      "title": "What Uber and Airbnb Reveal About Expanding Beyond the Core",
-      "link": "https://skift.com/2026/09/20/what-uber-and-airbnb-reveal-about-expanding-beyond-the-core/",
-      "published": "Sun, 20 Sep 2026 14:36:37 +0000",
-      "summary": "Uber has frequency and Airbnb has travel intent; their expansion into hotels will show which advantage travels further.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0p4XzI5aExncVB4Ry00MWhQTllCaUFLZGFuTFN5a01ZdGhXVHZyb1JFYzE2cnUtbHphOHBtcjhCa0hac09TSUJCaGJCeDBEelJ1Z250Mm9xWUNHZXpqZU8zQXVudWkxMm43am42UzZUdk9YbUVzS08wZHRHMkJNY193TS1hMEdNRFJuSTNYNHdmUU54a1ZMamdqZloxWmtkUEJYazFEbzM2aGs2cDA0REZVUdIBxwFBVV95cUxOVGZNU3ZEZEFVdVI4aklla011T2c2ekNRR2d6NFhWVmhvb3ZabDd2aDl4RWdMNjg0N3c1eXpOcjBsVmpWTm9HdGJRbEc3YU4ycV81MW5pU0NvRkNjOHF6RHpEa1ZOdUNHTmxzRlBIaURJRzdjVmR4ckx0VUQ1RGlJRzNBaU9HTXdoR05NYTNCOFpGb1ZQUjdrU1JQRWQ3UktpMThoQXB5Ylh4aDdfdUNUZUoxLWhMazBmbDktaVZtU2U4cjZtaTlr?oc=5",
       "published": "Tue, 22 Sep 2026 14:34:00 GMT",
@@ -77,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Americans warned again to rethink travel as missile attack rattles historic region - foxnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
+      "published": "Mon, 21 Sep 2026 15:23:19 GMT",
+      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;foxnews.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkRMbzZoWWh2aUpndURtd0RLSjVXaVB1ZGRVU2hCQnJPN2JNZnZPVXdMenIzeG15d0dIYkE5WFFGSWJsaXlJYkRMWll1NTF3QlQtcl9DdWs4SXpZQUFEZ2JZM3cwa3MyQ011Z1A2ejBzXzktLU9HdzEwZ2w5U1Z5OXNzLVJWMlhGdDdRZy1rVlk2QkNEM1BIcnBCZVQxTm90WnppWkgxZ2Y3czNNN0syc054bDhxQQ?oc=5",
       "published": "Mon, 21 Sep 2026 14:21:00 GMT",
       "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
-      "published": "Mon, 21 Sep 2026 15:23:19 GMT",
-      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
