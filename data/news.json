@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-09-23T15:43:25.658208+00:00",
+  "last_updated": "2026-09-23T19:18:03.456848+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Booking CEO: Building the AI Travel Agent Isn\u2019t the Hard Part",
+      "link": "https://skift.com/2026/09/23/booking-ceo-building-the-ai-travel-agent-isnt-the-hard-part/",
+      "published": "Wed, 23 Sep 2026 16:48:32 +0000",
+      "summary": "Booking Holdings has to navigate pressure from AI upstarts, competition from Airbnb, and antitrust-minded courts, all while running five AI bets at once.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton CEO Sees More Room to Improve Owner Margins",
+      "link": "https://skift.com/2026/09/23/hilton-ceo-sees-more-room-to-improve-owner-margins/",
+      "published": "Wed, 23 Sep 2026 16:38:14 +0000",
+      "summary": "Hilton is promising owners real margin gains after what its own CEO calls an &apos;abnormal&apos; decade.",
+      "source": "Skift"
+    },
+    {
+      "title": "Qatar Airways CEO Wants to Avoid Airfare Hikes: \u2018We Don\u2019t Want to Pass It on to Our Customers Just Yet\u2019",
+      "link": "https://skift.com/2026/09/23/qatar-airways-ceo-still-wants-to-avoid-airfare-hikes/",
+      "published": "Wed, 23 Sep 2026 15:51:02 +0000",
+      "summary": "Qatar Airways CEO Hamad Al-Khater\u2019s comments on pricing are a stark contrast with Western counterparts, most of which have passed on fuel costs to customers.",
+      "source": "Skift"
+    },
     {
       "title": "Royal Caribbean Moves Onto Land With $3 Billion Deal for Half of Sandals",
       "link": "https://skift.com/2026/09/23/royal-caribbean-is-in-talks-for-50-stake-in-sandals-resorts-reports/",
@@ -40,83 +61,6 @@
       "published": "Tue, 22 Sep 2026 23:49:08 +0000",
       "summary": "Destinations can capitalize on hosting a Super Bowl, World Cup, or Olympics \u2014 but DMOs are often constrained to marketing around the event, not through it.",
       "source": "Skift"
-    },
-    {
-      "title": "\u2018The Traveler Comes to Us\u2019: Uber CEO Explains Break-Even Bet on Hotels",
-      "link": "https://skift.com/2026/09/22/uber-ceo-explains-break-even-bet-on-hotels/",
-      "published": "Tue, 22 Sep 2026 23:32:13 +0000",
-      "summary": "Uber wants to be more than just a rideshare company. Speaking at the Skift Global Forum, Uber CEO Dara Khosrowshahi said the company is expanding into hotels and short-term rental bookings. Flights could be a possibility too.",
-      "source": "Skift"
-    },
-    {
-      "title": "That Creator Video Went Viral, the Booking Came Later: How Brands Measure Impact",
-      "link": "https://skift.com/2026/09/22/how-travel-measure-content-creator-lift/",
-      "published": "Tue, 22 Sep 2026 17:58:20 +0000",
-      "summary": "The path from online inspiration to booking isn\u2019t linear. Travel brands say measurement is all about &quot;incrementality.&quot;",
-      "source": "Skift"
-    },
-    {
-      "title": "How Travel Brands Learned to Stop Worrying and Trust Creators",
-      "link": "https://skift.com/2026/09/22/how-travel-brands-learned-to-stop-worrying-and-trust-creators/",
-      "published": "Tue, 22 Sep 2026 17:17:45 +0000",
-      "summary": "Travel brands are letting go of the curated campaigns and heavily produced videos in favor of giving more creative control to creators.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. government issues \u2018reconsider travel\u2019 advisory for entire region - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 14:33:00 GMT",
-      "summary": "U.S. government issues \u2018reconsider travel\u2019 advisory for entire region&nbsp;&nbsp;thestreet.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
-      "published": "Sun, 20 Sep 2026 04:06:52 GMT",
-      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjM2dHd4aDBCS053QWFDc0Nwd1M1VFhNaGlLX0dJM1A0eG5zUUJfZ2NydG9kejA1bzBON1RuOGpJTWZpaHdOTS1CbXQ0UkRKTHRCSUZMNWxJam82SDJobWxDS3Y0RmtrNHBfS0Uyek9ySkh5MHViSUNYUF9EVFV0ZlNEdXBQNmJucDFkenREQVJVR0ZlYzVzSG10dldHWkhORFlmM2RwQm9jLTdfQ0FfMjFR0gHGAUFVX3lxTE43VkU0MUVPMzdHYnZKbEI0bjJpX3pDUmZvUUZTU2ZudFBkMU96SkdBM2JWMVd3b3pDb0tiX05iOVBfMXNZMVVFUl9lT0VHOUhLV01kMmlTQzF4dkVVUUdlMjc5RC1xb0Vad1hDODZVcGpyQ3EteU5zdl8yczRqaUlOZERzTHNqeWJxc0ZRMlhyMGVLVS1ncEtXMkRYS2N5OGktREcybzR0cTVvYmlESmdRRW5ObFV5NHB0OHBuQU5MV0tzRlNVQQ?oc=5",
-      "published": "Mon, 21 Sep 2026 14:21:00 GMT",
-      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR213dkQ2WFJyRFVNZk51TTNYcG52d3A2ZjA5S1A4eFYxa0NOYnNBb3pRLWowcXRuWWhzYUlnVldMbGp6TWpkLWNocnVNTVoya3NpZXV1QXFyS3ZnbG55LVh3NU8zU3R1S09Idll0R3BJZG5rc2JMQ2ExYWpZdTJxNDdtOHZWaWFYSFp2RTVSSDBmVDVqX1J0SkR4a3dQQ0VyUjFCeEVLLXR2SUx1WkJhQmYybmZnRnBQV1ppNC1Sd0xkM1IxYXdENzQzWGJaMm5G0gHQAUFVX3lxTFBHbXd2RDZYUnJEVU1mTnVNM1hwbnZ3cDZmMDlLUDh4VjFrQ05ic0FvelEtajBxdG5ZaHNhSWdWV0xsanpNamQtY2hydU1NWjJrc2lldXVBcXJLdmdsbnktWHc1TzNTdHVLT0h2WXRHcElkbmtzYkxDYTFhall1MnE0N204dlZpYVhIWnZFNVJIMGZUNWpfUnRKRHhrd1BDRXJSMUJ4RUstdHZJTHVaQmFCZjJuZmdGcFBXWmk0LVJ3TGQzUjFhd0Q3NDNYYloybkY?oc=5",
-      "published": "Tue, 22 Sep 2026 14:34:00 GMT",
-      "summary": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
-      "published": "Mon, 21 Sep 2026 15:23:19 GMT",
-      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
-      "published": "Mon, 21 Sep 2026 12:06:07 GMT",
-      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVNZMUtnbndKbU1YdTVGdXNkSTJCY0JRZlJhNjdjUzF5YjRscEZ2SkdTdVFnQmZOSmtKMWlya0F1WElMVno3QUk2dUJYUnYtYVFTN3htQ3U0b0RXSEg3VnNxaE8taHpLUjZYa1hpQ183aUZuOVpfSlllVXFldVdGMTRSRlEwX0R6d1dWelotQ0FQTG5TYl8tV3NMMVVLakZSLXJieEVTeE1XZEIybmVxaEdUM0hWZ2xib3l6eFJtMTNpR1FpNmhjRVZzMFpXSmhPQy0tZmd3QmZBeFFCWGxWQ0lFTVV2RU5NTnBZNjhlRldsbDg?oc=5",
-      "published": "Sat, 19 Sep 2026 23:01:00 GMT",
-      "summary": "US issues Middle East travel advisory, urges Americans to reconsider travel amid Houthi attacks on Saudi Arabia&nbsp;&nbsp;ANI News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: airlines face delays as British Airways announces plans to restart regional routes - Cond\u00e9 Nast Traveller India",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajl1OC03b09aQUw0VzIxV29xLUZqRmFSVWhRNzZ6WFNiOG5aTFpQaFR2VUhNM2RMMEUzWjJlN0lBYkc1Y1dja3J3ZXczU244RmhzZDd6Y0xycnVzQmxFZWxPLUdsaFhPQWY5S2Q1RmFBXzFhX3lrbkU1SF81NWdzenc2V29zeHlFWU0tc1JGc2lRVVk2UWswbDNGUWJ0M2I2NF9SNEswM0tkQnJpNG55dDM2RjhDVDJkSHprUGQ1eFNTc2YzTGl2cXhMQWs?oc=5",
-      "published": "Mon, 21 Sep 2026 08:30:00 GMT",
-      "summary": "Dubai and Middle East flight disruption: airlines face delays as British Airways announces plans to restart regional routes&nbsp;&nbsp;Cond\u00e9 Nast Traveller India",
-      "source": "Google News Travel"
     }
   ]
 }
