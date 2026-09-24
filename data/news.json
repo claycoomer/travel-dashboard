@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-24T16:04:39.867445+00:00",
+  "last_updated": "2026-09-24T22:48:24.886778+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Creating Value for Travelers and Investing in the Future",
+      "link": "https://skift.com/2026/09/24/creating-value-for-travelers-and-investing-in-the-future/",
+      "published": "Thu, 24 Sep 2026 17:36:01 +0000",
+      "summary": "Every travel company with a direct channel faces the same question when a new platform gains traction quickly: join it and risk losing control, or stay off it and risk being left out.",
+      "source": "Skift"
+    },
     {
       "title": "What Hyatt\u2019s CEO Learned by Owning Hotels \u2014 and the Trend He\u2019s Most Excited About",
       "link": "https://skift.com/2026/09/24/what-hyatts-ceo-learned-by-owning-hotels-and-the-trend-hes-most-excited-about/",
@@ -56,11 +63,60 @@
       "source": "Skift"
     },
     {
-      "title": "Recalibrating Travel: What AI Changes, and What It Doesn\u2019t",
-      "link": "https://skift.com/2026/09/24/recalibrating-travel-what-ai-changes-and-what-it-doesnt/",
-      "published": "Thu, 24 Sep 2026 12:09:17 +0000",
-      "summary": "Every travel operator is weighing where to use AI first: to chase growth or to optimize profitability. The question for any travel company: can you use this economic wave to gain margins, or will you wait for a &quot;normal&quot; economic cycle?",
-      "source": "Skift"
+      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
+      "published": "Thu, 24 Sep 2026 12:01:00 GMT",
+      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 17:14:59 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0p4XzI5aExncVB4Ry00MWhQTllCaUFLZGFuTFN5a01ZdGhXVHZyb1JFYzE2cnUtbHphOHBtcjhCa0hac09TSUJCaGJCeDBEelJ1Z250Mm9xWUNHZXpqZU8zQXVudWkxMm43am42UzZUdk9YbUVzS08wZHRHMkJNY193TS1hMEdNRFJuSTNYNHdmUU54a1ZMamdqZloxWmtkUEJYazFEbzM2aGs2cDA0REZVUdIBxwFBVV95cUxOVGZNU3ZEZEFVdVI4aklla011T2c2ekNRR2d6NFhWVmhvb3ZabDd2aDl4RWdMNjg0N3c1eXpOcjBsVmpWTm9HdGJRbEc3YU4ycV81MW5pU0NvRkNjOHF6RHpEa1ZOdUNHTmxzRlBIaURJRzdjVmR4ckx0VUQ1RGlJRzNBaU9HTXdoR05NYTNCOFpGb1ZQUjdrU1JQRWQ3UktpMThoQXB5Ylh4aDdfdUNUZUoxLWhMazBmbDktaVZtU2U4cjZtaTlr?oc=5",
+      "published": "Tue, 22 Sep 2026 14:34:00 GMT",
+      "summary": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
+      "published": "Sun, 20 Sep 2026 04:06:52 GMT",
+      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkRMbzZoWWh2aUpndURtd0RLSjVXaVB1ZGRVU2hCQnJPN2JNZnZPVXdMenIzeG15d0dIYkE5WFFGSWJsaXlJYkRMWll1NTF3QlQtcl9DdWs4SXpZQUFEZ2JZM3cwa3MyQ011Z1A2ejBzXzktLU9HdzEwZ2w5U1Z5OXNzLVJWMlhGdDdRZy1rVlk2QkNEM1BIcnBCZVQxTm90WnppWkgxZ2Y3czNNN0syc054bDhxQQ?oc=5",
+      "published": "Mon, 21 Sep 2026 14:21:00 GMT",
+      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;MLive.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Americans warned again to rethink travel as missile attack rattles historic region - foxnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
+      "published": "Mon, 21 Sep 2026 15:23:19 GMT",
+      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;foxnews.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
+      "published": "Wed, 23 Sep 2026 17:04:00 GMT",
+      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
+      "published": "Mon, 21 Sep 2026 12:06:07 GMT",
+      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "source": "Google News Travel"
     }
   ]
 }
