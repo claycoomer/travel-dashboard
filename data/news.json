@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-23T22:32:01.615324+00:00",
+  "last_updated": "2026-09-24T02:03:41.731599+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Agentic AI Is Raising Travel\u2019s Tech Bill",
+      "link": "https://skift.com/2026/09/23/agentic-ai-is-raising-travels-tech-bill/",
+      "published": "Thu, 24 Sep 2026 01:20:03 +0000",
+      "summary": "Amadeus and Spotnana agree the plumbing for AI-powered travel costs more now. The industry still hasn\u2019t settled who pays \u2014 or who captures the value.",
+      "source": "Skift"
+    },
+    {
+      "title": "Prince Harry Calls on Travel Industry to Put Destinations First",
+      "link": "https://skift.com/2026/09/23/prince-harry-calls-on-travel-industry-to-put-destinations-first/",
+      "published": "Wed, 23 Sep 2026 23:08:58 +0000",
+      "summary": "The Duke of Sussex and founder of Travalyst wants the travel industry to prioritize the health and value of the people and places it sells \u2014 because business success relies on the longevity of those destinations.",
+      "source": "Skift"
+    },
     {
       "title": "Booking Holdings: Building a Long-Term Competitive Advantage",
       "link": "https://skift.com/2026/09/23/booking-holdings-building-a-long-term-competitive-advantage/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "The Booking Isn\u2019t the Finish Line: What IHG, Priceline, and McKinsey Say Brands Are Missing",
-      "link": "https://skift.com/2026/09/23/what-ihg-priceline-and-mckinsey-say-brands-are-missing/",
-      "published": "Wed, 23 Sep 2026 19:03:17 +0000",
-      "summary": "Travel brands have mastered getting consumers to click &quot;book.&quot; Few have figured out what to say once travelers start second-guessing that click.",
-      "source": "Skift"
-    },
-    {
-      "title": "Booking CEO: Building the AI Travel Agent Isn\u2019t the Hard Part",
-      "link": "https://skift.com/2026/09/23/booking-ceo-building-the-ai-travel-agent-isnt-the-hard-part/",
-      "published": "Wed, 23 Sep 2026 16:48:32 +0000",
-      "summary": "Booking Holdings has to navigate pressure from AI upstarts, competition from Airbnb, and antitrust-minded courts, all while running five AI bets at once.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
       "published": "Wed, 23 Sep 2026 17:14:59 GMT",
@@ -72,22 +72,15 @@
     {
       "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjFoRXZNYXBTWVZYd3BWelRpdEFrM21wSzBNNTR2Zy0wd1lzYzN3dllSN0Vscko0dkRYX1VRRFRlZXBfZ28xb3kzUHVlTmY1MDJsaHhDN1JhYUctM3JXVXFMd0hmc0tZZVVQd3NlbWRTWS1ib0lYaWs4Slh3RHZmekk3ZFBrcllKRHVjWGF6bV9RN1RTczM2ZWVZY29KVlJ5ZTVGVmpnRUg?oc=5",
-      "published": "Wed, 23 Sep 2026 17:02:51 GMT",
+      "published": "Wed, 23 Sep 2026 17:20:51 GMT",
       "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     },
     {
-      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive.com",
+      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
       "published": "Wed, 23 Sep 2026 17:04:00 GMT",
-      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGJhdVNrZnlhRk1PanF6dW95aEs3ZlktXzFHVkF3T1FNUG44WW9pY09sQU9vWXkxdnliQVY4M2I4QlpoaklXQnVOcG9oN2ZMeFZBNFFwMkNOZG9YSExwZnF6M0pxbTc1UUFDa0RXNllHUlV0bHlTNlVOR1luWnlxWTN0OUl0M2ZnMHdCem5XUnVxaldaU3hBNXNiV1NRbkdYZk9jTmFjaEtjdHplUmkyYU5EM2p0QkJCakg3RNIB0AFBVV95cUxQR213dkQ2WFJyRFVNZk51TTNYcG52d3A2ZjA5S1A4eFYxa0NOYnNBb3pRLWowcXRuWWhzYUlnVldMbGp6TWpkLWNocnVNTVoya3NpZXV1QXFyS3ZnbG55LVh3NU8zU3R1S09Idll0R3BJZG5rc2JMQ2ExYWpZdTJxNDdtOHZWaWFYSFp2RTVSSDBmVDVqX1J0SkR4a3dQQ0VyUjFCeEVLLXR2SUx1WkJhQmYybmZnRnBQV1ppNC1Sd0xkM1IxYXdENzQzWGJaMm5G?oc=5",
-      "published": "Tue, 22 Sep 2026 14:34:00 GMT",
-      "summary": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
+      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive",
       "source": "Google News Travel"
     },
     {
@@ -95,6 +88,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjM2dHd4aDBCS053QWFDc0Nwd1M1VFhNaGlLX0dJM1A0eG5zUUJfZ2NydG9kejA1bzBON1RuOGpJTWZpaHdOTS1CbXQ0UkRKTHRCSUZMNWxJam82SDJobWxDS3Y0RmtrNHBfS0Uyek9ySkh5MHViSUNYUF9EVFV0ZlNEdXBQNmJucDFkenREQVJVR0ZlYzVzSG10dldHWkhORFlmM2RwQm9jLTdfQ0FfMjFR0gHGAUFVX3lxTE43VkU0MUVPMzdHYnZKbEI0bjJpX3pDUmZvUUZTU2ZudFBkMU96SkdBM2JWMVd3b3pDb0tiX05iOVBfMXNZMVVFUl9lT0VHOUhLV01kMmlTQzF4dkVVUUdlMjc5RC1xb0Vad1hDODZVcGpyQ3EteU5zdl8yczRqaUlOZERzTHNqeWJxc0ZRMlhyMGVLVS1ncEtXMkRYS2N5OGktREcybzR0cTVvYmlESmdRRW5ObFV5NHB0OHBuQU5MV0tzRlNVQQ?oc=5",
       "published": "Mon, 21 Sep 2026 14:21:00 GMT",
       "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR213dkQ2WFJyRFVNZk51TTNYcG52d3A2ZjA5S1A4eFYxa0NOYnNBb3pRLWowcXRuWWhzYUlnVldMbGp6TWpkLWNocnVNTVoya3NpZXV1QXFyS3ZnbG55LVh3NU8zU3R1S09Idll0R3BJZG5rc2JMQ2ExYWpZdTJxNDdtOHZWaWFYSFp2RTVSSDBmVDVqX1J0SkR4a3dQQ0VyUjFCeEVLLXR2SUx1WkJhQmYybmZnRnBQV1ppNC1Sd0xkM1IxYXdENzQzWGJaMm5G0gHQAUFVX3lxTFBHbXd2RDZYUnJEVU1mTnVNM1hwbnZ3cDZmMDlLUDh4VjFrQ05ic0FvelEtajBxdG5ZaHNhSWdWV0xsanpNamQtY2hydU1NWjJrc2lldXVBcXJLdmdsbnktWHc1TzNTdHVLT0h2WXRHcElkbmtzYkxDYTFhall1MnE0N204dlZpYVhIWnZFNVJIMGZUNWpfUnRKRHhrd1BDRXJSMUJ4RUstdHZJTHVaQmFCZjJuZmdGcFBXWmk0LVJ3TGQzUjFhd0Q3NDNYYloybkY?oc=5",
+      "published": "Tue, 22 Sep 2026 14:34:00 GMT",
+      "summary": "Over 1,274 flights delayed, 184 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Cleveland.com",
       "source": "Google News Travel"
     },
     {
