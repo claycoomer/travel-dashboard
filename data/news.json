@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-24T02:03:41.731599+00:00",
+  "last_updated": "2026-09-24T08:49:53.205451+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Thailand Wants 1.5 Million U.S. Tourists \u2014 It\u2019s Got a Long Way to Go",
+      "link": "https://skift.com/2026/09/24/thailand-wants-1-5-million-u-s-tourists-its-got-a-long-way-to-go/",
+      "published": "Thu, 24 Sep 2026 08:29:50 +0000",
+      "summary": "Thailand is chasing higher-spending Americans, but arrivals will need to accelerate sharply to hit its 1.5 million target. Expensive flights and growing competition from Japan and Vietnam won&apos;t make that any easier.",
+      "source": "Skift"
+    },
+    {
+      "title": "Accor Is Betting on Asia. Just Not the Same Way Everywhere",
+      "link": "https://skift.com/2026/09/24/accor-is-betting-on-asia-just-not-the-same-way-everywhere/",
+      "published": "Thu, 24 Sep 2026 04:01:18 +0000",
+      "summary": "Accor clearly wants to grow in Asia. It just doesn\u2019t want to do it the same way everywhere.",
+      "source": "Skift"
+    },
+    {
+      "title": "Barry Diller Withdraws MGM Resorts Bid Worth $18 Billion",
+      "link": "https://skift.com/2026/09/23/barry-diller-withdraw-mgm-resorts-bid/",
+      "published": "Thu, 24 Sep 2026 03:22:55 +0000",
+      "summary": "People Inc. walked back its takeover bid but emphasized confidence in MGM, with Barry Diller open to a \u201crange of alternatives.\u201d",
+      "source": "Skift"
+    },
+    {
+      "title": "Brian Chesky Commits to Launching an AI Agent in 2027",
+      "link": "https://skift.com/2026/09/23/brian-chesky-commits-to-launching-an-ai-agent-in-2027/",
+      "published": "Thu, 24 Sep 2026 02:47:04 +0000",
+      "summary": "Airbnb has talked for years about becoming an AI concierge. Now Brian Chesky has put a 2027 date on it \u2014 and he says the interface won\u2019t look like a typical chatbot.",
+      "source": "Skift"
+    },
     {
       "title": "Agentic AI Is Raising Travel\u2019s Tech Bill",
       "link": "https://skift.com/2026/09/23/agentic-ai-is-raising-travels-tech-bill/",
@@ -35,34 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Uber: Owning More of the Travel Journey",
-      "link": "https://skift.com/2026/09/23/skift-global-forum-2026-owning-more-of-the-travel-journey/",
-      "published": "Wed, 23 Sep 2026 21:06:42 +0000",
-      "summary": "Every travel company that controls its own inventory is facing the same decision: let AI agents book it, or keep customers in the direct channel.",
-      "source": "Skift"
-    },
-    {
-      "title": "TUI Trims Earnings Guidance as Airline Segment Lags",
-      "link": "https://skift.com/2026/09/23/tui-earnings-guidance-update-2026/",
-      "published": "Wed, 23 Sep 2026 20:21:00 +0000",
-      "summary": "TUI has taken the worst-case scenario off the table, but even the top range of 2026 earnings guidance will fall short of 2025.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Bets Against the All-Powerful AI Travel Agent",
-      "link": "https://skift.com/2026/09/23/expedia-bets-against-the-all-powerful-ai-travel-agent/",
-      "published": "Wed, 23 Sep 2026 20:17:57 +0000",
-      "summary": "Expedia wants a seat inside the new wave of AI agents, including Meta&apos;s Muse. But CEO Ariane Gorin is betting on a messier future for travel: multiple entry points and specialized agents, not one bot that owns the whole trip.",
-      "source": "Skift"
-    },
-    {
-      "title": "Wyndham CEO Says Gen Z Now Makes Up Nearly 10% of Membership Base",
-      "link": "https://skift.com/2026/09/23/wyndham-ceo-says-gen-z-now-makes-up-nearly-10-of-membership-base/",
-      "published": "Wed, 23 Sep 2026 19:30:15 +0000",
-      "summary": "Wyndham\u2019s loyalty membership is getting younger fast. Now it\u2019s setting up more concert packages and backstage passes to keep them.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
       "published": "Wed, 23 Sep 2026 17:14:59 GMT",
@@ -70,17 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - TravelPirates",
+      "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - travelpirates.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjFoRXZNYXBTWVZYd3BWelRpdEFrM21wSzBNNTR2Zy0wd1lzYzN3dllSN0Vscko0dkRYX1VRRFRlZXBfZ28xb3kzUHVlTmY1MDJsaHhDN1JhYUctM3JXVXFMd0hmc0tZZVVQd3NlbWRTWS1ib0lYaWs4Slh3RHZmekk3ZFBrcllKRHVjWGF6bV9RN1RTczM2ZWVZY29KVlJ5ZTVGVmpnRUg?oc=5",
       "published": "Wed, 23 Sep 2026 17:20:51 GMT",
-      "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
-      "published": "Wed, 23 Sep 2026 17:04:00 GMT",
-      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive",
+      "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;travelpirates.com",
       "source": "Google News Travel"
     },
     {
@@ -105,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
+      "published": "Wed, 23 Sep 2026 17:04:00 GMT",
+      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
       "published": "Mon, 21 Sep 2026 12:06:07 GMT",
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
+      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - travelpirates.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
       "published": "Sun, 20 Sep 2026 04:06:52 GMT",
-      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;travelpirates.com",
       "source": "Google News Travel"
     }
   ]
