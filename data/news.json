@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-26T02:25:14.885388+00:00",
+  "last_updated": "2026-09-26T08:54:16.440141+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia Cuts 58 Roles in Latest Layoff Round",
+      "link": "https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/",
+      "published": "Sat, 26 Sep 2026 02:51:26 +0000",
+      "summary": "Expedia filed a WARN notice in Washington eliminating 58 jobs, including executive positions and data science roles. The reorganization reached Illinois and Florida too.",
+      "source": "Skift"
+    },
     {
       "title": "Staying Agile in an Unpredictable Market",
       "link": "https://skift.com/2026/09/25/staying-agile-in-an-unpredictable-market/",
@@ -54,69 +61,6 @@
       "published": "Fri, 25 Sep 2026 17:26:28 +0000",
       "summary": "For any owner-operator or investor weighing a big-brand flag against independence, the economics of that choice are shifting.",
       "source": "Skift"
-    },
-    {
-      "title": "The Expedition Mindset Is the Future of Luxury Travel",
-      "link": "https://skift.com/2026/09/25/the-expedition-mindset-is-the-future-of-luxury-travel/",
-      "published": "Fri, 25 Sep 2026 17:26:07 +0000",
-      "summary": "For any company investing in premium, the question is whether you\u2019re competing on your product alone or on where you take the guest.",
-      "source": "Skift"
-    },
-    {
-      "title": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmplSDZHdmpnTFJxN2EwMDFaQ2J0c25hRjFackVPOXExSTA2MlZ3MnZpU3F5T1hQRVQ2ODhRUTdLSEtZT29rcF9ERWR0SG5tMlR3TDJ1REVuZGxBc2gxYURZWU1FdktDMjRESElYN3lnMTFER3F2U2hGRGVGdTZfeTlENkxHWm5vTFJzOUdjLVVma1BNOGMxd1hrb0kydTF6VFlkQTBrVTk3aVdRZC1QTjdB?oc=5",
-      "published": "Fri, 25 Sep 2026 18:51:00 GMT",
-      "summary": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed&nbsp;&nbsp;Forbes",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 12:01:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 17:14:59 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjM2dHd4aDBCS053QWFDc0Nwd1M1VFhNaGlLX0dJM1A0eG5zUUJfZ2NydG9kejA1bzBON1RuOGpJTWZpaHdOTS1CbXQ0UkRKTHRCSUZMNWxJam82SDJobWxDS3Y0RmtrNHBfS0Uyek9ySkh5MHViSUNYUF9EVFV0ZlNEdXBQNmJucDFkenREQVJVR0ZlYzVzSG10dldHWkhORFlmM2RwQm9jLTdfQ0FfMjFR0gHGAUFVX3lxTE43VkU0MUVPMzdHYnZKbEI0bjJpX3pDUmZvUUZTU2ZudFBkMU96SkdBM2JWMVd3b3pDb0tiX05iOVBfMXNZMVVFUl9lT0VHOUhLV01kMmlTQzF4dkVVUUdlMjc5RC1xb0Vad1hDODZVcGpyQ3EteU5zdl8yczRqaUlOZERzTHNqeWJxc0ZRMlhyMGVLVS1ncEtXMkRYS2N5OGktREcybzR0cTVvYmlESmdRRW5ObFV5NHB0OHBuQU5MV0tzRlNVQQ?oc=5",
-      "published": "Mon, 21 Sep 2026 14:21:00 GMT",
-      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjFoRXZNYXBTWVZYd3BWelRpdEFrM21wSzBNNTR2Zy0wd1lzYzN3dllSN0Vscko0dkRYX1VRRFRlZXBfZ28xb3kzUHVlTmY1MDJsaHhDN1JhYUctM3JXVXFMd0hmc0tZZVVQd3NlbWRTWS1ib0lYaWs4Slh3RHZmekk3ZFBrcllKRHVjWGF6bV9RN1RTczM2ZWVZY29KVlJ5ZTVGVmpnRUg?oc=5",
-      "published": "Wed, 23 Sep 2026 17:20:51 GMT",
-      "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;TravelPirates",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
-      "published": "Wed, 23 Sep 2026 17:04:00 GMT",
-      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVRQNE5xQWlWZEdnaF9hMXlpbUVNSHBfaW0teG1YcXBjUkh3MFhIU0xMRXN1QjI3VE9pR0VLa0drUXl5WEppdWVlM0ZMQnB4WXNFeVJUQTg2VjVLdzk0c245WTFrSzZCZi1haHdCOGZOWUY4bVJIaU4tMzRVZmNRN2tma1JVRllZd3YwV3RHTUs1VnBQVkxQay1LLU15NGgwUlBoRUpTUQ?oc=5",
-      "published": "Wed, 23 Sep 2026 10:07:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019 - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUx6QnlHWWROcTRLZ3o1NmIzV19pNVd0YjBKcUtzSUZhemRkSnlNSXlYY0JYcmhHcnRpQUFvaV9mdlFncXN3eFE0Z1J3QlFmNG1hbllBX3VyOGlOdC01aUFCU3JZRWY1T2lrMHpSLWdkM1VwbU1NQkhlZGVCb1NxbU1sRXhlUFkzbzkzTWdsWmR0RmdGaXlxMktJYW0xQWpUcENBcmVlOTIyTUJHMmxtNnlQSWx2VFFfdl9lWS11TVQ0ZWRCMXB1N0FB0gHeAUFVX3lxTE9OVmlsdzB3T0szQzJhNjFoQ3dHYm1nQzhoTXNuaDBQMWRWanlaSWN3N2NqQlFSaU9mNTNERFJRb1ppRXZ1N0NwR3JwM3RISzdnczVjUi1NVmxrZ2pXM1lYT3ltR0pJREw0Y1NoT2lXQnhNTThTTTVBMExUU2JzOUZ4UUQ3U0V5ZFZGUmhEeWxhbG43dlBBTjdnUmtBLWtkaGRQMWNIZ0p2WXlLVHNidlNRVVdzMzY2SnVRaV9oNm5ZcnB3bjgtQzdSVXdCQ1hJRWhrRTI1alRSQS1BejhoUQ?oc=5",
-      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "summary": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019&nbsp;&nbsp;AL.com",
-      "source": "Google News Travel"
     }
   ]
 }
