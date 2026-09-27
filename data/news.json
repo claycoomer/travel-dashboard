@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-27T09:37:58.253013+00:00",
+  "last_updated": "2026-09-27T15:57:10.830916+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Brian Chesky\u2019s Contrarian Approach to Airbnb Experiences: \u2018We\u2019ve Now Started to Crack Locals\u2019",
+      "link": "https://skift.com/2026/09/27/brian-cheskys-contrarian-approach-to-airbnb-experiences-weve-now-started-to-crack-locals/",
+      "published": "Sun, 27 Sep 2026 12:01:58 +0000",
+      "summary": "Major experiences players market to travelers, not locals. Can Airbnb be the exception to the rule?",
+      "source": "Skift"
+    },
     {
       "title": "Expedia Cuts 58 Roles in Latest Layoff Round",
       "link": "https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Independence at Scale: Paradox or Opportunity?",
-      "link": "https://skift.com/2026/09/25/independence-at-scale-paradox-or-opportunity/",
-      "published": "Fri, 25 Sep 2026 17:26:28 +0000",
-      "summary": "For any owner-operator or investor weighing a big-brand flag against independence, the economics of that choice are shifting.",
-      "source": "Skift"
+      "title": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmplSDZHdmpnTFJxN2EwMDFaQ2J0c25hRjFackVPOXExSTA2MlZ3MnZpU3F5T1hQRVQ2ODhRUTdLSEtZT29rcF9ERWR0SG5tMlR3TDJ1REVuZGxBc2gxYURZWU1FdktDMjRESElYN3lnMTFER3F2U2hGRGVGdTZfeTlENkxHWm5vTFJzOUdjLVVma1BNOGMxd1hrb0kydTF6VFlkQTBrVTk3aVdRZC1QTjdB?oc=5",
+      "published": "Fri, 25 Sep 2026 18:51:00 GMT",
+      "summary": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
     },
     {
       "title": "TRAVEL ALERT: Officials warn disruptions could continue into next week as the storm impacts airports across the East Coast. - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSU91RUg3bE95OE00cDRjVVBPa3lidjRVQVZOZkNpQnZlT3o4b2hrSkpCeGVQbm1tbmhXTS1DU2dhZXZtYjdpTjQwWmtrR2hCX0VRS242cnAzU2oxR3VrM0Nyci1jZzFuT1ZVT21WMjYtbWV1UE1wa09idWhfVW1XNFI5UkN0dk5QbnkyYnJLQklfWjJCdWtwdDNBMnBTanBTcklwR0ZxaThlNXp0dVluNm9hMEE1MHpPOC1vcVhxTHdFOF9zNWJiZHk2MVhIWl9KN2toUjllMTJrUQ?oc=5",
       "published": "Sat, 26 Sep 2026 15:40:08 GMT",
       "summary": "TRAVEL ALERT: Officials warn disruptions could continue into next week as the storm impacts airports across the East Coast.&nbsp;&nbsp;facebook.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmplSDZHdmpnTFJxN2EwMDFaQ2J0c25hRjFackVPOXExSTA2MlZ3MnZpU3F5T1hQRVQ2ODhRUTdLSEtZT29rcF9ERWR0SG5tMlR3TDJ1REVuZGxBc2gxYURZWU1FdktDMjRESElYN3lnMTFER3F2U2hGRGVGdTZfeTlENkxHWm5vTFJzOUdjLVVma1BNOGMxd1hrb0kydTF6VFlkQTBrVTk3aVdRZC1QTjdB?oc=5",
-      "published": "Fri, 25 Sep 2026 18:51:00 GMT",
-      "summary": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - nj.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
       "published": "Thu, 24 Sep 2026 13:55:00 GMT",
-      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;nj.com",
       "source": "Google News Travel"
     },
     {
-      "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - TravelPirates",
+      "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - travelpirates.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjFoRXZNYXBTWVZYd3BWelRpdEFrM21wSzBNNTR2Zy0wd1lzYzN3dllSN0Vscko0dkRYX1VRRFRlZXBfZ28xb3kzUHVlTmY1MDJsaHhDN1JhYUctM3JXVXFMd0hmc0tZZVVQd3NlbWRTWS1ib0lYaWs4Slh3RHZmekk3ZFBrcllKRHVjWGF6bV9RN1RTczM2ZWVZY29KVlJ5ZTVGVmpnRUg?oc=5",
       "published": "Wed, 23 Sep 2026 17:20:51 GMT",
-      "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;TravelPirates",
+      "summary": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know&nbsp;&nbsp;travelpirates.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines - cntravellerme.com",
+      "title": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSlpIaVNvTm45a3dhdWNpWXFZU0FGUHlNXzZCVVR5SzdWYkxORzB6MzJ5Y0VUQ2ZUMWloMWM0VU1fTVA4b29hUzdXZXJUaFRRWkdOME5mMVhtQk9MeExNT0ZNWVd1NlgyZTg4LWRjZzVNcFo0SjZmRHU0RURZMEsySGFnY0NqLWk2U0FETE8wZFRIY0xNd0Z1SS1BQ0RiSDgwOFN3clhzN1BrMjFXeGc4dWFYeWd5S2lUa1pSS0t2WnhIU0pDcDJvRGo3TGVuUEFKZElfS21sQ1FyaTd0OXY5OFlOS1Z5aE10T2xEd0lfSjdvV1FuQW53UlBxUXFodw?oc=5",
       "published": "Fri, 25 Sep 2026 08:21:23 GMT",
-      "summary": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines&nbsp;&nbsp;cntravellerme.com",
+      "summary": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
