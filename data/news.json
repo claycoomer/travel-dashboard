@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-27T22:39:43.628712+00:00",
+  "last_updated": "2026-09-28T02:25:31.699793+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Cleartrip Enters India\u2019s Fragmented Holiday Package Market",
+      "link": "https://skift.com/2026/09/27/cleartrip-enters-indias-fragmented-holiday-package-market/",
+      "published": "Mon, 28 Sep 2026 00:30:00 +0000",
+      "summary": "Cleartrip is going after the messy middle of Indian travel - the holiday package, a high-value market that remains largely offline even as flights and hotels have moved online.",
+      "source": "Skift"
+    },
     {
       "title": "Brian Chesky\u2019s Contrarian Approach to Airbnb Experiences: \u2018We\u2019ve Now Started to Crack Locals\u2019",
       "link": "https://skift.com/2026/09/27/brian-cheskys-contrarian-approach-to-airbnb-experiences-weve-now-started-to-crack-locals/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Accor\u2019s CEO Weighs \u2018Complex\u2019 Decision on Ennismore IPO and How to Fund U.S. Growth",
-      "link": "https://skift.com/2026/09/25/accors-ceo-weighs-complex-decision-on-ennismore-ipo-and-how-to-fund-u-s-growth/",
-      "published": "Fri, 25 Sep 2026 18:09:30 +0000",
-      "summary": "Ennismore is Accor&apos;s best shot at gaining a U.S. foothold. But ambition isn&apos;t a funding plan, and CEO S\u00e9bastien Bazin hasn&apos;t yet said where the capital to expand Ennismore would come from, such as an IPO.",
-      "source": "Skift"
-    },
-    {
       "title": "5 Major Airlines Issue Travel Waivers For Weekend Nor\u2019easter\u2014Hundreds Of Flights Delayed - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmplSDZHdmpnTFJxN2EwMDFaQ2J0c25hRjFackVPOXExSTA2MlZ3MnZpU3F5T1hQRVQ2ODhRUTdLSEtZT29rcF9ERWR0SG5tMlR3TDJ1REVuZGxBc2gxYURZWU1FdktDMjRESElYN3lnMTFER3F2U2hGRGVGdTZfeTlENkxHWm5vTFJzOUdjLVVma1BNOGMxd1hrb0kydTF6VFlkQTBrVTk3aVdRZC1QTjdB?oc=5",
       "published": "Fri, 25 Sep 2026 18:51:00 GMT",
@@ -77,13 +77,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
-      "published": "Thu, 24 Sep 2026 13:55:00 GMT",
-      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "What Are the Latest Travel Advisories Issued by the State Department Regarding Conflict Escalation in the Middle East? Here's What Travelers Should Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjFoRXZNYXBTWVZYd3BWelRpdEFrM21wSzBNNTR2Zy0wd1lzYzN3dllSN0Vscko0dkRYX1VRRFRlZXBfZ28xb3kzUHVlTmY1MDJsaHhDN1JhYUctM3JXVXFMd0hmc0tZZVVQd3NlbWRTWS1ib0lYaWs4Slh3RHZmekk3ZFBrcllKRHVjWGF6bV9RN1RTczM2ZWVZY29KVlJ5ZTVGVmpnRUg?oc=5",
       "published": "Wed, 23 Sep 2026 17:20:44 GMT",
@@ -91,10 +84,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - Yahoo",
+      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
+      "published": "Thu, 24 Sep 2026 13:55:00 GMT",
+      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 17:14:59 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVk5bDFNZ05VY1p6Q252bENkZUFIVHJqai0zZVhnVVZPcVEyUjg2cVNzWEZISm5fNWk5OWRqb3ZnLWNLb3EwREMwZExkOUdQckpDdHF3SDdlaTZweS1YZ3JGbEN5SGpjTFZGczJVSTJhUHluSkdJNjIzOF92cFBiZDJlWQ?oc=5",
       "published": "Mon, 21 Sep 2026 14:21:56 GMT",
-      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Yahoo",
+      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;yahoo.com",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
       "published": "Sat, 01 Aug 2026 07:00:00 GMT",
       "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
