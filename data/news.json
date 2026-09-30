@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-30T02:50:56.802995+00:00",
+  "last_updated": "2026-09-30T10:04:18.540336+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Rotana CEO: Last-Minute Gulf Bookings Make Q4 Hard To Predict",
+      "link": "https://skift.com/2026/09/30/rotana-ceo-last-minute-gulf-bookings-make-q4-hard-to-predict/",
+      "published": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "summary": "The expected return of international travelers and a busy events calendar give hope for a Q4 recovery.",
+      "source": "Skift"
+    },
     {
       "title": "Vrbo to Double Commissions as It Plays Catch-Up to Airbnb",
       "link": "https://skift.com/2026/09/29/vrbo-to-double-commissions-as-it-plays-catch-up-to-airbnb/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Kayak Co-Founders Launch Lola \u2014 Booking Holdings\u2019 New AI Assistant: Exclusive",
-      "link": "https://skift.com/2026/09/29/kayak-co-founders-launch-lola-booking-holdings-new-ai-assistant-exclusive/",
-      "published": "Tue, 29 Sep 2026 13:01:20 +0000",
-      "summary": "Booking Holdings has spent years trying to stitch a trip together across separate apps. Lola wagers one assistant built from scratch, with a membership model and human concierge service, can finally hold it together.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
       "published": "Thu, 24 Sep 2026 13:55:00 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 17:14:59 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
       "published": "Sun, 20 Sep 2026 07:00:00 GMT",
       "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 17:14:59 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +98,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSlpIaVNvTm45a3dhdWNpWXFZU0FGUHlNXzZCVVR5SzdWYkxORzB6MzJ5Y0VUQ2ZUMWloMWM0VU1fTVA4b29hUzdXZXJUaFRRWkdOME5mMVhtQk9MeExNT0ZNWVd1NlgyZTg4LWRjZzVNcFo0SjZmRHU0RURZMEsySGFnY0NqLWk2U0FETE8wZFRIY0xNd0Z1SS1BQ0RiSDgwOFN3clhzN1BrMjFXeGc4dWFYeWd5S2lUa1pSS0t2WnhIU0pDcDJvRGo3TGVuUEFKZElfS21sQ1FyaTd0OXY5OFlOS1Z5aE10T2xEd0lfSjdvV1FuQW53UlBxUXFodw?oc=5",
       "published": "Fri, 25 Sep 2026 08:21:23 GMT",
       "summary": "Dubai and Middle East flight disruption: Regional carriers face delays while the UAE suspends all flights by Iranian airlines&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1IeExPVnd4NVo3OTBFTHVVY0pfcHhUOGo5OFlUeFdOZXN2b2MwSll5c19iT2hNZG03VVdDZTl6aXI4djZsMVBlVkNGeEdDdG92RmZPQ0Vnc3ZjUkl2cl9IWVc3b1NBUTNGdlZsaWdtWXZDOUlXRjdjN0loZnZkZWlUMUotcVY4MHJPT1RNZFoxRUtYYWJHUWxTdkxZb0ZnTFE?oc=5",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE flights today: Emirates, Etihad, Air Arabia, flydubai delays, cancellations; Air Canada extends Dubai suspension - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXVlRHp3bk1tQnllX2JFdTdoRWhuMmFxMFVwUE0xOEM2eXRvbTJtNkc5ck0wenlOZW8wc0lzb2c3VGNiU2FmaU03REk5eFVYSWVPdl9XTzl5LTVPekxod3dUZ0NWdlhDU0lTSjdybGpRNEc0dXczXzVCQ2VtclVOcXRYbVQyUnRwRkRaVWtwdHp0cmdOc3V2a1RwYUIxVjh3QVE3TWVVYXdQQ2tGeE1sOHdNaDVXLVpQcHc3dkJXR1FGUHR6R3N3NUV5aXNrM21oZW9ZeldneVZGUE1XeEV3YjFqLTRtVHdsellfRE91NWE1TWvSAYYCQVVfeXFMUFh3TENBXzRTUEFGRHRoRUdrRU1NQW5oT0YxcEdyZlFRaWFveTkwMml6bzYtSm55Rk04Q3l4aHl0UjJlSjV0WTFiTTg5LWtFUHZWcUJsNnFjNU9vSFJxazZJNEtnRU1vbTVPVWlTblNGeHc0NGdWbkN5SHVoSnJYN05lc3VfX1dncE9rVVRIa09iNUdPdUNWVm01RnYyWlB0Ykl3UVlpT011TTNhYUlkUEFzcmhpZWZ5UlpKNzYtamRFb05pQTdRZEhnMy1ueVMyUHRzQTNaaDlwOTJZNHdOamVzT3RiNVp3aEZrMG9oU3FSdW92X0lCeWplenRwOUZUSTN4dG5JUQ?oc=5",
-      "published": "Tue, 29 Sep 2026 05:58:00 GMT",
-      "summary": "UAE flights today: Emirates, Etihad, Air Arabia, flydubai delays, cancellations; Air Canada extends Dubai suspension&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     }
   ]
