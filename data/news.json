@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-02T16:59:02.334064+00:00",
+  "last_updated": "2026-10-02T23:23:46.985559+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Hopper\u2019s Co-Founder and B2B Boss Left The Company",
+      "link": "https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/",
+      "published": "Fri, 02 Oct 2026 22:02:00 +0000",
+      "summary": "One source said Dakota Smith had a lot of credibility in the B2B space, Hopper&apos;s most important division.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton Isn\u2019t \u2018Blocking\u2019 New AI Agents. But They Can\u2019t Always Get In.",
+      "link": "https://skift.com/2026/10/02/hilton-isnt-blocking-new-ai-agents-but-its-not-always-letting-them-in/",
+      "published": "Fri, 02 Oct 2026 19:48:01 +0000",
+      "summary": "Hilton&apos;s CEO says he wants to make booking through AI agents easy. For now, Meta&apos;s Muse struggles to pull a price from hotel group sites, and OTAs may remain an easier door.",
+      "source": "Skift"
+    },
     {
       "title": "How the Tourist Became the Taxpayer of Last Resort",
       "link": "https://skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Creator Backlash Hits Travel: From the U.S. Open to Cruise Ships",
-      "link": "https://skift.com/2026/10/01/content-creator-backlash-travel-tourism/",
-      "published": "Thu, 01 Oct 2026 14:36:52 +0000",
-      "summary": "Cruise lines and live events are giving influencers insider access to reach young audiences. Certain partnerships have sparked backlash from paying guests.",
-      "source": "Skift"
-    },
-    {
-      "title": "Strawberry\u2019s Case for Fixing the Data Before the Model",
-      "link": "https://skift.com/2026/10/01/skift-data-ai-summit-europe-preview-strawberry-kari-anna-fiskvik/",
-      "published": "Thu, 01 Oct 2026 12:27:11 +0000",
-      "summary": "Strawberry&apos;s tech chief sees AI models commoditizing and the edge moving to clean, connected data. In Europe, she wants regulators judging rules by whether they work as much as by how well they are documented.",
-      "source": "Skift"
-    },
-    {
       "title": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlJmdk9DTExnRE9vUmZyc0lpaS1wVjYyZkU0X3ZTdDA5N2FsLUROWWtfdk1OeVZaLWlzMktDWHhXalJ0SkUzN1N0MGVFaDVOV1UtWGdqWTlrYTF4eFVXLXFSR1BaeFVVVHZKc1dxZjJOcUl0dmhRX0Q2UG5IWTVDaUU0XzRxS1huRU9Fd1RjTnZ4TC1iRFVtcExNZ2pKYTg1dWx0aEhUU0hWTTVxS0l5aE5IS1dMVnF0bjF4aE9BcHBzbFJmcW1LWFdoZVFpdzM0blE?oc=5",
       "published": "Wed, 30 Sep 2026 14:07:41 GMT",
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government issues 'reconsider travel' advisory for entire region - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhuRUJrYmZrcUgycnNjUThVQnhWWkJDM05PWmxudHNpMS13Mld2OWI5VGZDQ2pqRm90aUV2SDdTR0VuTFFuZVBlVkhWVWpFQWZkeUdNWkR1REdSOHR0NDdrVDdCVXJQa2ZXNGZwcTRVRl8xVko2VGZKSlpJSnVEYU5rOFF5YUsx?oc=5",
-      "published": "Wed, 23 Sep 2026 14:33:00 GMT",
-      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;AOL.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019 - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjU4c2oxZmFIaGtGUEUwNmFBR1VYRXM5ZzE4ODQyX1hLOTlHUDBzbkJxV0hlSFpSeC0xbC1XcFR3VW0zeExZSzlEVUhKZTdFNi1QQTMtMndoQmhRaDBra1hQV05hMUF4MEVaUlRaM0d1T3JkbTVvMWtCblRCdEtYR00zT0RIY0VtLVJ4RldxYTRhWDBkLWNsenItUXZ5ZkVNcDJKZjAwWTREdzlXV1QxZ1RxdDZGd3NpUl8wN2pZc3RoVzlRUjdqaVV30gHeAUFVX3lxTFBZWlBGMDcwNTBfbG9MYl9ZWkdCb3RFemttZkQ3UVdpN3U2TEZJZExRa3ZuMlhNQWJLa3pXOFNXX0pYWm1Dcm1vNklKRXlOTFRXdFJtUFdUMnU1S3ZMUU9mcm5GNW1tU3hJX0oxWDNpd3pBem03ME9GQ2g3M3hlVVI4cTdaLWw5UXBZckNReTJHOUJXRXRfbXg1eGNZRjZLUE1WZVlfeWxWaWppbDFOc2t0VTNOM3ZUbW1sVHlfOWxKckNyV1NkcDdmek9NdzBHTDd6cEo2VGk2VnVTemdiQQ?oc=5",
       "published": "Thu, 17 Sep 2026 07:00:00 GMT",
       "summary": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government issues 'reconsider travel' advisory for entire region - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhuRUJrYmZrcUgycnNjUThVQnhWWkJDM05PWmxudHNpMS13Mld2OWI5VGZDQ2pqRm90aUV2SDdTR0VuTFFuZVBlVkhWVWpFQWZkeUdNWkR1REdSOHR0NDdrVDdCVXJQa2ZXNGZwcTRVRl8xVko2VGZKSlpJSnVEYU5rOFF5YUsx?oc=5",
+      "published": "Wed, 23 Sep 2026 14:33:00 GMT",
+      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;AOL.com",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1IeExPVnd4NVo3OTBFTHVVY0pfcHhUOGo5OFlUeFdOZXN2b2MwSll5c19iT2hNZG03VVdDZTl6aXI4djZsMVBlVkNGeEdDdG92RmZPQ0Vnc3ZjUkl2cl9IWVc3b1NBUTNGdlZsaWdtWXZDOUlXRjdjN0loZnZkZWlUMUotcVY4MHJPT1RNZFoxRUtYYWJHUWxTdkxZb0ZnTFE?oc=5",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists&nbsp;&nbsp;The Independent",
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     }
   ]
