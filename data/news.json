@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-10-02T10:07:38.198702+00:00",
+  "last_updated": "2026-10-02T16:59:02.334064+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "How the Tourist Became the Taxpayer of Last Resort",
+      "link": "https://skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/",
+      "published": "Fri, 02 Oct 2026 15:15:07 +0000",
+      "summary": "Tourist taxes are usually sold as a way to manage crowds. Their deeper appeal is political: They raise money from people who cannot vote against the officials spending it.",
+      "source": "Skift"
+    },
+    {
+      "title": "Thai Airways CEO Says He Was Pushed Out Due to Bangkok Flood Chaos",
+      "link": "https://skift.com/2026/10/02/thai-airways-ceo-says-he-was-pushed-out-due-to-bangkok-flood-chaos/",
+      "published": "Fri, 02 Oct 2026 12:56:01 +0000",
+      "summary": "Thai Airways emerged from years of restructuring with ambitious plans to expand its fleet and international network. A flood-driven operational breakdown at its Bangkok hub has now cost its CEO his job.",
+      "source": "Skift"
+    },
+    {
+      "title": "What Does It Take to Get Travel AI Out of the Pilot Stage?",
+      "link": "https://skift.com/2026/10/02/what-does-it-take-to-get-travel-ai-out-of-the-pilot-stage/",
+      "published": "Fri, 02 Oct 2026 12:52:19 +0000",
+      "summary": "A pilot can demonstrate that AI performs a task. Putting it into a travel business requires someone to own the results, handle the exceptions and show that it is worth the cost.",
+      "source": "Skift"
+    },
     {
       "title": "Airline Wi-Fi Has a Lie-Flat Seat Problem",
       "link": "https://skift.com/2026/10/01/airline-wi-fi-has-a-lie-flat-seat-problem/",
@@ -40,34 +61,6 @@
       "published": "Thu, 01 Oct 2026 12:27:11 +0000",
       "summary": "Strawberry&apos;s tech chief sees AI models commoditizing and the edge moving to clean, connected data. In Europe, she wants regulators judging rules by whether they work as much as by how well they are documented.",
       "source": "Skift"
-    },
-    {
-      "title": "Leela Palaces\u2019 CEO on the Overlooked Detail That Can Make (or Break) a Hotel Stay",
-      "link": "https://skift.com/2026/10/01/leela-palaces-ceo-on-the-overlooked-detail-that-can-make-or-break-a-hotel-stay/",
-      "published": "Thu, 01 Oct 2026 07:00:00 +0000",
-      "summary": "On this episode of Suite Success, host Katie Cline sits down with Anuraag Bhatnagar, CEO of The Leela Palaces, Hotels and Resorts, and explores his hospitality \u201ccalling,\u201d hiring for values, and delivering luxury through deep human connection and anticipatory service rather than t",
-      "source": "Skift"
-    },
-    {
-      "title": "Ras Al Khaimah Hotels Renovate to Capture the \u2018Wynn Effect\u2019",
-      "link": "https://skift.com/2026/10/01/ras-al-khaimah-hotels-renovate-to-capture-the-wynn-effect/",
-      "published": "Thu, 01 Oct 2026 10:00:00 +0000",
-      "summary": "A single resort opening is reshaping how an entire destination&apos;s hotels renovate, price and package their rooms \u2014 well before its doors open.",
-      "source": "Skift"
-    },
-    {
-      "title": "Minor Hotels Wants a \u2018Vietnam Network,\u2019 Not Just Beach Resorts",
-      "link": "https://skift.com/2026/09/30/minor-hotels-wants-a-vietnam-network-not-just-beach-resorts/",
-      "published": "Thu, 01 Oct 2026 02:00:00 +0000",
-      "summary": "Minor Hotels built its Vietnam business around overseas travelers heading to the beach. Now rising domestic travel, corporate business and meetings are giving the hotel group a reason to move into Hanoi and Ho Chi Minh City.",
-      "source": "Skift"
-    },
-    {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSldOYTFIZFdQYXZQa3BJbUJBY0ttWHFXM3YzclVTVUVKNjJIREp2djMtcS1WRUhQeG1xaVpPcmlPNnBmRWxNMHNuRUhBQ0dILWJaWFZfamxHaDdvNlBuTVhpTm42aTZpcVRQQkhJamRPV0x6YkhXRWJMR1c4VTUxLTZVSXpNYzhCU3h5c3VPQ1BwZWc3Nk95NzZYMmVDQ0F1SjFLck1Fbw?oc=5",
-      "published": "Fri, 02 Oct 2026 09:48:13 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
     },
     {
       "title": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel - cntravellerme.com",
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT",
       "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1IeExPVnd4NVo3OTBFTHVVY0pfcHhUOGo5OFlUeFdOZXN2b2MwSll5c19iT2hNZG03VVdDZTl6aXI4djZsMVBlVkNGeEdDdG92RmZPQ0Vnc3ZjUkl2cl9IWVc3b1NBUTNGdlZsaWdtWXZDOUlXRjdjN0loZnZkZWlUMUotcVY4MHJPT1RNZFoxRUtYYWJHUWxTdkxZb0ZnTFE?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Is it safe to travel to Turkey? Foreign Office updates advice for tourists&nbsp;&nbsp;The Independent",
       "source": "Google News Travel"
     }
   ]
