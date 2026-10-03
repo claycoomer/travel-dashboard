@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-03T02:45:27.321948+00:00",
+  "last_updated": "2026-10-03T09:30:04.345247+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "India Now Has a \u2018Digital Tourism Stack.\u2019 Can it Fix a Fragmented Market?",
+      "link": "https://skift.com/2026/10/03/india-now-has-a-digital-tourism-stack-can-it-fix-a-fragmented-market/",
+      "published": "Sat, 03 Oct 2026 05:50:45 +0000",
+      "summary": "India is betting that open digital infrastructure can make its vast, fragmented tourism supply easier to discover, book and eventually surface through AI.",
+      "source": "Skift"
+    },
     {
       "title": "Hopper\u2019s Co-Founder and B2B Boss Left The Company",
       "link": "https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "No Starlink? United Airlines Targets Rivals With Status Match Offer",
-      "link": "https://skift.com/2026/10/01/no-starlink-united-airlines-targets-rivals-with-status-match-offer/",
-      "published": "Thu, 01 Oct 2026 18:15:17 +0000",
-      "summary": "United is betting that Starlink will become one of its biggest selling points as it ramps up rollout of the in-flight Wi-Fi. Meanwhile, its chief rival, Delta, is receiving pushback online for not choosing the internet provider.",
-      "source": "Skift"
-    },
-    {
       "title": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel - cntravellerme.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlJmdk9DTExnRE9vUmZyc0lpaS1wVjYyZkU0X3ZTdDA5N2FsLUROWWtfdk1OeVZaLWlzMktDWHhXalJ0SkUzN1N0MGVFaDVOV1UtWGdqWTlrYTF4eFVXLXFSR1BaeFVVVHZKc1dxZjJOcUl0dmhRX0Q2UG5IWTVDaUU0XzRxS1huRU9Fd1RjTnZ4TC1iRFVtcExNZ2pKYTg1dWx0aEhUU0hWTTVxS0l5aE5IS1dMVnF0bjF4aE9BcHBzbFJmcW1LWFdoZVFpdzM0blE?oc=5",
       "published": "Wed, 30 Sep 2026 14:07:41 GMT",
       "summary": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel&nbsp;&nbsp;cntravellerme.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +77,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019 - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjU4c2oxZmFIaGtGUEUwNmFBR1VYRXM5ZzE4ODQyX1hLOTlHUDBzbkJxV0hlSFpSeC0xbC1XcFR3VW0zeExZSzlEVUhKZTdFNi1QQTMtMndoQmhRaDBra1hQV05hMUF4MEVaUlRaM0d1T3JkbTVvMWtCblRCdEtYR00zT0RIY0VtLVJ4RldxYTRhWDBkLWNsenItUXZ5ZkVNcDJKZjAwWTREdzlXV1QxZ1RxdDZGd3NpUl8wN2pZc3RoVzlRUjdqaVV30gHeAUFVX3lxTFBZWlBGMDcwNTBfbG9MYl9ZWkdCb3RFemttZkQ3UVdpN3U2TEZJZExRa3ZuMlhNQWJLa3pXOFNXX0pYWm1Dcm1vNklKRXlOTFRXdFJtUFdUMnU1S3ZMUU9mcm5GNW1tU3hJX0oxWDNpd3pBem03ME9GQ2g3M3hlVVI4cTdaLWw5UXBZckNReTJHOUJXRXRfbXg1eGNZRjZLUE1WZVlfeWxWaWppbDFOc2t0VTNOM3ZUbW1sVHlfOWxKckNyV1NkcDdmek9NdzBHTDd6cEo2VGk2VnVTemdiQQ?oc=5",
-      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "summary": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019&nbsp;&nbsp;NJ.com",
+      "title": "U.S. government warns Americans about 8 popular destinations - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;thestreet.com",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government issues 'reconsider travel' advisory for entire region - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZFhuRUJrYmZrcUgycnNjUThVQnhWWkJDM05PWmxudHNpMS13Mld2OWI5VGZDQ2pqRm90aUV2SDdTR0VuTFFuZVBlVkhWVWpFQWZkeUdNWkR1REdSOHR0NDdrVDdCVXJQa2ZXNGZwcTRVRl8xVko2VGZKSlpJSnVEYU5rOFF5YUsx?oc=5",
-      "published": "Wed, 23 Sep 2026 14:33:00 GMT",
-      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;AOL.com",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
