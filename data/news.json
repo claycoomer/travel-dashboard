@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-06T17:33:11.359475+00:00",
+  "last_updated": "2026-10-06T23:25:44.695680+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Kayak and Skyscanner CEOs: Metasearch Isn\u2019t Dead \u2014 It\u2019s Evolving",
+      "link": "https://skift.com/2026/10/06/kayak-and-skyscanner-ceos-metasearch-isnt-dead-its-evolving/",
+      "published": "Tue, 06 Oct 2026 22:49:57 +0000",
+      "summary": "The test is whether deep live pricing and trust engineering beat horizontal agents on convenience alone.",
+      "source": "Skift"
+    },
     {
       "title": "Airlines Get More Time on Mumbai Airport Cuts \u2014 But the Move to Navi Mumbai Is Still Coming",
       "link": "https://skift.com/2026/10/06/airlines-get-more-time-on-mumbai-airport-cuts-but-the-move-to-navi-mumbai-is-still-coming/",
@@ -56,24 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Caroline Beteta Returns to Brand USA as Interim CEO",
-      "link": "https://skift.com/2026/10/05/caroline-beteta-brand-usa-interim-ceo/",
-      "published": "Mon, 05 Oct 2026 19:48:07 +0000",
-      "summary": "The appointment comes as Brand USA President and CEO Fred Dixon prepares to rejoin NYC Tourism + Conventions.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: airlines face delays and cancellations as two Saudi airports struck - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlJZblJTOXk0UXlzdDVhVFI3RnduLTRiS1FncHBOUjBreEJkekR1OEFOQk5YZmNiazhiRmtFV2haN3NELXRNRVE1T2FQdm91WDlYZTBnYm1PWEVWVFpaVHRBUkwzQmppTTV0Y2hzLTZYVC04QzR2TTQyNVc4UkdzVUZFZDFBazIzeUhTd29JS2xFUW5FZnBENlRHTzJ0cFlEbE12TFo0eXdVUjgwU1FSM3dkV1FsZEVfR210ZG5qRFVVNktMbnFfNHB4ZnJ6RUdLeU1CU0lGcFExM00?oc=5",
-      "published": "Tue, 06 Oct 2026 17:06:12 GMT",
-      "summary": "Dubai and Middle East flight disruption: airlines face delays and cancellations as two Saudi airports struck&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
       "published": "Sun, 20 Sep 2026 07:00:00 GMT",
       "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019 - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjU4c2oxZmFIaGtGUEUwNmFBR1VYRXM5ZzE4ODQyX1hLOTlHUDBzbkJxV0hlSFpSeC0xbC1XcFR3VW0zeExZSzlEVUhKZTdFNi1QQTMtMndoQmhRaDBra1hQV05hMUF4MEVaUlRaM0d1T3JkbTVvMWtCblRCdEtYR00zT0RIY0VtLVJ4RldxYTRhWDBkLWNsenItUXZ5ZkVNcDJKZjAwWTREdzlXV1QxZ1RxdDZGd3NpUl8wN2pZc3RoVzlRUjdqaVV30gHeAUFVX3lxTFBZWlBGMDcwNTBfbG9MYl9ZWkdCb3RFemttZkQ3UVdpN3U2TEZJZExRa3ZuMlhNQWJLa3pXOFNXX0pYWm1Dcm1vNklKRXlOTFRXdFJtUFdUMnU1S3ZMUU9mcm5GNW1tU3hJX0oxWDNpd3pBem03ME9GQ2g3M3hlVVI4cTdaLWw5UXBZckNReTJHOUJXRXRfbXg1eGNZRjZLUE1WZVlfeWxWaWppbDFOc2t0VTNOM3ZUbW1sVHlfOWxKckNyV1NkcDdmek9NdzBHTDd6cEo2VGk2VnVTemdiQQ?oc=5",
-      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "summary": "Travel advisory: Visitors to mountainous Asian destination urged to \u2018exercise increased caution\u2019&nbsp;&nbsp;NJ.com",
+      "title": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlJmdk9DTExnRE9vUmZyc0lpaS1wVjYyZkU0X3ZTdDA5N2FsLUROWWtfdk1OeVZaLWlzMktDWHhXalJ0SkUzN1N0MGVFaDVOV1UtWGdqWTlrYTF4eFVXLXFSR1BaeFVVVHZKc1dxZjJOcUl0dmhRX0Q2UG5IWTVDaUU0XzRxS1huRU9Fd1RjTnZ4TC1iRFVtcExNZ2pKYTg1dWx0aEhUU0hWTTVxS0l5aE5IS1dMVnF0bjF4aE9BcHBzbFJmcW1LWFdoZVFpdzM0blE?oc=5",
+      "published": "Wed, 30 Sep 2026 14:07:41 GMT",
+      "summary": "Europe extends Gulf airspace warning as US-Iran tensions continue \u2013 here's what it means for air travel&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QdIBgAJBVV95cUxNZHJucVRBQzVQU3JNeWZjTVdBWXFTU0drb2w1YTZfTzJ1anlkQXFSV0FROUdHTGRaNmhpNWl2ZXdIdkVoNmU2S0lLRWNwdU45OTlYU2M0ajBNNURFNVlNS2YxblVKV0hFdkNtcVlEdlg2amQ5V0w4N0drY05rdFVRNy1IenpISy11QUhfYWR3MHlBUEZxbGpQVE4wem1PdEQza0k5cC1ET2JVeV9OUU1XdkpuNHJtT2plYy1hOHgzUHFXSmhzU3pzU0RZR2RST2hIb0o3Wi1WWmc0LXNfTC11SUpEYVFBM3Y1UkdoNnVEWHRHZTNxZTVwcTF1LWlvRmVU?oc=5",
+      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QQ?oc=5",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures&nbsp;&nbsp;Hindustan Times",
       "source": "Google News Travel"
     },
     {
