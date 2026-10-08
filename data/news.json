@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-08T03:25:45.192686+00:00",
+  "last_updated": "2026-10-08T11:00:17.686023+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Duetto Buys Flyr Hospitality as Airline Tech Firm Exits Hotel Pricing",
+      "link": "https://skift.com/2026/10/08/duetto-buys-flyr-hospitality-as-airline-tech-firm-exits-hotel-pricing/",
+      "published": "Thu, 08 Oct 2026 11:00:00 +0000",
+      "summary": "Four years after Flyr bought its way into hotels, it&apos;s handing the unit to one of the two rivals Skift said it would have to beat.",
+      "source": "Skift"
+    },
+    {
+      "title": "Dubai\u2019s Luxury Hotels Add Perks to Avoid Rate Cuts",
+      "link": "https://skift.com/2026/10/08/dubais-luxury-hotels-add-perks-to-avoid-rate-cuts/",
+      "published": "Thu, 08 Oct 2026 10:00:00 +0000",
+      "summary": "Dubai\u2019s luxury hotels face a choice between protecting rates and filling rooms. Value-adds let them do some of both. The question is how long their 2025 buffers will last.",
+      "source": "Skift"
+    },
     {
       "title": "Disney Keeps Cheapest Tickets Flat as Add-On Prices Climb",
       "link": "https://skift.com/2026/10/07/disney-october-ticket-price-increase/",
@@ -49,18 +63,60 @@
       "source": "Skift"
     },
     {
-      "title": "Vrbo Faces Blowback on Rising Commissions, Plans to Ease Rate Parity Rule",
-      "link": "https://skift.com/2026/10/07/vrbo-faces-blowback-on-rising-commissions-plans-to-ease-rate-parity-rule/",
-      "published": "Wed, 07 Oct 2026 12:28:25 +0000",
-      "summary": "From a competition perspective, Vrbo is catching up to Booking.com and Airbnb in pushing the fee burden onto hosts. Eliminating or greatly reducing guest fees has great optics, but travelers will end up paying for them in the form of higher rates.",
-      "source": "Skift"
+      "title": "Is it safe to travel to Saudi Arabia right now? The latest travel advice amid attacks on airports in Riyadh and Abha - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY3RwaEpncV9NdU96a1lZRnR6UEZqak1zMDdUSXI4VG44TzcwS2lUSjhDX3h0VVgzYkI5T1R3T2RYM09tUU5RdEdLT1hqMVBXelM4THVwZUJ2b2JIY0VsN3dSUmY5N1phTDNEdjVSd18wSl9ZSWpnQ1lzMGNQLXJTWkMtZGM0cGpXczBTckRodjhsV193a2d2enlZUTB5cEUwaG9Iak01VzBrWFJNODhEVEg1a3FfTk12cU1DNU80UXdsY0F5aHd4UHVDYldDcGJ3WWNEWjlBUFpQeUQ4NnNnMmtOam5rdw?oc=5",
+      "published": "Thu, 08 Oct 2026 07:02:56 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia right now? The latest travel advice amid attacks on airports in Riyadh and Abha&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
-      "title": "Royal Orchid Follows Indian Travelers Beyond the Metros, From Pilgrim Towns to Branded Homes",
-      "link": "https://skift.com/2026/10/07/royal-orchid-follows-indian-travelers-beyond-the-metros-from-pilgrim-towns-to-branded-homes/",
-      "published": "Wed, 07 Oct 2026 06:19:11 +0000",
-      "summary": "Royal Orchid is betting India\u2019s next hotel winners will follow travelers, not the old hotel map. The test now is making sure its brands don\u2019t end up chasing the same customer under slightly different names.",
-      "source": "Skift"
+      "title": "France Riots and US Embassy Alert: Is It Safe to Travel Now? - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGdKa1duV3hsOXFVOGJIYWFCMTEzQjZWVGFSZEdNcDVuTmNaWVVPaERzeWY5Uy1vcV92SDJOd1BocFFHQ1pUMHVvaFJJbHdJS2w3dWJEUGtRcFF0cm1BSHlXODUwTDFtUHdzbkFsRTl3ODJfMk9wb1VDdzdYMjZEZ3FQaVRSVFFSRjFpdHVMYw?oc=5",
+      "published": "Tue, 06 Oct 2026 20:40:49 GMT",
+      "summary": "France Riots and US Embassy Alert: Is It Safe to Travel Now?&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Saudi Arabia Flight Status Oct. 8: Is Riyadh Airport Open? - Travel Tourister",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV19QWlVRUnc4MXEyNl9IVmF6WG1nbFpYeWF0WHVFQlNFQzR3bExmMDhoTDVSSUJIWmpjQXVjaXAxRFhTQ3NQME9Ic2s1V0htb0lveHFsaGc0Z1hNLVZXMk92MmxseVNkVzVJVzEzRkVLUWJkZ3FiRzVqUGl1Z1R1eWYwbjNKeUdpTmc2R09CUHhKbWdBQjREWmZsdHpFOGZmam00VlFYZHd3RW1yWFRIODZpRm1lX1Fva3VCdmtWVG0zakVIX3NjX0oyRVp5Tmkza1o1dlNLYWJyM2o2S2pNc21NUU9rZVladEdKemE0NnFSYjA4OGlHUDVkRUE1TDY2?oc=5",
+      "published": "Thu, 08 Oct 2026 05:47:24 GMT",
+      "summary": "Saudi Arabia Flight Status Oct. 8: Is Riyadh Airport Open?&nbsp;&nbsp;Travel Tourister",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNQOE9WV1JmYlY0eG83TXlsMjBjM2dydU45c3diOG8wX0tCTFNab25XMThJM1NBaE15eElnSFNvbk43VUNyZTVDNk9rTzVHZzlPVUtYS2U3YjNTQ054NkVmR0NGTG04T0JnWGtmVE5PUG9fSlVpRkg3VlpudVRrcDl6ZThrWERERVhCeHh1NU5qNTVEbUFVaFNlYUpCR2swdTJic2xibVVpb0hGX1dXVtIBxAFBVV95cUxOdlVSM3VKdWN0eGs0UXR3dTd6dTJZbWdOYlhoMnpFYTZ3Q3RVU1NEQ3ZHS1pOZ2ZLSFVtWmtIcFpQRkVtRTNQWUJjYXNyZnpBOGNsUUo2YV82aTFkZGFiRElrb3hmQlRwanA1ZlRsZE1rZVg2SHo4X2YtbGgtZHIteWpheERNV0dXd2tFVFUyaVJzZ0RtdmlZUmpsdmFqMzVRaVdORE9RVFVhZ2U3R2hRUXZkYUFuazdyYUU3RXE1cW90X1lC?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFlPS1g0REFGSmlucWt5ZEVDdVZWLWZMODlGazBKdXRKblNxM0hpa0VKYUdQVkVuNGZMM1FWb2V5ZHEwU2o4YkFsaWppX21vQmNCN1R3LXpvdjFNWlYzWHM4OFBmc054ZHY0TVhsN2dyUkE3ZDNuREVMR2V3dXd4Z21LMW5CVEJnQ0hVUG8waktkVGx6YndYUHcyRlpnVFpRNGczTUhsY2VnRkZFRC15S1pHc0hhajFoV3V6ZGpoUUlEdlBVS29lTzAtcUp3X0I1TE1yZklLdUVHcmNkTEJsQ21pYVUtVW1JejZSWmgyUDBnTDg4Yk53UUx1QQ?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "\u2018Leave now\u2019: US renews Iran travel warning ahead of possible flight cancellations, airspace closures&nbsp;&nbsp;Hindustan Times",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVk5bDFNZ05VY1p6Q252bENkZUFIVHJqai0zZVhnVVZPcVEyUjg2cVNzWEZISm5fNWk5OWRqb3ZnLWNLb3EwREMwZExkOUdQckpDdHF3SDdlaTZweS1YZ3JGbEN5SGpjTFZGczJVSTJhUHluSkdJNjIzOF92cFBiZDJlWQ?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Over 1,358 flights delayed, 85 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
     }
   ]
 }
