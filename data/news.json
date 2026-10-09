@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-09T17:40:38.647707+00:00",
+  "last_updated": "2026-10-09T23:39:38.214990+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Chicago Hotel Strike Hits Marriott and Hilton Hotels During Marathon Weekend",
+      "link": "https://skift.com/2026/10/09/chicago-hotel-strike-hits-marriott-and-hilton-hotels-during-marathon-weekend/",
+      "published": "Fri, 09 Oct 2026 22:44:38 +0000",
+      "summary": "Owners, not brands, carry most of the payroll burden. The union&apos;s answer is blunt: There is &quot;enough money in this system.&quot; But owners see things differently.",
+      "source": "Skift"
+    },
+    {
+      "title": "Delta CEO on 20% Fare Hikes (\u2018Limited Resistance\u2019) and Starlink (\u2018No Tit-For-Tat\u2019)",
+      "link": "https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/",
+      "published": "Fri, 09 Oct 2026 18:36:43 +0000",
+      "summary": "Delta CEO Ed Bastian said the airline industry will need to find a way to sustain its revenue momentum whenever fuel prices start to recede.",
+      "source": "Skift"
+    },
     {
       "title": "DuVine Cycling\u2019s Case for Experiences You Have to Earn",
       "link": "https://skift.com/2026/10/09/duvine-cyclings-case-for-experiences-you-have-to-earn/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Tour Operators Adapt to Climate Risk After Fatal Himalayan Disasters",
-      "link": "https://skift.com/2026/10/08/tour-operators-adapt-to-climate-risk-after-fatal-himalayan-disasters/",
-      "published": "Thu, 08 Oct 2026 18:09:27 +0000",
-      "summary": "Climate is already a business risk that Himalayan tour operators grapple with, absorbing cancellations and rerouting. The bigger exposure is the destination itself as disasters reveal its fragility.",
-      "source": "Skift"
-    },
-    {
-      "title": "More Than a Quarter of Saudi Flights Disrupted by Houthi Strikes",
-      "link": "https://skift.com/2026/10/08/houthi-strikes-disrupt-a-quarter-of-saudi-flights/",
-      "published": "Thu, 08 Oct 2026 16:49:45 +0000",
-      "summary": "With the Gulf\u2019s main airports now targets, the region\u2019s hub model is losing the reliability it sells.",
-      "source": "Skift"
-    },
-    {
       "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
       "published": "Thu, 08 Oct 2026 23:08:24 GMT",
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTUJNVVl2cll2OXllaW1VUVV1YnBJZ3NnMXFWWDJOd1RhTHdzb0g3Z2ZRN0lQVGJUTEdMYjhjUHhDRzIzVFdNNkFfRFdiMU1ZZklzX0xBWE55N0w1NE9aenlhcnpoWUxncnVoOEQ5cGI5WUZETERTNVhkd2h5SDNjN3NESm96NW5lejhXRzBIRktpdFZTY3BuNGtTeGFwOVdkd0VFMjdSZWlLdTB0aml1VHVvOG9vVDVCRVVKbEtSd0FKTmxwaVlFcU1Mc2k1YmNrZzJzMFVHSHNyQ3c2TjJoRlhmRS02amQ0bWJtS1prVVZwQUhnanc0SVUyMmwtUmY4WVNOWkdzNDZ6cXpT0gGSAkFVX3lxTE1VT1F6N0JfUFRxNmU5VElLa3BxU2RUVXZBa0phSHZKTVM5ZnJGRV82akFmOTRzZTlhX1VEWVBoemdaSWI0TmF2X2p5cEd3Y1lqWkw3SWVFTHNBZHhCblk4dGpiV0huMXEydHY2VnZxb2FWRl9HWkkwcHhTaDg5d3h6bDdxazFuTWRZRVBiTWR4RFEyQ3JKYi1kSXFkRDM2WmI2MHA4Nmc2bnhrNnk2cklkZXEwNk5sSlM2Z2tvQURtQ2NFal9yYzd4cjV1M3dKUm9uWjJoWWk3OWc4bmxRTkw5TjQyU0VlMWVCOHV0WW1JR2NFcGU5ejVfbmRaT09MRS1OZHBlazE0S1dmdzlCTFozb2c?oc=5",
-      "published": "Fri, 09 Oct 2026 00:20:36 GMT",
-      "summary": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdvY3haOVBDY1pSTnFiaUFZc0FvM2c2NnNuUEJISHExRW95bzVzS0paNHdMZ1lwVE8yeHdfOVJzek5YMWR4b3lTU2U0di1jeUZOMEsxZ2hCTTlZRkl1ZnRfd3lXeXM4U1RmYnVfelRwNUVsbHdiQTNFUWVkWU9tNWMxeEdSOXc?oc=5",
+      "published": "Wed, 07 Oct 2026 16:04:24 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -91,17 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdvY3haOVBDY1pSTnFiaUFZc0FvM2c2NnNuUEJISHExRW95bzVzS0paNHdMZ1lwVE8yeHdfOVJzek5YMWR4b3lTU2U0di1jeUZOMEsxZ2hCTTlZRkl1ZnRfd3lXeXM4U1RmYnVfelRwNUVsbHdiQTNFUWVkWU9tNWMxeEdSOXc?oc=5",
-      "published": "Wed, 07 Oct 2026 16:04:24 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "France Riots and US Embassy Alert: Is It Safe to Travel Now? - TravelPirates",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGdKa1duV3hsOXFVOGJIYWFCMTEzQjZWVGFSZEdNcDVuTmNaWVVPaERzeWY5Uy1vcV92SDJOd1BocFFHQ1pUMHVvaFJJbHdJS2w3dWJEUGtRcFF0cm1BSHlXODUwTDFtUHdzbkFsRTl3ODJfMk9wb1VDdzdYMjZEZ3FQaVRSVFFSRjFpdHVMYw?oc=5",
       "published": "Tue, 06 Oct 2026 20:40:49 GMT",
       "summary": "France Riots and US Embassy Alert: Is It Safe to Travel Now?&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTUJNVVl2cll2OXllaW1VUVV1YnBJZ3NnMXFWWDJOd1RhTHdzb0g3Z2ZRN0lQVGJUTEdMYjhjUHhDRzIzVFdNNkFfRFdiMU1ZZklzX0xBWE55N0w1NE9aenlhcnpoWUxncnVoOEQ5cGI5WUZETERTNVhkd2h5SDNjN3NESm96NW5lejhXRzBIRktpdFZTY3BuNGtTeGFwOVdkd0VFMjdSZWlLdTB0aml1VHVvOG9vVDVCRVVKbEtSd0FKTmxwaVlFcU1Mc2k1YmNrZzJzMFVHSHNyQ3c2TjJoRlhmRS02amQ0bWJtS1prVVZwQUhnanc0SVUyMmwtUmY4WVNOWkdzNDZ6cXpT0gGSAkFVX3lxTE1VT1F6N0JfUFRxNmU5VElLa3BxU2RUVXZBa0phSHZKTVM5ZnJGRV82akFmOTRzZTlhX1VEWVBoemdaSWI0TmF2X2p5cEd3Y1lqWkw3SWVFTHNBZHhCblk4dGpiV0huMXEydHY2VnZxb2FWRl9HWkkwcHhTaDg5d3h6bDdxazFuTWRZRVBiTWR4RFEyQ3JKYi1kSXFkRDM2WmI2MHA4Nmc2bnhrNnk2cklkZXEwNk5sSlM2Z2tvQURtQ2NFal9yYzd4cjV1M3dKUm9uWjJoWWk3OWc4bmxRTkw5TjQyU0VlMWVCOHV0WW1JR2NFcGU5ejVfbmRaT09MRS1OZHBlazE0S1dmdzlCTFozb2c?oc=5",
+      "published": "Fri, 09 Oct 2026 00:20:36 GMT",
+      "summary": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times&nbsp;&nbsp;Hindustan Times",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "\u2018Last warning to global airlines\u2019: Houthis attack Riyadh airport, warn over Saudi airspace - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM1NJQzU3WG1wNkNrNm5JbXlMRUZWVUVVZ1hCOXN5YjRmTG1aalBPeTdhckhUYjdJbGdBN3BKdUFQeG1xRms0bWFvWV90RV9WVXRlU3haeWd0ejQ3dUlWNFBBNllrejNWMW5oMVRTZ0R6ZTUyS1NOVUF4RlVpeWNYUVJBMFdPZ1c5Z3dsWEdZb1g1SDBTamZnQjJZS2JtWm1TTGtMbDdxeExWVGQ4ekVlcnRHeHp2QkZySDQtOWtRNWhGMG9TdWN2YlZRWkpFYU95SmxPRldEdTE2Mmp1SFd2OVVSbkNqTGhkMDc5NElRRWVsUXVsN2E1M2NB0gH_AUFVX3lxTFBUZG9mUVlUQkp0UjNXTUZ4RGM4bFRWRXB5MW8yMHJ1ZkJRM01LaDVOOUI3Y1UzdEdWQnNLMFVNaEZyUk9UbFUySFR6RDBETGhMM1p1SWFqYmxVNzhDR2lNYjhfWFhIR2x4N25yVDJnWXR5T3ZJS2gwak91eFd6bGNKTjdTSGI5Q2RkcXRLbURGQll6emxlZEFxdEE2blpLajU0aGFiYmU4SDRtanAyS29POFBmaDAzcUFKbXVVRXJIOVdSRnZVVHZaV0RrdGt5dkJheWJ3S2RZdUV6cGdLTDF4Y0l4bHBEdUVDcVlER2pNdGJWNVF0SkpMTTBvUnBSdw?oc=5",
-      "published": "Thu, 08 Oct 2026 03:26:00 GMT",
-      "summary": "\u2018Last warning to global airlines\u2019: Houthis attack Riyadh airport, warn over Saudi airspace&nbsp;&nbsp;The Times of India",
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     }
   ]
