@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-10-08T18:07:07.934285+00:00",
+  "last_updated": "2026-10-09T00:01:50.232042+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Transatlantic Summit:\u00a0Five Decisions in the Room",
+      "link": "https://skift.com/2026/10/08/skift-transatlantic-summit-five-decisions-in-the-room/",
+      "published": "Thu, 08 Oct 2026 21:01:39 +0000",
+      "summary": "The transatlantic corridor remains one of travel\u2019s most important markets \u2014 and also one of the most exposed to global disruption.",
+      "source": "Skift"
+    },
+    {
+      "title": "Higher Airfares Are Here to Stay, but Don\u2019t Expect Airline Profits to Rise",
+      "link": "https://skift.com/2026/10/08/higher-airfares-are-here-to-stay-but-dont-expect-airline-profits-to-increase/",
+      "published": "Thu, 08 Oct 2026 20:01:46 +0000",
+      "summary": "Jet fuel costs are hitting new highs, eating into the gains from higher airfares. Delta is expected to be among the few U.S. airlines to see a profit this year.",
+      "source": "Skift"
+    },
+    {
+      "title": "Tour Operators Adapt to Climate Risk After Fatal Himalayan Disasters",
+      "link": "https://skift.com/2026/10/08/tour-operators-adapt-to-climate-risk-after-fatal-himalayan-disasters/",
+      "published": "Thu, 08 Oct 2026 18:09:27 +0000",
+      "summary": "Climate is already a business risk that Himalayan tour operators grapple with, absorbing cancellations and rerouting. The bigger exposure is the destination itself as disasters reveal its fragility.",
+      "source": "Skift"
+    },
     {
       "title": "More Than a Quarter of Saudi Flights Disrupted by Houthi Strikes",
       "link": "https://skift.com/2026/10/08/houthi-strikes-disrupt-a-quarter-of-saudi-flights/",
@@ -42,38 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "Disney Keeps Cheapest Tickets Flat as Add-On Prices Climb",
-      "link": "https://skift.com/2026/10/07/disney-october-ticket-price-increase/",
-      "published": "Wed, 07 Oct 2026 21:29:14 +0000",
-      "summary": "Lower priced tickets can help build loyal visitors while premium add-ons drive more spending at the parks.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdvY3haOVBDY1pSTnFiaUFZc0FvM2c2NnNuUEJISHExRW95bzVzS0paNHdMZ1lwVE8yeHdfOVJzek5YMWR4b3lTU2U0di1jeUZOMEsxZ2hCTTlZRkl1ZnRfd3lXeXM4U1RmYnVfelRwNUVsbHdiQTNFUWVkWU9tNWMxeEdSOXc?oc=5",
+      "published": "Wed, 07 Oct 2026 16:04:24 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
-      "title": "Alaska Airlines\u2019 Plan to Grow Beyond Its West Coast Roots",
-      "link": "https://skift.com/2026/10/07/alaska-airlines-plan-to-grow-beyond-its-west-coast-roots/",
-      "published": "Wed, 07 Oct 2026 18:16:26 +0000",
-      "summary": "Despite constraints at its biggest hub, competition from Delta, and surging fuel prices, Alaska\u2019s chief commercial officer told Skift that he thinks the carrier can dominate the West Coast with its premium investments and push into international routes.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Amex GBT Reviews AI Risk",
-      "link": "https://skift.com/2026/10/07/how-amex-gbt-reviews-ai-risk/",
-      "published": "Wed, 07 Oct 2026 16:40:09 +0000",
-      "summary": "Amex GBT may be a software, payments and meetings company for business travel, but it\u2019s also selling trust \u2014 and its chief privacy officer said that\u2019s what it built its AI governance around.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
+      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
       "title": "Hurricane Isaias Threatens Gulf Coast, Likely to Impact Travel Starting on Friday - Travel Market Report",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUl0MDgxM0x6OGRkOHNDUnpqcENYdXhSNXNMTTZzaXRwM2lZOWQxWDJ2elNOV1ZjREdjdGh3cFc5cVN1azIyeDhqcVJ5NkcxeTdLeE9tOUZXeVVNaXBOOG9MYlNlVm9aX1ppVE14UnhnMld6cHAxNUhvOW5GYnBPWlVvLUIzcnBWbVdDRVc0elNUTTBnR3JmeE83MG5FZmVpR2lMRnpxUWNJS1Vya21GSWZnZVd2anZ1YXpESl8xQ2dhNmlReUw0Xw?oc=5",
       "published": "Thu, 08 Oct 2026 12:42:38 GMT",
       "summary": "Hurricane Isaias Threatens Gulf Coast, Likely to Impact Travel Starting on Friday&nbsp;&nbsp;Travel Market Report",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdvY3haOVBDY1pSTnFiaUFZc0FvM2c2NnNuUEJISHExRW95bzVzS0paNHdMZ1lwVE8yeHdfOVJzek5YMWR4b3lTU2U0di1jeUZOMEsxZ2hCTTlZRkl1ZnRfd3lXeXM4U1RmYnVfelRwNUVsbHdiQTNFUWVkWU9tNWMxeEdSOXc?oc=5",
-      "published": "Wed, 07 Oct 2026 16:04:24 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -102,13 +109,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVZObVRaTUM2VUEtQ1pVTWFaX0VhTW9RQXEzenhpTXZRN3JoUzNVcUIxdlFteHNKelBNTG1QRkhnbTh5T1RYTzcyakNCR0VJcEJCcUxrVzlrSkFILTBYVHFCMGRnOVQ2eGlnUElFdHloU1JsMzQwblExOUpOUktfVV9ESGxfN2gwenlReU0xeTBXZWNRSDhZb3dmVkZnd0l4cUJaWGl5UExVaGtIZXJaOXpxYVIzNGYzcjVYZFJkSmVLUmtCQ1HSAdgBQVVfeXFMTnZubUFYNnZfS3FPQUZ6bVBRX3hwWjM3cW92LWh3ZGFUS1ZWVWg3cVhOOW1EMFB2T1VGMnFTXzhlNmZzYVljMERDS0FLRDFFcXU1SzY1Q1ZkaFdOeXZCTVNRbk1pNl9nR0JnMC0zSlYzRFZaaE9sNmppVmdUWkVTSHdfam9XOWExMW9oNkJjbTF3Qkx6MmFzZ0pJQWNMeHJUU2tXaFhCdVUyV0dKTno4a2JTdG5CLVRidzl0cEtZTV9iTVB1Q2JVSUZIRTBIYWRDdUNSZHJqSHdF?oc=5",
       "published": "Thu, 08 Oct 2026 07:00:25 GMT",
       "summary": "UAE flights status update: Emirates, Etihad, Air Arabia, flydubai delays, cancellations&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
