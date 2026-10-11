@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-11T10:24:11.830901+00:00",
+  "last_updated": "2026-10-11T16:57:01.978897+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Travel AI\u2019s Prove-It Phase, Visibility, and the Booking Gap",
+      "link": "https://skift.com/2026/10/11/travel-ais-prove-it-phase-visibility-and-the-booking-gap/",
+      "published": "Sun, 11 Oct 2026 12:00:00 +0000",
+      "summary": "Skift&apos;s Data + AI Summit in Europe this week just showed that AI may be changing travel distribution and internal operations, but booking volume is another story.",
+      "source": "Skift"
+    },
     {
       "title": "The War Is Changing the Economics of Saudi Tourism",
       "link": "https://skift.com/2026/10/10/the-war-is-changing-the-economics-of-saudi-tourism/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Announcing Skift Global Forum East 2026: Can the Gulf\u2019s Momentum Hold?",
-      "link": "https://skift.com/2026/10/09/announcing-skift-global-forum-east-2026/",
-      "published": "Fri, 09 Oct 2026 08:20:04 +0000",
-      "summary": "A war has turned the Gulf&apos;s growth story into an open question. Few leaders have settled how trajectory and traveler trust hold under sustained conflict. Skift Global Forum East puts the people making that call in one room in Abu Dhabi.",
-      "source": "Skift"
-    },
-    {
       "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
       "published": "Thu, 08 Oct 2026 23:08:24 GMT",
       "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309 - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQckh5Q1Q2MERjY3U1aDdGWlU1OVJub3ZLV1NIbUUwUzBJVnlHZ1NjVDh0TDJUbHdaeEE2bnNhOHFBZi1jaGx5WmNhcFhoMGh4MGhrbDYxY2tCQjhkSlhwTmVmblBGcldGR1dCS0dLbXZhYVphYk1EemdOQ2JiR3FWU0ZHTDRwVGV3MExWZDNzMk9zYUt3Vk5udTd1elhGQzFhbDNmalI1SnBfSVp5dmp2MElIVWtLRk9YX2E4UWJGMGJwM2l0NHJWQ0pVYzBNd0kwcHBkd2lCa196ajhlMlh0NFFtS0RvR1E2SjNz?oc=5",
-      "published": "Sun, 11 Oct 2026 04:56:41 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -88,6 +81,13 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
       "published": "Fri, 09 Oct 2026 21:01:51 GMT",
       "summary": "United Airlines Updates Travel Warnings For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309 - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQckh5Q1Q2MERjY3U1aDdGWlU1OVJub3ZLV1NIbUUwUzBJVnlHZ1NjVDh0TDJUbHdaeEE2bnNhOHFBZi1jaGx5WmNhcFhoMGh4MGhrbDYxY2tCQjhkSlhwTmVmblBGcldGR1dCS0dLbXZhYVphYk1EemdOQ2JiR3FWU0ZHTDRwVGV3MExWZDNzMk9zYUt3Vk5udTd1elhGQzFhbDNmalI1SnBfSVp5dmp2MElIVWtLRk9YX2E4UWJGMGJwM2l0NHJWQ0pVYzBNd0kwcHBkd2lCa196ajhlMlh0NFFtS0RvR1E2SjNz?oc=5",
+      "published": "Sun, 11 Oct 2026 04:56:41 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
