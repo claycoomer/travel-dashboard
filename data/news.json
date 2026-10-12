@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-10-12T11:25:36.376259+00:00",
+  "last_updated": "2026-10-12T20:32:57.197616+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Stay 30 Days, Get $4 Million! Fake Challenge Videos Are a New Headache for Hotels",
+      "link": "https://skift.com/2026/10/12/fake-hotel-challenge-videos-tiktok-instagram/",
+      "published": "Mon, 12 Oct 2026 20:07:07 +0000",
+      "summary": "The videos are cheap to make. Hotels pay the price in front desk resources and reputation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Fighting Spirit\u2019s Data Sale to Google: Court Filings Show the List Getting Longer",
+      "link": "https://skift.com/2026/10/12/fighting-spirits-data-sale-to-google-court-filings-show-the-list-getting-longer/",
+      "published": "Mon, 12 Oct 2026 19:04:49 +0000",
+      "summary": "The deal has faced months of delays and pushback, coming to represent a thorny issue of how far bankruptcy code should go to protect employee privacy as AI makes rapid advances.",
+      "source": "Skift"
+    },
+    {
+      "title": "Higher Prices Are Supporting Travel Revenues While Volume Growth Slows",
+      "link": "https://skift.com/2026/10/12/higher-prices-are-supporting-travel-revenues-while-volume-growth-slows/",
+      "published": "Mon, 12 Oct 2026 16:27:41 +0000",
+      "summary": "Rising prices are supporting travel revenues, but affordability pressures and uneven demand suggest the industry may be earning more without necessarily welcoming more travelers.",
+      "source": "Skift"
+    },
+    {
+      "title": "Delta Delays Riyadh Service to March 2027 Following Airport Attacks",
+      "link": "https://skift.com/2026/10/12/delta-air-lines-delays-riyadh-service-to-march-2027/",
+      "published": "Mon, 12 Oct 2026 15:23:29 +0000",
+      "summary": "Delta\u2019s planned Atlanta-Riyadh service was already facing questions about safety and demand for the route ahead of the original October launch.",
+      "source": "Skift"
+    },
+    {
+      "title": "Saudi Arabia\u2019s Aviation Ambitions Meet a Week of Terror",
+      "link": "https://skift.com/2026/10/12/saudi-arabias-aviation-ambitions-meet-a-week-of-terror/",
+      "published": "Mon, 12 Oct 2026 13:29:14 +0000",
+      "summary": "A single airport incident would have been troubling. A succession of strikes over just one week, including repeated attacks on the capital, presents an extraordinary challenge for the Saudi travel industry.",
+      "source": "Skift"
+    },
     {
       "title": "India Is Now Skyscanner\u2019s Biggest Market, and Nearly Half Its Searches Go Abroad",
       "link": "https://skift.com/2026/10/12/india-is-now-skyscanners-biggest-market-and-nearly-half-its-searches-go-abroad/",
@@ -28,45 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "India\u2019s Foreign Arrivals Are Falling \u2014 but the 2047 Tourism Target Is Now 100 Million",
-      "link": "https://skift.com/2026/10/10/indias-foreign-arrivals-are-falling-but-the-2047-tourism-target-is-now-100-million/",
-      "published": "Sat, 10 Oct 2026 04:30:00 +0000",
-      "summary": "India has listed out four Ps for hitting 100 million visitors. It lacks a fifth: a published path. With arrivals falling, the hope is there\u2019s a plan behind the promise, before this turns into a pipe dream.",
-      "source": "Skift"
-    },
-    {
-      "title": "Chicago Hotel Strike Hits Marriott and Hilton Hotels During Marathon Weekend",
-      "link": "https://skift.com/2026/10/09/chicago-hotel-strike-hits-marriott-and-hilton-hotels-during-marathon-weekend/",
-      "published": "Fri, 09 Oct 2026 22:44:38 +0000",
-      "summary": "Owners, not brands, carry most of the payroll burden. The union&apos;s answer is blunt: There is &quot;enough money in this system.&quot; But owners see things differently.",
-      "source": "Skift"
-    },
-    {
-      "title": "Delta CEO on 20% Fare Hikes (\u2018Limited Resistance\u2019) and Starlink (\u2018No Tit-For-Tat\u2019)",
-      "link": "https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/",
-      "published": "Fri, 09 Oct 2026 18:36:43 +0000",
-      "summary": "Delta CEO Ed Bastian said the airline industry will need to find a way to sustain its revenue momentum whenever fuel prices start to recede.",
-      "source": "Skift"
-    },
-    {
-      "title": "DuVine Cycling\u2019s Case for Experiences You Have to Earn",
-      "link": "https://skift.com/2026/10/09/duvine-cyclings-case-for-experiences-you-have-to-earn/",
-      "published": "Fri, 09 Oct 2026 15:53:39 +0000",
-      "summary": "You can visit the most beautiful places in the world and still feel nothing. DuVine&apos;s bet is that luxury travelers now want a little friction back, and that the effort is what makes it memorable.",
-      "source": "Skift"
-    },
-    {
-      "title": "Delta Air Lines Expects to Absorb $6 Billion Increase in Fuel Costs, Lowers 2026 Profit Outlook",
-      "link": "https://skift.com/2026/10/09/delta-air-lines-expects-to-absorb-six-billion-in-fuel-costs/",
-      "published": "Fri, 09 Oct 2026 10:37:41 +0000",
-      "summary": "Delta still had a profitable third quarter, even as volatile fuel costs are now forcing it to lower its 2026 forecast. The carrier has already accrued $900 million in profit sharing for 2027.",
-      "source": "Skift"
-    },
-    {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
-      "published": "Thu, 08 Oct 2026 23:08:24 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
+      "published": "Sat, 10 Oct 2026 23:49:05 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -84,13 +84,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
-      "published": "Sat, 10 Oct 2026 23:49:05 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Saudi Arabia right now? UK and US update travel advice as three killed in Riyadh airport attacks - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUd1WHJUWlBiREstVDRUOHNPWVQ2MFoxWVdIMTJweGV4QXJUUEtXellyWUxXTmk2Wm1KbXVCMXNkeTE3YmcweWJaYWd3UHl2SGZ5UElMZXpnOWFUZ0djZkNQYUpkZC1USi1GeGdQUnc5R1EweEVDTEdlZTZhaWdvSXc0Y0dSM1FXUU5Mb191ak1uTlpmR2NtLWxVSG5nXzhWak9SdG9USlBpSmFPVWFYbkNIeVhpOFkzeXlZUTN3M0N5RVNvU2w0VzNwOWJ5UU4xMkx1RnJRMDlZTEdDTzNEY0tpUGE?oc=5",
       "published": "Fri, 09 Oct 2026 07:34:24 GMT",
@@ -105,10 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTUJNVVl2cll2OXllaW1VUVV1YnBJZ3NnMXFWWDJOd1RhTHdzb0g3Z2ZRN0lQVGJUTEdMYjhjUHhDRzIzVFdNNkFfRFdiMU1ZZklzX0xBWE55N0w1NE9aenlhcnpoWUxncnVoOEQ5cGI5WUZETERTNVhkd2h5SDNjN3NESm96NW5lejhXRzBIRktpdFZTY3BuNGtTeGFwOVdkd0VFMjdSZWlLdTB0aml1VHVvOG9vVDVCRVVKbEtSd0FKTmxwaVlFcU1Mc2k1YmNrZzJzMFVHSHNyQ3c2TjJoRlhmRS02amQ0bWJtS1prVVZwQUhnanc0SVUyMmwtUmY4WVNOWkdzNDZ6cXpT0gGSAkFVX3lxTE1VT1F6N0JfUFRxNmU5VElLa3BxU2RUVXZBa0phSHZKTVM5ZnJGRV82akFmOTRzZTlhX1VEWVBoemdaSWI0TmF2X2p5cEd3Y1lqWkw3SWVFTHNBZHhCblk4dGpiV0huMXEydHY2VnZxb2FWRl9HWkkwcHhTaDg5d3h6bDdxazFuTWRZRVBiTWR4RFEyQ3JKYi1kSXFkRDM2WmI2MHA4Nmc2bnhrNnk2cklkZXEwNk5sSlM2Z2tvQURtQ2NFal9yYzd4cjV1M3dKUm9uWjJoWWk3OWc4bmxRTkw5TjQyU0VlMWVCOHV0WW1JR2NFcGU5ejVfbmRaT09MRS1OZHBlazE0S1dmdzlCTFozb2c?oc=5",
-      "published": "Fri, 09 Oct 2026 00:20:36 GMT",
-      "summary": "Saudi Arabia airport attacks: US warns citizens of flight disruptions, tightens employee travel rules in Riyadh | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdvY3haOVBDY1pSTnFiaUFZc0FvM2c2NnNuUEJISHExRW95bzVzS0paNHdMZ1lwVE8yeHdfOVJzek5YMWR4b3lTU2U0di1jeUZOMEsxZ2hCTTlZRkl1ZnRfd3lXeXM4U1RmYnVfelRwNUVsbHdiQTNFUWVkWU9tNWMxeEdSOXc?oc=5",
+      "published": "Wed, 07 Oct 2026 16:04:24 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 7, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
+      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
