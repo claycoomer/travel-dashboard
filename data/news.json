@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-12T03:07:36.056823+00:00",
+  "last_updated": "2026-10-12T11:25:36.376259+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "India Is Now Skyscanner\u2019s Biggest Market, and Nearly Half Its Searches Go Abroad",
+      "link": "https://skift.com/2026/10/12/india-is-now-skyscanners-biggest-market-and-nearly-half-its-searches-go-abroad/",
+      "published": "Mon, 12 Oct 2026 05:13:56 +0000",
+      "summary": "Indians aren\u2019t going to book a trip just because you\u2019ve been selling them the destination. They want to see the value first.",
+      "source": "Skift"
+    },
     {
       "title": "Travel AI\u2019s Prove-It Phase, Visibility, and the Booking Gap",
       "link": "https://skift.com/2026/10/11/travel-ais-prove-it-phase-visibility-and-the-booking-gap/",
@@ -53,13 +60,6 @@
       "link": "https://skift.com/2026/10/09/delta-air-lines-expects-to-absorb-six-billion-in-fuel-costs/",
       "published": "Fri, 09 Oct 2026 10:37:41 +0000",
       "summary": "Delta still had a profitable third quarter, even as volatile fuel costs are now forcing it to lower its 2026 forecast. The carrier has already accrued $900 million in profit sharing for 2027.",
-      "source": "Skift"
-    },
-    {
-      "title": "Accor\u2019s Gulf Hotel Recovery Is A Tale Of Two Markets",
-      "link": "https://skift.com/2026/10/09/accors-gulf-hotel-recovery-is-a-tale-of-two-markets/",
-      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "summary": "Leisure demand is carrying Accor\u2019s resorts while city hotels wait for corporate travel to return.",
       "source": "Skift"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
-      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     }
   ]
