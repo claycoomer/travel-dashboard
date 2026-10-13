@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-13T15:22:43.763159+00:00",
+  "last_updated": "2026-10-13T20:52:47.578282+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Canadian Trips to U.S. Rise for Sixth Straight Month \u2014 but Remain Far Below 2024 Levels",
+      "link": "https://skift.com/2026/10/13/canadian-trips-to-u-s-rise-for-sixth-straight-month-but-remain-far-below-2024-levels/",
+      "published": "Tue, 13 Oct 2026 16:40:47 +0000",
+      "summary": "Six months of growth sounds like momentum until you check the baseline. Climbing out of an unusually soft 2025 isn\u2019t the same as getting back to normal.",
+      "source": "Skift"
+    },
+    {
+      "title": "Mumbai Airport Lets Airlines Keep Winter Slots, Delaying the Move to Navi Mumbai",
+      "link": "https://skift.com/2026/10/13/mumbai-airport-lets-airlines-keep-winter-slots-delaying-the-move-to-navi-mumbai/",
+      "published": "Tue, 13 Oct 2026 15:49:18 +0000",
+      "summary": "A softer timeline gives Adani time to close many gaps. If it doesn\u2019t, summer may bring the same pushback.",
+      "source": "Skift"
+    },
     {
       "title": "Premier Inn Owner Fights Activist Bid as Rising Costs Squeeze Profit",
       "link": "https://skift.com/2026/10/13/premier-inn-owner-fights-activist-bid-as-rising-costs-squeeze-profit/",
@@ -49,31 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Higher Prices Are Supporting Travel Revenues While Volume Growth Slows",
-      "link": "https://skift.com/2026/10/12/higher-prices-are-supporting-travel-revenues-while-volume-growth-slows/",
-      "published": "Mon, 12 Oct 2026 16:27:41 +0000",
-      "summary": "Rising prices are supporting travel revenues, but affordability pressures and uneven demand suggest the industry may be earning more without necessarily welcoming more travelers.",
-      "source": "Skift"
-    },
-    {
-      "title": "Delta Delays Riyadh Service to March 2027 Following Airport Attacks",
-      "link": "https://skift.com/2026/10/12/delta-air-lines-delays-riyadh-service-to-march-2027/",
-      "published": "Mon, 12 Oct 2026 15:23:29 +0000",
-      "summary": "Delta\u2019s planned Atlanta-Riyadh service was already facing questions about safety and demand for the route ahead of the original October launch.",
-      "source": "Skift"
-    },
-    {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
-      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Saudi Arabia issues fresh safety advisory as US mission flags airport and travel risks - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNXFwOHNwTHpzaDI4MUVJS0tEQmlidUszZmlxbHhreVJnaF9wTFNEY1FxZmN3QnhjMEhKRTFFQ2FQRDdQVTZyQThsSTgtTlJnYUE3Q3Y3S2ZVYk90S2hZbExpTlRrV3RHaVhzTFlneVlBNDV3VWo5YkRQSFNKdXhIa3dOdXBqclNMLWdITWRsdkFNd29kbGFBZXlYX1ZJWU5PQVdRd3JvUmpjYzhlM3R3aWdxSVNyWklxMUdUN0dzZTVhOUd6Tng3ZzhhZ3FwUQ?oc=5",
-      "published": "Tue, 13 Oct 2026 07:09:33 GMT",
-      "summary": "Saudi Arabia issues fresh safety advisory as US mission flags airport and travel risks&nbsp;&nbsp;Gulf Business",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
+      "published": "Sat, 10 Oct 2026 23:49:05 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
-      "published": "Sat, 10 Oct 2026 23:49:05 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
+      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
       "published": "Sun, 20 Sep 2026 07:00:00 GMT",
       "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
