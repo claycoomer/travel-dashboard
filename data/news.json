@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-12T20:32:57.197616+00:00",
+  "last_updated": "2026-10-13T04:23:32.083550+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Postcard Hotel Is Bringing Its Brand to India\u2019s Cities, With a Club-First Twist: Exclusive",
+      "link": "https://skift.com/2026/10/12/postcard-hotel-is-bringing-its-brand-to-indias-cities-with-a-club-first-twist-exclusive/",
+      "published": "Tue, 13 Oct 2026 03:30:00 +0000",
+      "summary": "A smaller inventory, all-suite accommodation and a club designed into the property \u2014 Postcard Hotel\u2019s Kapil Chopra says he is sure that enough buyers will pay for it.",
+      "source": "Skift"
+    },
     {
       "title": "Stay 30 Days, Get $4 Million! Fake Challenge Videos Are a New Headache for Hotels",
       "link": "https://skift.com/2026/10/12/fake-hotel-challenge-videos-tiktok-instagram/",
@@ -56,24 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "The War Is Changing the Economics of Saudi Tourism",
-      "link": "https://skift.com/2026/10/10/the-war-is-changing-the-economics-of-saudi-tourism/",
-      "published": "Sun, 11 Oct 2026 01:21:16 +0000",
-      "summary": "The war is raising the cost of attracting the international travelers Saudi Arabia needs to meet its tourism ambitions.",
-      "source": "Skift"
-    },
-    {
       "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
       "published": "Sat, 10 Oct 2026 23:49:05 GMT",
       "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Hurricane Isaias impacts travel as airlines issue waivers - FOX 9 Minneapolis-St. Paul",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmI2Tk5ROV9UZU02a0ZUVlNxWmhaZktrTXNSM2Y3STUtTDViMG12THZBUUR4OXZmMnJRb3RtWTNiUUhYcDJPRzFoSk9QSUcxRHJxTUh0cWxPWDN3SGR6SWE5ZFRlMWlQckJuOW1SOERfeFdESC1rQ0dtRnJ1NHVjeEVn0gGHAUFVX3lxTE5MWGFSbjdNWm5NUnVobkI3TmF4WHRsd3lVZmtEazhUcl8zclYtV0R1aWh1eXhtMllRNVJXNmZxR09rWlBoNkt2WV9aMmR5dEhNWEQtTndrU25XY2RWNWxTZ1FYdzJLZi1qTHBfWkVxQXNIb2JDQUVMcFFHcWJlV1VwWm15a2pyTQ?oc=5",
-      "published": "Fri, 09 Oct 2026 16:05:19 GMT",
-      "summary": "Hurricane Isaias impacts travel as airlines issue waivers&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia right now? UK and US update travel advice as three killed in Riyadh airport attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUd1WHJUWlBiREstVDRUOHNPWVQ2MFoxWVdIMTJweGV4QXJUUEtXellyWUxXTmk2Wm1KbXVCMXNkeTE3YmcweWJaYWd3UHl2SGZ5UElMZXpnOWFUZ0djZkNQYUpkZC1USi1GeGdQUnc5R1EweEVDTEdlZTZhaWdvSXc0Y0dSM1FXUU5Mb191ak1uTlpmR2NtLWxVSG5nXzhWak9SdG9USlBpSmFPVWFYbkNIeVhpOFkzeXlZUTN3M0N5RVNvU2w0VzNwOWJ5UU4xMkx1RnJRMDlZTEdDTzNEY0tpUGE?oc=5",
-      "published": "Fri, 09 Oct 2026 07:34:24 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia right now? UK and US update travel advice as three killed in Riyadh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309 - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQckh5Q1Q2MERjY3U1aDdGWlU1OVJub3ZLV1NIbUUwUzBJVnlHZ1NjVDh0TDJUbHdaeEE2bnNhOHFBZi1jaGx5WmNhcFhoMGh4MGhrbDYxY2tCQjhkSlhwTmVmblBGcldGR1dCS0dLbXZhYVphYk1EemdOQ2JiR3FWU0ZHTDRwVGV3MExWZDNzMk9zYUt3Vk5udTd1elhGQzFhbDNmalI1SnBfSVp5dmp2MElIVWtLRk9YX2E4UWJGMGJwM2l0NHJWQ0pVYzBNd0kwcHBkd2lCa196ajhlMlh0NFFtS0RvR1E2SjNz?oc=5",
+      "published": "Sun, 11 Oct 2026 04:56:41 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -109,6 +102,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Riyadh airport attack: US issues security alert, urges Americans to avoid area - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazk0eDZLY05IWGxWUVJmM3pqWGZyRE5xcnoxRjdfenE1am5tSEwxNHhMaFVaSko2TldpY2lnaHpiQXRCYlRUeE5zbnNWVFZncHNpTmR5WDA1QnpxWTMyNTN6aUlWUkVDUi1zbXhRN2ZjeVJvVG12RTJlcjhTUDBFN2lQcm1DTVpvbF84QkxIOERoWlMwc19aYUx4cnhXd21ZbjB2eFItcng2cnEzYjlkYlB0dGRGWll3QnlFQ3N4dHRUU1Uw0gHaAUFVX3lxTE4xUXY4NzFZYjZtaExOWHN2TnVJTXJHMlcyWm9pZ2pZU0d4OEhmdklyeWFtYTJ2SGs2MUFES2ZHVHBpNXpYOWRTU0p3V3NFdGl6alR4aDZvUGlQb1p0THFJaU0yTjJQaFVNQUV3TVhxUmMyZUVUZVJ2c1JwWHNMVk9nMTY1NllNM3VneUFJdGJsck1ZTXhKWXc0RzBuM3lfVVJOcW5qUlBfeWtqRDBBamFtMU9OdV92V3l6YWcwS3NQREJCTVJKSHhhTEFaWlQ4aE4xSksxdlBYYW1R?oc=5",
+      "published": "Sat, 10 Oct 2026 16:54:55 GMT",
+      "summary": "Riyadh airport attack: US issues security alert, urges Americans to avoid area&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
