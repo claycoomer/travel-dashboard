@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-13T20:52:47.578282+00:00",
+  "last_updated": "2026-10-14T02:33:29.260614+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Data + AI Summit Europe 2026: AI Is Ubiquitous, Yet Still Unconquered",
+      "link": "https://skift.com/2026/10/13/skift-data-ai-summit-europe-2026-ai-is-ubiquitous-yet-still-unconquered/",
+      "published": "Wed, 14 Oct 2026 01:13:52 +0000",
+      "summary": "Under stricter regulation across a fragmented travel market, executives overseeing AI in European travel operations are now being forced into nuanced and challenging conversations.",
+      "source": "Skift"
+    },
     {
       "title": "Canadian Trips to U.S. Rise for Sixth Straight Month \u2014 but Remain Far Below 2024 Levels",
       "link": "https://skift.com/2026/10/13/canadian-trips-to-u-s-rise-for-sixth-straight-month-but-remain-far-below-2024-levels/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Fighting Spirit\u2019s Data Sale to Google: Court Filings Show the List Getting Longer",
-      "link": "https://skift.com/2026/10/12/fighting-spirits-data-sale-to-google-court-filings-show-the-list-getting-longer/",
-      "published": "Mon, 12 Oct 2026 19:04:49 +0000",
-      "summary": "The deal has faced months of delays and pushback, coming to represent a thorny issue of how far bankruptcy code should go to protect employee privacy as AI makes rapid advances.",
-      "source": "Skift"
-    },
-    {
       "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
       "published": "Sat, 10 Oct 2026 23:49:05 GMT",
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309 - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQckh5Q1Q2MERjY3U1aDdGWlU1OVJub3ZLV1NIbUUwUzBJVnlHZ1NjVDh0TDJUbHdaeEE2bnNhOHFBZi1jaGx5WmNhcFhoMGh4MGhrbDYxY2tCQjhkSlhwTmVmblBGcldGR1dCS0dLbXZhYVphYk1EemdOQ2JiR3FWU0ZHTDRwVGV3MExWZDNzMk9zYUt3Vk5udTd1elhGQzFhbDNmalI1SnBfSVp5dmp2MElIVWtLRk9YX2E4UWJGMGJwM2l0NHJWQ0pVYzBNd0kwcHBkd2lCa196ajhlMlh0NFFtS0RvR1E2SjNz?oc=5",
       "published": "Sun, 11 Oct 2026 04:56:41 GMT",
       "summary": "Is it safe to travel to Saudi Arabia right now? Riyadh airport suspends operations after attack kills 12 and injures 309&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     }
   ]
