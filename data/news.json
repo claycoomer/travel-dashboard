@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-14T09:06:54.838454+00:00",
+  "last_updated": "2026-10-14T16:07:14.590262+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Fuel Doubled. Five Counterparties Now Decide Which Airlines Absorb It.",
+      "link": "https://skift.com/2026/10/14/skift-aviation-forum-2026-speakers-fuel-airline-margins/",
+      "published": "Wed, 14 Oct 2026 15:30:08 +0000",
+      "summary": "Jet fuel prices doubled in 2026, and the question for every airline is who captures the margin that remains. Increasingly, the answer sits with counterparties: manufacturers, unions, premium travelers, airports and the banks behind co-brand cards.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why Everyone Wants to Give You 10% Back on a Hotel",
+      "link": "https://skift.com/2026/10/14/why-everyone-wants-to-give-you-10-back-on-a-hotel/",
+      "published": "Wed, 14 Oct 2026 13:30:00 +0000",
+      "summary": "Ten percent back has become a common hotel reward, and what a company can afford to pay depends on what the customer is worth to it after checkout.",
+      "source": "Skift"
+    },
+    {
+      "title": "Booking Holdings Plans to Fund New AI Startup Vayo With $100 Million",
+      "link": "https://skift.com/2026/10/14/booking-holdings-second-ai-startup-vayo-launches-in-private-beta/",
+      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "summary": "Booking already has tools that organize trips. Vayo&apos;s proposition is that AI can turn the itinerary into something more: a system that learns how you travel, watches the entire trip, and starts working before you ask.",
+      "source": "Skift"
+    },
+    {
+      "title": "Portugal Picks Lufthansa Over Air France-KLM for TAP Stake",
+      "link": "https://skift.com/2026/10/14/portugal-picks-lufthansa-over-air-france-klm-for-tap-stake/",
+      "published": "Wed, 14 Oct 2026 12:51:13 +0000",
+      "summary": "Lufthansa gets its gateway to Brazil, but Lisbon still holds the controlling stake \u2013 at least for now.",
+      "source": "Skift"
+    },
     {
       "title": "Phu Quoc is Building Many More Hotel Rooms for a Regional Summit. Some Could Struggle Afterwards",
       "link": "https://skift.com/2026/10/14/phu-quoc-is-building-many-more-hotel-rooms-for-a-regional-summit-some-could-struggle-afterwards/",
@@ -35,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Premier Inn Owner Fights Activist Bid as Rising Costs Squeeze Profit",
-      "link": "https://skift.com/2026/10/13/premier-inn-owner-fights-activist-bid-as-rising-costs-squeeze-profit/",
-      "published": "Tue, 13 Oct 2026 14:48:39 +0000",
-      "summary": "Whitbread wants investors to accept thinner profit now for a simpler, higher-returning Premier Inn later. But an activist investor at the door leaves little room for mistakes.",
-      "source": "Skift"
-    },
-    {
-      "title": "We\u2019re Outsourcing Our Social Lives to Travel",
-      "link": "https://skift.com/2026/10/13/were-outsourcing-our-social-lives-to-travel/",
-      "published": "Tue, 13 Oct 2026 14:22:28 +0000",
-      "summary": "As more of everyday social life has to be deliberately arranged, travel companies are finding a business in doing the organizing for us.",
-      "source": "Skift"
-    },
-    {
-      "title": "Radisson\u2019s CEO Says Partnerships \u2014 Not Acquisitions \u2014 Will Get It to 500 Hotels in India",
-      "link": "https://skift.com/2026/10/13/radissons-ceo-says-partnerships-not-acquisitions-will-get-it-to-500-hotels-in-india/",
-      "published": "Tue, 13 Oct 2026 13:57:05 +0000",
-      "summary": "Radisson wants to double its India portfolio to 500 hotels by 2030 without buying anything. Its CEO is betting on partnerships, smaller cities and a pitch that the group is a local company rather than a global one.",
-      "source": "Skift"
-    },
-    {
-      "title": "Postcard Hotel Is Bringing Its Brand to India\u2019s Cities, With a Club-First Twist: Exclusive",
-      "link": "https://skift.com/2026/10/12/postcard-hotel-is-bringing-its-brand-to-indias-cities-with-a-club-first-twist-exclusive/",
-      "published": "Tue, 13 Oct 2026 03:30:00 +0000",
-      "summary": "A smaller inventory, all-suite accommodation and a club designed into the property \u2014 Postcard Hotel\u2019s Kapil Chopra says he is sure that enough buyers will pay for it.",
-      "source": "Skift"
-    },
-    {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VzWGlWMktCTDU3d2U0WTBSVHNQYVBpVVpIelJfSlJRSkVmc0NnbDBTWmhPSlF1UXNIaXl2TERjYTJNYkVWZzR3ZG5lWU16M3lNVHZkNXR3YzBSZjZaS295M2FtQVR6Vk9oU29KSlBpMnZOU0F0Zldic29pMDl0SjNTbmRTSWts?oc=5",
-      "published": "Sat, 10 Oct 2026 23:49:05 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 11, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
+      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
-      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "title": "Saudi Arabia issues fresh safety advisory as US mission flags airport and travel risks - Gulf Business",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNXFwOHNwTHpzaDI4MUVJS0tEQmlidUszZmlxbHhreVJnaF9wTFNEY1FxZmN3QnhjMEhKRTFFQ2FQRDdQVTZyQThsSTgtTlJnYUE3Q3Y3S2ZVYk90S2hZbExpTlRrV3RHaVhzTFlneVlBNDV3VWo5YkRQSFNKdXhIa3dOdXBqclNMLWdITWRsdkFNd29kbGFBZXlYX1ZJWU5PQVdRd3JvUmpjYzhlM3R3aWdxSVNyWklxMUdUN0dzZTVhOUd6Tng3ZzhhZ3FwUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 07:09:33 GMT",
+      "summary": "Saudi Arabia issues fresh safety advisory as US mission flags airport and travel risks&nbsp;&nbsp;Gulf Business",
       "source": "Google News Travel"
     },
     {
@@ -98,17 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict - The Independent",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHo4QnBnYmRUMGs3NHE3QkhHQ1ZLUFVMQnhFRWR6YXhHSHJQcV83ZzdQQjd6bG9HVXY4VVhqX1Q3MkwycnZ2SmFaZE9Fa0JRT2d5VEVpY0dscEQ5eHE1VVkzaUc1OG80Z3RjcXRyRzlFRXZJbTJiRVRQMUNWU1EzekNDZ0t3dUxEMXBWMVRQVVBHOUo3bGkwS1hWR0lqQWl2Uy1wbzRfVQ?oc=5",
       "published": "Mon, 12 Oct 2026 10:30:00 GMT",
       "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict&nbsp;&nbsp;The Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     },
     {
