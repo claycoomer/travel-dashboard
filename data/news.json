@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-10-15T08:39:47.952294+00:00",
+  "last_updated": "2026-10-15T15:54:43.391177+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Tourism Ireland\u2019s Advice for AI Search: Choose What You Want to Be Famous For",
+      "link": "https://skift.com/2026/10/15/tourism-irelands-advice-for-ai-search-choose-what-you-want-to-be-famous-for/",
+      "published": "Thu, 15 Oct 2026 15:18:50 +0000",
+      "summary": "With AI changing the face of online discovery, many tourist boards and destinations are grappling with how to finesse the message. For Tourism Ireland, this has prompted it to measure how often it is shaping the answers that AI provides.",
+      "source": "Skift"
+    },
+    {
+      "title": "Easing EU Border Friction: There Will Be \u2018Flexibility,\u2019 Official Says",
+      "link": "https://skift.com/2026/10/15/easing-eu-border-friction-there-will-be-flexibility-official-says/",
+      "published": "Thu, 15 Oct 2026 15:06:12 +0000",
+      "summary": "No-one wants long processing delays at the EU border, and there are signs that a further easing of the EU&apos;s biometric Entry/Exit System could be applied as needed. It seems a pragmatic move given that long airport queues are still happening.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airlines Can Handle a Crisis \u2013 But What About Several at Once?",
+      "link": "https://skift.com/2026/10/15/airlines-can-handle-a-crisis-but-what-about-several-at-once/",
+      "published": "Thu, 15 Oct 2026 13:40:51 +0000",
+      "summary": "Black swans are starting to look like pigeons in the park. For airlines, the exceptional is becoming routine \u2013 and increasingly expensive.",
+      "source": "Skift"
+    },
+    {
+      "title": "Is Airbnb\u2019s Dynamic Pricing Launch a Step Toward Becoming a Hotel-Like Franchisor?",
+      "link": "https://skift.com/2026/10/15/is-airbnbs-dynamic-pricing-launch-a-step-toward-becoming-a-hotel-like-franchisor/",
+      "published": "Thu, 15 Oct 2026 12:56:00 +0000",
+      "summary": "In addition to dynamic pricing, Airbnb has floated the idea of adding more products and services for hosts, ranging from design services to financing. The soft franchise model might be more appropriate for individual hosts who don&apos;t require multi-platform distribution.",
+      "source": "Skift"
+    },
+    {
+      "title": "Travel Has Launchitis, and I May Have Caught It",
+      "link": "https://skift.com/2026/10/15/travel-has-launchitis-and-i-may-have-caught-it/",
+      "published": "Thu, 15 Oct 2026 11:57:23 +0000",
+      "summary": "Every new travel assistant wants to simplify my life, starting with another introduction.",
+      "source": "Skift"
+    },
     {
       "title": "How Marriott Is Investing in the Maldives to Win Indian Travelers",
       "link": "https://skift.com/2026/10/15/how-marriott-is-investing-in-the-maldives-to-win-indian-travelers/",
@@ -28,41 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "MMGY\u2019s Biggest Deal Brings Las Vegas Marketing and Lobbying Into Its Fold",
-      "link": "https://skift.com/2026/10/14/mmgy-deal-with-r-and-r-las-vegas-marketing/",
-      "published": "Wed, 14 Oct 2026 18:42:14 +0000",
-      "summary": "MMGY Global is combining with R&#38;R Partners, the marketing agency behind Las Vegas\u2019 \u201cWhat Happens Here, Stays Here\u201d campaign that also holds a lobbying arm in Nevada. MMGY said the transaction is the largest in its four-decade history, creating an organization with more than 8",
-      "source": "Skift"
-    },
-    {
-      "title": "Fuel Doubled. Five Counterparties Now Decide Which Airlines Absorb It.",
-      "link": "https://skift.com/2026/10/14/skift-aviation-forum-2026-speakers-fuel-airline-margins/",
-      "published": "Wed, 14 Oct 2026 15:30:08 +0000",
-      "summary": "Jet fuel prices doubled in 2026, and the question for every airline is who captures the margin that remains. Increasingly, the answer sits with counterparties: manufacturers, unions, premium travelers, airports and the banks behind co-brand cards.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why Everyone Wants to Give You 10% Back on a Hotel",
-      "link": "https://skift.com/2026/10/14/why-everyone-wants-to-give-you-10-back-on-a-hotel/",
-      "published": "Wed, 14 Oct 2026 13:30:00 +0000",
-      "summary": "Ten percent back has become a common hotel reward, and what a company can afford to pay depends on what the customer is worth to it after checkout.",
-      "source": "Skift"
-    },
-    {
-      "title": "Booking Holdings Plans to Fund New AI Startup Vayo With $100 Million",
-      "link": "https://skift.com/2026/10/14/booking-holdings-second-ai-startup-vayo-launches-in-private-beta/",
-      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "summary": "Booking already has tools that organize trips. Vayo&apos;s proposition is that AI can turn the itinerary into something more: a system that learns how you travel, watches the entire trip, and starts working before you ask.",
-      "source": "Skift"
-    },
-    {
-      "title": "Portugal Picks Lufthansa Over Air France-KLM for TAP Stake",
-      "link": "https://skift.com/2026/10/14/portugal-picks-lufthansa-over-air-france-klm-for-tap-stake/",
-      "published": "Wed, 14 Oct 2026 12:51:13 +0000",
-      "summary": "Lufthansa gets its gateway to Brazil, but Lisbon still holds the controlling stake \u2013 at least for now.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. issues urgent travel warning for major Middle Eastern country: Do not travel \u2018for any reason\u2019 - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0dJb1MtMWYxTEFYTmhaOENIdlFtaEh5VDdnUWItN20wWXZUS05WbFkyWVpBeE52c0pQUEJrQTFaOUc3QWxpdXBndW1xMzZCX19JUlJ1Nmo2YkgxcW5BR0lTcDI3czVxbHNRS3pZaHA5MW9zcm00N2E1d1pVQmhNTjBUbGlROWZVSEFVYW1GejI4ekprQzBmblVlTG4zdjNreEV2R3puLWFoQnlpREZBVzlRSUlpUlM2ZTZpT0RHcGlRNklUVmcyM0VWT3NyZGlPNVlN0gHnAUFVX3lxTE96WDBvTUVwZGswdWplYUpzYmxrcHJnNXNEalpFZWNMQUM1UTUwMnlxbWRwNVZOYnE2ckRWbkg0NlBSQnB1UHJtT2FYMkdzMDhjcGFNWG9pLWlHTVpGYjJvUzhQVWIyQnhYUDFjSWFpWjR2amVDcE1tRVVYQlBDMWlNM19YVVIyRWhHLVFlQ1ZkM0xQWlJPSmZGblhYb1pYMmVaUUR0anVCdHhQRy1XQ1c4c1BFYlYzNTZlSG9GMC1yMkx2QTIzX3ZuQXlubkxpMjFvb1BxcTRBaG00V0tiODFmQldSSGVVNA?oc=5",
       "published": "Wed, 14 Oct 2026 20:06:00 GMT",
@@ -77,10 +77,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
-      "published": "Fri, 09 Oct 2026 21:01:51 GMT",
-      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
       "source": "Google News Travel"
     },
     {
@@ -91,10 +91,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
+      "published": "Fri, 09 Oct 2026 21:01:51 GMT",
+      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHo4QnBnYmRUMGs3NHE3QkhHQ1ZLUFVMQnhFRWR6YXhHSHJQcV83ZzdQQjd6bG9HVXY4VVhqX1Q3MkwycnZ2SmFaZE9Fa0JRT2d5VEVpY0dscEQ5eHE1VVkzaUc1OG80Z3RjcXRyRzlFRXZJbTJiRVRQMUNWU1EzekNDZ0t3dUxEMXBWMVRQVVBHOUo3bGkwS1hWR0lqQWl2Uy1wbzRfVQ?oc=5",
-      "published": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict&nbsp;&nbsp;The Independent",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "title": "Americans warned again to rethink travel as missile attack rattles historic region - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     }
   ]
