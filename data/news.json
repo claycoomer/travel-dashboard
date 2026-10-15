@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-15T02:14:12.244800+00:00",
+  "last_updated": "2026-10-15T08:39:47.952294+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "How Marriott Is Investing in the Maldives to Win Indian Travelers",
+      "link": "https://skift.com/2026/10/15/how-marriott-is-investing-in-the-maldives-to-win-indian-travelers/",
+      "published": "Thu, 15 Oct 2026 06:07:21 +0000",
+      "summary": "The Maldives has always been an easy sell for Indian honeymooners. The opportunity for hotels now is to get these travelers to come back for short family breaks, birthdays, or long weekends.",
+      "source": "Skift"
+    },
     {
       "title": "Delta and Amex GBT Test One-Click Status Enrollment for Corporate Travelers",
       "link": "https://skift.com/2026/10/14/delta-and-amex-gbt-test-one-click-status-enrollment-for-corporate-travelers/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Phu Quoc is Building Many More Hotel Rooms for a Regional Summit. Some Could Struggle Afterwards",
-      "link": "https://skift.com/2026/10/14/phu-quoc-is-building-many-more-hotel-rooms-for-a-regional-summit-some-could-struggle-afterwards/",
-      "published": "Wed, 14 Oct 2026 08:41:05 +0000",
-      "summary": "Phu Quoc\u2019s peak-season hotel occupancy has surged above 90%, but a massive supply boom will test whether the momentum can last. CBRE says room-night demand must grow about 10% a year through 2030 just to maintain current occupancy \u2014 a tougher task after APEC 2027.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. issues urgent travel warning for major Middle Eastern country: Do not travel \u2018for any reason\u2019 - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0dJb1MtMWYxTEFYTmhaOENIdlFtaEh5VDdnUWItN20wWXZUS05WbFkyWVpBeE52c0pQUEJrQTFaOUc3QWxpdXBndW1xMzZCX19JUlJ1Nmo2YkgxcW5BR0lTcDI3czVxbHNRS3pZaHA5MW9zcm00N2E1d1pVQmhNTjBUbGlROWZVSEFVYW1GejI4ekprQzBmblVlTG4zdjNreEV2R3puLWFoQnlpREZBVzlRSUlpUlM2ZTZpT0RHcGlRNklUVmcyM0VWT3NyZGlPNVlN0gHnAUFVX3lxTE96WDBvTUVwZGswdWplYUpzYmxrcHJnNXNEalpFZWNMQUM1UTUwMnlxbWRwNVZOYnE2ckRWbkg0NlBSQnB1UHJtT2FYMkdzMDhjcGFNWG9pLWlHTVpGYjJvUzhQVWIyQnhYUDFjSWFpWjR2amVDcE1tRVVYQlBDMWlNM19YVVIyRWhHLVFlQ1ZkM0xQWlJPSmZGblhYb1pYMmVaUUR0anVCdHhQRy1XQ1c4c1BFYlYzNTZlSG9GMC1yMkx2QTIzX3ZuQXlubkxpMjFvb1BxcTRBaG00V0tiODFmQldSSGVVNA?oc=5",
       "published": "Wed, 14 Oct 2026 20:06:00 GMT",
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict - The Independent",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHo4QnBnYmRUMGs3NHE3QkhHQ1ZLUFVMQnhFRWR6YXhHSHJQcV83ZzdQQjd6bG9HVXY4VVhqX1Q3MkwycnZ2SmFaZE9Fa0JRT2d5VEVpY0dscEQ5eHE1VVkzaUc1OG80Z3RjcXRyRzlFRXZJbTJiRVRQMUNWU1EzekNDZ0t3dUxEMXBWMVRQVVBHOUo3bGkwS1hWR0lqQWl2Uy1wbzRfVQ?oc=5",
       "published": "Mon, 12 Oct 2026 10:30:00 GMT",
       "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict&nbsp;&nbsp;The Independent",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     }
   ]
