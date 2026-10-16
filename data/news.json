@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-16T15:43:17.884248+00:00",
+  "last_updated": "2026-10-16T19:06:49.240968+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Western Europe Drives Another Drop in Overseas Travel to the U.S.",
+      "link": "https://skift.com/2026/10/16/us-overseas-travel-decline-september-2026/",
+      "published": "Fri, 16 Oct 2026 17:44:30 +0000",
+      "summary": "Gains from China and South America haven\u2019t been enough to make up for declines in travel from Western Europe.",
+      "source": "Skift"
+    },
     {
       "title": "AI Travel Advice Is Less Personal Than It Seems",
       "link": "https://skift.com/2026/10/16/ai-travel-advice-is-less-personal-than-it-seems/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airlines Can Handle a Crisis \u2013 But What About Several at Once?",
-      "link": "https://skift.com/2026/10/15/airlines-can-handle-a-crisis-but-what-about-several-at-once/",
-      "published": "Thu, 15 Oct 2026 13:40:51 +0000",
-      "summary": "Black swans are starting to look like pigeons in the park. For airlines, the exceptional is becoming routine \u2013 and increasingly expensive.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. issues urgent travel warning for major Middle Eastern country: Do not travel \u2018for any reason\u2019 - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0dJb1MtMWYxTEFYTmhaOENIdlFtaEh5VDdnUWItN20wWXZUS05WbFkyWVpBeE52c0pQUEJrQTFaOUc3QWxpdXBndW1xMzZCX19JUlJ1Nmo2YkgxcW5BR0lTcDI3czVxbHNRS3pZaHA5MW9zcm00N2E1d1pVQmhNTjBUbGlROWZVSEFVYW1GejI4ekprQzBmblVlTG4zdjNreEV2R3puLWFoQnlpREZBVzlRSUlpUlM2ZTZpT0RHcGlRNklUVmcyM0VWT3NyZGlPNVlN0gHnAUFVX3lxTE96WDBvTUVwZGswdWplYUpzYmxrcHJnNXNEalpFZWNMQUM1UTUwMnlxbWRwNVZOYnE2ckRWbkg0NlBSQnB1UHJtT2FYMkdzMDhjcGFNWG9pLWlHTVpGYjJvUzhQVWIyQnhYUDFjSWFpWjR2amVDcE1tRVVYQlBDMWlNM19YVVIyRWhHLVFlQ1ZkM0xQWlJPSmZGblhYb1pYMmVaUUR0anVCdHhQRy1XQ1c4c1BFYlYzNTZlSG9GMC1yMkx2QTIzX3ZuQXlubkxpMjFvb1BxcTRBaG00V0tiODFmQldSSGVVNA?oc=5",
       "published": "Wed, 14 Oct 2026 20:06:00 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
-      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
       "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
       "source": "Google News Travel"
     },
     {
@@ -98,17 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHo4QnBnYmRUMGs3NHE3QkhHQ1ZLUFVMQnhFRWR6YXhHSHJQcV83ZzdQQjd6bG9HVXY4VVhqX1Q3MkwycnZ2SmFaZE9Fa0JRT2d5VEVpY0dscEQ5eHE1VVkzaUc1OG80Z3RjcXRyRzlFRXZJbTJiRVRQMUNWU1EzekNDZ0t3dUxEMXBWMVRQVVBHOUo3bGkwS1hWR0lqQWl2Uy1wbzRfVQ?oc=5",
-      "published": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "summary": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice amid regional conflict&nbsp;&nbsp;The Independent",
+      "title": "Security Alert: U.S. Mission United Arab Emirates \u2013 September 19, 2026 - https://ae.usembassy.gov/",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFN4ZlY3OTV4TTJqZnc5OUg3bVhYUWVKcUNfcUJOMmU4U201WHctSlEtYk5rQXBMTkxwdzByLXdScXJUMV9KTHFVdWczSW1PYzh3dU50SG1wb2RjVENLU2N5Mk1POTFmbGhqN1lvX09BRkVmS1FmOG9GYVl1aTBfNGkyVlB3SFBqMjJHU3pTTjlfd3pTaEE?oc=5",
+      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "summary": "Security Alert: U.S. Mission United Arab Emirates \u2013 September 19, 2026&nbsp;&nbsp;https://ae.usembassy.gov/",
       "source": "Google News Travel"
     },
     {
@@ -116,6 +109,13 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT",
       "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
+      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
+      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     }
   ]
