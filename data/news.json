@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-16T08:34:22.856568+00:00",
+  "last_updated": "2026-10-16T15:43:17.884248+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "AI Travel Advice Is Less Personal Than It Seems",
+      "link": "https://skift.com/2026/10/16/ai-travel-advice-is-less-personal-than-it-seems/",
+      "published": "Fri, 16 Oct 2026 11:30:00 +0000",
+      "summary": "For now, AI personalizes the message, but it doesn&apos;t personalize the recommendation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Thailand\u2019s Centara Targets Larger Hotel Partners to Speed Up Growth",
+      "link": "https://skift.com/2026/10/16/thailands-centara-targets-larger-hotel-partners-to-speed-up-growth/",
+      "published": "Fri, 16 Oct 2026 09:20:18 +0000",
+      "summary": "Centara wants to double in size without doubling its balance sheet, betting on multi-property deals with large investors. The question is whether a mid-sized Thai operator can win those portfolios against global brands, and whether the Gulf distress the COO identifies as an oppor",
+      "source": "Skift"
+    },
     {
       "title": "Certares Bets $2.3 Billion on High-Speed Rail in Europe, Founder Says",
       "link": "https://skift.com/2026/10/15/certares-bets-2-3-billion-on-high-speed-rail-in-europe-founder-says/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Is Airbnb\u2019s Dynamic Pricing Launch a Step Toward Becoming a Hotel-Like Franchisor?",
-      "link": "https://skift.com/2026/10/15/is-airbnbs-dynamic-pricing-launch-a-step-toward-becoming-a-hotel-like-franchisor/",
-      "published": "Thu, 15 Oct 2026 12:56:00 +0000",
-      "summary": "In addition to dynamic pricing, Airbnb has floated the idea of adding more products and services for hosts, ranging from design services to financing. The soft franchise model might be more appropriate for individual hosts who don&apos;t require multi-platform distribution.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel Has Launchitis, and I May Have Caught It",
-      "link": "https://skift.com/2026/10/15/travel-has-launchitis-and-i-may-have-caught-it/",
-      "published": "Thu, 15 Oct 2026 11:57:23 +0000",
-      "summary": "Every new travel assistant wants to simplify my life, starting with another introduction.",
-      "source": "Skift"
-    },
-    {
       "title": "U.S. issues urgent travel warning for major Middle Eastern country: Do not travel \u2018for any reason\u2019 - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0dJb1MtMWYxTEFYTmhaOENIdlFtaEh5VDdnUWItN20wWXZUS05WbFkyWVpBeE52c0pQUEJrQTFaOUc3QWxpdXBndW1xMzZCX19JUlJ1Nmo2YkgxcW5BR0lTcDI3czVxbHNRS3pZaHA5MW9zcm00N2E1d1pVQmhNTjBUbGlROWZVSEFVYW1GejI4ekprQzBmblVlTG4zdjNreEV2R3puLWFoQnlpREZBVzlRSUlpUlM2ZTZpT0RHcGlRNklUVmcyM0VWT3NyZGlPNVlN0gHnAUFVX3lxTE96WDBvTUVwZGswdWplYUpzYmxrcHJnNXNEalpFZWNMQUM1UTUwMnlxbWRwNVZOYnE2ckRWbkg0NlBSQnB1UHJtT2FYMkdzMDhjcGFNWG9pLWlHTVpGYjJvUzhQVWIyQnhYUDFjSWFpWjR2amVDcE1tRVVYQlBDMWlNM19YVVIyRWhHLVFlQ1ZkM0xQWlJPSmZGblhYb1pYMmVaUUR0anVCdHhQRy1XQ1c4c1BFYlYzNTZlSG9GMC1yMkx2QTIzX3ZuQXlubkxpMjFvb1BxcTRBaG00V0tiODFmQldSSGVVNA?oc=5",
       "published": "Wed, 14 Oct 2026 20:06:00 GMT",
@@ -72,7 +72,7 @@
     {
       "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFFVNC1Ob3pMaGpYYmlfZVRqM1V4X1J4Ym9NNUQ3UENudmN4NlZHS3JsM3QyMTlwTkg1cnlKWFlYTFV0eUc5YWFyZllXbmVKZlVLT1lZaUJ5dmFyQmpnUjlrbzQ5dzJKVGhmOXlPNDNLMC1CVjhySElPSlg3Y2N1cFFyQ0hpTU1fR1FvMENVeEV1T3c?oc=5",
-      "published": "Thu, 08 Oct 2026 20:34:01 GMT",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
       "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 8, 2026 \u2013 Update 1&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
-      "published": "Fri, 09 Oct 2026 21:01:51 GMT",
-      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Is it safe to travel to Saudi Arabia right now? Riyadh airport extends closure after weekend of deadly attacks - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjhlSVdTWktCYzlTajMtV2t4NkFUTmR3aWhrd01jcDhiSGJ0dG9NRmFiU04tMG1OWGJTOFFLN29HbjJaUVpDcm5PVVZPQXdSYWZPMjlubFdzUGt0QnVvWThSZ01USWZPSU0tbnR0dUlrelhtM2p1THlERjEtV2UxaFA3c1lpTW1hMDJLQmx1aWFPckVvX2Z0cnBocTNrZFp3bEduWTlBVER0ZG91c0JldlhXdF9SeWdPempiQTRHcFM0d3hibUFfXy1TTTlUSlQtV01HcE1CaWloaG5GUFE?oc=5",
       "published": "Tue, 13 Oct 2026 07:33:28 GMT",
       "summary": "Is it safe to travel to Saudi Arabia right now? Riyadh airport extends closure after weekend of deadly attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
+      "published": "Fri, 09 Oct 2026 21:01:51 GMT",
+      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
