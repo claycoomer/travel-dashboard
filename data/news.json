@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-19T02:15:48.903634+00:00",
+  "last_updated": "2026-10-19T09:23:32.633392+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Klook Withdraws U.S. IPO, Citing Market Conditions",
+      "link": "https://skift.com/2026/10/19/klook-withdraws-u-s-ipo-citing-market-conditions/",
+      "published": "Mon, 19 Oct 2026 04:52:11 +0000",
+      "summary": "Klook may have pulled its IPO, but the pitch hasn\u2019t changed. Experiences are still one of the least digitized parts of travel, and that\u2019s a lot of runway. The catch? Viator, GetYourGuide and the OTAs know it too, and Klook needs to move fast before they close the gap.",
+      "source": "Skift"
+    },
+    {
+      "title": "UK\u2019s India Growth Plan Means Getting Travelers Out of London",
+      "link": "https://skift.com/2026/10/18/uks-india-growth-plan-means-getting-travelers-out-of-london/",
+      "published": "Mon, 19 Oct 2026 03:26:09 +0000",
+      "summary": "The UK may not need to win many more Indian travelers so much as encourage the ones it gets already beyond London. With 94% of direct seats landing in the capital, a $2 billion visitor-spend target by 2030 will depend on regional flights and bookable itineraries.",
+      "source": "Skift"
+    },
     {
       "title": "Airlines Can\u2019t Upgrade Every Plane \u2013 So They\u2019re Upgrading the Menu",
       "link": "https://skift.com/2026/10/17/airlines-cant-upgrade-every-plane-so-theyre-upgrading-the-menu/",
@@ -49,18 +63,25 @@
       "source": "Skift"
     },
     {
-      "title": "Southwest Airlines Overhauls Loyalty Program, Gives First Look of New Lounges",
-      "link": "https://skift.com/2026/10/15/southwest-airlines-overhauls-loyalty-program-gives-first-look-of-new-lounges/",
-      "published": "Thu, 15 Oct 2026 16:01:44 +0000",
-      "summary": "Southwest\u2019s loyalty changes and new lounges make it even more like the rivals it spent decades trying to set itself apart from.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Embassy Doha \u2013 October 18, 2026 - U.S. Embassy Doha \u2013 Qatar (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NOTRUQlF1MmlCQmNSbkdqN3ZmWU5RZERTS29xRXlkaldoMzBZYV9KdE9la2NGM0U2Rkp6a2dHSHhTTk5pa0pPTzNhV1hJVHVTVmVPam1SZjFTWjd0NkdncjBIWHBsYWFEU1BaT1ExWmN5LVZ1SlFhdmFNUWVGUQ?oc=5",
+      "published": "Mon, 19 Oct 2026 01:33:31 GMT",
+      "summary": "Security Alert: U.S. Embassy Doha \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy Doha \u2013 Qatar (.gov)",
+      "source": "Google News Travel"
     },
     {
-      "title": "Tourism Ireland\u2019s Advice for AI Search: Choose What You Want to Be Famous For",
-      "link": "https://skift.com/2026/10/15/tourism-irelands-advice-for-ai-search-choose-what-you-want-to-be-famous-for/",
-      "published": "Thu, 15 Oct 2026 15:18:50 +0000",
-      "summary": "With AI changing the face of online discovery, many tourist boards and destinations are grappling with how to finesse the message. For Tourism Ireland, this has prompted it to measure how often it is shaping the answers that AI provides.",
-      "source": "Skift"
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "published": "Mon, 19 Oct 2026 03:45:18 GMT",
+      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQWpYZFhIaXhWUTIydDd3VFdPSTZwenlIS2IwWmlzYjdzZ2o5bkZPMlNMb0NSVWRHWkkyU3ZjUFh2bjU4bVpZMGljOV83ajQwZUFFM1FIdGM3V0IwNGRJVFVJN01UYWhDeHZXQ0ltOUVTakUxRXhadThJUFJWRy1RTXNNQXMtaC1NTFR1S2Frek5Ba21wc3FpWWZXaWlFQjFITVdmM1JlanJVWHk4S2RlaTZlcDFkWEZPay1qWlFpOEFzYkI1eXRxNXp5VlRTakV6SERXRVFTdGVrSERYLUZIV29RWmJNaUZxWkhYSDVHWkxIWmZpQnpIZWxCdGxUbzR4MWtpMDU3UGw0SWlJR3E1SU9nVTY1NHpmZ211UTFLMUlRNWVRZWFBaGFB0gGvAkFVX3lxTFA1elhwLXU4RjN0SDJNRE92bGotUnh2anU0NERoVjVSUll2dGJGSExtTVZwZEtRQU90bE5DMkppak1PLXZOVXVQd3dUTnZPbEV6ZUFpbS04U25DZ2k5RGcwaWFkMlNOcU1RWXZ0a2RoRmVKdmxOWUdKVHBIbUJNbGhpeVQzdmFHSDZaVV9YUTVVdkNYN1VJNTdFbWFMaG9kMTVRT0RyalRrVC00OWVYc3ViYnBka0RyeGlTSWFUakcteEhNTTRQQ1A0TGQya3RIQllkUFQ4NWxGVFZ3TEFYNWQ5bE1iYzN6Mm03U255NW14eG1OcEJKMGxjWGtmYnhiTXlNWGJEdDFzQXliRVR6REtERnNkZHZGdWI2c0NQQ1V5MlVLX0NyS0tpZWExVkRYcw?oc=5",
+      "published": "Mon, 19 Oct 2026 03:46:25 GMT",
+      "summary": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "source": "Google News Travel"
     },
     {
       "title": "Is it safe to travel to Saudi Arabia right now? What travellers need to know following airport closure - Cond\u00e9 Nast Traveller Middle East",
@@ -74,13 +95,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
       "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE-Saudi flight updates today: Full list of cancellations, suspensions and travel warnings - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUJMbVVvWDZBcnF5ZjAzV0pwV1ktSnVQaWdUY2p4TWppX2ZyX1lZb3RmZ3Z1dXhFX3R4VGlmM0xJMnA5S0FzVGJpOS1BWEFiN0JRUkJZd2pEWGRPeF9OSFVyNGlRdFJpYlNvZkdZeU5QVFRxWWl5MWJjbUNJemJVWW1TNVRRYlBwQVJ4MUkzVDRyTzF6UmVHdFczcGZrYWFSaWRXcGNYdmpoQV80ZmxIRXhhMk1XRExpQUxIUzE4STUtTHlVUHV6M0tIcFV0eUpqWlFCS2hJOA?oc=5",
-      "published": "Sat, 17 Oct 2026 07:03:00 GMT",
-      "summary": "UAE-Saudi flight updates today: Full list of cancellations, suspensions and travel warnings&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
@@ -102,20 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeURTbTNsRmxhNHZYczJKeUJBaldTMXJUaGJfNTNuellvVHk3a3lQWTJhRld0ZlYzdVY1eDRobEtQNUpybEF3RXZ5eElDOTBiY1lndmlSWjA3WlY3cTZaUGpkMU96MFlDOE84ZVhZbDVsRXpXRm9TNUhVa3dDUUVXZzZVdUtEWUlMNklkd1VpT21LNXlyLTk1MFd3RjdkME1VUnNnSm1JRkJlY3fSAbABQVVfeXFMT2tXVnFadDh5Q29yZWFfU3VqYzJ3ek1hYkN2blg3V2VGRVdCeHRHeWhlQWZ1YWQyVzFTcDlSbGdMZ2V1RmhMX0JDOVQzVmRweVBqYXI0T2JTenRBcHduRVRRYUdFWlFkeFNBQlh5NGxib2JVbFpDblRHWElPelVuZ3NaZmdBZy1kZXdzTEFOOEE1LXRBSHRPeTN0dUhtbjVORmItbk9qVnh4ajZUUnE4cGM?oc=5",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT",
       "summary": "Americans warned again to rethink travel as missile attack rattles historic region&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying through Boston? More than 150 flights have already been delayed today - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RrbENGSm9Vbmcxc0NoeUZlYlBXaDg2QTY3MTlzeGYtUlY2bXF1cXBjaDAxNUEtaGl0X2FUWkdDUHc1UUEzcGhnR241c1FTSFpwY3BJd2M0ekloeUVDWWRkaXllb2Y4Z1dnaVpzWGFEMWNCOVRvYXFvOUhGS3hyNVVzeEIwNlJvMGJEYjZzNFIwVzBMeGgwZndTbkYtY0podUlXR0xOb0RHdXVXSHlCS3NKSnVUd3M?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "Flying through Boston? More than 150 flights have already been delayed today&nbsp;&nbsp;MassLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know - TravelPirates",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFFETGJvcXQwXzY5Q19oOGhlWnFqbVNLeEdwUVNuaDZ0di12ODJ0NGo4UnE0eFhlNXBab3hpczF5QTkxcW82TWFfSEUwNHNDTzF2b0p5TmNBWFFhY1JpMFBUX3F2dHZRVDl4VzhFdEV2eF9icjBBX3BCUlliMlJEVWdSa3VjYkdwblRtYlkxUmFzOExiSDVMMTA2RkhaRGdLWDhwcGpXdw?oc=5",
-      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "The US State Department Just Issued a New Middle East Security Alert: What Travelers Need to Know&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
