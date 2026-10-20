@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-20T08:58:31.672519+00:00",
+  "last_updated": "2026-10-20T15:58:37.687087+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "The Hotel Industry Has A Water Problem",
+      "link": "https://skift.com/2026/10/20/hospitality-has-a-water-issue/",
+      "published": "Tue, 20 Oct 2026 14:42:20 +0000",
+      "summary": "Summer heat and drought brought hospitality\u2019s use of water into sharp focus. The industry is betting on simple fixes like aerated showerheads and less laundry \u2014 the question is whether more structural but costly measures can scale.",
+      "source": "Skift"
+    },
+    {
+      "title": "AI Will Know Your Travelers. And the World\u2019s Travelers. Will You?",
+      "link": "https://skift.com/2026/10/20/ai-will-know-your-travelers-and-the-worlds-travelers-will-you/",
+      "published": "Tue, 20 Oct 2026 13:48:30 +0000",
+      "summary": "AI discovery is moving closer to transaction. Travel brands must become legible to machines without surrendering the memory, service, and loyalty advantages that set them apart.",
+      "source": "Skift"
+    },
+    {
+      "title": "The Sustainable Traveler Is More Mainstream Than the Industry Thinks",
+      "link": "https://skift.com/2026/10/20/the-sustainable-traveler-is-more-mainstream-than-the-industry-thinks/",
+      "published": "Tue, 20 Oct 2026 10:32:45 +0000",
+      "summary": "There&apos;s a widespread misconception about travelers looking for sustainable options. Rather than being vanishingly rare earnest eco-seekers, there are part of the mainstream and often pragmatic in their choices.",
+      "source": "Skift"
+    },
+    {
+      "title": "Europe Wants Tourists Beyond Big Cities. AI Search Stands in the Way.",
+      "link": "https://skift.com/2026/10/20/europe-wants-tourists-beyond-big-cities-ai-search-stands-in-the-way/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "summary": "Europe\u2019s overtourism fix depends on two systems it doesn\u2019t control: AI search that favors the obvious, and overly complicated transport that discourages the curious from visiting less familiar places.",
+      "source": "Skift"
+    },
     {
       "title": "Agoda Doubles Premium Hotel Supply as Five-Star Search Rises",
       "link": "https://skift.com/2026/10/20/agoda-doubles-premium-hotel-supply-as-five-star-search-rises/",
@@ -35,59 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Third of Saudi Flights Canceled As High Profile Events Postponed",
-      "link": "https://skift.com/2026/10/19/third-of-saudi-flights-canceled-as-high-profile-events-postponed/",
-      "published": "Mon, 19 Oct 2026 17:08:25 +0000",
-      "summary": "Saudi carriers have restored service, but they can\u2019t restore the confidence that international airlines and event organizers need. The longer foreign carriers stay out, the more Riyadh\u2019s events-led Q4 turns into a lost quarter for hotels and for business, sporting and leisure eve",
-      "source": "Skift"
-    },
-    {
-      "title": "Hotels Could Become One of Ixigo\u2019s Two Biggest Businesses",
-      "link": "https://skift.com/2026/10/19/hotels-could-become-one-of-ixigos-two-biggest-businesses/",
-      "published": "Mon, 19 Oct 2026 16:29:37 +0000",
-      "summary": "Ixigo has the product and a steady stream of customers. What remains is the hard part of convincing budget travelers that the room they book online is the room they\u2019ll get.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Quiet Rise of Loveholidays on a 20-Year-Old Business Idea",
-      "link": "https://skift.com/2026/10/19/the-quiet-rise-of-loveholidays-with-a-20-year-old-business-idea/",
-      "published": "Mon, 19 Oct 2026 15:13:11 +0000",
-      "summary": "UK\u2019s Loveholidays didn\u2019t invent dynamic packaging \u2014 it built its muscle through scale. The big test ahead is whether it can replicate it in Europe.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Joins Vrbo and Marriott In Paying Guests When It Rains Too Much",
-      "link": "https://skift.com/2026/10/19/airbnb-joins-vrbo-and-marriott-in-paying-guests-when-it-rains-too-much/",
-      "published": "Mon, 19 Oct 2026 15:07:18 +0000",
-      "summary": "The idea is that paying travelers when rain passes a certain threshold can help increase conversions among those worried about weather spoiling their plans. The question is whether guarantees will spread to other types of weather \u2014 like the extreme heat seen in Europe this summer",
-      "source": "Skift"
-    },
-    {
-      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
-      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
-      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "title": "Over 627 flights delayed, 32 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWVQZGFlWmhKYjFScUlEYThFa1NxX1hIakxxTVlfRi1lRTJ6SmY0WUVObmVoQUMtb19BMmc3REtqMHhmS3pzRDFVTXA4bVhIY3ZWUXVJNkEzak5meUY4QXE3Tl8wMzQxSWY5OTJHMlgzWm1YNkJ5VmxpbktBUlNCZmlFTlM1eVFsNkRGbEw3UFFBRGZId09IMUVudng1TTdjWjI1eHctcDZFcDhQNEFHTA?oc=5",
+      "published": "Tue, 20 Oct 2026 14:01:00 GMT",
+      "summary": "Over 627 flights delayed, 32 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,420 flights delayed, 65 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUVyWDdOTmhvS1NXanQ5ak9wN3QxZUc4UzJZVk9NV24zcjNNREpHajZ4eU03eEQtNjdRNWF5TjlEX3UzNEdMY2FmanpPdXFrRkJtVjRhQ1RwS283amNNbUUzQ0t6eHJRd1dzNldlYkFTUEl2eG9SUlcyazV3b3dqNHU5R0NHLVJaU3Rya1Riamw2bG1DTG9KN19EWEpYQUVZS3NCdlRNQTJvd0R1bTRpLUVB0gHGAUFVX3lxTE00OHI4SXNBci05X0JJcG9LSmxKa0p5aEV3WTBHN3UtWXFncXQ1bXROUlJ3Z2FoSkxCOGY4VjBIQlhNX2dRY09OS3plX1c4TkJWRmxWQVdMUks5TG9hNDdnM241RDFPM1BPQ0JjRF85TUlDVnh2d0Zmb3RBbkdwQm84WVA0R2EyaHp3WHkwM0tFS1k4VTRkajVWMS1YazRtT1hwY043am9GeHJfNnJuc0xJVHdUaDV6ejNZRzRsOVQxUm8xMHBGUQ?oc=5",
-      "published": "Mon, 19 Oct 2026 14:03:00 GMT",
-      "summary": "Over 1,420 flights delayed, 65 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 19, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0U2VE9XV0FJTFo2SEhlZjREakplNkJwcWtKUHFiUXhWQk04enVwM201SG92M0hVbXBYc0J0Ym1SdHp4ekgyUS1BWVFFcV9SWHJlN2t2eWk3Mk1HTDJ0SUJ0Tkt6eEJSVzNORlYtWG5WY2xFd0NZLVJLWmdSOUZ5aDRCSnFGN2Zfd3BDbA?oc=5",
-      "published": "Mon, 19 Oct 2026 20:06:55 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 19, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObW44QnZuVF91Q1IzMGdzQjdUc29LY1RvT1NuZW1wWF83QTdZNld5OVc0R0ppTlBuUFRrUkR5VHlvN2doS2RxLVN0cWY0S0Y5WWozdW9fVktIcGNaV0hXa3NJMi1zQ0FTZklsWGFFbldvZmdPZTB2N053S1BvbTNGSDZOZ3ByelZINXFHTUNlcmdzREE2ajhuZWhJSVJ4UlBvcF9mRjVQazFzd0JSbTV2NkI4akthQ0hzdlVMTm41OXViRVRjRGc?oc=5",
-      "published": "Mon, 19 Oct 2026 02:31:50 GMT",
-      "summary": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions&nbsp;&nbsp;Anadolu Ajans\u0131",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5",
+      "published": "Mon, 19 Oct 2026 01:46:50 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +84,38 @@
       "source": "Google News Travel"
     },
     {
-      "title": "DOT delays rule change on airline maintenance delays - The Points Guy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW40UWMxdHhzbWVmVmpzTVplUUNmNTVxTG51ejBYTWwzMWIxU0hwbHV1YmV5MWZ1d0gyZWRBWEFPRHR4U0o3OXN2T3BOaUNMcV9FMUVVT3dOOXc0YXFNaG50eFdRNWk4ZVRoN2JUaXd2V1RCQTE0NE12djN6VFRMMkdDYmsxQQ?oc=5",
-      "published": "Tue, 20 Oct 2026 00:04:11 GMT",
-      "summary": "DOT delays rule change on airline maintenance delays&nbsp;&nbsp;The Points Guy",
+      "title": "Why Has The US Issued Security Alerts Across Middle East? Flight Disruptions, Travel Risks Explained - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2tCNzhDUkFOaTRwbUlMLUNZZzZ1M1VkTlhBaUpBUVdSLUowM29CYVRXdjVicjczTXRCdkRlalUtdUdhMGgxQUxiT3FPQkRUempnSUxROVlzbVRUN3lBV285R1VuWGM5d09WRjliLTBwZkJxWmx3eXpYVHZXd2ZBUTNjNHo1UUptamRtdUhYTUhMY1dsNUs0RHUyTEZSNE5hTjZmWWRJc0syajdnT3JjN1RuTUxvMHpvTjhnRkxiRUhEb0I3b09IVE5ZNzQ2Z1VKY3RNTkMwSdIB3wFBVV95cUxQd3RNeVhVQ1NCNVh5aVNhbVRhNlFCelBIcHc4QkF5cjItTUFsRlBXamRGS2JHdmp4a2ROaW5kYl9oclg0S2JvUmNuNWNvUl92UnQyY3lub0l2dU4xYkNseU0xcExRSWtnV2NDV0staEZyQVJpVll3Vk55Z2tzNWhoRkdyRHluY0hnSXNfa1RGamlZV082OUFLV0RBMjQxSXEzQjJlNEQwYWNCUUxaSWJGM2d4VTE4Nlp2Z0w2QnNwekpuRVc2TzFFLXJJTzBZNE9uMEhhb29HalNEdTFfcVk0?oc=5",
+      "published": "Mon, 19 Oct 2026 08:50:58 GMT",
+      "summary": "Why Has The US Issued Security Alerts Across Middle East? Flight Disruptions, Travel Risks Explained&nbsp;&nbsp;NDTV Profit",
       "source": "Google News Travel"
     },
     {
-      "title": "US Missions Issue Security Alert For Americans In West Asia - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEs5QUdnZ0llRThPY1ZwaVpNX1JCNWRDQXhSSzZyYUN0b1MxclhFTnRQTHYwZUpxT19MR3lkQjU2VHJtR2lpd2U2SGxUbzdvcWxselR2eUdsWEQ2U1B1THlGTS1yZG5MU3Q2M0tNLVBjTUkwUGdyOTZ0V3M4d0lwYVRwczRqVmRUYm8xVVdSUjNKdEZXdEQ3c1JQRU5ZUVlrNWpPVtIBpwFBVV95cUxOb3dENGMwMnFCNVNiTjc4ZDFIRHU0NjlNZ1BkeHpqenJXMXM0eVQ3Z0tXYUxQMU51eWlpVWxWTHZIYlVuM3VQa1lKSnRqalA0LWhqSkZXaElFa2lmZVpsSkxhamNzMWJEcmVNMl9MWkNIdGRKN3BaRGExUFMzd0UzeWlqM191SXdCd2xJcVp4RkxJaS1CcG5HeVl5QVUzdUpUU1FoOGFySQ?oc=5",
-      "published": "Mon, 19 Oct 2026 09:32:19 GMT",
-      "summary": "US Missions Issue Security Alert For Americans In West Asia&nbsp;&nbsp;Rediff",
+      "title": "US issues security alerts across 12 West Asian locations, warns of flight and airspace disruption - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnNDUFJtRDMwVVdQSktZa2RUS0xUOWJ4LS1qb0JfQjJLcE13YUoyUWFhU3ZoTnUySXJoR1dYZGdFanJFdDAwLTlVN3p0U2tBZDdhS0pVMFVvZnczTjc1TEotUVFodDJNeERrV3phem9vWkhJWlVCMzlDMWhwbVB3eDN4VDhGSEVZVkpVVzR3WVhGMmlIMlp0VXdpdFRTcV9NZ083N09WV1NiUzF5V2h2UkVWUEd0MV92clRTcElhelJvc1NKeVIzdXBFOVdGQ3pyWE5JRmJUVk10QdIB3wFBVV95cUxPQjJBLWR3WnJ0NGhMNE9Wd1F6SkhzMG12aEgzWU5aa3Nva2RuUl9VcFBFZzhzN3FBS3ltR0E5ZGFlNVBGQW5lVkhMdWh4aTdWS2p4TzhReUE2QzZMU1NuM1hQelhsUmNjM2xBV3FnOXEzdEdfdk55eGk3SjFNNWVHUUxVdXlVV2VLcTZrX2pIb2N3cXotY1MwRkFrN0x2M0k1QzdTdUFzQ2NzLVR0cG5iSU02RENFUEdtaXN0aUVrNGtBZ04wSGxsam5ybHgwaVhsRjZUU00zRktfRVVBd3l3?oc=5",
+      "published": "Mon, 19 Oct 2026 06:56:33 GMT",
+      "summary": "US issues security alerts across 12 West Asian locations, warns of flight and airspace disruption&nbsp;&nbsp;Firstpost",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government issues new travel warning for Americans - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGJUcGs5UjRVeTA2UmM4YnU1RGVrdGtwck80Tm5rQkphVEhNVjA5YlFPNkF3YlVEcmhOS2F0NWp5YWlkQ0d4VGhFeDJmSm15YlJWLUZzLUZrVXZQZXhMTDFHUFVLX3N5UjB2d3pYVTVoemNITWVKb1czczVVWlE5Z2w2U2RudGcyWXl0V01zbUtQUQ?oc=5",
-      "published": "Sat, 17 Oct 2026 19:16:10 GMT",
-      "summary": "U.S. government issues new travel warning for Americans&nbsp;&nbsp;TheStreet",
+      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
+      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
+      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "published": "Mon, 19 Oct 2026 03:45:18 GMT",
+      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026 - https://ae.usembassy.gov/",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3VlN0FyTDg3SjJObVFhVGJGUG10YVByWlhEd29mbGJ0dE85alBkSHRXbExOZHJPdVhmaGtGVUhpODE0dmVXbjdEQ0xqa3FESmItLTNDMFdmbTF6MWhZVzBVSjdkR3N1REhwX1EtSUhkczUxYUhLZm5JdEJDa1J2T05vOHZ0NUdXZTZTRmwzbHdIdkU?oc=5",
+      "published": "Mon, 19 Oct 2026 01:26:50 GMT",
+      "summary": "Security Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026&nbsp;&nbsp;https://ae.usembassy.gov/",
       "source": "Google News Travel"
     }
   ]
