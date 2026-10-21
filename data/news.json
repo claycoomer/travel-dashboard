@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-21T16:15:28.100684+00:00",
+  "last_updated": "2026-10-21T22:52:16.412048+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Southwest Airlines Slashes 2026 Profit Guidance on Higher Fuel Bills",
+      "link": "https://skift.com/2026/10/21/southwest-slashes-2026-profit-guidance-on-higher-fuel-bills/",
+      "published": "Wed, 21 Oct 2026 21:00:32 +0000",
+      "summary": "Southwest is the latest airline to slash its profit outlook for the year as surging fuel costs bite into record revenues.",
+      "source": "Skift"
+    },
+    {
+      "title": "United\u2019s Higher Fares Can\u2019t Keep Up With Soaring Fuel Costs",
+      "link": "https://skift.com/2026/10/21/uniteds-higher-fares-cant-keep-up-with-soaring-fuel-costs/",
+      "published": "Wed, 21 Oct 2026 20:50:52 +0000",
+      "summary": "Yes, United is struggling to keep pace with soaring fuel costs, but CEO Scott Kirby thinks its rivals have even bigger problems ahead.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hilton Bets on Scandic to Crack Nordics",
+      "link": "https://skift.com/2026/10/21/hilton-bets-on-scandic-to-crack-nordics/",
+      "published": "Wed, 21 Oct 2026 19:26:31 +0000",
+      "summary": "International hotel brands have struggled to gain scale in the Nordic market. This deal shows one way to do it: letting someone who already knows the market carry most of the risk.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb\u2019s New Policy for Hosts: Don\u2019t Ask Guests to Wash Dishes or Strip Beds",
+      "link": "https://skift.com/2026/10/21/airbnbs-new-policy-for-hosts-dont-ask-guests-to-wash-dishes-or-strip-beds/",
+      "published": "Wed, 21 Oct 2026 19:03:24 +0000",
+      "summary": "The new policy formalizes a lot of things Airbnb has been pushing hosts to avoid as unreasonable in recent years \u2014 and thus it comes with more enforcement bite.",
+      "source": "Skift"
+    },
     {
       "title": "Corporate Travel to Saudi Arabia Freezes as Riyadh Airport Stays Restricted",
       "link": "https://skift.com/2026/10/21/corporate-travel-to-saudi-arabia-freezes-as-riyadh-airport-stays-restricted/",
@@ -35,32 +63,18 @@
       "source": "Skift"
     },
     {
-      "title": "Independence at Scale \u2014 Paradox or Opportunity? Watch Video",
-      "link": "https://skift.com/2026/10/21/independence-at-scale-paradox-or-opportunity-watch-video/",
-      "published": "Wed, 21 Oct 2026 12:30:00 +0000",
-      "summary": "Independent hotel brands don\u2019t have to choose between scale and identity. Shared loyalty, distribution, and technology can help them compete with the major global groups while preserving the local character and direct customer relationships that set them apart.",
-      "source": "Skift"
+      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
+      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
+      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
     },
     {
-      "title": "Booking.com Looks to Compete in India With Its Own Payments System and Business Travel",
-      "link": "https://skift.com/2026/10/21/booking-com-looks-to-compete-in-india-with-its-own-payments-system-and-business-travel/",
-      "published": "Wed, 21 Oct 2026 06:48:40 +0000",
-      "summary": "Booking.com wants more of India\u2019s travel wallet, not just its hotel bookings. Payments and business travel could help it get there, but local platforms will make that a harder sell.",
-      "source": "Skift"
-    },
-    {
-      "title": "United Airlines Cuts Profit Outlook as Jet Fuel Costs Rise",
-      "link": "https://skift.com/2026/10/20/united-airlines-forecasts-weaker-profits-on-high-fuel-costs/",
-      "published": "Wed, 21 Oct 2026 01:42:56 +0000",
-      "summary": "Despite the higher fuel costs, United is still seeing high travel demand \u2014 premium and loyalty revenues were both up 17%.",
-      "source": "Skift"
-    },
-    {
-      "title": "Sonesta Cuts Jobs as a $2 Billion Bid Puts Many of Its Best Hotels in Play",
-      "link": "https://skift.com/2026/10/20/sonesta-cuts-jobs-as-a-2-billion-bid-puts-many-of-its-best-hotels-in-play/",
-      "published": "Tue, 20 Oct 2026 21:08:53 +0000",
-      "summary": "Service Properties Trust hired Sonesta to operate 68 of the hotels it owns. But an unsolicited offer for those hotels has created uncertainty. Meanwhile, Sonesta has cut corporate staff.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFQcER4RDhSRXcyeUpYUXZXMzJJM1ZEZ2Rrc09QY05veXQ2bXBxRV9pRVVObFd1bEVBODBkNE9RdEdna2pwaHd0VWV2NVNwSERwdGU4TGVLX1BGUXJ5NTFSQVA4aWhfUDNzVWJwWlF4VmNZbzJMcVRVRmp3Z0lFNVpuQmNRMXNTRzZEUg?oc=5",
+      "published": "Wed, 21 Oct 2026 17:52:04 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
       "title": "Americans warned about Paris travel after violence, looting and tear gas-filled streets - Fox News",
@@ -70,24 +84,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
-      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
-      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Embassy Jerusalem \u2013 October 18, 2026 - U.S. Embassy Jerusalem (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZS10bDB2R2FhZXBlWjhkS1dxbklTZWRYOEpfMW5DZlhuYnFsd3QzTmtORWtCZENxR3lsQ256Uzl2S183RXR3REJIVmlSMGh3d3ZfMDQ2ZVhyVkxSczVzVmF3YUtmb2RLeWE2WFM3Z2M4aU4teFQxZ1ItNmkySVI5dUR2N1g?oc=5",
-      "published": "Mon, 19 Oct 2026 05:31:18 GMT",
-      "summary": "Security Alert: U.S. Embassy Jerusalem \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy Jerusalem (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes - CBS News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Mk5WM2t0aV92YWxPeUduZzNtLTlvRV95WEhCY09RenRiWG1Qa2R3SzJoREViMjhtRU5hTzBwNnBVV0hqLWRqN3JMbXZCd3hIZ09BSFpsSEFKdUN2QmMyNmtoOXF3RHUyZ21TRUFmcWFZNTFEVndfWGlGUQ?oc=5",
       "published": "Tue, 20 Oct 2026 19:41:20 GMT",
-      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS NewsUS issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.comSecurity Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026&nbsp;&nbsp;http",
+      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
+      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
+      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQWpYZFhIaXhWUTIydDd3VFdPSTZwenlIS2IwWmlzYjdzZ2o5bkZPMlNMb0NSVWRHWkkyU3ZjUFh2bjU4bVpZMGljOV83ajQwZUFFM1FIdGM3V0IwNGRJVFVJN01UYWhDeHZXQ0ltOUVTakUxRXhadThJUFJWRy1RTXNNQXMtaC1NTFR1S2Frek5Ba21wc3FpWWZXaWlFQjFITVdmM1JlanJVWHk4S2RlaTZlcDFkWEZPay1qWlFpOEFzYkI1eXRxNXp5VlRTakV6SERXRVFTdGVrSERYLUZIV29RWmJNaUZxWkhYSDVHWkxIWmZpQnpIZWxCdGxUbzR4MWtpMDU3UGw0SWlJR3E1SU9nVTY1NHpmZ211UTFLMUlRNWVRZWFBaGFB0gGvAkFVX3lxTFA1elhwLXU4RjN0SDJNRE92bGotUnh2anU0NERoVjVSUll2dGJGSExtTVZwZEtRQU90bE5DMkppak1PLXZOVXVQd3dUTnZPbEV6ZUFpbS04U25DZ2k5RGcwaWFkMlNOcU1RWXZ0a2RoRmVKdmxOWUdKVHBIbUJNbGhpeVQzdmFHSDZaVV9YUTVVdkNYN1VJNTdFbWFMaG9kMTVRT0RyalRrVC00OWVYc3ViYnBka0RyeGlTSWFUakcteEhNTTRQQ1A0TGQya3RIQllkUFQ4NWxGVFZ3TEFYNWQ5bE1iYzN6Mm03U255NW14eG1OcEJKMGxjWGtmYnhiTXlNWGJEdDFzQXliRVR6REtERnNkZHZGdWI2c0NQQ1V5MlVLX0NyS0tpZWExVkRYcw?oc=5",
+      "published": "Mon, 19 Oct 2026 03:46:25 GMT",
+      "summary": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times&nbsp;&nbsp;Hindustan Times",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US State Department Issues New Security Alert in Middle East Ahead of WWE Crown Jewel - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFQxVzVBRlFKQXJyZ2FwWklLZWd2cVl1RXZBcjFhYzhoQUxPcDBEYTFuZVpDMmozeS03dHVaNFlkMkRHNFlzWm9xcGZpOUZXQVVaTjhQTG5pdmQwa3ZtWERJVXNJb0dLTEtueHlyendONDlWd2NiRGVRVFh1S2Viellja0NpaXhwUXhBcg?oc=5",
-      "published": "Mon, 19 Oct 2026 12:02:40 GMT",
-      "summary": "US State Department Issues New Security Alert in Middle East Ahead of WWE Crown Jewel&nbsp;&nbsp;Yahoo Sports",
-      "source": "Google News Travel"
-    },
-    {
       "title": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXowYU9DRHFpbk9saDNtRVlNQ1UyVTE0Z2M5eUxUQmhJeklYQXhaZWJLeHFHTjRaN3FTSXBldUJ5MWhqRFFvNnhOVjZ6cVVUUlQzMVFGOFo5NWtCaDc3VHIwUllRclh2b2tiNFJTUzZ2RVdRNGpycmduSGU0WGMzMHY0aG8xV2VZM1JjNkJMcnc2ZUg0UURTR1QtR1Z3bl9RdUtPRTFVamtUZmxScjk4VWtHVGZxeVZZdjFfUV93YmdXWE5iS2xj?oc=5",
-      "published": "Mon, 19 Oct 2026 02:32:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2U5bFREeENBUFFsYW9YLWJGdTFzVWEydHRudVEtbXN2MS0yQ2J1bDFRT1JhdG04Wkp2a2tRQ0tpT1UxRUpLMjBENXkxaUtSblFHNVQxeTVBME83c0E1SlV2SHJRYUZQdERDTjBnaXdEeWVlU05iaTJaNjMtN3JlRTd2MnZCTDVuWUF3cUJhZVJNRzhMRWRXZEpZcFVFZWtPQjhBcEsyNXlEbW96cVFEbXJnRUEyeU1PaWd6WXNhdUUyUQ?oc=5",
+      "published": "Mon, 19 Oct 2026 07:39:21 GMT",
       "summary": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions&nbsp;&nbsp;Anadolu Ajans\u0131",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "DOT Delays New Cancellation and Delay Refund Rule Until 2027 - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmlMWmZLNWhYcDdfcVZuOFNfSVdoYlN3bUVVZUNMMW9VamZuamVtQXUyQ01zbEh3Skh6OC0tMzV4R1VOdW1GRllLNkVaeWtvMkFaakYtNk1EVHVWZFNZelpKT1YxZ3JndFROTllWRUZMV19mU1lCNk54eXZ3NV84dXh4WU10dGZXTHFzcmVVZEk1Nnc1Vm1PTktKTkEwd0kzbFJHaTNzVFhDamhzdVB4dg?oc=5",
-      "published": "Mon, 19 Oct 2026 13:15:00 GMT",
-      "summary": "DOT Delays New Cancellation and Delay Refund Rule Until 2027&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     }
   ]
