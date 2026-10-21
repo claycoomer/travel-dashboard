@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-10-21T08:57:29.360228+00:00",
+  "last_updated": "2026-10-21T16:15:28.100684+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Corporate Travel to Saudi Arabia Freezes as Riyadh Airport Stays Restricted",
+      "link": "https://skift.com/2026/10/21/corporate-travel-to-saudi-arabia-freezes-as-riyadh-airport-stays-restricted/",
+      "published": "Wed, 21 Oct 2026 14:17:42 +0000",
+      "summary": "Houthi strikes have cut Riyadh off from scheduled flights and pushed the kingdom\u2019s events season into 2027. The longer the closure lasts, the harder it gets for Saudi Arabia to sell itself as a reliable host for business tourism.",
+      "source": "Skift"
+    },
+    {
+      "title": "Real-Time Personalization: Turning Browsers Into Bookers",
+      "link": "https://skift.com/2026/10/21/real-time-personalization-turning-browsers-into-bookers/",
+      "published": "Wed, 21 Oct 2026 13:46:05 +0000",
+      "summary": "Real-time personalization can help travel brands earn loyalty without defaulting to broad discounts \u2014 but it works only when brands put preference data to use quickly and deliver an experience that matches the marketing promise.",
+      "source": "Skift"
+    },
+    {
+      "title": "Poland\u2019s Economic Rise Is Becoming a Travel Story Worth Watching",
+      "link": "https://skift.com/2026/10/21/polands-economic-rise-is-becoming-a-travel-story-worth-watching/",
+      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
+      "summary": "More Polish households can afford to travel, and airlines, hotel owners, and lenders are backing additional capacity.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why the Best Corporate Travel Strategy Isn\u2019t Just About Spending Less",
+      "link": "https://skift.com/2026/10/21/corporate-travel-roi-managed-travel-investment/",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "summary": "New ASTA and GBTA research suggests companies should evaluate corporate travel in relation to business performance, not simply as a cost line. Mark Meader of ASTA explains how benchmarking, policy flexibility, and travel management can help companies invest more strategically.",
+      "source": "Skift"
+    },
+    {
+      "title": "Independence at Scale \u2014 Paradox or Opportunity? Watch Video",
+      "link": "https://skift.com/2026/10/21/independence-at-scale-paradox-or-opportunity-watch-video/",
+      "published": "Wed, 21 Oct 2026 12:30:00 +0000",
+      "summary": "Independent hotel brands don\u2019t have to choose between scale and identity. Shared loyalty, distribution, and technology can help them compete with the major global groups while preserving the local character and direct customer relationships that set them apart.",
+      "source": "Skift"
+    },
     {
       "title": "Booking.com Looks to Compete in India With Its Own Payments System and Business Travel",
       "link": "https://skift.com/2026/10/21/booking-com-looks-to-compete-in-india-with-its-own-payments-system-and-business-travel/",
@@ -28,52 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Transatlantic Summit 2026: Identifying Growth in a Durable but Fragmenting Corridor",
-      "link": "https://skift.com/2026/10/20/skift-transatlantic-summit-2026-identifying-growth-in-a-durable-but-fragmenting-corridor/",
-      "published": "Tue, 20 Oct 2026 19:34:12 +0000",
-      "summary": "The transatlantic corridor is seeing durable demand, and companies will have opportunities to gain a competitive advantage by deftly adapting to competing shifts simultaneously.",
-      "source": "Skift"
-    },
-    {
-      "title": "GMH Bonus: Sam Shank on How AI Could Reshape Online Travel",
-      "link": "https://skift.com/2026/10/20/gmh-bonus-sam-shank-on-how-ai-could-reshape-online-travel/",
-      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "summary": "In this Good Morning Hospitality bonus episode, Wil Slickers sits down with Sam Shank, co-founder and former CEO of HotelTonight, at Skift Global Forum to discuss how AI agents could reshape online travel distribution. Shank explains why AI-driven booking could challenge the spon",
-      "source": "Skift"
-    },
-    {
-      "title": "What Boston and Iceland Learned From a Sold-Out Summer of Live Tourism",
-      "link": "https://skift.com/2026/10/20/what-boston-and-iceland-learned-from-a-sold-out-summer-of-live-tourism/",
-      "published": "Tue, 20 Oct 2026 16:46:05 +0000",
-      "summary": "When mega-events land in peak season, success comes not in higher volume, but in earned media and positive sentiment.",
-      "source": "Skift"
-    },
-    {
-      "title": "The Hotel Industry Has A Water Problem",
-      "link": "https://skift.com/2026/10/20/hospitality-has-a-water-issue/",
-      "published": "Tue, 20 Oct 2026 14:42:20 +0000",
-      "summary": "Summer heat and drought brought hospitality\u2019s use of water into sharp focus. The industry is betting on simple fixes like aerated showerheads and less laundry \u2014 the question is whether more structural but costly measures can scale.",
-      "source": "Skift"
-    },
-    {
-      "title": "AI Will Know Your Travelers. And the World\u2019s Travelers. Will You?",
-      "link": "https://skift.com/2026/10/20/ai-will-know-your-travelers-and-the-worlds-travelers-will-you/",
-      "published": "Tue, 20 Oct 2026 13:48:30 +0000",
-      "summary": "AI discovery is moving closer to transaction. Travel brands must become legible to machines without surrendering the memory, service, and loyalty advantages that set them apart.",
-      "source": "Skift"
+      "title": "Americans warned about Paris travel after violence, looting and tear gas-filled streets - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPal9MVVk2N2pSbDdvbUE5YUd4WTJuellJU1ktRkE5MTFhWnE2anhITVFFNHJuUG1lTGE4RGxxMEE0ZS1FcFNLZ2duTFdZbEJhNXJxWFRlNXlZUjhVampZTTVITGxDYUhFU3Jwd2hzT2VxNUV5QkRKeUpjTXRDOVBpZWZEQ1NyTi1SWXVYUVNaajhSYVdsN3VqdjhscGtZWFpreVhJ0gGoAUFVX3lxTE5EX2RkLU8tNmRTZG96SlE2dkdaWHAtR1FHcXhhdEdYMGREOTVwQXhGLVZ0Y0ltLUl2bjR4bHhrWTVhVThsMW12aHdRb18zdTJ0dEk2eE00UjJfYnVzVE5JRXc0N2xNVW0tYmRWNDFZbjlwZ0tqS3hiVTB2LVYxZVdYVFFVV09veS1ybHU3WFRrcFFqUEZrcC1IRktPQnBCY3NWRkN6Skc5Wg?oc=5",
+      "published": "Tue, 20 Oct 2026 19:32:48 GMT",
+      "summary": "Americans warned about Paris travel after violence, looting and tear gas-filled streets&nbsp;&nbsp;Fox News",
+      "source": "Google News Travel"
     },
     {
       "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
       "published": "Tue, 20 Oct 2026 16:52:51 GMT",
       "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Mk5WM2t0aV92YWxPeUduZzNtLTlvRV95WEhCY09RenRiWG1Qa2R3SzJoREViMjhtRU5hTzBwNnBVV0hqLWRqN3JMbXZCd3hIZ09BSFpsSEFKdUN2QmMyNmtoOXF3RHUyZ21TRUFmcWFZNTFEVndfWGlGUQ?oc=5",
-      "published": "Tue, 20 Oct 2026 19:41:20 GMT",
-      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS News",
       "source": "Google News Travel"
     },
     {
@@ -84,17 +84,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,420 flights delayed, 65 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUVyWDdOTmhvS1NXanQ5ak9wN3QxZUc4UzJZVk9NV24zcjNNREpHajZ4eU03eEQtNjdRNWF5TjlEX3UzNEdMY2FmanpPdXFrRkJtVjRhQ1RwS283amNNbUUzQ0t6eHJRd1dzNldlYkFTUEl2eG9SUlcyazV3b3dqNHU5R0NHLVJaU3Rya1Riamw2bG1DTG9KN19EWEpYQUVZS3NCdlRNQTJvd0R1bTRpLUVB0gHGAUFVX3lxTE00OHI4SXNBci05X0JJcG9LSmxKa0p5aEV3WTBHN3UtWXFncXQ1bXROUlJ3Z2FoSkxCOGY4VjBIQlhNX2dRY09OS3plX1c4TkJWRmxWQVdMUks5TG9hNDdnM241RDFPM1BPQ0JjRF85TUlDVnh2d0Zmb3RBbkdwQm84WVA0R2EyaHp3WHkwM0tFS1k4VTRkajVWMS1YazRtT1hwY043am9GeHJfNnJuc0xJVHdUaDV6ejNZRzRsOVQxUm8xMHBGUQ?oc=5",
-      "published": "Mon, 19 Oct 2026 14:03:00 GMT",
-      "summary": "Over 1,420 flights delayed, 65 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
-      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
-      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "title": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Mk5WM2t0aV92YWxPeUduZzNtLTlvRV95WEhCY09RenRiWG1Qa2R3SzJoREViMjhtRU5hTzBwNnBVV0hqLWRqN3JMbXZCd3hIZ09BSFpsSEFKdUN2QmMyNmtoOXF3RHUyZ21TRUFmcWFZNTFEVndfWGlGUQ?oc=5",
+      "published": "Tue, 20 Oct 2026 19:41:20 GMT",
+      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS NewsUS issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.comSecurity Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026&nbsp;&nbsp;http",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQWpYZFhIaXhWUTIydDd3VFdPSTZwenlIS2IwWmlzYjdzZ2o5bkZPMlNMb0NSVWRHWkkyU3ZjUFh2bjU4bVpZMGljOV83ajQwZUFFM1FIdGM3V0IwNGRJVFVJN01UYWhDeHZXQ0ltOUVTakUxRXhadThJUFJWRy1RTXNNQXMtaC1NTFR1S2Frek5Ba21wc3FpWWZXaWlFQjFITVdmM1JlanJVWHk4S2RlaTZlcDFkWEZPay1qWlFpOEFzYkI1eXRxNXp5VlRTakV6SERXRVFTdGVrSERYLUZIV29RWmJNaUZxWkhYSDVHWkxIWmZpQnpIZWxCdGxUbzR4MWtpMDU3UGw0SWlJR3E1SU9nVTY1NHpmZ211UTFLMUlRNWVRZWFBaGFB0gGvAkFVX3lxTFA1elhwLXU4RjN0SDJNRE92bGotUnh2anU0NERoVjVSUll2dGJGSExtTVZwZEtRQU90bE5DMkppak1PLXZOVXVQd3dUTnZPbEV6ZUFpbS04U25DZ2k5RGcwaWFkMlNOcU1RWXZ0a2RoRmVKdmxOWUdKVHBIbUJNbGhpeVQzdmFHSDZaVV9YUTVVdkNYN1VJNTdFbWFMaG9kMTVRT0RyalRrVC00OWVYc3ViYnBka0RyeGlTSWFUakcteEhNTTRQQ1A0TGQya3RIQllkUFQ4NWxGVFZ3TEFYNWQ5bE1iYzN6Mm03U255NW14eG1OcEJKMGxjWGtmYnhiTXlNWGJEdDFzQXliRVR6REtERnNkZHZGdWI2c0NQQ1V5MlVLX0NyS0tpZWExVkRYcw?oc=5",
-      "published": "Mon, 19 Oct 2026 03:46:25 GMT",
-      "summary": "US issues security alerts across 12 Middle East nations including UAE, Saudi Arabia; warns citizens to prepare for flight disruptions | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-      "source": "Google News Travel"
-    },
-    {
       "title": "US State Department Issues New Security Alert in Middle East Ahead of WWE Crown Jewel - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFQxVzVBRlFKQXJyZ2FwWklLZWd2cVl1RXZBcjFhYzhoQUxPcDBEYTFuZVpDMmozeS03dHVaNFlkMkRHNFlzWm9xcGZpOUZXQVVaTjhQTG5pdmQwa3ZtWERJVXNJb0dLTEtueHlyendONDlWd2NiRGVRVFh1S2Viellja0NpaXhwUXhBcg?oc=5",
       "published": "Mon, 19 Oct 2026 12:02:40 GMT",
       "summary": "US State Department Issues New Security Alert in Middle East Ahead of WWE Crown Jewel&nbsp;&nbsp;Yahoo Sports",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXowYU9DRHFpbk9saDNtRVlNQ1UyVTE0Z2M5eUxUQmhJeklYQXhaZWJLeHFHTjRaN3FTSXBldUJ5MWhqRFFvNnhOVjZ6cVVUUlQzMVFGOFo5NWtCaDc3VHIwUllRclh2b2tiNFJTUzZ2RVdRNGpycmduSGU0WGMzMHY0aG8xV2VZM1JjNkJMcnc2ZUg0UURTR1QtR1Z3bl9RdUtPRTFVamtUZmxScjk4VWtHVGZxeVZZdjFfUV93YmdXWE5iS2xj?oc=5",
+      "published": "Mon, 19 Oct 2026 02:32:50 GMT",
+      "summary": "US warns Americans in Middle East to exercise \u2018heightened vigilance\u2019 amid regional tensions&nbsp;&nbsp;Anadolu Ajans\u0131",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "DOT Delays New Cancellation and Delay Refund Rule Until 2027 - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmlMWmZLNWhYcDdfcVZuOFNfSVdoYlN3bUVVZUNMMW9VamZuamVtQXUyQ01zbEh3Skh6OC0tMzV4R1VOdW1GRllLNkVaeWtvMkFaakYtNk1EVHVWZFNZelpKT1YxZ3JndFROTllWRUZMV19mU1lCNk54eXZ3NV84dXh4WU10dGZXTHFzcmVVZEk1Nnc1Vm1PTktKTkEwd0kzbFJHaTNzVFhDamhzdVB4dg?oc=5",
+      "published": "Mon, 19 Oct 2026 13:15:00 GMT",
+      "summary": "DOT Delays New Cancellation and Delay Refund Rule Until 2027&nbsp;&nbsp;TravelPulse",
       "source": "Google News Travel"
     }
   ]
