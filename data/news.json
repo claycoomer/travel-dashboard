@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-22T16:13:52.650108+00:00",
+  "last_updated": "2026-10-22T22:50:28.119772+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Accor Builds Caution Into Outlook Over France Unrest and Middle East",
+      "link": "https://skift.com/2026/10/22/accor-builds-caution-into-outlook-over-france-unrest-and-middle-east/",
+      "published": "Thu, 22 Oct 2026 21:54:43 +0000",
+      "summary": "Accor is guiding to a flat fourth quarter globally, partly out of caution after France&apos;s recent riots and uncertainty about wars in the Middle East.",
+      "source": "Skift"
+    },
+    {
+      "title": "NYC\u2019s Horse-Drawn Carriages To End by 2028",
+      "link": "https://skift.com/2026/10/22/new-york-city-horse-drawn-carriage-tourism-ending/",
+      "published": "Thu, 22 Oct 2026 21:24:09 +0000",
+      "summary": "New York is ending one of its most iconic tourist attractions. Pedicabs have been floated as an alternative, but lawmakers say that industry has its own issues.",
+      "source": "Skift"
+    },
+    {
+      "title": "American Airlines Expects a 2026 Loss. How It Plans to Turn a Profit in 2027.",
+      "link": "https://skift.com/2026/10/22/american-airlines-expects-a-2026-loss-how-it-plans-to-turn-a-profit-in-2027/",
+      "published": "Thu, 22 Oct 2026 19:43:54 +0000",
+      "summary": "American CEO Robert Isom said he was confident that American\u2019s premium investments will pay off in 2027.",
+      "source": "Skift"
+    },
+    {
+      "title": "Wyndham Courts AI Booking Agents in Push for Direct Bookings",
+      "link": "https://skift.com/2026/10/22/wyndham-courts-ai-booking-agents-in-push-for-direct-bookings/",
+      "published": "Thu, 22 Oct 2026 19:30:02 +0000",
+      "summary": "The Super 8 and La Quinta franchiser is opening its inventory to Meta&apos;s Muse, OpenAI, and Instinct. Morgan Stanley analysts think AI agents could cost hotel groups less per booking than online travel agencies do.",
+      "source": "Skift"
+    },
     {
       "title": "IHG Says It\u2019s Winning Hotels From Rival Brands",
       "link": "https://skift.com/2026/10/22/ihg-says-its-winning-hotels-from-rival-brands/",
@@ -35,52 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Skift Global Forum 2026: 7 Insights From Travel Industry Leaders",
-      "link": "https://skift.com/2026/10/22/skift-global-forum-2026-7-insights-from-travel-industry-leaders/",
-      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "summary": "The travel industry is racing to embrace AI, but still struggling with fundamental questions of trust, coordination, and commercial returns. We surveyed executives at Skift Global Forum 2026 to understand where the industry sees opportunity and where its biggest concerns lie.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Can Now Be Booked Through Amex Travel in Its Deepest Loyalty Tie-Up Yet",
-      "link": "https://skift.com/2026/10/22/airbnb-can-now-be-booked-through-amex-travel-in-its-deepest-loyalty-tie-up-yet/",
-      "published": "Thu, 22 Oct 2026 12:00:14 +0000",
-      "summary": "By putting its search inside Amex Travel, and letting Amex&apos;s premium cardholders spend lodging credits on Airbnb Luxe, Airbnb boosts its high-end inventory and looks a lot more like a conventional lodging supplier than it ever has.",
-      "source": "Skift"
-    },
-    {
-      "title": "American Airlines Expects to Lose Money in 2026 Due to High Fuel Costs",
-      "link": "https://skift.com/2026/10/22/american-expects-to-lose-money-in-2026-due-to-high-fuel-costs/",
-      "published": "Thu, 22 Oct 2026 11:59:55 +0000",
-      "summary": "American is still pushing forward with premium product investments to improve its profitability, even as it expects to pay a staggering $4.70 a gallon for jet fuel.",
-      "source": "Skift"
-    },
-    {
-      "title": "Meta Calls Travel \u2018a Top Use Case\u2019 for Muse \u2014 and Zuck Wants a Cut",
-      "link": "https://skift.com/2026/10/21/meta-calls-travel-a-top-use-case-for-muse-and-zuck-wants-a-cut/",
-      "published": "Thu, 22 Oct 2026 03:26:39 +0000",
-      "summary": "Meta already influences where people want to go. Its AI agent is primed to help it take a cut when they book.",
-      "source": "Skift"
-    },
-    {
-      "title": "Thanksgiving travel: Whose risk of flight delays is highest? - The Weather Channel",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkd5d1JwbWhLQi1UUjR2eFRCczdRWjVsSGJXcHhCcTRXRTdDQlZudDY5cVdNNEZxUk5WWG1URW5aS01LUHhtNXFRd1FYa2dickp1QWxlTFFTRDBQSEduNTgtSGltYWxXRXRIVG15czJjaHRRMlZnVHFzSzFYQmlZZkdXTUVSS0xKblVnQlpqNGpzTDl1LWtaNXhWN3hwNllWQ3M4S0IwWU4?oc=5",
-      "published": "Tue, 20 Oct 2026 15:43:00 GMT",
-      "summary": "Thanksgiving travel: Whose risk of flight delays is highest?&nbsp;&nbsp;The Weather Channel",
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5",
+      "published": "Mon, 19 Oct 2026 01:46:50 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "Travelers to hot spot sternly warned by State Department as officials deny wider Gulf shutdown - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjRtcHBZOVpPUlI0OEVmVktWYlNFVkF0bmJ1djA2WWN0QkQ1TkF3a3Z2UmFqZ0pmWndTVzk2UENzZzRlWEowS0tFcVNzU1hhMEtaRmE1R2w4YU51MnV0R0tKLUhRNm51d0RUYnBjSm9GZVd4TzV1clJXZ2VLcTFyckVlUlY0WUhSLUYtd3ZYWlRnclEwN19YUVhMQ3lXUElnZE80bjhuUmFDaFpT0gGyAUFVX3lxTE1rQWd6OVRrQ2w2WUdVYkhlME9zLTA1cGlBZ0U0eU5ubE5qQmU1b2wwRGsyUFZBcVlYLVB3NkZaQzlLWDlOQmhPWGd4bVdEaWhhTnMzOWRVX0VpamljMEZBcF9UUEN4OHNLY01KT2JhaFU1WVdsNmdsa0pyRWppTklrZkdJcnQ2amxCV2JTLUlRWjF2YTNob2tubmROZnViRlQyX0hyOWlsek5vMWpiQm16SVE?oc=5",
-      "published": "Wed, 21 Oct 2026 23:45:09 GMT",
-      "summary": "Travelers to hot spot sternly warned by State Department as officials deny wider Gulf shutdown&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFQcER4RDhSRXcyeUpYUXZXMzJJM1ZEZ2Rrc09QY05veXQ2bXBxRV9pRVVObFd1bEVBODBkNE9RdEdna2pwaHd0VWV2NVNwSERwdGU4TGVLX1BGUXJ5NTFSQVA4aWhfUDNzVWJwWlF4VmNZbzJMcVRVRmp3Z0lFNVpuQmNRMXNTRzZEUg?oc=5",
-      "published": "Wed, 21 Oct 2026 17:52:04 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "title": "Over 627 flights delayed, 32 canceled amid widespread U.S. travel disruptions - LehighValleyLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmFjYXlPMHd4RnY2eHNwSmVFZ21PS2MxRlp2alg4TUh1WGpnR3UyQnB6QWE3eXhwSUZjTXVxS05hc0JrMTJHalpyQVd1NWlTY0VMMGh3YmlpdEpHSDhjZVVXZ0h4MzNaalB3cU5iYnVnVU9qWnF5Uk5xeVFVLVhBNTZwcThxWjlpQmJ1UXRYd1VrVTdEOUpZMHlMM0J3ZkV4a1pWSG5aWmlaSmRFMTU3UTQ0d2xQUU4zTEdkR3Zwblk1YTQ?oc=5",
+      "published": "Tue, 20 Oct 2026 14:01:00 GMT",
+      "summary": "Over 627 flights delayed, 32 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;LehighValleyLive.com",
       "source": "Google News Travel"
     },
     {
@@ -91,31 +84,38 @@
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Mk5WM2t0aV92YWxPeUduZzNtLTlvRV95WEhCY09RenRiWG1Qa2R3SzJoREViMjhtRU5hTzBwNnBVV0hqLWRqN3JMbXZCd3hIZ09BSFpsSEFKdUN2QmMyNmtoOXF3RHUyZ21TRUFmcWFZNTFEVndfWGlGUQ?oc=5",
-      "published": "Tue, 20 Oct 2026 19:41:20 GMT",
-      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS News",
+      "title": "US warns of potential attacks and travel disruptions across 12 Middle Eastern countries - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnRpYkJmRVpYUmw5WkVuZTZTZnlKR1FiQXVSTUowVXd3emk3UmJRcS0zajQ5clpGNS1RLVp6MzFoOWczaUhWNko0Zkw0bG1OM3hkQlgyYzdUWk84a1poYXRENlRrVnFEcnExN2t1emhUTDlyd3NrQ3dSQmFHcFRtazc1dEFwZGpPNENCVWVySWRRQ3lCUHFUaklBelJ0bXo0M1p6VllfbHlZekhYVVFaZ1FQUVNVR25nNHNuVnFn?oc=5",
+      "published": "Thu, 22 Oct 2026 12:10:21 GMT",
+      "summary": "US warns of potential attacks and travel disruptions across 12 Middle Eastern countries&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     },
     {
-      "title": "DOT Delays Rule Change Governing Airline Responsibility for Flight Disruptions - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFVVbkJuak5aM1VSSXV6cE9JT0VkN2tvai1vWHhnZDV1MS1Xd2xuRktZMjFQcnQxWllCb0RSSmk1MWpublZTS3RMWkRhbEFnMFphbEQ2bkJfMDhhcFgxU3VmWnRHWU8wYUpxMmFhbnJkcVBfQVVaVWV1VkIzemhGY3NKSzhjbVZodlUwTXJaQQ?oc=5",
-      "published": "Thu, 22 Oct 2026 13:18:56 GMT",
-      "summary": "DOT Delays Rule Change Governing Airline Responsibility for Flight Disruptions&nbsp;&nbsp;Yahoo",
+      "title": "Is it safe to travel to Saudi Arabia? What to know as attacks continue and flights are cancelled - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenhrNG9KVW5KQzRzdy1kQXZ4LXlmVkIwTVFwc1Fxcnk2MWRlZEctM1hGUmIyZkNXNnZHdDJFZU1PQ1VuYWxabXZJR0lackVxcXFIUThCYWJzRDMxVUI0OUxYWnF4NlZsUTZTMkRwUHFsekd0dlBwZGZpY0ZsbV9ZOWFDZl9hc3loZkR4anBkb01sS29ranF6T1d2Y00xWDBVd1pzb1BtWGg2eHNFZ2lsQnBKOUdlLTIxaVhmWXlxWnZHSVZleXlTbENzVQ?oc=5",
+      "published": "Tue, 20 Oct 2026 12:24:12 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia? What to know as attacks continue and flights are cancelled&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
-      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
-      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFQcER4RDhSRXcyeUpYUXZXMzJJM1ZEZ2Rrc09QY05veXQ2bXBxRV9pRVVObFd1bEVBODBkNE9RdEdna2pwaHd0VWV2NVNwSERwdGU4TGVLX1BGUXJ5NTFSQVA4aWhfUDNzVWJwWlF4VmNZbzJMcVRVRmp3Z0lFNVpuQmNRMXNTRzZEUg?oc=5",
+      "published": "Wed, 21 Oct 2026 17:52:04 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 1,059 flights delayed, 58 canceled amid widespread U.S. travel disruptions - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3Q0aEZpRjN4b1Rpc3FNVmRTLUR3RHJJdTA4Nkg2MGhHZ3ZEMXpsYWFvQ2t5dExaUlg1OGJmMkdyc1NGTFdYQ3Z0c1JGQzRRdUlwYWN5ZHVETC1kcjdjUURFWTJ6bTI1d2dsSmVxUmJhWGk1eThnUkFuZXhZNmxrYXJnMDhfYTZ6bXJPQmFxcnl0RjY4eDlaWlotenRyTnVpRERBNFpDU2o4UmNseWVGdEdR0gHGAUFVX3lxTE9sS2JOQjF0UE02N1N3Q1pHeFg3RVNXZjhnWnVqR0hHbkRCUzl6ck5hYUxCSzFDTGZZT3hpSnc1dktyZ3hsUFBQekJCajBHXzI1MmRVOWFoMDlvNnlHTHprUVVfd2pLMDdsV05weGVSWVo0WmpZV0Jaazd3NlBHWmpDNUtRSHBNcTRHWXpqVjMyQVIxNk1Bb1p2NXBid2FiSm10LVJlT003ZTh5ejNObG5HbHJJWHY5YVBiejhSSXFPb1c4Y3E4Zw?oc=5",
-      "published": "Thu, 22 Oct 2026 14:21:00 GMT",
-      "summary": "Over 1,059 flights delayed, 58 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;AL.com",
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "published": "Mon, 19 Oct 2026 03:45:18 GMT",
+      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026 - https://ae.usembassy.gov/",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3VlN0FyTDg3SjJObVFhVGJGUG10YVByWlhEd29mbGJ0dE85alBkSHRXbExOZHJPdVhmaGtGVUhpODE0dmVXbjdEQ0xqa3FESmItLTNDMFdmbTF6MWhZVzBVSjdkR3N1REhwX1EtSUhkczUxYUhLZm5JdEJDa1J2T05vOHZ0NUdXZTZTRmwzbHdIdkU?oc=5",
+      "published": "Mon, 19 Oct 2026 01:26:50 GMT",
+      "summary": "Security Alert: U.S. Mission United Arab Emirates \u2013 October 18, 2026&nbsp;&nbsp;https://ae.usembassy.gov/",
       "source": "Google News Travel"
     }
   ]
