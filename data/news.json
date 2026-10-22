@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-22T02:19:25.211172+00:00",
+  "last_updated": "2026-10-22T08:59:48.057650+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Meta Calls Travel \u2018a Top Use Case\u2019 for Muse \u2014 and Zuck Wants a Cut",
+      "link": "https://skift.com/2026/10/21/meta-calls-travel-a-top-use-case-for-muse-and-zuck-wants-a-cut/",
+      "published": "Thu, 22 Oct 2026 03:26:39 +0000",
+      "summary": "Meta already influences where people want to go. Its AI agent is primed to help it take a cut when they book.",
+      "source": "Skift"
+    },
+    {
+      "title": "Yotel Plans Upscale Brand and YotelAir in City Centers as It Targets 100 Hotels: Exclusive",
+      "link": "https://skift.com/2026/10/21/yotel-plans-upscale-brand-and-yotelair-in-city-centers-as-it-targets-100-hotels-exclusive/",
+      "published": "Thu, 22 Oct 2026 03:24:57 +0000",
+      "summary": "Yotel is stretching both ways at once as it looks to build a posher Yotel on top, and city-center pods at the bottom. That would let it pitch to almost every budget, all under Hilton\u2019s roof.",
+      "source": "Skift"
+    },
     {
       "title": "Southwest Airlines Slashes 2026 Profit Guidance on Higher Fuel Bills",
       "link": "https://skift.com/2026/10/21/southwest-slashes-2026-profit-guidance-on-higher-fuel-bills/",
@@ -49,18 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "Poland\u2019s Economic Rise Is Becoming a Travel Story Worth Watching",
-      "link": "https://skift.com/2026/10/21/polands-economic-rise-is-becoming-a-travel-story-worth-watching/",
-      "published": "Wed, 21 Oct 2026 13:30:00 +0000",
-      "summary": "More Polish households can afford to travel, and airlines, hotel owners, and lenders are backing additional capacity.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why the Best Corporate Travel Strategy Isn\u2019t Just About Spending Less",
-      "link": "https://skift.com/2026/10/21/corporate-travel-roi-managed-travel-investment/",
-      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "summary": "New ASTA and GBTA research suggests companies should evaluate corporate travel in relation to business performance, not simply as a cost line. Mark Meader of ASTA explains how benchmarking, policy flexibility, and travel management can help companies invest more strategically.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFQcER4RDhSRXcyeUpYUXZXMzJJM1ZEZ2Rrc09QY05veXQ2bXBxRV9pRVVObFd1bEVBODBkNE9RdEdna2pwaHd0VWV2NVNwSERwdGU4TGVLX1BGUXJ5NTFSQVA4aWhfUDNzVWJwWlF4VmNZbzJMcVRVRmp3Z0lFNVpuQmNRMXNTRzZEUg?oc=5",
+      "published": "Wed, 21 Oct 2026 17:52:04 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
       "title": "Over 1,537 flights delayed, 61 canceled amid widespread U.S. travel disruptions - NJ.com",
@@ -70,17 +77,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5",
-      "published": "Mon, 19 Oct 2026 01:46:50 GMT",
-      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
       "published": "Tue, 20 Oct 2026 16:52:51 GMT",
       "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlWREpXU3pNQUpPbldkeXN5STVKakVwNXRVY1B0VTBlelRwSndWUWczVUNoMDVIOU9Ra2ZqaVVvX3BvN2RzX1FqS09UX3ZqdGdpM2h2eGpIUUtzVlBoVDRoN1hibEFvRHhBOGJWU3p6U0pyTlFKWUs3QWZ1RXBFR2hDUlktYmda?oc=5",
+      "published": "Mon, 19 Oct 2026 01:46:50 GMT",
+      "summary": "Security Alert: U.S. Mission Saudi Arabia \u2013 October 18, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Why Has The US Issued Security Alerts Across Middle East? Flight Disruptions, Travel Risks Explained - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2tCNzhDUkFOaTRwbUlMLUNZZzZ1M1VkTlhBaUpBUVdSLUowM29CYVRXdjVicjczTXRCdkRlalUtdUdhMGgxQUxiT3FPQkRUempnSUxROVlzbVRUN3lBV285R1VuWGM5d09WRjliLTBwZkJxWmx3eXpYVHZXd2ZBUTNjNHo1UUptamRtdUhYTUhMY1dsNUs0RHUyTEZSNE5hTjZmWWRJc0syajdnT3JjN1RuTUxvMHpvTjhnRkxiRUhEb0I3b09IVE5ZNzQ2Z1VKY3RNTkMwSdIB3wFBVV95cUxQd3RNeVhVQ1NCNVh5aVNhbVRhNlFCelBIcHc4QkF5cjItTUFsRlBXamRGS2JHdmp4a2ROaW5kYl9oclg0S2JvUmNuNWNvUl92UnQyY3lub0l2dU4xYkNseU0xcExRSWtnV2NDV0staEZyQVJpVll3Vk55Z2tzNWhoRkdyRHluY0hnSXNfa1RGamlZV082OUFLV0RBMjQxSXEzQjJlNEQwYWNCUUxaSWJGM2d4VTE4Nlp2Z0w2QnNwekpuRVc2TzFFLXJJTzBZNE9uMEhhb29HalNEdTFfcVk0?oc=5",
-      "published": "Mon, 19 Oct 2026 08:50:58 GMT",
-      "summary": "Why Has The US Issued Security Alerts Across Middle East? Flight Disruptions, Travel Risks Explained&nbsp;&nbsp;NDTV Profit",
+      "title": "Typhoon Champi disrupts Japan travel: How to check flight cancellations, ferry alerts and airport updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM083cGYwb2FIMGhaZXpmZ1Z0WWphUU1oS21ONl81SW8zaXR6eEExcFdHVU5qak5XNFEzaUxjYVVPZ25helo5ODgtS2ZlTXpWc210M29TVGJtalpsYUF5dWtGMGJnRDdYa0hzMy0ta2JGSzdYQjd1SFFITHRmM0ZoTlJ2blFQN2tVSnZKcDlEV3k3XzR1OVpzMjk1VjAyenZfVGFPTjFmeVNVelpWUGpVOHNsU29WU3ZYZlFpVkJscmpTU3RnRFZRNUJJdWE1dTJJck5XTkhzY3QzVlM0TnBsSUNFSzI5VEY2TTFYVzBMWXM0WXR6YmpWY2JR0gH_AUFVX3lxTE11UDB6MU5uR1VndHNLUnZhRXlCVFpHSEt3aGpQS2lIUnFBZ1JHWVFsa1EzNmJDNUsyemFRWS1BOV9GS1loblNsNVJxRWVIVTd5SDlCTEFkY1ZLTDJ2UTlNSENIY2ZYUldHNDVGZGhkbzFpeWJIOGRiakdIeTR2UGJLVHduX2lRNmRqYktWZkkzNTBjd1Y4WTNjSTdyUkYzMGZYS1k5WGItOGZ5T1lvQ0hHUjRkWEo0WExET295RHBTbnF6a1YtZ0FHUHlVc3Axc3UybWhWaHNwalBJb3hYS0R2dWxRdi1weE5SRk5sZDJVcDNkZ1FrMW1SUE1KaVpFcw?oc=5",
+      "published": "Wed, 21 Oct 2026 14:06:32 GMT",
+      "summary": "Typhoon Champi disrupts Japan travel: How to check flight cancellations, ferry alerts and airport updates&nbsp;&nbsp;The Economic Times",
       "source": "Google News Travel"
     },
     {
-      "title": "US issues security alerts across 12 West Asian locations, warns of flight and airspace disruption - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnNDUFJtRDMwVVdQSktZa2RUS0xUOWJ4LS1qb0JfQjJLcE13YUoyUWFhU3ZoTnUySXJoR1dYZGdFanJFdDAwLTlVN3p0U2tBZDdhS0pVMFVvZnczTjc1TEotUVFodDJNeERrV3phem9vWkhJWlVCMzlDMWhwbVB3eDN4VDhGSEVZVkpVVzR3WVhGMmlIMlp0VXdpdFRTcV9NZ083N09WV1NiUzF5V2h2UkVWUEd0MV92clRTcElhelJvc1NKeVIzdXBFOVdGQ3pyWE5JRmJUVk10QdIB3wFBVV95cUxPQjJBLWR3WnJ0NGhMNE9Wd1F6SkhzMG12aEgzWU5aa3Nva2RuUl9VcFBFZzhzN3FBS3ltR0E5ZGFlNVBGQW5lVkhMdWh4aTdWS2p4TzhReUE2QzZMU1NuM1hQelhsUmNjM2xBV3FnOXEzdEdfdk55eGk3SjFNNWVHUUxVdXlVV2VLcTZrX2pIb2N3cXotY1MwRkFrN0x2M0k1QzdTdUFzQ2NzLVR0cG5iSU02RENFUEdtaXN0aUVrNGtBZ04wSGxsam5ybHgwaVhsRjZUU00zRktfRVVBd3l3?oc=5",
-      "published": "Mon, 19 Oct 2026 06:56:33 GMT",
-      "summary": "US issues security alerts across 12 West Asian locations, warns of flight and airspace disruption&nbsp;&nbsp;Firstpost",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
-      "published": "Mon, 19 Oct 2026 11:55:24 GMT",
-      "summary": "US issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.com",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 19, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0U2VE9XV0FJTFo2SEhlZjREakplNkJwcWtKUHFiUXhWQk04enVwM201SG92M0hVbXBYc0J0Ym1SdHp4ekgyUS1BWVFFcV9SWHJlN2t2eWk3Mk1HTDJ0SUJ0Tkt6eEJSVzNORlYtWG5WY2xFd0NZLVJLWmdSOUZ5aDRCSnFGN2Zfd3BDbA?oc=5",
+      "published": "Mon, 19 Oct 2026 20:06:55 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 19, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     }
   ]
