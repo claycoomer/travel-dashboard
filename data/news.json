@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-23T16:03:53.841054+00:00",
+  "last_updated": "2026-10-23T22:44:02.917563+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "What the Amex Travel-Airbnb Deal Means for Expedia",
+      "link": "https://skift.com/2026/10/23/what-the-amex-travel-airbnb-deal-means-for-expedia/",
+      "published": "Fri, 23 Oct 2026 20:49:45 +0000",
+      "summary": "On paper, Airbnb&apos;s exclusive short-term rental partnership with Amex Travel didn&apos;t change anything for Expedia because it wasn&apos;t supplying vacation rentals to Amex Travel. But Expedia&apos;s Vrbo has begun supplying vacation rentals to other B2B partners, and now t",
+      "source": "Skift"
+    },
+    {
+      "title": "Travel VC Funding Fell for the Second Straight Quarter, Rounds for AI Companies Cut in Half",
+      "link": "https://skift.com/2026/10/23/travel-vc-funding-fell-for-the-second-straight-quarter-rounds-for-ai-companies-cut-in-half/",
+      "published": "Fri, 23 Oct 2026 18:58:27 +0000",
+      "summary": "Travel&apos;s next dollar is shifting. Funding rounds steadily dropped quarter over quarter in 2026 while incumbents made targeted acquisitions. Though it&apos;s too early to say whether this is a long-term market movement, it&apos;s a clear sign of the times.",
+      "source": "Skift"
+    },
     {
       "title": "PS\u2019s CEO on Running the Private Terminal and the Power of Restraint",
       "link": "https://skift.com/2026/10/23/pss-ceo-on-running-the-private-terminal-and-the-power-of-restraint/",
@@ -49,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Accor Builds Caution Into Outlook Over France Unrest and Middle East",
-      "link": "https://skift.com/2026/10/22/accor-builds-caution-into-outlook-over-france-unrest-and-middle-east/",
-      "published": "Thu, 22 Oct 2026 21:54:43 +0000",
-      "summary": "Accor is guiding to a flat fourth quarter globally, partly out of caution after France&apos;s recent riots and uncertainty about wars in the Middle East.",
-      "source": "Skift"
-    },
-    {
-      "title": "NYC\u2019s Horse-Drawn Carriages To End by 2028",
-      "link": "https://skift.com/2026/10/22/new-york-city-horse-drawn-carriage-tourism-ending/",
-      "published": "Thu, 22 Oct 2026 21:24:09 +0000",
-      "summary": "New York is ending one of its most iconic tourist attractions. Pedicabs have been floated as an alternative, but lawmakers say that industry has its own issues.",
-      "source": "Skift"
-    },
-    {
-      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
-      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
-      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFQcER4RDhSRXcyeUpYUXZXMzJJM1ZEZ2Rrc09QY05veXQ2bXBxRV9pRVVObFd1bEVBODBkNE9RdEdna2pwaHd0VWV2NVNwSERwdGU4TGVLX1BGUXJ5NTFSQVA4aWhfUDNzVWJwWlF4VmNZbzJMcVRVRmp3Z0lFNVpuQmNRMXNTRzZEUg?oc=5",
       "published": "Wed, 21 Oct 2026 17:52:04 GMT",
       "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 21, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Air Canada cancels all flights to this U.S. market: Here\u2019s why - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck1jWHNNdHgxSFVyRzkxbXAtQ3dycGE0R0VIa2RRdnR0UWpRcnBvYVliRDk1blZBbnoxMlVYYk5VNXZjcmV2SjhDR2I1TWF3THlXREtWZkVBRGpkWjhZOUFMdXo5ZVlGaGY1eDB1WVFBZmVPNXl0am9tSGwwZS1haEdxelZvQ0VteUFQU3MxT1RHa09QeFpZRXJ1TmFWSGdua19F0gG3AUFVX3lxTE5wZHN5andKOFdfWVNiRGpnZmc2czZHdmsycEFzUzJRQWVyY21rYURBNlFlaDNSODBwc0w3VXlTRTExQThla3lucVYxenZtMzV3cUh5Z055UHQweE5ub01SWkJDLVB0LTdkckd2OS11TE1nU1VMU1dKbk9aZGxwVGF3eXYyQlhqS3VlZDZsVUZ1bWZfVlNaSTU4ejZhdVFrNHZXM2pSUW5nWXFLbU50OUdoREZ0cERZSQ?oc=5",
-      "published": "Fri, 23 Oct 2026 15:40:00 GMT",
-      "summary": "Air Canada cancels all flights to this U.S. market: Here\u2019s why&nbsp;&nbsp;PennLive.com",
       "source": "Google News Travel"
     },
     {
@@ -91,31 +77,45 @@
       "source": "Google News Travel"
     },
     {
+      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
+      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
+      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 1,059 flights delayed, 58 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHIyc3EySkhWSkZwSGJPcEFIeXdQWDZGbUhnYUhydl82MmpRUGdUeTZRVXQ3b2NFQUZXLUdhYVVUQTFwVDR5NGNWODUyU3ZFb1F6ckhfZUJGU0EtUE5SRkJuWDRMRGY4UVMwcTV0ay1FOWVhbVZXUmpWRUJXcm5uMlRhNE9BekREOWJFTFZib2xpX00xcGNWQWNWTUx0SzJzbjUyYVVMOXozWGZCUmhvaW1B0gHGAUFVX3lxTE1Mb2drUmJXUXc3RlJLX1huWHc0Vlp0NmdQWDFYQWdFV0dDRnJLczNjSE5OT3hmWlJmb3Z5QTNOVWlnZ0J2NXlJRlFfU2swbE9VanYtSnpCOXVsV3ZCWjU4TmpQbFdVMFh1RWxFSWNFU3FPTXBab01jYWxoNDVRWHVDQnJHZkhVcjVfTDgzc2RIeGRkYnNuM2JqLTFNVkdkQzNTc0FYelBuSFQzcmlkNEJUTGFLbk5pYWFROXFHeVkzQzQ5aDhRZw?oc=5",
+      "published": "Thu, 22 Oct 2026 14:21:00 GMT",
+      "summary": "Over 1,059 flights delayed, 58 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Mk5WM2t0aV92YWxPeUduZzNtLTlvRV95WEhCY09RenRiWG1Qa2R3SzJoREViMjhtRU5hTzBwNnBVV0hqLWRqN3JMbXZCd3hIZ09BSFpsSEFKdUN2QmMyNmtoOXF3RHUyZ21TRUFmcWFZNTFEVndfWGlGUQ?oc=5",
+      "published": "Tue, 20 Oct 2026 19:41:20 GMT",
+      "summary": "U.S. ramps up warnings to Americans in Middle East after deadly Houthi strikes&nbsp;&nbsp;CBS News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "DCA ranks as worst large U.S. airport for flight disruptions; Dulles also in top 10 - WJLA",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPUW56dUhoRHllNHp3UnNUUGpzN1VnaEZRcndZU1NWZnpoOFlkOUUxczBHZFJlWEYyVVlnM252M0lra0wzWjZaNm9EamVsVmxZcVUwLTFTTlYxMGFRWDBvd3JrdmszelhmRzRJZnB4Ty1OX1pEYW9YMjBiWEVCZDRVRWtKYzFMVnplSXFzRXl0QnZPSHhwUWlLU2lTVUpxNG9pN1pQMDNmWnJzSHJzY1F5NHN2LUVuQllsZmg2TlZJaW9XN3N2blY5Zi0zR0NudDNpX25wamVPN1AzVlRsd3Z2ODhoajM4b0plbGI2OFIyeXZSRUtsZTJMYnFVRkFsYkVMbnViaU9PWnJJTzN0LV9VclZabzBIX3RQTGNsMEJtZmpfMXM1dXVRSHlsaHhWV3hvV1dRcTZjWGxHYWxjanJuRU5xemJkaG00eE1rQmhJRTNpMWV6eFQ0R3Fad2dNZlpvTE5VTlJxb3gzZFZCSFBJVWNYMzBxUEVQeWpUNmRCWEJEdnRiaFlV?oc=5",
+      "published": "Fri, 23 Oct 2026 20:27:25 GMT",
+      "summary": "DCA ranks as worst large U.S. airport for flight disruptions; Dulles also in top 10&nbsp;&nbsp;WJLA",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "American Airlines Passenger Allegedly \u2018Rushed\u2019 a Flight Attendant, Forcing Plane to Make a U-Turn - People.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRF84VDFPZkZRVjNtbXFqTTQwM2VoRUxPamp1MFJBTXl6blNwMENRTjg3Y29JSE9VbDBadVI1aU9xeEgzR1kxUE5HeUswbXJvM29wRXJfQlJHMEZYWXlYdWpFQTJkSlE1YVhQczF5dUtxLUdwdm1ONmREZndDRTRDQjJsMWI0aFZmQmV0OTVBSG0zbTZwcEFSbWpaeFBOTVpwelNsWVAydURxTDUtNjh3SXpBYTR6Nmhf?oc=5",
+      "published": "Fri, 23 Oct 2026 17:30:11 GMT",
+      "summary": "American Airlines Passenger Allegedly \u2018Rushed\u2019 a Flight Attendant, Forcing Plane to Make a U-Turn&nbsp;&nbsp;People.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "U.S. warns visitors to this popular European country to \u2018exercise increased caution\u2019 - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0NIelJ5ZlpBenVSaExxSGlUS1hTY2RPWVdvWW0xUDdIRmFyaHhlcElXNWZfNElRdkY5UWtKWU9WWnJOaXFNRkxqdTFFZk9OQV9aakQ1TW1DVjl4a01aSFQ1dmhqQlJ4MmJVTVBMdnpjX0lOdV8zeTdNWEktbUFNd05sM1JIT3ExejFmcDM3dXF0WHBJVmptdmM3ejd4bnplR0FhSjBJNjhtaERaQ3phcmkxU2NGN2xHdGFrVg?oc=5",
       "published": "Fri, 23 Oct 2026 11:00:00 GMT",
       "summary": "U.S. warns visitors to this popular European country to \u2018exercise increased caution\u2019&nbsp;&nbsp;MLive.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Updates Level 2 Travel Advisory For Major Nation Before Holiday Travel - Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVFc1BEb1dhdEVVcTNaUVlyU3Rtc3BNcThGNlFjVGx0RWtnZERUNWF2NTFBREhXbElET2VyNVZ5RHB2dU54ZVJOTXY3c2JxYXFzZ2k2emhmQWF4UEpHdG11a2ttcTdEMDdHcHpUSXVvNzRkWkkxdHJIblc0WV9QWFRaRnRFbW1PY0JndzU1djZIOG1Hak9WOXhjcElETnNjNVR1ejVDRVRUOGEtZHc?oc=5",
-      "published": "Thu, 22 Oct 2026 21:03:52 GMT",
-      "summary": "U.S. Updates Level 2 Travel Advisory For Major Nation Before Holiday Travel&nbsp;&nbsp;Men's Journal",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Travelers Facing Flight Delays Have New Concerns, But Also New Options - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzlobUYwejJJOHJWWkRWVVNWSHJSRmxTV0YzbDhIbTY1U2w1MDZ2T2lORk44eWVLVHRsX182RGhXYWhkUEdTTGtDZWQ5VU4wWTcwZC1PbklrclB3b211d0w0bU13RmdwYndvUFJldG1QcktLNVU0YUxHalp3eG8tc1JwQVp1b3ZiZVVpbmREcVpvTXZkQ0RESTVBMkp0UFdmcXp3c2lRMXBON2twNUFJd2Y3SWljb3ZWRnBOelNfRzdKNkl1MlRHcVd3?oc=5",
-      "published": "Thu, 22 Oct 2026 16:07:00 GMT",
-      "summary": "Travelers Facing Flight Delays Have New Concerns, But Also New Options&nbsp;&nbsp;Morningstar",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Ordering Staff To Leave Saudi Arabia, WWE Crown Jewel Still Advertised for Riyadh - 411Mania.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXRwS3hqazkzeGFiLW5vcEpad0pkbHRCQVByNmNTaGZta0piNFRfYTNOMEZtaHF5c1Nwb2JIUjg3eTFmT08zTF9OYktrRFRZbmhVazh0RVBfYjB4Z2FPNnhpRnNqdGdPVURyZF9MQzNKeHMyRVhTRklPNktFbW9kWGtJVkJjdWNPVnc?oc=5",
-      "published": "Thu, 22 Oct 2026 01:47:57 GMT",
-      "summary": "U.S. Ordering Staff To Leave Saudi Arabia, WWE Crown Jewel Still Advertised for Riyadh&nbsp;&nbsp;411Mania.",
       "source": "Google News Travel"
     }
   ]
