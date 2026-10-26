@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-26T17:49:40.543473+00:00",
+  "last_updated": "2026-10-26T23:26:16.238342+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Beaten-Down JetBlue Shares Rebound as Carrier Says 2027 Profit Is on Track",
+      "link": "https://skift.com/2026/10/26/beaten-down-jetblue-shares-rebound-as-carrier-says-2027-profit-is-on-track/",
+      "published": "Mon, 26 Oct 2026 19:42:06 +0000",
+      "summary": "JetBlue shares rebounded after market on Monday after the carrier reaffirmed its long-term profit goals.",
+      "source": "Skift"
+    },
     {
       "title": "MakeMyTrip Uses an Air Travel Dip to Reach Beyond Flights",
       "link": "https://skift.com/2026/10/26/makemytrip-uses-an-air-travel-dip-to-reach-beyond-flights/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb\u2019s Amex Travel Deal Puts It Inside a Key Expedia B2B Channel",
-      "link": "https://skift.com/2026/10/23/what-the-amex-travel-airbnb-deal-means-for-expedia/",
-      "published": "Fri, 23 Oct 2026 20:49:45 +0000",
-      "summary": "On paper, Airbnb&apos;s exclusive short-term rental partnership with Amex Travel didn&apos;t change anything for Expedia because it wasn&apos;t supplying vacation rentals to Amex Travel. But Expedia&apos;s Vrbo has begun supplying vacation rentals to other B2B partners, and now t",
-      "source": "Skift"
-    },
-    {
       "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 25, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSU05aDdtTFZKM3VOYUhuZGxwUkV3SlBZUzdpRXRvWlVuSU1hQkZMcVlqcHVJWDI2blRyZm12YllxMDFvZTMzODZXV1dkal84T2Q3RkpjMkhxbnNlZXJYTHo5R29qY2ptVWRzaFU1VksxaXZONG9fOHJwVWYxcVgyZUg1cWxIMkNIRlN0Nw?oc=5",
       "published": "Sun, 25 Oct 2026 15:19:37 GMT",
@@ -84,17 +84,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: Saudi Arabia route cancellations continue despite Riyadh's airport reopening - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWw5MTUxV2k5TTVpTEZ3SjAwTFdJUjl6NVU1VXFUdDB1MGdLS0RFaEJOelhSQ0NDMWZ0VFNlWU9uWHEwT2xNcDRGWUt6aE5oRm9NVW1jeE5tUmM5YXdDa2c3RVNUWDhPcWZiR1Nqa2VLWkR1dEV6aXpVYlNRY3NNQzY5SmhtbGFBX1BWSkhqQWJBMm1ZRHRKWndEbGI2bnpxVWFmeklTQWU0ejh5czBBb2hqN1R1SXZWS3B3N3hZb1NiRElMVTBscEZtVFp6MURnS2dzTkE5d0JPSnBOWHhRbjVZOEhCZw?oc=5",
-      "published": "Mon, 26 Oct 2026 07:26:46 GMT",
-      "summary": "Dubai and Middle East flight disruption: Saudi Arabia route cancellations continue despite Riyadh's airport reopening&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "US issues sweeping Middle East travel advisory amid rising regional tensions - Middle East Online",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkpvdllCQ3JUT3NldVB1T1RaTWtzb3kzWjRUZDNPd0RQaHpuQ1FZYWF5dTJybjRsUjF6cFU2NmVOd0dzQnM3cXdvcnFTNkVJMjllRjZXZGhEcUlaOUNXVlpXTC1MOG42SmdPUkxWU1MzRXhvWVlXV0NoMkVFRTFKTkhuZ3BjMk9YajNvcFlCVUJpSC1VLV8wMlpCT2owMzFsUGdUc0FINFV0b1RaUHlN?oc=5",
       "published": "Sat, 24 Oct 2026 14:19:26 GMT",
       "summary": "US issues sweeping Middle East travel advisory amid rising regional tensions&nbsp;&nbsp;Middle East Online",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: Saudi Arabia route cancellations continue despite Riyadh's airport reopening - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWw5MTUxV2k5TTVpTEZ3SjAwTFdJUjl6NVU1VXFUdDB1MGdLS0RFaEJOelhSQ0NDMWZ0VFNlWU9uWHEwT2xNcDRGWUt6aE5oRm9NVW1jeE5tUmM5YXdDa2c3RVNUWDhPcWZiR1Nqa2VLWkR1dEV6aXpVYlNRY3NNQzY5SmhtbGFBX1BWSkhqQWJBMm1ZRHRKWndEbGI2bnpxVWFmeklTQWU0ejh5czBBb2hqN1R1SXZWS3B3N3hZb1NiRElMVTBscEZtVFp6MURnS2dzTkE5d0JPSnBOWHhRbjVZOEhCZw?oc=5",
+      "published": "Mon, 26 Oct 2026 07:26:46 GMT",
+      "summary": "Dubai and Middle East flight disruption: Saudi Arabia route cancellations continue despite Riyadh's airport reopening&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
