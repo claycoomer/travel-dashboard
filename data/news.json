@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-28T02:55:18.184912+00:00",
+  "last_updated": "2026-10-28T10:06:50.163314+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Travel Companies and DMOs Work to Patch Critical PHP Flaws",
+      "link": "https://skift.com/2026/10/28/php-security-flaw-impact-travel/",
+      "published": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "summary": "The scramble to patch a security flaw shows just how much smaller players in travel depend on outside vendors to keep their websites safe.",
+      "source": "Skift"
+    },
+    {
+      "title": "Saudi Giga Project Spending Shrinks. Hotel Developers Keep Building",
+      "link": "https://skift.com/2026/10/28/saudi-giga-project-spending-shrinks-hotel-developers-keep-building/",
+      "published": "Wed, 28 Oct 2026 04:30:00 +0000",
+      "summary": "Saudi Arabia is shrinking giga project budgets on Riyadh\u2019s event deadlines. Hotel developers are still building as if the old plan held, with pipelines up and skewed to luxury. That mismatch, plus cost inflation and security risk, is the bigger story for owners and brands.",
+      "source": "Skift"
+    },
     {
       "title": "Airbnb to Require Temporary Phone Numbers for Large Hosts and Guests",
       "link": "https://skift.com/2026/10/27/airbnb-to-require-temporary-phone-numbers-for-large-hosts-and-guests/",
@@ -49,73 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Travel\u2019s New Creator Economy: Why Brands Need Smarter Systems",
-      "link": "https://skift.com/2026/10/27/travels-new-creator-economy-why-brands-need-smarter-systems/",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "summary": "Travel brands are pouring more money into creators, but spend alone won\u2019t build an edge. The advantage will come from learning faster, measuring better, and turning what works into a repeatable system.",
-      "source": "Skift"
-    },
-    {
-      "title": "Lanserhof\u2019s Medical Resorts Look Beyond Weight Loss and Longevity Fads",
-      "link": "https://skift.com/2026/10/27/lanserhofs-medical-resorts-think-beyond-weight-loss-and-longevity-fads/",
-      "published": "Tue, 27 Oct 2026 12:54:35 +0000",
-      "summary": "Lanserhof&apos;s sharpest longevity pitch is restraint: knowing what a guest needs, and what they don&apos;t. A \u20ac95 million investment and plans beyond Europe will test whether the business can keep the medical judgment and personal attention behind that promise.",
-      "source": "Skift"
-    },
-    {
-      "title": "Deadly security risks prompt updated travel warnings for 13 countries - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVktFcmJtYVVjcEJSTFJfSzdjZURjSnVHZGd1SFliTnl0b3pGcER0dlVQbUstX2puSmQyU1hheFlxcV8teXlQUjNhRDA5YlpORTFqY0FJRldHWUVoX1hGLTNabFFXZmN4Vnl3RHJWYkNGMWtxc3p5ZVFGanAyWDZudldCZHlZMFoxQU1VbG41OHZ3dG91SVM2MUJTRHHSAaIBQVVfeXFMTUdtVl9QT2FueVVKZ2hTaXhRWFA0TEExbm5Gbm1wcElDZUJPdW1pVExUaHFCZDhuREJST1hKQmVQRG9HTkdiQjlzS09uTVFTYjhWVERDY1FWb3BNakhQRThuanJSOVVmZjg5dC1Uc0pfem1oLTl1X1V3Z0dXbGtuUl9TSzBCYmlBRVY2WHJOeFFpNmFyaVlrbDlxbFF4SWFEV29R?oc=5",
-      "published": "Mon, 26 Oct 2026 22:33:28 GMT",
-      "summary": "Deadly security risks prompt updated travel warnings for 13 countries&nbsp;&nbsp;Fox NewsAmericans warned to rethink travel to 13 countries amid deadly attacks&nbsp;&nbsp;New York PostSecurity Alert: U.S. Mission to Saudi Arabia \u2013 October 25, 2026&nbsp;&nbsp;U.S. Embassy & Consul",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 25, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSU05aDdtTFZKM3VOYUhuZGxwUkV3SlBZUzdpRXRvWlVuSU1hQkZMcVlqcHVJWDI2blRyZm12YllxMDFvZTMzODZXV1dkal84T2Q3RkpjMkhxbnNlZXJYTHo5R29qY2ptVWRzaFU1VksxaXZONG9fOHJwVWYxcVgyZUg1cWxIMkNIRlN0Nw?oc=5",
+      "published": "Sun, 25 Oct 2026 15:19:37 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 25, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "Nearly 2K flights delayed, several canceled amid US travel disruption - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcEk2TXlZTFpjemZCVU5tWVMzMG5yMkVxbkpNR1MxVmF6ek8xRDdwUUlZM21NRjVGZ2JoOFNLQVNuTEpUWVY4N1Zrd0YweHdGbm5aRGVnN2Rid1RZQm1teU9WaUJFU1ktSEdJWndwMUsyV1dUZElIWG5QaTdBM2lnS05MVFU4NjN1N2tHRjVldUFfeVJNXzMtQ2h6MG1iX05RazhPZ2JMVEVwRDMtWWxXdGJTeGVfSEFjXzdvd1Z1UjZmTnNMZzROcW12Wl9IamliNEtpNFpteDBOaGVKQ3dfZVpQVUpzVFhZNGd4Vm53b2VTbkg1Y0lxNEl3RUNQdFlXU1ZJS3NqUGlxcEFDdGtvVDFlT2tDVjIwcmFwNDhpYmlqaFZwVVVUdUszNFRoYmg4bk9VVmxvRnAwbE83OV9GelFfUUd5SVd4QlI2RS1pVGdYLTdwZ0h4d1FEQXh4Sm0ta1hsS3hB?oc=5",
-      "published": "Tue, 27 Oct 2026 20:55:07 GMT",
-      "summary": "Nearly 2K flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KOMO",
+      "title": "US updates travel warnings for 13 Middle Eastern countries - The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWk5KTnlGaUVUeEJmdmVVTGtoWGNjMmx1Mml2WlBLYl8xR1p1Z1pjNVlSemNnQ1Byc2xoSmdHZHJLUTZkajl5WDVwcmZQY1NKRW5lVy1pZFZIYWhrVXlfYmRNRTYyOEtuMGZxYVZER1QyUk80RWpvaE0wY2pVZG9aYTVJcWlCd3owOUhJ?oc=5",
+      "published": "Sun, 25 Oct 2026 13:36:17 GMT",
+      "summary": "US updates travel warnings for 13 Middle Eastern countries&nbsp;&nbsp;The New Arab",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 868 flights delayed, 39 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUlVV1N5Z1pTVlJ4TTN6LWJyMVFwcl9RelFqcktadHN6b0ZGS0xxWlo2NFNWZERJdElMVFRzblhyT1h2dE9CUGw1bEhUOU5Eb1pFWE5GMnY2MEk2dHY1YjNIWm96UTh1Y0o2SFYtN3NkU0pxM2lkeTFLVzRsOGxUZUV5NWFuTVRmckJsd0VwZzRjQm1nU19sbkNTZ2otVVFuRW1BRC1VNmt1bzdTMjN1SdIBxAFBVV95cUxPN2w2UTlCTzJiV3lVcklqZzFGanpneUNiaHczNkxMNjNsc28xUFd1aVptVW5ZUVM3THBDeG5mVkhIUzk4bTBHcDhmUFMzbjdrajhpSGNHbmlzYTVfU0gzM2JHZGdKeWhxTTlxeThHMEkzcmhtZ3hJRVRTT1l4RGxSOGhfajlnTUhQT2dVVlJLUjRTMnVYWlhDUVdaXzFaSzhBM3FCYVo4QkFqRG5LRmJUMURPTW1LQ094Z2Nwc3RCdUUyQzR2?oc=5",
-      "published": "Mon, 26 Oct 2026 14:35:00 GMT",
-      "summary": "Over 868 flights delayed, 39 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkVpd3pmQ2c5WW5KQi00cUt5bzZ4OVhEdVNvQk1HS2VGbDRfTkp0TUdUenpwa1dCazV4dmN3N0VWTXU0YWhBSlFxbWJ1RDQ4Sk1GQktWVmY4Yk9LZzhDTkpnSlRvaUkwdk5QVXk2YVVXbDkydTdLTmdXbkpyXzZpSjVvWjdyYllNWExmTmhDOUVjb1o3TjJFdG1Xd090OVUwcDhfVlo5dXVJa1BnOV91Ry1RVHk3M1VNdVM3RHZubVlZZw?oc=5",
+      "published": "Mon, 26 Oct 2026 10:46:26 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 462 Flights Delayed, 32 Canceled Amid Widespread U.S. Travel Disruptions - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN0RKcmhKODhNNFpfT3o1c29idFBVTU1TZ1IwRTFWRWpxTFAtUmlicnh2ZHhPVTVCVVFuX2YtOEI3LVNlTlkyWEdpNnJEU2g1akNaZDVaaHN1Wloza3hZNHozeFQ2aTV3dGxHekZ1YTlCekVNRXdNZGlOb3FtZWU0VXBR?oc=5",
-      "published": "Tue, 27 Oct 2026 19:16:08 GMT",
-      "summary": "Over 462 Flights Delayed, 32 Canceled Amid Widespread U.S. Travel Disruptions&nbsp;&nbsp;Yahoo",
+      "title": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlpDT3RfQ3h6MkJ6QmZ0TURTR3J1QmVOMWhSQnlRUUYxdUd1NldaN1dYQU96X0hNbU5VdmduQ0RNbnY5Wkx0UFh2bTJFcjRlQ3pkb09Pbm5hSnJkdnNwbmEzQ0tQS3VwckRIejJtSWExM3NJdV9tZWhWYXVKdU1ualctWnlWWjdOZW42bGhKSGozUmVFLWtlN0w4SHFqbWdabW5jemxnWkNXVHJnYlgtYdIBxAFBVV95cUxOcnlfYjVwaE5pNDFSTjgyU0VlLWdDUWc2MFNqcEFwTGpkSUlZTU1YdUZjWXp6V3VnTXBhemhPYUFfR3hvN1J0OC1vTGxFUl9oSmNsTGJpeVBJZEdsUUMyYlBPVXdUcGcwc3dVQ1N4QWVhR2J5UmZxenJaQXN2TU11Yk1Ua1NHVUU3Qm5mbmhBYzg5TWJld1BSV2xvY3pYWWFCSHMyQVJad1FmUVNYWnpxekhwdWlnUTk0a3lXVzAzMWZtN1VT?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
-      "title": "If your next flight gets delayed or canceled, compensation could look different - Marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlJya1hkaV9tbHdyclNHak1yd05IY0djcmlKU0VSWVpjN1AybzlQUmpiMWlwSXN5LXBoN3RMYUVzb2pPeEFNajJ6YW94UGlwOU5rZHFIZjFDdVlmblMwOHBoUWxPaFRKcDVSbl9pUGt1SHREck53Q3JwVWs3elhWc2JIOUZHN08ybmk0M0hEbXR6Tk45aUthaUFRcFQyMmVrYU5oNXNMY20yT1BQSVFIS08xc1BSZUk?oc=5",
-      "published": "Tue, 27 Oct 2026 15:11:00 GMT",
-      "summary": "If your next flight gets delayed or canceled, compensation could look different&nbsp;&nbsp;Marketplace.org",
+      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
+      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
+      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
-      "title": "US issues security alert, orders non-emergency staff to leave Saudi Arabia amid Houthi attacks - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONzNFS05KT0VPMmxMOXVEdmRISGxIaUJqdVo5ZFRuODJPVHJETFFEd3hpNDFWemxaYzUxa0F0eDlCZlFBQmk3RndEdjlyZWpQUjF3N0xRME5DUTdwenNUdUpEb0s2X3NOell4NG9qNnR5V3VvQnowNEFHTXBtRkRKMVVnQ1R6TFJoenhWTzhvbEJtUkZ5Q1h1Qm9veEpZYWpBQzAwNnBWY21NMTN2RlVScklZSnBXS21laWxleUJ2U250RjhvX3R6cF96ZnhwM053cmJrdEw3UW9MUVlNeUNfb0V0NnJ6YlFhVzEwSFMyWkNnc3VFTFVqWU1qbGZMUzNlOTNaX2dFdDLSAY4CQVVfeXFMTW1pTW1wRllOWVl3S3d6MUpNak1nczBtbW1TY2lGbkZtM0NKRE90cmNJdE9LamJyR0N2YjNOZkZDQ3ZSdkxPQlVhUnB1dW94QVdpMXdKeS1aZmRvYjZnQmlVWlJuMTZXNThHM1ZKMkdvYVNfTFNDZG5KSTVHQkFuMXotQWZwMThtSGtYMlVQZTlIdUhJU3c4VzJCamFteGxrNTlWM0JHckdoSEJjUUZXel8xZW1YNDQwWXlnOUtfSGdiSW5ndmgzY3dKMXFZQk5UcHRTdDhENnN6VUthOUlicTl3NjdrcUlEM25sT3RxVko2TjMtSGlZSjRpRjY1ZmJ4VV9jNW5yeVY0Z0l0MU9R?oc=5",
-      "published": "Sun, 25 Oct 2026 18:26:25 GMT",
-      "summary": "US issues security alert, orders non-emergency staff to leave Saudi Arabia amid Houthi attacks&nbsp;&nbsp;The Economic Times",
+      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassy Riyadh Issues New Security Alert, Advising US Citizens To \u2018Take Extreme Caution If You Choose To Use Airports In Saudi Arabia\u2019 - Fightful",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSXY5Wkg4RE5YZU5nc3pweEwtYVBFYjZ0MWRwTmJnWlpDOW1GeXB4akdCMTdpUjhNSlhCeTR2T0FBUG9YbVZuWkUtMjBwMTFXWERldFRLb3RJblQyMTMzc3pweUNPRXB5VWNvbWc0MUtIRC1RdXZ3MjdvMDU3UDB6ZXpZZmY1LWxybHlYU0d6ZUYwOVRLUjk3eW0ydmxMNXkxV1BoQ0MzQzdac01SMlpoWnN3OTZwak5lNVFRMGxhV3RKdEJySDM4d0JRTGJ0V04ycnBXSXpaMEVGUnVsQjVCUWRaaFhDS285cTZ6dVZLYUFrc2xnbFBzeklCbWNzcDdr?oc=5",
-      "published": "Sun, 25 Oct 2026 20:27:26 GMT",
-      "summary": "U.S. Embassy Riyadh Issues New Security Alert, Advising US Citizens To \u2018Take Extreme Caution If You Choose To Use Airports In Saudi Arabia\u2019&nbsp;&nbsp;Fightful",
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
-      "title": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMxS2FNYzNsRVAwaXVmcW1XYlU1VW8tUFdiQ2JRb2g4UEJWWktvZ2E4b1BfUGdZanNjOGZ2VnlFNHlGUXZGYnI3dkN1S0lCakp1c0JxMG1qeXNaNllzbE1IWDRENWphYW12emRmRW9lNVloTjZ2OHRveFpfb2x6M3BqSl9xUHM4aE1oSi15WVY3UEdyMWxYU05feDI3QQ?oc=5",
-      "published": "Tue, 27 Oct 2026 17:01:00 GMT",
-      "summary": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours&nbsp;&nbsp;CBS News",
+      "title": "U.S. government issues 'reconsider travel' advisory for entire region - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhLV0s1NEU1Q0hfLXk3N1psOGl3d3ZOZ1lFRmxuYUg1UXFFNWNhaXhlYTc1TWVwc3o4cGUzaERaSlBvZkZiXzVuY3B3M2Z2RUk3NHdqdktNV1VEYTIwUXlQaGE1ajVpeV93c3pRWkZPdkVPb1Q4UzU3MUp4WTh5QWRMb1U4VTFRaVlfRmh3S0NxNE9TTUNUQ2dHemYxbkE4b004OQ?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;Yahoo Finance",
       "source": "Google News Travel"
     }
   ]
