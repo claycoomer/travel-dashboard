@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-10-28T10:06:50.163314+00:00",
+  "last_updated": "2026-10-28T17:34:43.701569+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Why Luxury Escapes Puts Its Best Prices Behind a Paywall",
+      "link": "https://skift.com/2026/10/28/skift-commerce-summit-preview-luxury-escapes-adam-schwab/",
+      "published": "Wed, 28 Oct 2026 14:25:13 +0000",
+      "summary": "Travel customers switch platforms on price and inventory with little friction, and Luxury Escapes\u2019 CEO builds around that. His bet is a paid membership with a genuine paywall over partner pricing, a moat he expects to matter more as AI agents enter booking.",
+      "source": "Skift"
+    },
+    {
+      "title": "The New Math Behind Travel\u2019s AI Roll-Ups",
+      "link": "https://skift.com/2026/10/28/the-new-math-behind-travels-ai-roll-ups/",
+      "published": "Wed, 28 Oct 2026 13:30:00 +0000",
+      "summary": "AI could give travel consolidators a new way to improve the companies they buy. The question is whether the gains are real, repeatable, and worth the price of admission.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb.org Aims for 1 Million Free Nights a Year, Funded Partly by a Dime a Booking",
+      "link": "https://skift.com/2026/10/28/airbnb-org-aims-for-1-million-free-nights-a-year-funded-partly-by-a-dime-a-booking/",
+      "published": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "summary": "Is 10 cents per booking enough of a contribution? Well, it&apos;s more than Booking.com and Vrbo donate per stay.",
+      "source": "Skift"
+    },
+    {
+      "title": "Waymo Picks Ramp for Its First Business Travel Expense Partner: Exclusive",
+      "link": "https://skift.com/2026/10/28/waymo-picks-ramp-for-its-first-business-travel-expense-integration-exclusive/",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "summary": "Waymo\u2019s receipts will now flow straight into a spend platform used by more than 70,000 businesses. That should fix a pain point for road warriors, and it\u2019s a signal that Waymo wants a bigger slice of corporate travel.",
+      "source": "Skift"
+    },
+    {
+      "title": "Agoda Plugs Into Meta\u2019s Muse in Singapore and Japan",
+      "link": "https://skift.com/2026/10/28/agoda-plugs-into-metas-muse-in-singapore-and-japan/",
+      "published": "Wed, 28 Oct 2026 11:11:04 +0000",
+      "summary": "Agoda gives Booking Holdings a foothold in Meta\u2019s Muse in Singapore and Japan, while Expedia holds the hotel slot in North America. The real question is the economics: if Meta takes a fee, hotels could pay twice for the same booking.",
+      "source": "Skift"
+    },
     {
       "title": "Travel Companies and DMOs Work to Patch Critical PHP Flaws",
       "link": "https://skift.com/2026/10/28/php-security-flaw-impact-travel/",
@@ -28,39 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "A New CTO, a Nasdaq Move and AI Agents: Hilton Makes Its Tech Pitch",
-      "link": "https://skift.com/2026/10/27/a-new-cto-a-nasdaq-move-and-ai-agents-hilton-makes-its-tech-pitch/",
-      "published": "Tue, 27 Oct 2026 19:03:58 +0000",
-      "summary": "Hilton wants to be valued like a technology platform. Owners will judge it by whether lower distribution costs actually reach them.",
-      "source": "Skift"
-    },
-    {
-      "title": "Philippine Travel Tax Repeal Risks Tourism Funding Gap",
-      "link": "https://skift.com/2026/10/27/philippine-travel-tax-repeal-risks-tourism-funding-gap/",
-      "published": "Tue, 27 Oct 2026 17:37:21 +0000",
-      "summary": "Scrapping the Philippines\u2019 travel tax would make overseas trips cheaper but strip its tourism infrastructure agency of its main revenue source, with no replacement in the proposed 2027 budget.",
-      "source": "Skift"
-    },
-    {
-      "title": "JetBlue CEO Reaffirms Profit Targets, Says Distressed Bonds Reflect a \u2018Significant Disconnect\u2019",
-      "link": "https://skift.com/2026/10/27/jetblue-ceo-reaffirms-profit-targets-says-distressed-bonds-reflect-a-significant-disconnect/",
-      "published": "Tue, 27 Oct 2026 17:25:32 +0000",
-      "summary": "JetBlue shares bounced back after its third-quarter earnings calmed investor fears over a possible Chapter 11 bankruptcy.",
-      "source": "Skift"
-    },
-    {
-      "title": "Best Western\u2019s Parent Changes Its Name Again: From BWH to WorldHotels",
-      "link": "https://skift.com/2026/10/27/best-westerns-parent-changes-its-name-again-from-bwh-to-worldhotels/",
-      "published": "Tue, 27 Oct 2026 17:00:00 +0000",
-      "summary": "The parent company of the Best Western family of hotels has decided to rename itself WorldHotels to appeal to a broader range of travelers. Its toughest audience may be its own members.",
-      "source": "Skift"
-    },
-    {
-      "title": "Royal Caribbean Says Sandals Deal Can Help It Win Half of Guests\u2019 Travel Spend",
-      "link": "https://skift.com/2026/10/27/royal-caribbean-loyalty-push-third-quarter-earnings/",
-      "published": "Tue, 27 Oct 2026 16:22:43 +0000",
-      "summary": "Royal Caribbean Group wants a bigger slice of travelers\u2019 wallets. Close to half of guests this year are expected to be repeat customers, but executives see room for growth aided by plans to purchase a 50% stake in Sandals Resorts and Beaches Resorts. The cruise operator, which re",
-      "source": "Skift"
+      "title": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMxS2FNYzNsRVAwaXVmcW1XYlU1VW8tUFdiQ2JRb2g4UEJWWktvZ2E4b1BfUGdZanNjOGZ2VnlFNHlGUXZGYnI3dkN1S0lCakp1c0JxMG1qeXNaNllzbE1IWDRENWphYW12emRmRW9lNVloTjZ2OHRveFpfb2x6M3BqSl9xUHM4aE1oSi15WVY3UEdyMWxYU05feDI3QQ?oc=5",
+      "published": "Tue, 27 Oct 2026 17:01:00 GMT",
+      "summary": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours&nbsp;&nbsp;CBS News",
+      "source": "Google News Travel"
     },
     {
       "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 25, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
@@ -70,52 +77,45 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US updates travel warnings for 13 Middle Eastern countries - The New Arab",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWk5KTnlGaUVUeEJmdmVVTGtoWGNjMmx1Mml2WlBLYl8xR1p1Z1pjNVlSemNnQ1Byc2xoSmdHZHJLUTZkajl5WDVwcmZQY1NKRW5lVy1pZFZIYWhrVXlfYmRNRTYyOEtuMGZxYVZER1QyUk80RWpvaE0wY2pVZG9aYTVJcWlCd3owOUhJ?oc=5",
-      "published": "Sun, 25 Oct 2026 13:36:17 GMT",
-      "summary": "US updates travel warnings for 13 Middle Eastern countries&nbsp;&nbsp;The New Arab",
+      "title": "Deadly security risks prompt updated travel warnings for 13 countries - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVktFcmJtYVVjcEJSTFJfSzdjZURjSnVHZGd1SFliTnl0b3pGcER0dlVQbUstX2puSmQyU1hheFlxcV8teXlQUjNhRDA5YlpORTFqY0FJRldHWUVoX1hGLTNabFFXZmN4Vnl3RHJWYkNGMWtxc3p5ZVFGanAyWDZudldCZHlZMFoxQU1VbG41OHZ3dG91SVM2MUJTRHHSAaIBQVVfeXFMTUdtVl9QT2FueVVKZ2hTaXhRWFA0TEExbm5Gbm1wcElDZUJPdW1pVExUaHFCZDhuREJST1hKQmVQRG9HTkdiQjlzS09uTVFTYjhWVERDY1FWb3BNakhQRThuanJSOVVmZjg5dC1Uc0pfem1oLTl1X1V3Z0dXbGtuUl9TSzBCYmlBRVY2WHJOeFFpNmFyaVlrbDlxbFF4SWFEV29R?oc=5",
+      "published": "Mon, 26 Oct 2026 22:33:28 GMT",
+      "summary": "Deadly security risks prompt updated travel warnings for 13 countries&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkVpd3pmQ2c5WW5KQi00cUt5bzZ4OVhEdVNvQk1HS2VGbDRfTkp0TUdUenpwa1dCazV4dmN3N0VWTXU0YWhBSlFxbWJ1RDQ4Sk1GQktWVmY4Yk9LZzhDTkpnSlRvaUkwdk5QVXk2YVVXbDkydTdLTmdXbkpyXzZpSjVvWjdyYllNWExmTmhDOUVjb1o3TjJFdG1Xd090OVUwcDhfVlo5dXVJa1BnOV91Ry1RVHk3M1VNdVM3RHZubVlZZw?oc=5",
-      "published": "Mon, 26 Oct 2026 10:46:26 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Nearly 2K flights delayed, several canceled amid US travel disruption - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcEk2TXlZTFpjemZCVU5tWVMzMG5yMkVxbkpNR1MxVmF6ek8xRDdwUUlZM21NRjVGZ2JoOFNLQVNuTEpUWVY4N1Zrd0YweHdGbm5aRGVnN2Rid1RZQm1teU9WaUJFU1ktSEdJWndwMUsyV1dUZElIWG5QaTdBM2lnS05MVFU4NjN1N2tHRjVldUFfeVJNXzMtQ2h6MG1iX05RazhPZ2JMVEVwRDMtWWxXdGJTeGVfSEFjXzdvd1Z1UjZmTnNMZzROcW12Wl9IamliNEtpNFpteDBOaGVKQ3dfZVpQVUpzVFhZNGd4Vm53b2VTbkg1Y0lxNEl3RUNQdFlXU1ZJS3NqUGlxcEFDdGtvVDFlT2tDVjIwcmFwNDhpYmlqaFZwVVVUdUszNFRoYmg4bk9VVmxvRnAwbE83OV9GelFfUUd5SVd4QlI2RS1pVGdYLTdwZ0h4d1FEQXh4Sm0ta1hsS3hB?oc=5",
+      "published": "Tue, 27 Oct 2026 20:55:07 GMT",
+      "summary": "Nearly 2K flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KOMO",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlpDT3RfQ3h6MkJ6QmZ0TURTR3J1QmVOMWhSQnlRUUYxdUd1NldaN1dYQU96X0hNbU5VdmduQ0RNbnY5Wkx0UFh2bTJFcjRlQ3pkb09Pbm5hSnJkdnNwbmEzQ0tQS3VwckRIejJtSWExM3NJdV9tZWhWYXVKdU1ualctWnlWWjdOZW42bGhKSGozUmVFLWtlN0w4SHFqbWdabW5jemxnWkNXVHJnYlgtYdIBxAFBVV95cUxOcnlfYjVwaE5pNDFSTjgyU0VlLWdDUWc2MFNqcEFwTGpkSUlZTU1YdUZjWXp6V3VnTXBhemhPYUFfR3hvN1J0OC1vTGxFUl9oSmNsTGJpeVBJZEdsUUMyYlBPVXdUcGcwc3dVQ1N4QWVhR2J5UmZxenJaQXN2TU11Yk1Ua1NHVUU3Qm5mbmhBYzg5TWJld1BSV2xvY3pYWWFCSHMyQVJad1FmUVNYWnpxekhwdWlnUTk0a3lXVzAzMWZtN1VT?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "If your next flight gets delayed or canceled, compensation could look different - Marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlJya1hkaV9tbHdyclNHak1yd05IY0djcmlKU0VSWVpjN1AybzlQUmpiMWlwSXN5LXBoN3RMYUVzb2pPeEFNajJ6YW94UGlwOU5rZHFIZjFDdVlmblMwOHBoUWxPaFRKcDVSbl9pUGt1SHREck53Q3JwVWs3elhWc2JIOUZHN08ybmk0M0hEbXR6Tk45aUthaUFRcFQyMmVrYU5oNXNMY20yT1BQSVFIS08xc1BSZUk?oc=5",
+      "published": "Tue, 27 Oct 2026 15:11:00 GMT",
+      "summary": "If your next flight gets delayed or canceled, compensation could look different&nbsp;&nbsp;Marketplace.org",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Issues New Travel Warnings for Multiple Countries - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZ5UnlzYzBsYnFXT2dfUDk1VWJINWlsNDh2bUZNOVV0ckpBeTNDZm1GRkZjVWx3NmtsRXdEWS1ZMUdHT01MZmd1X2NyRVRLako4TjR6anNrTWdVLUR3QWhaN1JJMXM2VVM5ZGJFQzRLdnFUWXYxeFFESXVzUWoyTjlZUkFaYmNLNWEteUNFWWpmZw?oc=5",
-      "published": "Tue, 20 Oct 2026 16:52:51 GMT",
-      "summary": "U.S. Issues New Travel Warnings for Multiple Countries&nbsp;&nbsp;Fodors Travel Guide",
+      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnhIbVIwZXQ4aUdQS1hkZ3ZLRk5JNWVxQ25TZ3VIYUkzejZSVjdheEdtSXluNTNpaWdEcnJzazE3MkkzWS1kWTdueEZvQldLRGJYSGw1aWczU1Q1Z3JOa3dUcDVrOTZ5bDFhcF9kb0FUYzhHX1FQQUZ3ZXJlMGxJcWp0NjZTczBQWkR0Y1ZMQ3VjS0tuWXhScDI0NnRueXgyQ3dDZUdPSVVvR2xpSWpXMzlB?oc=5",
+      "published": "Tue, 27 Oct 2026 03:20:00 GMT",
+      "summary": "Americans warned to rethink travel to 13 countries amid deadly attacks&nbsp;&nbsp;New York Post",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "title": "Fog-related ground stop at DIA leads to hundreds of flight delays - 9News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXhiS2htZ0hrMVJ3SWlYM0VzeWF5bmxha25qa0U2UjU1NlR4a2loY3dfTkFWeEh5M0F0dS1YMFdYZDZ4Sjh1dUVxYWd1YkFBdlNaOTczUWRjWFYtZUx3S1hTMEc3YkcyTG03TEo0M05tS205Nmx0c2RjeEFubktSMG14dFNmaTJqTkl3T3oxQm10cWNGVlNBLUYxbnVGbzJpclR1OF9JMEhoQXVlSUZsTXFXT3RuY3c3bHc1LVBQZkFTQTdqWHJwMG8xcEdLN25UUkVxY013?oc=5",
+      "published": "Tue, 27 Oct 2026 21:44:00 GMT",
+      "summary": "Fog-related ground stop at DIA leads to hundreds of flight delays&nbsp;&nbsp;9News",
       "source": "Google News Travel"
     },
     {
-      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. government issues 'reconsider travel' advisory for entire region - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhLV0s1NEU1Q0hfLXk3N1psOGl3d3ZOZ1lFRmxuYUg1UXFFNWNhaXhlYTc1TWVwc3o4cGUzaERaSlBvZkZiXzVuY3B3M2Z2RUk3NHdqdktNV1VEYTIwUXlQaGE1ajVpeV93c3pRWkZPdkVPb1Q4UzU3MUp4WTh5QWRMb1U4VTFRaVlfRmh3S0NxNE9TTUNUQ2dHemYxbkE4b004OQ?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;Yahoo Finance",
+      "title": "Nearly 800 flights delayed, several canceled amid US travel disruption - KBOI",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNc3RSUFdXS2s0V05xRXg4Y1MxNFkySi11Q1JmQjk2T1lGRmt5WlhUY1FLTmMtcG4wQ01hQWppTkJodGhFb2pWY2ljM05ad190akh1WEc4S2dUeXlUd25qUzBXYlFqSTJPbFNMZUQtak5MNFFQZlVXQXhZUUp2blRvM1l1MTQ3YVhnMllmelc0eHZoYWxZWnZESEh6SVpaZDh5b1JvNjNGYm1ud0p3Wms2TVNfaFh4SzJocWdzX0MzM3JfTEQ1dWJoS1ZHNjlyUFhBVHgzU29CU0hwb190VzhCaXF3YUVXNDVUSDJDbzdiY2lPRFNRdU1xc2tMU3Z2VEI4dklPd3RLSk1rTW5WbUZDZ0ZLNVBkM0JnT3NOYlk1V3NBcFBEOV84b3VZNko5UnI1ZG9IS1Q4QklMenRlUlRDaEtpOUF2emotR2lVa0xmZUZqaW9zU1pnVEJUZV9rN1FtSmx0TTFnZw?oc=5",
+      "published": "Tue, 27 Oct 2026 15:37:53 GMT",
+      "summary": "Nearly 800 flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KBOI",
       "source": "Google News Travel"
     }
   ]
