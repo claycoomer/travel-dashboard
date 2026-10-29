@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-10-29T10:31:57.854862+00:00",
+  "last_updated": "2026-10-29T17:44:15.429852+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Hyatt Raises Outlook, but Its All-Inclusives Lag",
+      "link": "https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/",
+      "published": "Thu, 29 Oct 2026 17:41:07 +0000",
+      "summary": "When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.",
+      "source": "Skift"
+    },
+    {
+      "title": "Norwegian Cruise Line\u2019s Turnaround Shows Early Traction After Activist Shakeup",
+      "link": "https://skift.com/2026/10/29/norwegian-cruise-lines-third-quarter-earnings-turnaround-progress/",
+      "published": "Thu, 29 Oct 2026 17:01:53 +0000",
+      "summary": "Better close-in demand, cost cuts, and second-half 2027 bookings on par with last year at higher prices suggest Norwegian Cruise Line&apos;s turnaround plan is starting to take hold, but the company still trails rivals that are already growing yields.",
+      "source": "Skift"
+    },
+    {
+      "title": "IndiGo\u2019s Willie Walsh Wants More Revenue From Every Passenger",
+      "link": "https://skift.com/2026/10/29/indigos-willie-walsh-wants-more-revenue-from-every-passenger/",
+      "published": "Thu, 29 Oct 2026 15:03:27 +0000",
+      "summary": "IndiGo\u2019s answer to losing passengers is the Ryanair model of earning more from each one. But Ryanair\u2019s extras depend on European rules. Walsh himself concedes India\u2019s rules do put limits on that playbook.",
+      "source": "Skift"
+    },
+    {
+      "title": "Which Airlines Are Still Skipping Dubai This Winter",
+      "link": "https://skift.com/2026/10/29/which-airlines-are-still-skipping-dubai-this-winter/",
+      "published": "Thu, 29 Oct 2026 14:15:22 +0000",
+      "summary": "Dubai\u2019s airport is busy, but the long-haul airlines that fill its luxury hotels are mostly staying out until spring. Hotels organizing around a European winter rebound need to plan for a later one.",
+      "source": "Skift"
+    },
+    {
+      "title": "MGM Resorts Sees Lost Pricing Power in Las Vegas as Travel Costs Bite",
+      "link": "https://skift.com/2026/10/29/mgm-resorts-sees-lost-pricing-power-in-las-vegas-as-travel-costs-bite/",
+      "published": "Thu, 29 Oct 2026 14:08:02 +0000",
+      "summary": "Higher transportation costs appear to be squeezing Las Vegas hotels\u2019 pricing power. Yet convention business has helped offset weaker leisure demand in some months",
+      "source": "Skift"
+    },
+    {
+      "title": "Why AI Agents Could Become Travel\u2019s New Digital Front Door: Watch Video",
+      "link": "https://skift.com/2026/10/29/ai-agents-travel-digital-front-door/",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "summary": "At Skift Global Forum, Sierra CEO Bret Taylor argued that AI agents could connect booking, service, sales, and loyalty into a more seamless customer relationship, organized around the traveler rather than a company\u2019s internal structure.",
+      "source": "Skift"
+    },
     {
       "title": "Hosts Say Airbnb Won\u2019t Remove Unfair Reviews. Guests Say It Removes Too Many.",
       "link": "https://skift.com/2026/10/29/short-term-rental-review-disputes/",
@@ -21,101 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Would You Pay for Hotel Loyalty? 485,000 Accor Members in Asia Pacific Already Do",
-      "link": "https://skift.com/2026/10/28/would-you-pay-for-hotel-loyalty-485000-accor-members-in-asia-pacific-already-do/",
-      "published": "Thu, 29 Oct 2026 03:00:00 +0000",
-      "summary": "Paid loyalty is gaining traction in Asia Pacific, where subscriptions are already a habit. Accor is treating its 485,000-member program as a revenue channel, not a discount scheme. The real test is renewals, and those are only now arriving in volume.",
-      "source": "Skift"
-    },
-    {
-      "title": "\u2018We\u2019re Done\u2019: MGM Resorts Ends Merger Talks With Barry Diller\u2019s People Inc.",
-      "link": "https://skift.com/2026/10/28/were-done-mgm-resorts-ends-merger-talks-with-barry-dillers-people-inc/",
-      "published": "Wed, 28 Oct 2026 23:23:27 +0000",
-      "summary": "A new pact between MGM Resorts and Barry Diller&apos;s People Inc. effectively ends merger talks. It&apos;s uncertain who else might want to buy an operator whose Las Vegas resorts have been sliding for two years.",
-      "source": "Skift"
-    },
-    {
-      "title": "Vrbo Launches Reserve Now, Pay Later \u2014 With a Twist on Airbnb\u2019s Approach",
-      "link": "https://skift.com/2026/10/28/vrbo-launches-reserve-now-pay-later-with-a-twist-on-airbnbs-approach/",
-      "published": "Wed, 28 Oct 2026 21:00:00 +0000",
-      "summary": "Paying nothing up-front has been one of Airbnb&apos;s clearest growth levers. Will Vrbo get the substantial lift that Airbnb got when it introduced Reserve Now, Pay Later last year?",
-      "source": "Skift"
-    },
-    {
-      "title": "Marriott Confirms Corporate Job Cuts",
-      "link": "https://skift.com/2026/10/28/marriott-confirms-corporate-job-cuts/",
-      "published": "Wed, 28 Oct 2026 20:34:47 +0000",
-      "summary": "Marriott is cutting corporate jobs, not hotel staff, in a global restructuring. Some affected workers may land newly posted roles, it says.",
-      "source": "Skift"
-    },
-    {
-      "title": "Frontier\u2019s Fares Soar, But Spirit\u2019s Exit Hasn\u2019t Fixed Its Profit Problem",
-      "link": "https://skift.com/2026/10/28/frontiers-fares-soar-but-spirits-exit-hasnt-fixed-its-profit-problem/",
-      "published": "Wed, 28 Oct 2026 20:02:20 +0000",
-      "summary": "Spirit&apos;s collapse has given Frontier room to raise fares and attract more passengers \u2013 but record revenues have yet to translate into meaningful profits.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why Luxury Escapes Puts Its Best Prices Behind a Paywall",
-      "link": "https://skift.com/2026/10/28/skift-commerce-summit-preview-luxury-escapes-adam-schwab/",
-      "published": "Wed, 28 Oct 2026 14:25:13 +0000",
-      "summary": "Travel customers switch platforms on price and inventory with little friction, and Luxury Escapes\u2019 CEO builds around that. His bet is a paid membership with a genuine paywall over partner pricing, a moat he expects to matter more as AI agents enter booking.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: international airlines extend route cancellations as Saudi continues to intercept attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQTAzT3picUd6MnNxU2NXZVRBdlhhWU9RTFl5MFpuZVhoTWdhemc0VFk5Mk1VbXlOemdiTlEwc2NzWlNfZTJ5aDNpT1pyTHAxMTAzOHNLVzBQSXlkUnRWeVZYdEMwZjdOaFBUanpBRzdjMFp1SUlUcDBtTGlfOEFpSjBrMkVXN0l3MEdoamZYRG1OWlV0VjljSEFSV3JWZF94YWt3cFlaUnNBZVFXRkV3STF6ZTd5TUJWYmM2QmJpcEFLa1NrLUZJejhNSEhYaXItdzFqUUNTZXlNb3lIUmFEeE42WnZJejhUbWsyVGRtb1NtTll6T2ZpMw?oc=5",
-      "published": "Wed, 28 Oct 2026 08:00:17 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend route cancellations as Saudi continues to intercept attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Deadly security risks prompt updated travel warnings for 13 countries - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVktFcmJtYVVjcEJSTFJfSzdjZURjSnVHZGd1SFliTnl0b3pGcER0dlVQbUstX2puSmQyU1hheFlxcV8teXlQUjNhRDA5YlpORTFqY0FJRldHWUVoX1hGLTNabFFXZmN4Vnl3RHJWYkNGMWtxc3p5ZVFGanAyWDZudldCZHlZMFoxQU1VbG41OHZ3dG91SVM2MUJTRHHSAaIBQVVfeXFMTUdtVl9QT2FueVVKZ2hTaXhRWFA0TEExbm5Gbm1wcElDZUJPdW1pVExUaHFCZDhuREJST1hKQmVQRG9HTkdiQjlzS09uTVFTYjhWVERDY1FWb3BNakhQRThuanJSOVVmZjg5dC1Uc0pfem1oLTl1X1V3Z0dXbGtuUl9TSzBCYmlBRVY2WHJOeFFpNmFyaVlrbDlxbFF4SWFEV29R?oc=5",
+      "published": "Mon, 26 Oct 2026 22:33:28 GMT",
+      "summary": "Deadly security risks prompt updated travel warnings for 13 countries&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlpDT3RfQ3h6MkJ6QmZ0TURTR3J1QmVOMWhSQnlRUUYxdUd1NldaN1dYQU96X0hNbU5VdmduQ0RNbnY5Wkx0UFh2bTJFcjRlQ3pkb09Pbm5hSnJkdnNwbmEzQ0tQS3VwckRIejJtSWExM3NJdV9tZWhWYXVKdU1ualctWnlWWjdOZW42bGhKSGozUmVFLWtlN0w4SHFqbWdabW5jemxnWkNXVHJnYlgtYdIBxAFBVV95cUxOcnlfYjVwaE5pNDFSTjgyU0VlLWdDUWc2MFNqcEFwTGpkSUlZTU1YdUZjWXp6V3VnTXBhemhPYUFfR3hvN1J0OC1vTGxFUl9oSmNsTGJpeVBJZEdsUUMyYlBPVXdUcGcwc3dVQ1N4QWVhR2J5UmZxenJaQXN2TU11Yk1Ua1NHVUU3Qm5mbmhBYzg5TWJld1BSV2xvY3pYWWFCSHMyQVJad1FmUVNYWnpxekhwdWlnUTk0a3lXVzAzMWZtN1VT?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGVBUWdBTkFqVVBlMUNJUHBsVW42RlE1ZmpvMUlpN1RJN0drNE42M3Nqbks2VXNCU2JpS21mN2lMYjRUeXp4V1JuSk8wZnVsNlZVQWxwM1puNEJRbVBoWkhOTC12ZDlpaFpzVUtEdEttUjN2U0FPZDE0SUdYcXBUOVhpYUVZSkJ1QndlYg?oc=5",
+      "published": "Wed, 28 Oct 2026 15:23:45 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "title": "Nearly 2K flights delayed, several canceled amid US travel disruption - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcEk2TXlZTFpjemZCVU5tWVMzMG5yMkVxbkpNR1MxVmF6ek8xRDdwUUlZM21NRjVGZ2JoOFNLQVNuTEpUWVY4N1Zrd0YweHdGbm5aRGVnN2Rid1RZQm1teU9WaUJFU1ktSEdJWndwMUsyV1dUZElIWG5QaTdBM2lnS05MVFU4NjN1N2tHRjVldUFfeVJNXzMtQ2h6MG1iX05RazhPZ2JMVEVwRDMtWWxXdGJTeGVfSEFjXzdvd1Z1UjZmTnNMZzROcW12Wl9IamliNEtpNFpteDBOaGVKQ3dfZVpQVUpzVFhZNGd4Vm53b2VTbkg1Y0lxNEl3RUNQdFlXU1ZJS3NqUGlxcEFDdGtvVDFlT2tDVjIwcmFwNDhpYmlqaFZwVVVUdUszNFRoYmg4bk9VVmxvRnAwbE83OV9GelFfUUd5SVd4QlI2RS1pVGdYLTdwZ0h4d1FEQXh4Sm0ta1hsS3hB?oc=5",
+      "published": "Tue, 27 Oct 2026 20:55:07 GMT",
+      "summary": "Nearly 2K flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KOMO",
       "source": "Google News Travel"
     },
     {
-      "title": "UK Foreign Office issues new travel advice for Middle East including Turkey and Egypt - Wales Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEZaUmI0TGdvS0hvLWl5WTc5dVdxVm5VU2JpRGh3RnBXaXJfODRwY0hmTEVTNnUzQVQtWW9WNGgyR00wVVpTN1BxWWdzRkFxb2p5czRhMHNzdFYycXFiUW1HUW1SSGhqTDdNVFcwTGQzVGdUdEY0S1pVRl9iSzNTV0s2eUN4LTBhTVBn0gGQAUFVX3lxTE9idzF0dVNNbDdKLTNraHlUeG1wVVBQRWREUEF3UTZSb2V6S3FiRjZLTTdrQU12SHVPNjBITnU4MThUWEhZNkNrMjFQQXc3R0M5bGExb2NPOTFWcEZOZ283bWh1Y2ZUa1VZVUFDdjJNWXVZTWRJclNLSDVfR09Oc3pSMTVqSjlqOXZqUThiZTFBWg?oc=5",
-      "published": "Wed, 28 Oct 2026 14:22:00 GMT",
-      "summary": "UK Foreign Office issues new travel advice for Middle East including Turkey and Egypt&nbsp;&nbsp;Wales Online",
+      "title": "Las Vegas Flight Executes a Mid-Air U-Turn Over a Passenger Threat - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpaYnNUWnlvVlg5TmZvNnlpQUpDamhDbDg1aXhQRUxHQ2pDNnpod1J4c0ZPY2hZOFE3NU1wZG11ekxkdXc2TXplNDNQUFF0SGdfajF4Q2I5QXhGa29LTWF0Vk5rLVI4VTU2dlVuVmZsS2l5UzlWWmxCaUx2clZxa1g1enBmZXVvUWtr?oc=5",
+      "published": "Thu, 29 Oct 2026 11:37:00 GMT",
+      "summary": "Las Vegas Flight Executes a Mid-Air U-Turn Over a Passenger Threat&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
-      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
+      "title": "American airline scraps 20 nonstop routes serving popular vacation state as passengers face disruption - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjk4OHEwVHdUbFFpLXBVaUhSRVRPZVFOVXp0clhPZUhMNVhLX09SS2x5QXFSWkNUU3ZUVEhIcE5laDdxSnVJRjZDV0N2d0tza0xfR3czLXlLdm5rejVvcXRENDYxUUpiWjFYTFFkR1FVMHd5VFVfQzAtdDdKTlQ1T01uWTFWTmNYaXNJUHNyTXZRWlhUdDhJ?oc=5",
+      "published": "Wed, 28 Oct 2026 12:12:10 GMT",
+      "summary": "American airline scraps 20 nonstop routes serving popular vacation state as passengers face disruption&nbsp;&nbsp;The Sun",
       "source": "Google News Travel"
     },
     {
-      "title": "Foreign Office updates Middle East travel guidance over \u2018regional tensions\u2019 - Travel Weekly - Home",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmZmR2RlMDRKeE5JYkdZb2syVXZBUDJKbFNNWkNQem8zdklBWUZUeXN1aUtidEhhODhsR1ZvcXJwdW9vTmdNbUZtQXBiWnhNQ3pKempkU01uVG8yWnBqbDhMTXE5ZFVqNjlHYXZuVjZkY2ZaY1pkQmsyY0l5Tnl4QWNzWUctcXktZHhZOGhHei1YWEVDcDlFMzBtWE5BZ1BaOEExMURBTnY?oc=5",
-      "published": "Wed, 28 Oct 2026 06:27:00 GMT",
-      "summary": "Foreign Office updates Middle East travel guidance over \u2018regional tensions\u2019&nbsp;&nbsp;Travel Weekly - Home",
+      "title": "Delayed holiday flyers could benefit from deferred federal airline rule - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FraFAzRFg3MDAzenRMQU9kcW9QUnRfSWVLS0JVajRoRDJHeGFtU3V4R2h5V3VkLUxmZTBvMlpFcEdPX0hNZ1ZzMUdyNUJacmMyWEdrRFpqQWFkWl9leFBoWWltWHJZNTBZRTNfR1F1amxabU05dkdUVFdmSEE1Tmxsc3MxUDRHMVdIZWRZajRZTnhHQXZjNDBUc0hJcllxNXR1MnQ4Si1LN1kzQUNQYUR3?oc=5",
+      "published": "Thu, 29 Oct 2026 17:25:56 GMT",
+      "summary": "Delayed holiday flyers could benefit from deferred federal airline rule&nbsp;&nbsp;WTOP News",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "title": "If your next flight gets delayed or canceled, compensation could look different - Marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlJya1hkaV9tbHdyclNHak1yd05IY0djcmlKU0VSWVpjN1AybzlQUmpiMWlwSXN5LXBoN3RMYUVzb2pPeEFNajJ6YW94UGlwOU5rZHFIZjFDdVlmblMwOHBoUWxPaFRKcDVSbl9pUGt1SHREck53Q3JwVWs3elhWc2JIOUZHN08ybmk0M0hEbXR6Tk45aUthaUFRcFQyMmVrYU5oNXNMY20yT1BQSVFIS08xc1BSZUk?oc=5",
+      "published": "Tue, 27 Oct 2026 15:11:00 GMT",
+      "summary": "If your next flight gets delayed or canceled, compensation could look different&nbsp;&nbsp;Marketplace.org",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkVpd3pmQ2c5WW5KQi00cUt5bzZ4OVhEdVNvQk1HS2VGbDRfTkp0TUdUenpwa1dCazV4dmN3N0VWTXU0YWhBSlFxbWJ1RDQ4Sk1GQktWVmY4Yk9LZzhDTkpnSlRvaUkwdk5QVXk2YVVXbDkydTdLTmdXbkpyXzZpSjVvWjdyYllNWExmTmhDOUVjb1o3TjJFdG1Xd090OVUwcDhfVlo5dXVJa1BnOV91Ry1RVHk3M1VNdVM3RHZubVlZZw?oc=5",
-      "published": "Mon, 26 Oct 2026 10:46:26 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMxS2FNYzNsRVAwaXVmcW1XYlU1VW8tUFdiQ2JRb2g4UEJWWktvZ2E4b1BfUGdZanNjOGZ2VnlFNHlGUXZGYnI3dkN1S0lCakp1c0JxMG1qeXNaNllzbE1IWDRENWphYW12emRmRW9lNVloTjZ2OHRveFpfb2x6M3BqSl9xUHM4aE1oSi15WVY3UEdyMWxYU05feDI3QQ?oc=5",
+      "published": "Tue, 27 Oct 2026 17:01:00 GMT",
+      "summary": "Heavy fog caused ground delays, stops at Denver International Airport for at least 8 hours&nbsp;&nbsp;CBS News",
       "source": "Google News Travel"
     }
   ]
