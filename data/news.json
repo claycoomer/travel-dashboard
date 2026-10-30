@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-30T17:24:45.044187+00:00",
+  "last_updated": "2026-10-30T23:20:58.855930+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Disney Cuts More Than 100 Jobs In Theme Park Division",
+      "link": "https://skift.com/2026/10/30/disney-job-cuts-experiences-theme-parks/",
+      "published": "Fri, 30 Oct 2026 22:28:20 +0000",
+      "summary": "CEO Josh D\u2019Amaro has said he is highly focused on reducing costs at the media giant.",
+      "source": "Skift"
+    },
+    {
+      "title": "Alaska Airlines to Lay Off 200 Employees as It Forecasts a Loss in 2026",
+      "link": "https://skift.com/2026/10/30/alaska-airlines-to-lay-off-200-employees/",
+      "published": "Fri, 30 Oct 2026 21:52:24 +0000",
+      "summary": "Higher fuel costs have eaten into Alaska\u2019s profits and now the carrier says it will cut 200 back office roles to help with cost control.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hyatt in Trademark Clash With Hilton Over \u2018Select\u2019 in Hotel Brand Names",
+      "link": "https://skift.com/2026/10/30/hyatt-in-trademark-clash-with-hilton-over-select-in-hotel-brand-names/",
+      "published": "Fri, 30 Oct 2026 19:55:58 +0000",
+      "summary": "When hotel giants keep stacking sub-brands and \u201cbrands of brands,\u201d they eventually run out of words. Expect more naming collisions as the industry\u2019s label factory keeps humming.",
+      "source": "Skift"
+    },
+    {
+      "title": "Visit Norway Turns Trump\u2019s Insult Into Its Most-Viewed Page",
+      "link": "https://skift.com/2026/10/30/visit-norway-trump-insult-most-viewed-page/",
+      "published": "Fri, 30 Oct 2026 18:46:42 +0000",
+      "summary": "A quick tweak to a five-year-old web page has brought in tens of thousands of views to Visit Norway\u2019s website.",
+      "source": "Skift"
+    },
     {
       "title": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War",
       "link": "https://skift.com/2026/10/30/dubai-holiday-home-operator-silkhaus-shuts-down-citing-u-s-iran-war/",
@@ -35,87 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Antarctic Tourism Is Booming. Guides Say Expertise Is Thinning",
-      "link": "https://skift.com/2026/10/30/antarctic-tourism-is-booming-guides-say-expertise-is-thinning/",
-      "published": "Fri, 30 Oct 2026 07:00:00 +0000",
-      "summary": "Antarctica\u2019s ship capacity grew faster than its pool of experienced guides, and veterans say that\u2019s changing what guests can safely do. The industry disputes that standards have slipped, but no single authority can cap growth on a continent governed by consensus.",
-      "source": "Skift"
-    },
-    {
-      "title": "Thailand Keeps Building for Tourists Who May Not Come",
-      "link": "https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/",
-      "published": "Fri, 30 Oct 2026 00:00:00 +0000",
-      "summary": "Thailand\u2019s arrivals outlook has weakened, but new rooms and flights are still coming. The test is whether resilient luxury demand and new source markets can deliver the returns that investors want.",
-      "source": "Skift"
-    },
-    {
-      "title": "Wyndham Launches Homes & Havens to Take On Marriott",
-      "link": "https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/",
-      "published": "Thu, 29 Oct 2026 18:34:08 +0000",
-      "summary": "Whether Wyndham&apos;s Homes &amp; Havens can compete with Marriott&apos;s far larger collection is an open question. But for Wyndham, this is only day one.",
-      "source": "Skift"
-    },
-    {
-      "title": "Hyatt Raises Outlook, but Its All-Inclusives Lag",
-      "link": "https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/",
-      "published": "Thu, 29 Oct 2026 17:41:07 +0000",
-      "summary": "When affluent travelers spend, Hyatt wins. The catch is that a portfolio built on luxury leisure is a bet on the wealth effect, and the good times could end if the stock market sneezes.",
-      "source": "Skift"
-    },
-    {
-      "title": "16 Nations on notice: UK warns of Middle East flight chaos - thenational.co.za",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzBRc2JmRkMtX01sOFRMQ3MxRDF2TUJQRi1URy11Q0pXaFVnM1hyV3dCSXFDR29tcGRWT3ZEY29WUmtFM2JYX0xGVlNjNWZBbTZ6NU1HWUNxZmdac3QtaDlJWS1PMktVUkpNMFc5ZjBwQXhoSjZKYXA0WTU1ejVLNDA1d3FKa2tCeW9YUGNHQlAtcWNJYTd0RE52cFkxZGRGOTZhbGFJekE?oc=5",
-      "published": "Fri, 30 Oct 2026 14:00:00 GMT",
-      "summary": "16 Nations on notice: UK warns of Middle East flight chaos&nbsp;&nbsp;thenational.co.za",
+      "title": "US orders non-emergency staff to leave Saudi Arabia over security risks - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3lBdWN5NkdPRDdmWlVVRUNyd2FhN3NiOXJjcEJBWTh3R2ZaMUo2SUZaWXZuWjdqaHVkRXoybk1CcTI2dDQtRHVSMWJ0SlFzWmtfWjVfOGctZ0NqYUFGY2ZCLXhPR29sYXktNktvQVdMdFlFTUoxRnRtSHR5VG15WDJyVDdiVG1jWjlSTTlQdC1hbjQzU0htQWphSm5wTmRad1hYMFh5ZlVrcUx5YkgwbjRaQUU0bFdo?oc=5",
+      "published": "Fri, 30 Oct 2026 18:47:31 GMT",
+      "summary": "US orders non-emergency staff to leave Saudi Arabia over security risks&nbsp;&nbsp;The Times of Israel",
       "source": "Google News Travel"
     },
     {
-      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
-      "published": "Thu, 29 Oct 2026 09:33:29 GMT",
-      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDh4M2pYR3prcFRBMHFNYnZKbFVWQndYUGlsQ2lsdld0NEtVZGk2akMzQ0xLcGdsd3ZoWHdDcVVlWkFNZldwRXVTZXNwSVVqMklnT1NkUW9yVUIzUy1NZ3o5X3QwbEdSTTlnQ0hKVjQxa0xTc2lQWTlQZFU5LVFpcnNxQ09mWTZGWWxqdllCcndseHd3YmlSb3E4MkRQaWNwVWpBRDNuUm81ajjSAbABQVVfeXFMTUVQbU14QmZxWkRoYV9VeVI1NTdjbGJBaUxKSXRVenU2QzYyaGpDa1NwNGtKX1prZXl4OTZTVzJYdHk5ZHh0eGdXaDR4MWliYXZPYndJZDdVZVFKRUJQa1h1V1U2a2s1QVQ4RWJ0SXRvZVlxWnlLWWozSjgxcjl5N092QWpUbjB5XzdGeWgzRmxWc09ENTcyeFJTWTVaTHQzTVZQS0VxZ21HbDZrR09NaGQ?oc=5",
+      "published": "Thu, 29 Oct 2026 22:16:50 GMT",
+      "summary": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "Warning of flight disruption due to national strike in Italy - Travel Weekly - Home",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmJBcUo3SkdRVmFqQWFONTFUOUVoeTd3bVFkVTBuX09YcVBJVG45QkkxZC16cm82V3ZrdjNrdENQTEVlenBYT3J0anlaWHgzekpPT3VIbkpUMGdxVkkyY0ZvQVpiNzBwcDFfUW1zbWJEWmxaOHRBWlpKRmx1N1lVSElpamU3Q25XUDh0SHY2Z0lPVmdtNnk0?oc=5",
-      "published": "Fri, 30 Oct 2026 05:57:00 GMT",
-      "summary": "Warning of flight disruption due to national strike in Italy&nbsp;&nbsp;Travel Weekly - Home",
+      "title": "Air Force One flyover for White House Halloween event causes flight delays - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEttMHpKVWpJQ1Bna1dmd1pKY0JTM0pCbUZudEJ0eThrSWhKckFmTWNGblZMM0hxNXJCUkdEa2V6VzAtUzA0R3FnUWFiSTNuRWdzOWU2eC1LSFN1cnltTHppRkp0UW1vNGJTZm0tNnlabTlvMjJYMzFFMlN2NkVIb1lCek9uUmxDYzIwcUhidkpYcGtBQmt1MzFtRDZERGV4OXZ1THpYeVpRWHpDblN4ak4wbTBZcFkwbW9ZeFViYmxFWVEwczk2THBsX1lPUQ?oc=5",
+      "published": "Fri, 30 Oct 2026 16:30:09 GMT",
+      "summary": "Air Force One flyover for White House Halloween event causes flight delays&nbsp;&nbsp;Reuters",
       "source": "Google News Travel"
     },
     {
-      "title": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlpDT3RfQ3h6MkJ6QmZ0TURTR3J1QmVOMWhSQnlRUUYxdUd1NldaN1dYQU96X0hNbU5VdmduQ0RNbnY5Wkx0UFh2bTJFcjRlQ3pkb09Pbm5hSnJkdnNwbmEzQ0tQS3VwckRIejJtSWExM3NJdV9tZWhWYXVKdU1ualctWnlWWjdOZW42bGhKSGozUmVFLWtlN0w4SHFqbWdabW5jemxnWkNXVHJnYlgtYdIBxAFBVV95cUxOcnlfYjVwaE5pNDFSTjgyU0VlLWdDUWc2MFNqcEFwTGpkSUlZTU1YdUZjWXp6V3VnTXBhemhPYUFfR3hvN1J0OC1vTGxFUl9oSmNsTGJpeVBJZEdsUUMyYlBPVXdUcGcwc3dVQ1N4QWVhR2J5UmZxenJaQXN2TU11Yk1Ua1NHVUU3Qm5mbmhBYzg5TWJld1BSV2xvY3pYWWFCSHMyQVJad1FmUVNYWnpxekhwdWlnUTk0a3lXVzAzMWZtN1VT?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "American Airlines flight lands safely after Phase 5 alert at BTV - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUtjdy1EWTFxdFppcnJ6QzNXOUdDR1BRQ1dmVVNlU1o4TTM4S2s3UXBoMXlNZ1Ribk9JT0c1TFpwRkJwdEE1bFpGa2dtemdfV3hsMjBPV1pZbHFqTy1faEtpTlhJaHVtYU5fbmhRblk3RkczVnpUSEJRQ3E2MlZFR0FuTFFpSWRtc1BrMXpDSDBIN2VXZXZIM2VoVkV1TnlFaWtrbmIyRQ?oc=5",
+      "published": "Fri, 30 Oct 2026 16:54:00 GMT",
+      "summary": "American Airlines flight lands safely after Phase 5 alert at BTV&nbsp;&nbsp;WPTZ",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "title": "US renews Saudi Arabia warning over possible airport attacks and flight disruptions - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGV1S0cwLWRYaE5DNzBhb2pjdTRjQ25sbFVJMlk0eHNTSjdYZjdfS0M5VG1ERVBGa3lta2YyTzc2Zjc5cnhqd3JGLTZpN2RtNmRWMVY1SFNqdFpYWXUxNnNIdWJlN1dPTjRLMlVUZU4xU0hkMzhZNGtrY3NsRC1XajhNSm8weXF6T2J5Yk1QZTdWZWdtNnRZeVN5MVYwM2JvYU5jSHA2THlXSGdzVlRQU0FGbmhPLXBUNEY5SDlQbmlyZjNnclZSVnNTUdIB3gFBVV95cUxOX0hoX3Q4NFp2dG9wNWZkV3dyX0F1RDdPM2JkM3FDdUJaZGpnNDNfYW12RnEtRnlLcUhzNWNFYzVwR3c0SXNmY1VjZTd1VGRyZURuWXE1REpORlZQU0FINkNtT2llSV91WE5xNWl6SDhKbHJPWmhEYXZDRXV5RFAwUGZDemhqYlR4dVRDNlJHN0J0Qk9CYmZWbzB0SkUzTlNENHJfNDc0S0hsbk1SYUgtZUdmS3JZRmM4bVlKVXYyQjFMd1E4bVlTT3lndlZxQjRhRE1jTjcxRkpXSkNYQ1E?oc=5",
+      "published": "Fri, 30 Oct 2026 18:53:04 GMT",
+      "summary": "US renews Saudi Arabia warning over possible airport attacks and flight disruptions&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
-      "title": "US Embassy Issues Israel Travel Warning Ahead of Yom Kippur - The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeW9wUzJQc0F0dHFWVk5WVlFJTTFRcFZHVGoyWWhTWl9PMnNpdDV3ZXROT0FvcUFjYkViZkJPZ0pxR2ZUTHA5RVNvQTY4eFNLa3VON3FZNVh1R2JHY1NOaXRQZHRqT0NHTVBpQWFwNzJWQXgzVk1SU0FZU01lZXUwU2kyQjNpUWpzM0FuaDlQdkFxakE3TEt2QlV0WQ?oc=5",
-      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "US Embassy Issues Israel Travel Warning Ahead of Yom Kippur&nbsp;&nbsp;The Media Line",
+      "title": "Atlanta airport ranks among best for avoiding travel disruptions, study finds - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam1lS0UxdDNBMU1xOHQySDZYR0NtWmVsMDloTkZtR3h0ZGZOZzFuVFB1ZndFQllaaHpIU3Nhd1RGU0VZcnFIWnNWOWZvdldfeGdHOGpGelg5UTduSXFtcjFhV1JvMW9xSTlPSWZ6VDlGQkw4bnN4WE5rV1FINnNJeGlZT2Y3RjZULUpRT3FsRWxDRTVoRDBmc1g1eGNVWnotVXJlbVUwQlhxY2o0UHFuVWZzRnk?oc=5",
+      "published": "Fri, 30 Oct 2026 18:58:42 GMT",
+      "summary": "Atlanta airport ranks among best for avoiding travel disruptions, study finds&nbsp;&nbsp;CBS News",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
+      "title": "Map Shows States Facing Thanksgiving Travel Delays Amid \u2018Strong\u2019 El Ni\u00f1o - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEU2QVMxOGJrMnVQcGVtR2I3VG4xVndqUnYwUXBscWdWcnFsNmY4Z1RKeU5hY212VmxmMF9wcmFCa3lHN3pGMlM1TkxRc3NSSDIxQWFHMHZxdWpfZVdnSW4wM29Vb01MT2lHcVozX3llcDlyMlRZQ3R6anFQSVV0NU1DMV9yeUVfdWNWUy13X0UwVHJjcHZwbG41Q3pNQk1aWUZhZG9WZw?oc=5",
+      "published": "Wed, 28 Oct 2026 17:48:00 GMT",
+      "summary": "Map Shows States Facing Thanksgiving Travel Delays Amid \u2018Strong\u2019 El Ni\u00f1o&nbsp;&nbsp;Newsweek",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "title": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019 - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONE1GWnB4RktQdFduYTVGV2pVeVhPZ1JfSDRFSEtuVEw2RWwybjQ0czdMVUtyLVYwT212Y3BXeFNSeEJMeDVZbjBXN19zVHFEVlpnLVRnOGdRcGU0ek9Fa3FBUGtYMndtcXN0Sk9EamVZcGowRjdqRzNBMDBWUEtpaHU4VWdrQnZoeHhNN25OUkRIbnlLbXc?oc=5",
+      "published": "Thu, 29 Oct 2026 14:50:17 GMT",
+      "summary": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019&nbsp;&nbsp;The Sun",
       "source": "Google News Travel"
     }
   ]
