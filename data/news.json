@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-30T03:22:22.305728+00:00",
+  "last_updated": "2026-10-30T10:31:27.725133+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Antarctic Tourism Is Booming. Guides Say Expertise Is Thinning",
+      "link": "https://skift.com/2026/10/30/antarctic-tourism-is-booming-guides-say-expertise-is-thinning/",
+      "published": "Fri, 30 Oct 2026 07:00:00 +0000",
+      "summary": "Antarctica\u2019s ship capacity grew faster than its pool of experienced guides, and veterans say that\u2019s changing what guests can safely do. The industry disputes that standards have slipped, but no single authority can cap growth on a continent governed by consensus.",
+      "source": "Skift"
+    },
     {
       "title": "Thailand Keeps Building for Tourists Who May Not Come",
       "link": "https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/",
@@ -54,69 +61,6 @@
       "published": "Thu, 29 Oct 2026 14:08:02 +0000",
       "summary": "Higher transportation costs appear to be squeezing Las Vegas hotels\u2019 pricing power. Yet convention business has helped offset weaker leisure demand in some months",
       "source": "Skift"
-    },
-    {
-      "title": "Why AI Agents Could Become Travel\u2019s New Digital Front Door: Watch Video",
-      "link": "https://skift.com/2026/10/29/ai-agents-travel-digital-front-door/",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "summary": "At Skift Global Forum, Sierra CEO Bret Taylor argued that AI agents could connect booking, service, sales, and loyalty into a more seamless customer relationship, organized around the traveler rather than a company\u2019s internal structure.",
-      "source": "Skift"
-    },
-    {
-      "title": "American Airlines flight lands safely after Phase 5 alert at BTV - WPTZ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUtjdy1EWTFxdFppcnJ6QzNXOUdDR1BRQ1dmVVNlU1o4TTM4S2s3UXBoMXlNZ1Ribk9JT0c1TFpwRkJwdEE1bFpGa2dtemdfV3hsMjBPV1pZbHFqTy1faEtpTlhJaHVtYU5fbmhRblk3RkczVnpUSEJRQ3E2MlZFR0FuTFFpSWRtc1BrMXpDSDBIN2VXZXZIM2VoVkV1TnlFaWtrbmIyRQ?oc=5",
-      "published": "Fri, 30 Oct 2026 02:21:00 GMT",
-      "summary": "American Airlines flight lands safely after Phase 5 alert at BTV&nbsp;&nbsp;WPTZ",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDh4M2pYR3prcFRBMHFNYnZKbFVWQndYUGlsQ2lsdld0NEtVZGk2akMzQ0xLcGdsd3ZoWHdDcVVlWkFNZldwRXVTZXNwSVVqMklnT1NkUW9yVUIzUy1NZ3o5X3QwbEdSTTlnQ0hKVjQxa0xTc2lQWTlQZFU5LVFpcnNxQ09mWTZGWWxqdllCcndseHd3YmlSb3E4MkRQaWNwVWpBRDNuUm81ajjSAbABQVVfeXFMTUVQbU14QmZxWkRoYV9VeVI1NTdjbGJBaUxKSXRVenU2QzYyaGpDa1NwNGtKX1prZXl4OTZTVzJYdHk5ZHh0eGdXaDR4MWliYXZPYndJZDdVZVFKRUJQa1h1V1U2a2s1QVQ4RWJ0SXRvZVlxWnlLWWozSjgxcjl5N092QWpUbjB5XzdGeWgzRmxWc09ENTcyeFJTWTVaTHQzTVZQS0VxZ21HbDZrR09NaGQ?oc=5",
-      "published": "Thu, 29 Oct 2026 22:16:50 GMT",
-      "summary": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGVBUWdBTkFqVVBlMUNJUHBsVW42RlE1ZmpvMUlpN1RJN0drNE42M3Nqbks2VXNCU2JpS21mN2lMYjRUeXp4V1JuSk8wZnVsNlZVQWxwM1puNEJRbVBoWkhOTC12ZDlpaFpzVUtEdEttUjN2U0FPZDE0SUdYcXBUOVhpYUVZSkJ1QndlYg?oc=5",
-      "published": "Wed, 28 Oct 2026 15:23:45 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnhIbVIwZXQ4aUdQS1hkZ3ZLRk5JNWVxQ25TZ3VIYUkzejZSVjdheEdtSXluNTNpaWdEcnJzazE3MkkzWS1kWTdueEZvQldLRGJYSGw1aWczU1Q1Z3JOa3dUcDVrOTZ5bDFhcF9kb0FUYzhHX1FQQUZ3ZXJlMGxJcWp0NjZTczBQWkR0Y1ZMQ3VjS0tuWXhScDI0NnRueXgyQ3dDZUdPSVVvR2xpSWpXMzlB?oc=5",
-      "published": "Tue, 27 Oct 2026 03:20:00 GMT",
-      "summary": "Americans warned to rethink travel to 13 countries amid deadly attacks&nbsp;&nbsp;New York Post",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Nearly 2K flights delayed, several canceled amid US travel disruption - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcEk2TXlZTFpjemZCVU5tWVMzMG5yMkVxbkpNR1MxVmF6ek8xRDdwUUlZM21NRjVGZ2JoOFNLQVNuTEpUWVY4N1Zrd0YweHdGbm5aRGVnN2Rid1RZQm1teU9WaUJFU1ktSEdJWndwMUsyV1dUZElIWG5QaTdBM2lnS05MVFU4NjN1N2tHRjVldUFfeVJNXzMtQ2h6MG1iX05RazhPZ2JMVEVwRDMtWWxXdGJTeGVfSEFjXzdvd1Z1UjZmTnNMZzROcW12Wl9IamliNEtpNFpteDBOaGVKQ3dfZVpQVUpzVFhZNGd4Vm53b2VTbkg1Y0lxNEl3RUNQdFlXU1ZJS3NqUGlxcEFDdGtvVDFlT2tDVjIwcmFwNDhpYmlqaFZwVVVUdUszNFRoYmg4bk9VVmxvRnAwbE83OV9GelFfUUd5SVd4QlI2RS1pVGdYLTdwZ0h4d1FEQXh4Sm0ta1hsS3hB?oc=5",
-      "published": "Tue, 27 Oct 2026 20:55:07 GMT",
-      "summary": "Nearly 2K flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KOMO",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Delayed holiday flyers could benefit from deferred federal airline rule - WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FraFAzRFg3MDAzenRMQU9kcW9QUnRfSWVLS0JVajRoRDJHeGFtU3V4R2h5V3VkLUxmZTBvMlpFcEdPX0hNZ1ZzMUdyNUJacmMyWEdrRFpqQWFkWl9leFBoWWltWHJZNTBZRTNfR1F1amxabU05dkdUVFdmSEE1Tmxsc3MxUDRHMVdIZWRZajRZTnhHQXZjNDBUc0hJcllxNXR1MnQ4Si1LN1kzQUNQYUR3?oc=5",
-      "published": "Thu, 29 Oct 2026 17:25:56 GMT",
-      "summary": "Delayed holiday flyers could benefit from deferred federal airline rule&nbsp;&nbsp;WTOP News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019 - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONE1GWnB4RktQdFduYTVGV2pVeVhPZ1JfSDRFSEtuVEw2RWwybjQ0czdMVUtyLVYwT212Y3BXeFNSeEJMeDVZbjBXN19zVHFEVlpnLVRnOGdRcGU0ek9Fa3FBUGtYMndtcXN0Sk9EamVZcGowRjdqRzNBMDBWUEtpaHU4VWdrQnZoeHhNN25OUkRIbnlLbXc?oc=5",
-      "published": "Thu, 29 Oct 2026 14:50:17 GMT",
-      "summary": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019&nbsp;&nbsp;The Sun",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flying out of Daytona Friday evening? Trump's visit could cause delays - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXRZYjJreXRROElfZzhsVC1NWmJCdnU4T05DZTExdEhZQnY3ZUt1Q2l5UW1kTTh4dlBwclBKdVNvSWVPRDVfSC11NWVKNzBEOUZ5UGt0T3ZoeWw0NFp4d3g2dk8zRFYxemctbTM2V0R4NkdqTzVFRTBHdUl5ZlNKSndIOGNXWWhZeHhKRjd0Q2thN01tRkhBaGsyMjA?oc=5",
-      "published": "Thu, 29 Oct 2026 21:06:36 GMT",
-      "summary": "Flying out of Daytona Friday evening? Trump's visit could cause delays&nbsp;&nbsp;Yahoo",
-      "source": "Google News Travel"
     }
   ]
 }
