@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-29T23:41:46.878545+00:00",
+  "last_updated": "2026-10-30T03:22:22.305728+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Thailand Keeps Building for Tourists Who May Not Come",
+      "link": "https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/",
+      "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+      "summary": "Thailand\u2019s arrivals outlook has weakened, but new rooms and flights are still coming. The test is whether resilient luxury demand and new source markets can deliver the returns that investors want.",
+      "source": "Skift"
+    },
     {
       "title": "Wyndham Launches Homes & Havens to Take On Marriott",
       "link": "https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/",
@@ -56,66 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Hosts Say Airbnb Won\u2019t Remove Unfair Reviews. Guests Say It Removes Too Many.",
-      "link": "https://skift.com/2026/10/29/short-term-rental-review-disputes/",
-      "published": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "summary": "Hosts and guests both have complaints when it comes to short-term rental review takedowns. For hosts, a single negative review can cost up to hundreds in lost revenue each month.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: international airlines extend route cancellations as Saudi continues to intercept attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQTAzT3picUd6MnNxU2NXZVRBdlhhWU9RTFl5MFpuZVhoTWdhemc0VFk5Mk1VbXlOemdiTlEwc2NzWlNfZTJ5aDNpT1pyTHAxMTAzOHNLVzBQSXlkUnRWeVZYdEMwZjdOaFBUanpBRzdjMFp1SUlUcDBtTGlfOEFpSjBrMkVXN0l3MEdoamZYRG1OWlV0VjljSEFSV3JWZF94YWt3cFlaUnNBZVFXRkV3STF6ZTd5TUJWYmM2QmJpcEFLa1NrLUZJejhNSEhYaXItdzFqUUNTZXlNb3lIUmFEeE42WnZJejhUbWsyVGRtb1NtTll6T2ZpMw?oc=5",
-      "published": "Wed, 28 Oct 2026 08:00:17 GMT",
-      "summary": "Dubai and Middle East flight disruption: international airlines extend route cancellations as Saudi continues to intercept attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "American Airlines flight lands safely after Phase 5 alert at BTV - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUtjdy1EWTFxdFppcnJ6QzNXOUdDR1BRQ1dmVVNlU1o4TTM4S2s3UXBoMXlNZ1Ribk9JT0c1TFpwRkJwdEE1bFpGa2dtemdfV3hsMjBPV1pZbHFqTy1faEtpTlhJaHVtYU5fbmhRblk3RkczVnpUSEJRQ3E2MlZFR0FuTFFpSWRtc1BrMXpDSDBIN2VXZXZIM2VoVkV1TnlFaWtrbmIyRQ?oc=5",
+      "published": "Fri, 30 Oct 2026 02:21:00 GMT",
+      "summary": "American Airlines flight lands safely after Phase 5 alert at BTV&nbsp;&nbsp;WPTZ",
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights today: Latest cancellations, delays and Saudi travel updates on October 29 - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUNFcHdHN3p5dWhzYUhESnN4T0pVR3pLQ2NGeF85QjV1cm9VMHEwMjBlR00tY0h4c2dTYUx3TVFtT1FxRHBxMW84c2l3MGI0ZE1SRTQ2UTZTV1Rtc3ZWZWVmajRidG1PM1VyQnM2VXFVd2dVdHlmbHhKMDZUN0FuUGc2TXBhYkJrZk1wUW5relIyRGMwSnlUVTQ5WG1kZXJQbHJHSlM5X2NBc1RsMjZ5RGI4WTBNaW0wMEZ2bGlnVE9adHI4VXEzc2xLSEdDcTJw0gHjAUFVX3lxTE5GOWRCaDg4Tk9FeklXY0NXSDNDaTRGdnlneDFQZzN5alNPTXBjNVBpT3ZrVFdtcG4zNWZ5X0dibkN6N2hXeTZvUFVOTmppZVJHZktjWjVneVk3Q05Hd2NGeTZYVFdPb2ZuNGhwM1RFWmo4WVhMUkozTTNrbVVwUVlycERmMlJaTklROEJFc1RqMERVNmExZEMwa2ZkREdyOUJQbkU5aUZNcGFlYUE0TnpFdU9QYXZGNHNFRkdPRTVnU3Atc2hNZ1E3OVBFZW04eEpFc2NIT1BqNUJwcTFWcHRRZUFB?oc=5",
-      "published": "Thu, 29 Oct 2026 07:27:43 GMT",
-      "summary": "UAE flights today: Latest cancellations, delays and Saudi travel updates on October 29&nbsp;&nbsp;Gulf News",
+      "title": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDh4M2pYR3prcFRBMHFNYnZKbFVWQndYUGlsQ2lsdld0NEtVZGk2akMzQ0xLcGdsd3ZoWHdDcVVlWkFNZldwRXVTZXNwSVVqMklnT1NkUW9yVUIzUy1NZ3o5X3QwbEdSTTlnQ0hKVjQxa0xTc2lQWTlQZFU5LVFpcnNxQ09mWTZGWWxqdllCcndseHd3YmlSb3E4MkRQaWNwVWpBRDNuUm81ajjSAbABQVVfeXFMTUVQbU14QmZxWkRoYV9VeVI1NTdjbGJBaUxKSXRVenU2QzYyaGpDa1NwNGtKX1prZXl4OTZTVzJYdHk5ZHh0eGdXaDR4MWliYXZPYndJZDdVZVFKRUJQa1h1V1U2a2s1QVQ4RWJ0SXRvZVlxWnlLWWozSjgxcjl5N092QWpUbjB5XzdGeWgzRmxWc09ENTcyeFJTWTVaTHQzTVZQS0VxZ21HbDZrR09NaGQ?oc=5",
+      "published": "Thu, 29 Oct 2026 22:16:50 GMT",
+      "summary": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "UK Foreign Office issues new travel advice for Middle East including Turkey and Egypt - Wales Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEZaUmI0TGdvS0hvLWl5WTc5dVdxVm5VU2JpRGh3RnBXaXJfODRwY0hmTEVTNnUzQVQtWW9WNGgyR00wVVpTN1BxWWdzRkFxb2p5czRhMHNzdFYycXFiUW1HUW1SSGhqTDdNVFcwTGQzVGdUdEY0S1pVRl9iSzNTV0s2eUN4LTBhTVBn0gGQAUFVX3lxTE9idzF0dVNNbDdKLTNraHlUeG1wVVBQRWREUEF3UTZSb2V6S3FiRjZLTTdrQU12SHVPNjBITnU4MThUWEhZNkNrMjFQQXc3R0M5bGExb2NPOTFWcEZOZ283bWh1Y2ZUa1VZVUFDdjJNWXVZTWRJclNLSDVfR09Oc3pSMTVqSjlqOXZqUThiZTFBWg?oc=5",
-      "published": "Wed, 28 Oct 2026 14:22:00 GMT",
-      "summary": "UK Foreign Office issues new travel advice for Middle East including Turkey and Egypt&nbsp;&nbsp;Wales Online",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGVBUWdBTkFqVVBlMUNJUHBsVW42RlE1ZmpvMUlpN1RJN0drNE42M3Nqbks2VXNCU2JpS21mN2lMYjRUeXp4V1JuSk8wZnVsNlZVQWxwM1puNEJRbVBoWkhOTC12ZDlpaFpzVUtEdEttUjN2U0FPZDE0SUdYcXBUOVhpYUVZSkJ1QndlYg?oc=5",
+      "published": "Wed, 28 Oct 2026 15:23:45 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 October 28, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnhIbVIwZXQ4aUdQS1hkZ3ZLRk5JNWVxQ25TZ3VIYUkzejZSVjdheEdtSXluNTNpaWdEcnJzazE3MkkzWS1kWTdueEZvQldLRGJYSGw1aWczU1Q1Z3JOa3dUcDVrOTZ5bDFhcF9kb0FUYzhHX1FQQUZ3ZXJlMGxJcWp0NjZTczBQWkR0Y1ZMQ3VjS0tuWXhScDI0NnRueXgyQ3dDZUdPSVVvR2xpSWpXMzlB?oc=5",
+      "published": "Tue, 27 Oct 2026 03:20:00 GMT",
+      "summary": "Americans warned to rethink travel to 13 countries amid deadly attacks&nbsp;&nbsp;New York Post",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government issues 'reconsider travel' advisory for entire region - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhLV0s1NEU1Q0hfLXk3N1psOGl3d3ZOZ1lFRmxuYUg1UXFFNWNhaXhlYTc1TWVwc3o4cGUzaERaSlBvZkZiXzVuY3B3M2Z2RUk3NHdqdktNV1VEYTIwUXlQaGE1ajVpeV93c3pRWkZPdkVPb1Q4UzU3MUp4WTh5QWRMb1U4VTFRaVlfRmh3S0NxNE9TTUNUQ2dHemYxbkE4b004OQ?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;Yahoo Finance",
+      "title": "Nearly 2K flights delayed, several canceled amid US travel disruption - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcEk2TXlZTFpjemZCVU5tWVMzMG5yMkVxbkpNR1MxVmF6ek8xRDdwUUlZM21NRjVGZ2JoOFNLQVNuTEpUWVY4N1Zrd0YweHdGbm5aRGVnN2Rid1RZQm1teU9WaUJFU1ktSEdJWndwMUsyV1dUZElIWG5QaTdBM2lnS05MVFU4NjN1N2tHRjVldUFfeVJNXzMtQ2h6MG1iX05RazhPZ2JMVEVwRDMtWWxXdGJTeGVfSEFjXzdvd1Z1UjZmTnNMZzROcW12Wl9IamliNEtpNFpteDBOaGVKQ3dfZVpQVUpzVFhZNGd4Vm53b2VTbkg1Y0lxNEl3RUNQdFlXU1ZJS3NqUGlxcEFDdGtvVDFlT2tDVjIwcmFwNDhpYmlqaFZwVVVUdUszNFRoYmg4bk9VVmxvRnAwbE83OV9GelFfUUd5SVd4QlI2RS1pVGdYLTdwZ0h4d1FEQXh4Sm0ta1hsS3hB?oc=5",
+      "published": "Tue, 27 Oct 2026 20:55:07 GMT",
+      "summary": "Nearly 2K flights delayed, several canceled amid US travel disruption&nbsp;&nbsp;KOMO",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkVpd3pmQ2c5WW5KQi00cUt5bzZ4OVhEdVNvQk1HS2VGbDRfTkp0TUdUenpwa1dCazV4dmN3N0VWTXU0YWhBSlFxbWJ1RDQ4Sk1GQktWVmY4Yk9LZzhDTkpnSlRvaUkwdk5QVXk2YVVXbDkydTdLTmdXbkpyXzZpSjVvWjdyYllNWExmTmhDOUVjb1o3TjJFdG1Xd090OVUwcDhfVlo5dXVJa1BnOV91Ry1RVHk3M1VNdVM3RHZubVlZZw?oc=5",
-      "published": "Mon, 26 Oct 2026 10:46:26 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? What to know as Houthis claim fresh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Delayed holiday flyers could benefit from deferred federal airline rule - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FraFAzRFg3MDAzenRMQU9kcW9QUnRfSWVLS0JVajRoRDJHeGFtU3V4R2h5V3VkLUxmZTBvMlpFcEdPX0hNZ1ZzMUdyNUJacmMyWEdrRFpqQWFkWl9leFBoWWltWHJZNTBZRTNfR1F1amxabU05dkdUVFdmSEE1Tmxsc3MxUDRHMVdIZWRZajRZTnhHQXZjNDBUc0hJcllxNXR1MnQ4Si1LN1kzQUNQYUR3?oc=5",
+      "published": "Thu, 29 Oct 2026 17:25:56 GMT",
+      "summary": "Delayed holiday flyers could benefit from deferred federal airline rule&nbsp;&nbsp;WTOP News",
       "source": "Google News Travel"
     },
     {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "title": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019 - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONE1GWnB4RktQdFduYTVGV2pVeVhPZ1JfSDRFSEtuVEw2RWwybjQ0czdMVUtyLVYwT212Y3BXeFNSeEJMeDVZbjBXN19zVHFEVlpnLVRnOGdRcGU0ek9Fa3FBUGtYMndtcXN0Sk9EamVZcGowRjdqRzNBMDBWUEtpaHU4VWdrQnZoeHhNN25OUkRIbnlLbXc?oc=5",
+      "published": "Thu, 29 Oct 2026 14:50:17 GMT",
+      "summary": "US government warns \u2018do not travel to 24 countries under ANY circumstances\u2019&nbsp;&nbsp;The Sun",
       "source": "Google News Travel"
     },
     {
-      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
+      "title": "Flying out of Daytona Friday evening? Trump's visit could cause delays - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXRZYjJreXRROElfZzhsVC1NWmJCdnU4T05DZTExdEhZQnY3ZUt1Q2l5UW1kTTh4dlBwclBKdVNvSWVPRDVfSC11NWVKNzBEOUZ5UGt0T3ZoeWw0NFp4d3g2dk8zRFYxemctbTM2V0R4NkdqTzVFRTBHdUl5ZlNKSndIOGNXWWhZeHhKRjd0Q2thN01tRkhBaGsyMjA?oc=5",
+      "published": "Thu, 29 Oct 2026 21:06:36 GMT",
+      "summary": "Flying out of Daytona Friday evening? Trump's visit could cause delays&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     }
   ]
