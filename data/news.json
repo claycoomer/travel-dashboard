@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-11-02T20:59:27.303882+00:00",
+  "last_updated": "2026-11-03T04:27:56.493535+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Aviation Forum 2026: Five Decisions in the Room",
+      "link": "https://skift.com/2026/11/02/skift-aviation-forum-2026-five-decisions-in-the-room/",
+      "published": "Tue, 03 Nov 2026 00:50:55 +0000",
+      "summary": "Jet fuel prices are still rising, and just about every variable affecting air travel is in flux \u2014 aircraft supply, air traffic volume, global partnerships, input costs. Decisions made today will determine who succeeds in aviation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Commerce Summit 2026: Five Decisions in the Room",
+      "link": "https://skift.com/2026/11/02/skift-commerce-summit-five-decisions-in-the-room/",
+      "published": "Tue, 03 Nov 2026 00:30:42 +0000",
+      "summary": "AI agents are here. Travel isn&apos;t ready. Decisions made today will determine who controls the booking, the customer relationship, and the economics of travel commerce.",
+      "source": "Skift"
+    },
+    {
+      "title": "Choice Hotels Narrows Its Revenue Gap, but Its Upscale Brands Still Trail",
+      "link": "https://skift.com/2026/11/02/choice-hotels-narrows-its-revenue-gap-but-its-upscale-brands-still-trail/",
+      "published": "Mon, 02 Nov 2026 21:40:56 +0000",
+      "summary": "CEO Dom Dragisich can claim a win in budget hotels, with Choice recently outperforming the industry average. But upscale brands grew at a much lower pace than the industry averages.",
+      "source": "Skift"
+    },
     {
       "title": "Marriott\u2019s Fees Jump 14% as Hotel Owners Seek a Bigger Cut",
       "link": "https://skift.com/2026/11/02/marriotts-fees-jump-14-as-hotel-owners-seek-a-bigger-cut/",
@@ -42,25 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "Adani Expects \u2018One or Two\u2019 Foreign Airlines to Pause Mumbai Flights Rather Than Move Airports",
-      "link": "https://skift.com/2026/11/02/adani-expects-one-or-two-foreign-airlines-to-pause-mumbai-flights-rather-than-move-airports/",
-      "published": "Mon, 02 Nov 2026 12:05:07 +0000",
-      "summary": "Adani says a few airline exits would barely dent passenger numbers, but that\u2019s not the only measure of a new airport\u2019s success. If well-known long-haul carriers refuse to fly to Mumbai, Navi Mumbai\u2019s international network will be mostly Indian airlines, which limits its appeal to",
-      "source": "Skift"
-    },
-    {
-      "title": "Flying Around Russia Is Testing Airlines\u2019 Climate Targets",
-      "link": "https://skift.com/2026/11/02/flying-around-russia-is-testing-airlines-climate-targets/",
-      "published": "Mon, 02 Nov 2026 11:11:09 +0000",
-      "summary": "Avoiding Russia has become a climate problem for airlines heading from Europe to Northeast Asia \u2014 and a competitive disadvantage. Finnair, one of the most affected airlines, says it\u2019s committed to its climate goals.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel\u2019s Next Dollar: Aircraft Orders and Hotel Sales Lead October\u2019s Deals",
-      "link": "https://skift.com/2026/11/02/travels-next-dollar-capital-moves-october-2026/",
-      "published": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "summary": "Skift Intelligence is built on a framework designed to track every decision that determines where the next dollar in travel is going. Capital Moves, a new feature updated daily, tracks every notable capital allocation announcement across global travel.",
-      "source": "Skift"
+      "title": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmZhcl9LVUtFMjYwNFB4amo1eUJnR0drVmNMdVVhei1lS1JtRDRQREItb1I5YzY0UllzVlpURE45SUpXekk1X0dVckZ3TmxMVzUxcHRQTU44R1dOeDNxVE9Hc25vVGt6N1gyTWVINjZ0bHkyQlNHQzZjV0lBQm0tVERqQXJqbDdMWFBIbnZneUhwaWZlbDFSRHFxOVZrYWpxLW1iMDBJQTRCUVJmaWRBb9IBxAFBVV95cUxOekhxV3dXakNDZU9RZmRNa2lNVU4zREJ1TWRRQjBCcUxodlBudTNNbXQtcjNTb1lwek84YXdOOXVqNDVWdDdjTktqSVBabGpUSVM1c01fVUNsSjVMV0pKaDZKV0pVbnFQcmFxR29tSU1ZejZHUXNiVE9xWFdiTUNRX2dUQlhGbVVQRWpJN0o2cFpWVUdQZ2pFcTV1TTRpb1F6VXZubjJnVHVxTU5yMFhmZnlpSThWajJYSDc5Q1Yyb21DamxW?oc=5",
+      "published": "Fri, 30 Oct 2026 13:45:00 GMT",
+      "summary": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
     },
     {
       "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
@@ -74,13 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGV1S0cwLWRYaE5DNzBhb2pjdTRjQ25sbFVJMlk0eHNTSjdYZjdfS0M5VG1ERVBGa3lta2YyTzc2Zjc5cnhqd3JGLTZpN2RtNmRWMVY1SFNqdFpYWXUxNnNIdWJlN1dPTjRLMlVUZU4xU0hkMzhZNGtrY3NsRC1XajhNSm8weXF6T2J5Yk1QZTdWZWdtNnRZeVN5MVYwM2JvYU5jSHA2THlXSGdzVlRQU0FGbmhPLXBUNEY5SDlQbmlyZjNnclZSVnNTUdIB3gFBVV95cUxOX0hoX3Q4NFp2dG9wNWZkV3dyX0F1RDdPM2JkM3FDdUJaZGpnNDNfYW12RnEtRnlLcUhzNWNFYzVwR3c0SXNmY1VjZTd1VGRyZURuWXE1REpORlZQU0FINkNtT2llSV91WE5xNWl6SDhKbHJPWmhEYXZDRXV5RFAwUGZDemhqYlR4dVRDNlJHN0J0Qk9CYmZWbzB0SkUzTlNENHJfNDc0S0hsbk1SYUgtZUdmS3JZRmM4bVlKVXYyQjFMd1E4bVlTT3lndlZxQjRhRE1jTjcxRkpXSkNYQ1E?oc=5",
       "published": "Fri, 30 Oct 2026 18:53:04 GMT",
       "summary": "US renews Saudi Arabia warning over possible airport attacks and flight disruptions&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US warns of potential attacks and travel disruptions across 12 Middle Eastern countries - Egypt Independent",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnRpYkJmRVpYUmw5WkVuZTZTZnlKR1FiQXVSTUowVXd3emk3UmJRcS0zajQ5clpGNS1RLVp6MzFoOWczaUhWNko0Zkw0bG1OM3hkQlgyYzdUWk84a1poYXRENlRrVnFEcnExN2t1emhUTDlyd3NrQ3dSQmFHcFRtazc1dEFwZGpPNENCVWVySWRRQ3lCUHFUaklBelJ0bXo0M1p6VllfbHlZekhYVVFaZ1FQUVNVR25nNHNuVnFn?oc=5",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "summary": "US warns of potential attacks and travel disruptions across 12 Middle Eastern countries&nbsp;&nbsp;Egypt Independent",
       "source": "Google News Travel"
     },
     {
@@ -98,13 +98,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlpDT3RfQ3h6MkJ6QmZ0TURTR3J1QmVOMWhSQnlRUUYxdUd1NldaN1dYQU96X0hNbU5VdmduQ0RNbnY5Wkx0UFh2bTJFcjRlQ3pkb09Pbm5hSnJkdnNwbmEzQ0tQS3VwckRIejJtSWExM3NJdV9tZWhWYXVKdU1ualctWnlWWjdOZW42bGhKSGozUmVFLWtlN0w4SHFqbWdabW5jemxnWkNXVHJnYlgtYdIBxAFBVV95cUxOcnlfYjVwaE5pNDFSTjgyU0VlLWdDUWc2MFNqcEFwTGpkSUlZTU1YdUZjWXp6V3VnTXBhemhPYUFfR3hvN1J0OC1vTGxFUl9oSmNsTGJpeVBJZEdsUUMyYlBPVXdUcGcwc3dVQ1N4QWVhR2J5UmZxenJaQXN2TU11Yk1Ua1NHVUU3Qm5mbmhBYzg5TWJld1BSV2xvY3pYWWFCSHMyQVJad1FmUVNYWnpxekhwdWlnUTk0a3lXVzAzMWZtN1VT?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
@@ -112,10 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "State Department Issues Fresh Middle East Travel Advisory - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkgtaVlHdGttRVI3amtUZENhVndhTFh0WkpNMXFxUHliSG93QlV5UGFCdnVlMHhRaHUwLTJGSG0wLWxOMkNhYUpZVmVVRERxOWlyV2lUQ1hCWklWUmFDb1dGMXJoQkMyVnBCbGtXOC05SWQyVHlTUzJ1SFJpZkVVN3loMk9QaUd2WFB3dHVfM2J0aGtyY3M4dEhIVFBZaUtLOXZoUXFKcGxJTjg?oc=5",
-      "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "summary": "State Department Issues Fresh Middle East Travel Advisory&nbsp;&nbsp;TravelPulse",
+      "title": "Airlines Extend Travel Waivers in Wake of Nor\u2019easter - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3hFUHdrMnpzN3I5V2E0bGF0NDlrN0FWb1Uzb3dWY2pYb3FwbnNoYzRCMEJab3Y0MlVFUGxRcWUzeEh0WjRCVGlwMEc2QjhiSzA2RVV0VnNPd0JzeEdCNWkzSEREcHBiaW93NnMzR18zMDhTeDY3ZjY0ZzduaGlOcFBNVm5leXEwclk2NmhTNnhTWEh3UVZGekJkcUtna2pLa3k5aFBLUVp5U01aR29UcE5EY3UzaFM3MHN1Rw?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "summary": "Airlines Extend Travel Waivers in Wake of Nor\u2019easter&nbsp;&nbsp;TravelPulse",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFoRWpJSnBZZzAzemVLbDFyXzludkM5XzRpZXNxUzQtSnF0dndaYVlVblcyX0dOSnJFOUFYUWFZcnRGNHI2ZXotS2thcnE0dUMzN1FfdUpYUlNkNkRadGsyWGhsV1gzTXl4dU9pd2lNUWhzeUhyb3A3WDZUSUxSbU9McTQxMXJXLURZVlZnX2hEcnNsaE1nSHhWY3JfMnVRNjJBQmhTS3I3ZnBxbW5LWlg4MlpiTEdLNWRKUk5GT1dnZmF6Vl9zbDdR?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "United Airlines Updates Travel Alerts For 10 Airports As 3 Major Storms Bring Flight Cancellations&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     }
   ]
