@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-11-03T21:20:32.351902+00:00",
+  "last_updated": "2026-11-04T03:46:34.017603+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Booking Takes $1 Billion Hit Over Possible FTC Settlement, Sees \u2018Mixed\u2019 Travel Market",
+      "link": "https://skift.com/2026/11/03/booking-takes-1-billion-hit-over-possible-ftc-settlement-sees-mixed-travel-market/",
+      "published": "Tue, 03 Nov 2026 23:53:26 +0000",
+      "summary": "The Middle East conflict and higher airfares continue to make their mark industrywide.",
+      "source": "Skift"
+    },
+    {
+      "title": "JetBlue Raises Bag Fees for the Second Time This Year",
+      "link": "https://skift.com/2026/11/03/jetblue-raises-bag-fees-for-the-second-time-this-year/",
+      "published": "Tue, 03 Nov 2026 21:24:59 +0000",
+      "summary": "JetBlue\u2019s second bag fee increase this year tests how much more travelers will absorb.",
+      "source": "Skift"
+    },
     {
       "title": "Travel\u2019s Next Dollar: Capital Moves November 2026",
       "link": "https://skift.com/2026/11/03/travels-next-dollar-capital-moves-november-2026/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Delta CEO Ed Bastian Slams \u2018Short-Sighted\u2019 Heathrow Shake-Up",
-      "link": "https://skift.com/2026/11/03/delta-ceo-ed-bastian-slams-short-sighted-heathrow-shake-up/",
-      "published": "Tue, 03 Nov 2026 12:20:00 +0000",
-      "summary": "Virgin Atlantic&apos;s anger over Heathrow&apos;s terminal shake-up now has heavyweight backing from Atlanta. With Ed Bastian joining the fight, the airport faces mounting pressure to rethink its plans.",
-      "source": "Skift"
-    },
-    {
-      "title": "Gulf Hotels\u2019 Peak Season Stalls as Travelers Wait Out the U.S. Midterms",
-      "link": "https://skift.com/2026/11/03/gulf-hotels-peak-season-stalls-as-travelers-wait-out-the-u-s-midterms/",
-      "published": "Tue, 03 Nov 2026 06:02:00 +0000",
-      "summary": "Bookings for the Gulf\u2019s peak quarter are on hold until after the U.S. vote. With airlines still staying away, some operators don\u2019t expect a real recovery until late 2027.",
-      "source": "Skift"
-    },
-    {
       "title": "Over 1,227 flights delayed, 70 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFlHa3RQU3FKb3lPYUdyR3hSY2FhNjFlYmxzZHg4N1FfZi10QVhnQzdRUHRpMzFxaWlseVVnQkp0eEt4ZGQyVnpJQWg1QTlXNHZ2WF9lN19fN25jREFnYzNpWGI2ZXJiMUdDUkNHN3A5U1lfQlBkdURWaGVUYlpOWnU4NFhWRzhudGt6ekpBc3pHR2xwQjZNeTJCVmdGYzZlNDNpRDZEeGdXQkplZ3ZVTzVR0gHGAUFVX3lxTE1IWlFjQ3RZV2pxSWNYVFZ4TXJCOGtrOWxGZC1yb0xIWWF6djNzc3ZWV1hiVmtiRFdzZFppUF8tRU5saTVCLXpVS0trVjFuNkxOOVlFUU1sVnhNM0dZT3RGZU1YYWFGTXpfaTRHb29OMVQ4TEtOdWFqa1AyQlRuczJXUkV1Q05SeEFuX2ZlN2NEQkJWNERTVUh3TFBJeWdpeS1WSGhROGZnMktuQ0VCUHpUOUFkQ0p5WWpfeTFqTk9nRDQ4bFRTUQ?oc=5",
       "published": "Mon, 02 Nov 2026 14:53:00 GMT",
@@ -70,24 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
-      "published": "Thu, 29 Oct 2026 09:33:29 GMT",
-      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US issues renewed Saudi Arabia security alert: Airport attacks and flight disruptions feared - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGV1S0cwLWRYaE5DNzBhb2pjdTRjQ25sbFVJMlk0eHNTSjdYZjdfS0M5VG1ERVBGa3lta2YyTzc2Zjc5cnhqd3JGLTZpN2RtNmRWMVY1SFNqdFpYWXUxNnNIdWJlN1dPTjRLMlVUZU4xU0hkMzhZNGtrY3NsRC1XajhNSm8weXF6T2J5Yk1QZTdWZWdtNnRZeVN5MVYwM2JvYU5jSHA2THlXSGdzVlRQU0FGbmhPLXBUNEY5SDlQbmlyZjNnclZSVnNTUQ?oc=5",
-      "published": "Fri, 30 Oct 2026 18:53:04 GMT",
-      "summary": "US issues renewed Saudi Arabia security alert: Airport attacks and flight disruptions feared&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US Embassy Issues Israel Travel Warning Ahead of Yom Kippur - The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeW9wUzJQc0F0dHFWVk5WVlFJTTFRcFZHVGoyWWhTWl9PMnNpdDV3ZXROT0FvcUFjYkViZkJPZ0pxR2ZUTHA5RVNvQTY4eFNLa3VON3FZNVh1R2JHY1NOaXRQZHRqT0NHTVBpQWFwNzJWQXgzVk1SU0FZU01lZXUwU2kyQjNpUWpzM0FuaDlQdkFxakE3TEt2QlV0WQ?oc=5",
-      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "US Embassy Issues Israel Travel Warning Ahead of Yom Kippur&nbsp;&nbsp;The Media Line",
+      "title": "Dubai and Middle East flight disruption: the latest updates as international airlines extend route cancellations - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR19WNWdzMy1Lc0dXb1FGQUZIZkVqcGNBZzdRSWpoSldwU1dFUmVDRmhEYVhlWDVLU2tiX3FMVEhVdEl4bG1reWZKOEF5TERfT3dJc0QyOEdGY3A0Y2Q2YkN1OU40U3dEbjh5dzJwZmNNNktaODBjb09taXFCaVdFSnpJdVFFWGI5M3dOM0FoZUFkR2JfQWF4b2ExQjh2SUtjcXY2Z0kzTWt0T1NHUzNOaWpYdmw5eU5kekgxZHlaNGg1TmJMYmM5SWtfVVBMTWlMa3MtMGpCakpfazg0b2sxTg?oc=5",
+      "published": "Mon, 02 Nov 2026 07:52:40 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates as international airlines extend route cancellations&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +84,38 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmZhcl9LVUtFMjYwNFB4amo1eUJnR0drVmNMdVVhei1lS1JtRDRQREItb1I5YzY0UllzVlpURE45SUpXekk1X0dVckZ3TmxMVzUxcHRQTU44R1dOeDNxVE9Hc25vVGt6N1gyTWVINjZ0bHkyQlNHQzZjV0lBQm0tVERqQXJqbDdMWFBIbnZneUhwaWZlbDFSRHFxOVZrYWpxLW1iMDBJQTRCUVJmaWRBb9IBxAFBVV95cUxOekhxV3dXakNDZU9RZmRNa2lNVU4zREJ1TWRRQjBCcUxodlBudTNNbXQtcjNTb1lwek84YXdOOXVqNDVWdDdjTktqSVBabGpUSVM1c01fVUNsSjVMV0pKaDZKV0pVbnFQcmFxR29tSU1ZejZHUXNiVE9xWFdiTUNRX2dUQlhGbVVQRWpJN0o2cFpWVUdQZ2pFcTV1TTRpb1F6VXZubjJnVHVxTU5yMFhmZnlpSThWajJYSDc5Q1Yyb21DamxW?oc=5",
-      "published": "Fri, 30 Oct 2026 13:45:00 GMT",
-      "summary": "Over 571 flights delayed, 53 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
-      "title": "U.S. government warns Americans about 8 popular destinations - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0wyV28yOHFrcElUcWZZUEVpODM2S0dLQWVPbzJfQ2p0cWY4cExET1lBVDRCa09VWTVidlMyQjRPTk1YeE81Vy0wVHhTOTNaSS1IdFFCdG02aXdRVmNJNWJpbjFfY0owbjBjcDdUOUtCOWdBMVdKb1JWcFppVHpTSnF2V2xnSG9QcHFBaERn?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government warns Americans about 8 popular destinations&nbsp;&nbsp;TheStreet",
+      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
-      "title": "Airlines Extend Travel Waivers in Wake of Nor\u2019easter - TravelPulse",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3hFUHdrMnpzN3I5V2E0bGF0NDlrN0FWb1Uzb3dWY2pYb3FwbnNoYzRCMEJab3Y0MlVFUGxRcWUzeEh0WjRCVGlwMEc2QjhiSzA2RVV0VnNPd0JzeEdCNWkzSEREcHBiaW93NnMzR18zMDhTeDY3ZjY0ZzduaGlOcFBNVm5leXEwclk2NmhTNnhTWEh3UVZGekJkcUtna2pLa3k5aFBLUVp5U01aR29UcE5EY3UzaFM3MHN1Rw?oc=5",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "summary": "Airlines Extend Travel Waivers in Wake of Nor\u2019easter&nbsp;&nbsp;TravelPulse",
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
+      "published": "Thu, 29 Oct 2026 09:33:29 GMT",
+      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
