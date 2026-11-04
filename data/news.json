@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-11-04T03:46:34.017603+00:00",
+  "last_updated": "2026-11-04T11:42:26.386417+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Regional Visitors Keep Oman\u2019s Arrivals Steady but Can\u2019t Fill Its Hotels",
+      "link": "https://skift.com/2026/11/04/regional-visitors-keep-omans-arrivals-steady-but-cant-fill-its-hotels/",
+      "published": "Wed, 04 Nov 2026 10:52:51 +0000",
+      "summary": "Oman\u2019s arrivals have held up this year, but its hotels lost more than a tenth of their guests and revenue as Europeans stayed away. Regional travelers are still arriving but make shorter visits at lower rates.",
+      "source": "Skift"
+    },
+    {
+      "title": "Air India CEO Wants More Widebodies as International Ambitions Grow",
+      "link": "https://skift.com/2026/11/04/air-india-ceo-wants-more-widebodies-as-international-ambitions-grow/",
+      "published": "Wed, 04 Nov 2026 10:35:40 +0000",
+      "summary": "Air India CEO Tewolde Gebremariam thinks the carrier has been &quot;punching below its weight.&quot; He is now planning for the airline he wants it to become, not the one it is today.",
+      "source": "Skift"
+    },
+    {
+      "title": "Thailand\u2019s 2032 Tourism Plan Chases Spending, Not Arrivals",
+      "link": "https://skift.com/2026/11/04/thailands-2032-tourism-plan-chases-spending-not-arrivals/",
+      "published": "Wed, 04 Nov 2026 09:55:42 +0000",
+      "summary": "Thailand\u2019s $118 billion goal targets spending rather than arrivals, which have stalled at about 33 million. Rising prices will surely lift revenue regardless, but higher rates aren\u2019t the same as higher value, and the plan has no budget yet for the terminals, marinas and guides ne",
+      "source": "Skift"
+    },
+    {
+      "title": "Booking.com Bets Travelers Will Research With AI but Book With It",
+      "link": "https://skift.com/2026/11/03/booking-com-bets-travelers-will-research-with-ai-but-book-with-it/",
+      "published": "Wed, 04 Nov 2026 03:52:58 +0000",
+      "summary": "AI may own the start of the trip, but Booking.com is betting trust and payments decide who gets the booking. Its experience with superapps, where daily use never became travel spending, suggests generative chatbots may face the same problem.",
+      "source": "Skift"
+    },
     {
       "title": "Booking Takes $1 Billion Hit Over Possible FTC Settlement, Sees \u2018Mixed\u2019 Travel Market",
       "link": "https://skift.com/2026/11/03/booking-takes-1-billion-hit-over-possible-ftc-settlement-sees-mixed-travel-market/",
@@ -35,38 +63,24 @@
       "source": "Skift"
     },
     {
-      "title": "How Tourism Ireland Is Navigating a More Uncertain Travel Market: Watch Video",
-      "link": "https://skift.com/2026/11/03/tourism-ireland-travel-demand-strategy/",
-      "published": "Tue, 03 Nov 2026 17:08:11 +0000",
-      "summary": "At the Skift Transatlantic Summit, Tourism Ireland Chief Executive Alice Mansergh explained how the island of Ireland is navigating current headwinds by investing in connectivity marketing, market diversification, AI-driven discovery, and the authentic local experiences that can ",
-      "source": "Skift"
-    },
-    {
-      "title": "AirAsia Sets March 2027 Target for Bahrain Hub After War Delays",
-      "link": "https://skift.com/2026/11/03/airasia-sets-march-2027-target-for-bahrain-hub-after-war-delays/",
-      "published": "Tue, 03 Nov 2026 15:41:23 +0000",
-      "summary": "AirAsia now has a date for Bahrain but less need for it. A Pegasus deal routing Europe traffic through Istanbul undercuts the case for a Gulf hub.",
-      "source": "Skift"
-    },
-    {
-      "title": "Why We\u2019ve Been Looking at the Hotel Brands vs. OTAs War All Wrong",
-      "link": "https://skift.com/2026/11/03/why-weve-been-looking-at-the-hotel-brands-vs-otas-war-all-wrong/",
-      "published": "Tue, 03 Nov 2026 14:01:02 +0000",
-      "summary": "The hotel industry\u2019s distribution war has an overlooked third party: the owner. New questions about AI, loyalty and customer acquisition could make that imbalance even more consequential.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Travel Credit Cards Are Becoming Full-Trip Companions: Watch Video",
-      "link": "https://skift.com/2026/11/03/capital-one-travel-credit-card-skift-global-forum/",
-      "published": "Tue, 03 Nov 2026 14:00:00 +0000",
-      "summary": "Travel credit cards are moving well beyond points and booking. At Skift Global Forum, Capital One Travel\u2019s Sarah Moore said the opportunity lies in remaining useful throughout the trip by combining context, experiences, technology, and trust to build deeper relationships with tra",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 2, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUhwRVFDOXUydTY0MnJDbm5sNUVnZXoydG9leGVsT3hWZ243eXBuUms3MXZhcmtpcmx6ZFFTNDhqNlpxeUZjSWdORHBTQ25GUUkxUUhoUXlhdmk3cjR4MkN4dHgtMlN6Y2hFaVQyMm9KUnY3c3FQekpmaTVHNFFnZ1doQ0l2bEV4SHVEdg?oc=5",
+      "published": "Mon, 02 Nov 2026 21:11:47 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 2, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
       "title": "Over 1,227 flights delayed, 70 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFlHa3RQU3FKb3lPYUdyR3hSY2FhNjFlYmxzZHg4N1FfZi10QVhnQzdRUHRpMzFxaWlseVVnQkp0eEt4ZGQyVnpJQWg1QTlXNHZ2WF9lN19fN25jREFnYzNpWGI2ZXJiMUdDUkNHN3A5U1lfQlBkdURWaGVUYlpOWnU4NFhWRzhudGt6ekpBc3pHR2xwQjZNeTJCVmdGYzZlNDNpRDZEeGdXQkplZ3ZVTzVR0gHGAUFVX3lxTE1IWlFjQ3RZV2pxSWNYVFZ4TXJCOGtrOWxGZC1yb0xIWWF6djNzc3ZWV1hiVmtiRFdzZFppUF8tRU5saTVCLXpVS0trVjFuNkxOOVlFUU1sVnhNM0dZT3RGZU1YYWFGTXpfaTRHb29OMVQ4TEtOdWFqa1AyQlRuczJXUkV1Q05SeEFuX2ZlN2NEQkJWNERTVUh3TFBJeWdpeS1WSGhROGZnMktuQ0VCUHpUOUFkQ0p5WWpfeTFqTk9nRDQ4bFRTUQ?oc=5",
       "published": "Mon, 02 Nov 2026 14:53:00 GMT",
       "summary": "Over 1,227 flights delayed, 70 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "UAE flight status today: Emirates, Etihad issue travel updates; latest cancellations and delays - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhsYVFnTmM1VTU3T1RLUk1sWlJMYjVtRklqWnFCeXoxNEItbFd5bnNxb21keUhHZjQ4anFFYXJVSjlpb292eHdQU2xHNUdFRTVTY0FxNlNOYjhmOVJuYTQyazdqWU9UQzRPV3JNb2dHQm9udEk1aUNLeU1QeDlXeDdRQmZnOTVtMU1lMjlRcTVWbHU5ZlJwX0xqbEN3cGhfRDRZY1RkSDhCbEFyVTY2ZmpZb0lrem9KRWZPdw?oc=5",
+      "published": "Wed, 04 Nov 2026 07:23:06 GMT",
+      "summary": "UAE flight status today: Emirates, Etihad issue travel updates; latest cancellations and delays&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
@@ -84,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
+      "published": "Thu, 29 Oct 2026 09:33:29 GMT",
+      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -91,31 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbks4VDJ0MkIta0hfZmlIMHpvOU9HQmVvUUMwb1RKQk1PRWx4STlnYTZUU25WNExRcU5aVkNBa2JoMW5haGJGalVkZnNYYVkydnRTMHhVRENnUWdfWXN0QjNHMkVwT3Z2YkM4dkJBajZvZDNvVDIyM01MMkhqaHgwM0FKLXRzczh5dGJDNVppN3RMaFgwY29ZNjM0Y2JYUXNMQkN6THF4RDZjVDFGNXQ0Q256aXVuMTZjVWVPU3Nta3lLdWV2bXNmbGJRRm9fX3Z3NVBj?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "summary": "US warns of potential airport attack risks in Saudi Arabia, urges travellers to check flights&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Repatriation flights return citizens from the Middle East: What travelers need to know - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmhnSUxrZUhaa0NiQ21aV1NIckxSUXdDV0J4VDRaZnlmWjFIb0pRRWxHSDY2aUJZSEVHMC1WREN2NUR1bE9WdVRadnkwSjdwTkRGMVRYclRHQzNheGtPdGwxRVpVbGxaOFltMEI0dklqZTRaVGFkbDU3T1Jqek5BUkdwdGo5TVJObU5z?oc=5",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Repatriation flights return citizens from the Middle East: What travelers need to know&nbsp;&nbsp;CNN",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Middle East travel warnings: the latest as the UK and US update advice for the region - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnMzdFpNdW93c3p1S1REM1NUVW00ZVlNaXNRRkF6dktuNUliZXhrT3hxbGRzay1zMk05TXJOTk53WVJDaDRNbWFRZE5zUVZJc2JZSW5YcEdNYThCOWNLZ214bnJjUlJQV0ZFZDZvaDRiQUx1SVRqaHY3WDA3VEctSElFN1ItbmJ2b2w2R2dlV0s0NEhzclk5b1pOazlBVnY3Q3lWQzFSYS1lUW1TUFFfNkd4TlVXREp2My1QTA?oc=5",
-      "published": "Thu, 29 Oct 2026 09:33:29 GMT",
-      "summary": "Middle East travel warnings: the latest as the UK and US update advice for the region&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
