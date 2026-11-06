@@ -1,5 +1,156 @@
 {
-  "last_updated": "2026-11-05T19:11:49.625501+00:00",
-  "error": "403 Client Error: Forbidden for url: https://www.tsa.gov/travel/passenger-volumes",
-  "records": []
+  "last_updated": "2026-11-06T00:36:26.376651+00:00",
+  "source": "TSA Checkpoint Travel Numbers",
+  "records": [
+    {
+      "date": "11/4/2026",
+      "travelers_current": "2107186",
+      "travelers_prior": "2015706"
+    },
+    {
+      "date": "11/3/2026",
+      "travelers_current": "1966283",
+      "travelers_prior": "2492532"
+    },
+    {
+      "date": "11/2/2026",
+      "travelers_current": "2444382",
+      "travelers_prior": "2678442"
+    },
+    {
+      "date": "11/1/2026",
+      "travelers_current": "2530793",
+      "travelers_prior": "2029708"
+    },
+    {
+      "date": "10/31/2026",
+      "travelers_current": "1686878",
+      "travelers_prior": "2280607"
+    },
+    {
+      "date": "10/30/2026",
+      "travelers_current": "2349091",
+      "travelers_prior": "2532054"
+    },
+    {
+      "date": "10/29/2026",
+      "travelers_current": "2516359",
+      "travelers_prior": "2087383"
+    },
+    {
+      "date": "10/28/2026",
+      "travelers_current": "2121934",
+      "travelers_prior": "1945466"
+    },
+    {
+      "date": "10/27/2026",
+      "travelers_current": "1972890",
+      "travelers_prior": "2636402"
+    },
+    {
+      "date": "10/26/2026",
+      "travelers_current": "2608778",
+      "travelers_prior": "2859222"
+    },
+    {
+      "date": "10/25/2026",
+      "travelers_current": "2837625",
+      "travelers_prior": "2126979"
+    },
+    {
+      "date": "10/24/2026",
+      "travelers_current": "2117643",
+      "travelers_prior": "2773635"
+    },
+    {
+      "date": "10/23/2026",
+      "travelers_current": "2729432",
+      "travelers_prior": "2780271"
+    },
+    {
+      "date": "10/22/2026",
+      "travelers_current": "2781103",
+      "travelers_prior": "2278249"
+    },
+    {
+      "date": "10/21/2026",
+      "travelers_current": "2321158",
+      "travelers_prior": "2141971"
+    },
+    {
+      "date": "10/20/2026",
+      "travelers_current": "2154162",
+      "travelers_prior": "2794820"
+    },
+    {
+      "date": "10/19/2026",
+      "travelers_current": "2724075",
+      "travelers_prior": "2988255"
+    },
+    {
+      "date": "10/18/2026",
+      "travelers_current": "2931779",
+      "travelers_prior": "2268485"
+    },
+    {
+      "date": "10/17/2026",
+      "travelers_current": "2282586",
+      "travelers_prior": "2878950"
+    },
+    {
+      "date": "10/16/2026",
+      "travelers_current": "2779839",
+      "travelers_prior": "2901650"
+    },
+    {
+      "date": "10/15/2026",
+      "travelers_current": "2820142",
+      "travelers_prior": "2438918"
+    },
+    {
+      "date": "10/14/2026",
+      "travelers_current": "2419474",
+      "travelers_prior": "2413133"
+    },
+    {
+      "date": "10/13/2026",
+      "travelers_current": "2353356",
+      "travelers_prior": "2874884"
+    },
+    {
+      "date": "10/12/2026",
+      "travelers_current": "2829340",
+      "travelers_prior": "2951273"
+    },
+    {
+      "date": "10/11/2026",
+      "travelers_current": "2838781",
+      "travelers_prior": "2381106"
+    },
+    {
+      "date": "10/10/2026",
+      "travelers_current": "2263744",
+      "travelers_prior": "3017612"
+    },
+    {
+      "date": "10/9/2026",
+      "travelers_current": "2914371",
+      "travelers_prior": "2975982"
+    },
+    {
+      "date": "10/8/2026",
+      "travelers_current": "2901564",
+      "travelers_prior": "2417075"
+    },
+    {
+      "date": "10/7/2026",
+      "travelers_current": "2377978",
+      "travelers_prior": "2104449"
+    },
+    {
+      "date": "10/6/2026",
+      "travelers_current": "2089407",
+      "travelers_prior": "2686873"
+    }
+  ]
 }
