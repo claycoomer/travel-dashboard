@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-07T10:45:53.454047+00:00",
+  "last_updated": "2026-11-07T17:07:14.683232+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airbnb Sells IP to AI Lab Owned by Its CEO and CTO",
+      "link": "https://skift.com/2026/11/07/airbnb-sells-ip-to-ai-lab-owned-by-its-ceo-and-cto/",
+      "published": "Sat, 07 Nov 2026 14:13:07 +0000",
+      "summary": "Airbnb\u2019s CEO and CTO both own part of the lab buying its IP, but the filing gives shareholders little detail on what changed hands.",
+      "source": "Skift"
+    },
     {
       "title": "Wynn Holds UAE Casino Date but Weighs How to Open Amid War",
       "link": "https://skift.com/2026/11/06/wynn-holds-uae-casino-date-but-weighs-how-to-open-amid-war/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb-Backed Candidates Lose in LA, a Setback in Push to Loosen Rental Rules",
-      "link": "https://skift.com/2026/11/05/raman-la-mayor-impact-airbnb-olympics/",
-      "published": "Thu, 05 Nov 2026 19:08:20 +0000",
-      "summary": "Airbnb\u2019s money may not have bought it a friendlier mayor in Los Angeles. Expect the company to look for other ways to add Olympic supply.",
-      "source": "Skift"
-    },
-    {
       "title": "US Embassy warns American travelers of violent protests in France - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1CNGVaTDB0Y2ZGNTBsc2UzaHI2c3diM1p5VlppV3V2LUdOa1poUWVLU25kUzlnZXVvT0tTTzBPRkNrVjRKdVJXbU1aVW5jRF82dXh5UEJmd0RNNlYxb0dKQnNIaHJ4OE14OG1GQ3ZMeF9SNHo3VHhBWmxkNlQ3amVhamItaVZhX2h6NGZuZmgzWXRpbkx5Zy0yeXA4WHdEZllCTzYyeXM1eklr?oc=5",
       "published": "Fri, 06 Nov 2026 18:31:00 GMT",
@@ -81,6 +81,13 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTdwa2NIOS1JNW5HeDhQMFcxc29lZ2lDQXdEWkE0OHVhY3FkSFBSYzNJX2poM2FoSTBEendMRWNMSFRmMzJRcU15dmJabE5zM3pTZUlDUDNOcG5LLXNzX05wbUNaeVItZ3g5RnRtR0pZZGMwREtoOUpBMlByRmJYT3NzRXNqQkFtcjlBbGFxc2lEQWFndGlfSk4tYTFkV3FETEIyWXVURHVQLUVrVEVxUndibTNySzZWRm9nZnNMMjl6STZGUmVPZ0VOekN6UdIB4AFBVV95cUxOVko1eV9XT1J1RFk5bHpjYkdtU0QtNUcwOVc5ejUxT0R5OG9KelNnaGZUMmJFXy1VNnlDOF95WW44Qkc4aWlSOGRRdkh4aHhHUHZpMUppYkVEZFlXM2xjV0I2c2hjX3ZTakQ4YmhJb2VXaVBxZm82cnFYYVpQUVJ3QU5wVFMyWVF0aU54SS1EaDJnOHAzcHhCS0M3Z2piMmlOVXRnZVZwSGszbGVDeDBLTVdhbmhZRjFrUnUzRWc3T1IwZkQ5cnVEWHUwSEVyUDhQVF9Cem90anpoYk1QRWtOWQ?oc=5",
       "published": "Sat, 07 Nov 2026 06:14:51 GMT",
       "summary": "UAE flight status: Cancellations, delays and latest Emirates, Etihad, flydubai updates&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVlvd1ZnekMySXU0aEZsLTFZbkNhVENVbmxhLXZpNUYzQzhoMTE2djl2SjI1TFFLMmNTeENya2xWUWJIR2hUY1JUTDJtakQ4bmR0OFBZZ0dBY3lhWENkMC1qR0pzdFV2UVp0TmVlVWF2c0FDa3UzV0Z6VFdOUHpMd3JkbkItZ1pnTG9SVWhlNFl2TUYyVVVBVkxpMnpfVFdhQW9aU3pKMUZWRkhuMkJiM0Q0Mzk1elF4ZWIzbVUtOE81X0Njc3ctSV91Nk9pcWp1Tnpj0gHYAUFVX3lxTE5laVczay04aGY2R04xWGJ2RzYwU1V2eXY5dkFHMlAwUVdkQ2Y3bURnVG9NOTB1Znd6LXdpMGNqOE9xSjVVOEpZZ001N2dTaWRpd2ZjSHVIODBuWENOZU1na2dxSS1qenVCNXBHbUVzZEV3Vkd3dVZVdnFJZk5meWQ1dHQ2OUNQSTFEYkJ2N2ZkV1RDYTA3ZUY1dVR3XzhLN0k5VXQyZEdEdjBmYk1WNi1TcE1zVkM3QVdiSWFoYWFCdGM2a2RzRm96RTRhWFpuRjg4TWpiMzhpNw?oc=5",
+      "published": "Sat, 07 Nov 2026 12:01:13 GMT",
+      "summary": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions&nbsp;&nbsp;Moneycontrol.com",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhsYVFnTmM1VTU3T1RLUk1sWlJMYjVtRklqWnFCeXoxNEItbFd5bnNxb21keUhHZjQ4anFFYXJVSjlpb292eHdQU2xHNUdFRTVTY0FxNlNOYjhmOVJuYTQyazdqWU9UQzRPV3JNb2dHQm9udEk1aUNLeU1QeDlXeDdRQmZnOTVtMU1lMjlRcTVWbHU5ZlJwX0xqbEN3cGhfRDRZY1RkSDhCbEFyVTY2ZmpZb0lrem9KRWZPd9IBzwFBVV95cUxPNTQzSng5bm43Z1pVSTRrek03amdEa0FTSTN3SGh5RHE2QzdSMWRxbGN5QVMxSUhSVy1SdXpmZXoyN3ZNYWhOUXh5LWdlaEtkUHRrWUcwMV9pWVdHcmI3Q1BBd1hGMXozLVRrZ1N1WFFCVFR4ekVFQWRhNjZXVjlReXpfekNUbTJFXzZ5SGhEdTYyY2wwX1AxcUxWOE1Xb0FmaDY4OG5OREJkQTFmSW5SYjhjY2EweGUyS1c5X3huZGI2dU9heXNzcXc4UVpYdzA?oc=5",
       "published": "Wed, 04 Nov 2026 07:23:06 GMT",
       "summary": "UAE flight status today: Emirates, Etihad issue travel updates; latest cancellations and delays&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     }
   ]
