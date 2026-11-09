@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-09T03:31:19.055783+00:00",
+  "last_updated": "2026-11-09T12:17:03.544461+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Expedia Goes Live on Muse, but Its AI Wins Are Inside Its Own Apps",
+      "link": "https://skift.com/2026/11/09/expedia-goes-live-on-muse-but-its-ai-wins-are-inside-its-own-apps/",
+      "published": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "summary": "Expedia&apos;s Muse connection is live: CEO Ariane Gorin noted it may even have happened during the OTA&apos;s earnings call this week. So Skift took it for a spin to see what it can and cannot do.",
+      "source": "Skift"
+    },
     {
       "title": "AI Agents Still Need Middlemen. But Will They Need Amadeus?",
       "link": "https://skift.com/2026/11/08/ai-agents-still-need-middlemen-but-will-they-need-amadeus/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Qatar\u2019s Tourism Recovery is Coming by Road, Not Air",
-      "link": "https://skift.com/2026/11/06/qatars-tourism-recovery-is-coming-by-road-not-air/",
-      "published": "Fri, 06 Nov 2026 09:14:34 +0000",
-      "summary": "Qatar\u2019s visitor numbers are recovering on road traffic across the Saudi border, while air arrivals keep falling. Drive-in visitors tend to make shorter trips, which limits how much they can do for hotels.",
-      "source": "Skift"
-    },
-    {
       "title": "Is it safe to travel to Saudi Arabia right now? What US and UK travel advice says after the Riyadh attack - Nacionale",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeW8yalhsbjcwRy1uYzRFcHpHV1lUMjZPRzUtYkdLclBHWVdSbVQwZ1RTc1lOdHg2bTJmaUxhbzNqdmViRmRaV3pnQlRUbHhFZ1pLRnlVaHFJMExmY3Q3RF9aa0VHQXRuUWZTZmc0WUlYTzNLOWZpU0tfa2JxVk1VUlZ0NUoxSGVSbkM3ZHM5dVRvTzAyeGVTM3hvdEhsd1RqRlhjTDkzUlI0dEF6X1JqMXVVN2pXdw?oc=5",
       "published": "Sun, 08 Nov 2026 18:36:07 GMT",
@@ -91,13 +91,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVlvd1ZnekMySXU0aEZsLTFZbkNhVENVbmxhLXZpNUYzQzhoMTE2djl2SjI1TFFLMmNTeENya2xWUWJIR2hUY1JUTDJtakQ4bmR0OFBZZ0dBY3lhWENkMC1qR0pzdFV2UVp0TmVlVWF2c0FDa3UzV0Z6VFdOUHpMd3JkbkItZ1pnTG9SVWhlNFl2TUYyVVVBVkxpMnpfVFdhQW9aU3pKMUZWRkhuMkJiM0Q0Mzk1elF4ZWIzbVUtOE81X0Njc3ctSV91Nk9pcWp1Tnpj0gHYAUFVX3lxTE5laVczay04aGY2R04xWGJ2RzYwU1V2eXY5dkFHMlAwUVdkQ2Y3bURnVG9NOTB1Znd6LXdpMGNqOE9xSjVVOEpZZ001N2dTaWRpd2ZjSHVIODBuWENOZU1na2dxSS1qenVCNXBHbUVzZEV3Vkd3dVZVdnFJZk5meWQ1dHQ2OUNQSTFEYkJ2N2ZkV1RDYTA3ZUY1dVR3XzhLN0k5VXQyZEdEdjBmYk1WNi1TcE1zVkM3QVdiSWFoYWFCdGM2a2RzRm96RTRhWFpuRjg4TWpiMzhpNw?oc=5",
-      "published": "Sat, 07 Nov 2026 12:01:13 GMT",
-      "summary": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions&nbsp;&nbsp;Moneycontrol.com",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
@@ -105,17 +98,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: British Airways resumes Dubai route while airlines continue Saudi suspensions - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVZ1MGNTVFlZWGZjTDV2UFBmRzh5ci1xN3pueklkS0ZBWTM4SktXaGMtVFcxODVfSGo2d192eGg0TlIybXBWbktISk1hNk5zcjVhQ2JQWFZUaU9OLXA0dkxsZ0pldXoyQnhvcVZYUjBLRUJ4eEtfODhsN05WVWF1WEdCYUdKREFQS2c1WlFTWWhwT1VDYU9lblFqd2tCTHE1eDNpWHFjbGNiaXZlTnhRQWVpakszdVJWcEUyVkw1NXByWTdrZGNBY0pvdTBoVHVfdHhFbVYxVzRxejdIaWVKYnpheWNORU9G?oc=5",
-      "published": "Wed, 04 Nov 2026 14:14:58 GMT",
-      "summary": "Dubai and Middle East flight disruption: British Airways resumes Dubai route while airlines continue Saudi suspensions&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVlvd1ZnekMySXU0aEZsLTFZbkNhVENVbmxhLXZpNUYzQzhoMTE2djl2SjI1TFFLMmNTeENya2xWUWJIR2hUY1JUTDJtakQ4bmR0OFBZZ0dBY3lhWENkMC1qR0pzdFV2UVp0TmVlVWF2c0FDa3UzV0Z6VFdOUHpMd3JkbkItZ1pnTG9SVWhlNFl2TUYyVVVBVkxpMnpfVFdhQW9aU3pKMUZWRkhuMkJiM0Q0Mzk1elF4ZWIzbVUtOE81X0Njc3ctSV91Nk9pcWp1Tnpj0gHYAUFVX3lxTE5laVczay04aGY2R04xWGJ2RzYwU1V2eXY5dkFHMlAwUVdkQ2Y3bURnVG9NOTB1Znd6LXdpMGNqOE9xSjVVOEpZZ001N2dTaWRpd2ZjSHVIODBuWENOZU1na2dxSS1qenVCNXBHbUVzZEV3Vkd3dVZVdnFJZk5meWQ1dHQ2OUNQSTFEYkJ2N2ZkV1RDYTA3ZUY1dVR3XzhLN0k5VXQyZEdEdjBmYk1WNi1TcE1zVkM3QVdiSWFoYWFCdGM2a2RzRm96RTRhWFpuRjg4TWpiMzhpNw?oc=5",
+      "published": "Sat, 07 Nov 2026 12:01:13 GMT",
+      "summary": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions&nbsp;&nbsp;Moneycontrol.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUUGpfa1pETXl1WlJMVXE4eWJvN2VKX2c2R3QwclkwRGtia2tCNDdETmpiMjhqOFVJS3p2emVLcGlHTkFXLUtUUnJSYTEyTC0zVXE5NUp3VHZ6anJyWWtDMUluSXJkMVpHSjZ0QjdYaDdBQ3E3Wm9zRnZvejU1ajVjMDRLVk94LU1tdXU3NWEyd2pkLVRaVG1aTkIwZjNfc3ZZTDRnb0IyNENuekswelhR?oc=5",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "East Coast Storms Snarl Air Travel\u20146,500 Disrupted Flights Today&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     }
   ]
