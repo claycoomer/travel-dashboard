@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-11-10T15:54:42.816713+00:00",
+  "last_updated": "2026-11-10T21:32:32.743314+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Japan Is Closing in on the U.S. as High Costs and Politics Deter Travelers, Brand USA Says",
+      "link": "https://skift.com/2026/11/10/brand-usa-top-destination-closing-gap/",
+      "published": "Tue, 10 Nov 2026 20:41:15 +0000",
+      "summary": "Research shows the U.S. losing ground to Japan as costs and politics turn travelers away. Brand USA is betting the lost demand is deferred, not gone, but its budget to win it back is shrinking.",
+      "source": "Skift"
+    },
+    {
+      "title": "Spirit\u2019s $10 Million Data Sale to Google Clears Hurdle as Unions Win Privacy Protections",
+      "link": "https://skift.com/2026/11/10/spirits-10-million-dollar-data-sale-clears-hurdle-as-unions-win-privacy-protections/",
+      "published": "Tue, 10 Nov 2026 19:47:13 +0000",
+      "summary": "If the sale clears, Google gets about 1.9 billion Spirit emails and 30 million lines of code to train its AI models, for $10 million. The unions\u2019 win means employee data will be scrubbed first.",
+      "source": "Skift"
+    },
+    {
+      "title": "Aman Confirms Its Secret Third Brand Is Atma, Opening in Miami in 2031",
+      "link": "https://skift.com/2026/11/10/aman-confirms-its-secret-third-brand-is-atma-opening-in-miami-in-2031/",
+      "published": "Tue, 10 Nov 2026 19:39:04 +0000",
+      "summary": "Aman has confirmed what the paper trail suggested to Skift in January. The open question is delivery: Janu, the group&apos;s second brand, has one hotel open after more than six years since its launch.",
+      "source": "Skift"
+    },
+    {
+      "title": "OpenAI Acquires Odessia, the AI Travel Agent From Sonder\u2019s Co-Founder",
+      "link": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
+      "published": "Tue, 10 Nov 2026 19:31:07 +0000",
+      "summary": "OpenAI didn&apos;t acquire Odessia for its revenue. It bought a team that built a working AI travel agent in months, plus a founder who ran a lodging company, which included hotels and short-term rentals, for a decade. It&apos;s a sign ChatGPT wants to do more in travel than send",
+      "source": "Skift"
+    },
+    {
+      "title": "Prices Prop Up Travel as Demand Cools",
+      "link": "https://skift.com/2026/11/10/prices-prop-up-travel-as-demand-cools/",
+      "published": "Tue, 10 Nov 2026 17:14:52 +0000",
+      "summary": "Travel interest is slipping, but revenue is holding because prices are doing the work. That cushion only lasts as long as travelers keep paying more, which makes falling search activity worth watching closely heading into 2027.",
+      "source": "Skift"
+    },
     {
       "title": "\u2018Is This Hilton?\u2019 An Ad Blitz Answers: Yes, We Have Lifestyle Hotels",
       "link": "https://skift.com/2026/11/10/is-this-hilton-an-ad-blitz-answers-yes-we-have-lifestyle-hotels/",
@@ -28,39 +63,11 @@
       "source": "Skift"
     },
     {
-      "title": "Expedia\u2019s $676 Million in Acquisitions Points to More B2B Buying",
-      "link": "https://skift.com/2026/11/09/expedias-676-million-in-deals-points-to-more-b2b-buying/",
-      "published": "Mon, 09 Nov 2026 21:20:33 +0000",
-      "summary": "Expedia\u2019s 2026 deals are a fraction of the nearly $6 billion it spent in 2015. But three acquisitions in nine months, plus CEO Ariane Gorin\u2019s pledge to keep investing, signal that Expedia is a buyer again. And B2B is where the money is going.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dear Robot: How Travel Is (and Isn\u2019t) Talking to AI",
-      "link": "https://skift.com/2026/11/09/dear-robot-how-travel-is-and-isnt-talking-to-ai/",
-      "published": "Mon, 09 Nov 2026 17:26:23 +0000",
-      "summary": "Travel brands invest deeply in AI visibility, but according to Skift&apos;s audit of 50 major travel websites&apos; crawler policies, few tell bots where to go \u2014 and the directives don&apos;t always match who actually gets in. That looks like a shaky starting point, as the rules ",
-      "source": "Skift"
-    },
-    {
-      "title": "Can Venezuela Build a Different Kind of High-End Tourism?",
-      "link": "https://skift.com/2026/11/09/can-venezuela-build-a-different-kind-of-high-end-tourism/",
-      "published": "Mon, 09 Nov 2026 16:46:03 +0000",
-      "summary": "Adriana Cisneros sees an opportunity for Venezuela to build a distinctive, conservation-minded tourism industry before the international hotel brands arrive. Whether that vision becomes reality will depend on political stability, security, and crucially, the choices made by the c",
-      "source": "Skift"
-    },
-    {
-      "title": "Hard Rock Hotels Plug Into Accor Without Selling a Stake",
-      "link": "https://skift.com/2026/11/09/hard-rock-hotels-plug-into-accor-without-selling-a-stake/",
-      "published": "Mon, 09 Nov 2026 14:13:13 +0000",
-      "summary": "Hard Rock keeps its equity and hands Accor the task of developing its pipeline of non-casino hotels. Accor collects ongoing fees and gets a well-known brand to essentially rent out to its loyalty members.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Goes Live on Muse, but Its AI Wins Are Inside Its Own Apps",
-      "link": "https://skift.com/2026/11/09/expedia-goes-live-on-muse-but-its-ai-wins-are-inside-its-own-apps/",
-      "published": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "summary": "Expedia&apos;s Muse connection is live: CEO Ariane Gorin noted it may even have happened during the OTA&apos;s earnings call this week. So Skift took it for a spin to see what it can and cannot do.",
-      "source": "Skift"
+      "title": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUtlLVQ3cjhPd1N2bFJaeUkxcUNBWmtSa2dSNmZsMGVoQVl4S01oSkEwaGZ5SG9uTU9yX2JvdUF3TVdicjJ2NThlQXVNc1JhNHlIbmxGeExGVV9kNXF4X1A5X2dfTEJrVUdQYVJXMkpCbE40TzBPWDZlemhUNWEwd1RXa2k1VWd2M3h3ZDUzbUFMYUVRUDlId2Z2VGhUWXNwTDJCVTZ4TVNzN2V4OURCV2tHY00yUWdTbUgzUGFhOUFySmZIUzlyTExvQzdVdkIxRjVabw?oc=5",
+      "published": "Mon, 09 Nov 2026 10:55:52 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "source": "Google News Travel"
     },
     {
       "title": "American Airlines Issues Industrial Action Travel Warning For Two Of Europe\u2019s Busiest Airports: \u2018Last-Minute Cancellations\u2019 - TheTravel",
@@ -91,13 +98,6 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFNVVXl2cDBhMTVpZWRfWWJrSFFhYnRBZXlXT2Q0OWpWQVdHOUpRUnZPZDlWZ2xrOVVZWF9ieUFtaU1ieG9PZlBHQmJ5ZF9JNzl2OVZsSDlDNUxSZEllLUlVNzBEN2daNnBNWVpnZ3ltM0FGazdtMzFNX0pwVk13YW9BOU91UTNacDQwa2hJMkY4dU5xVUFOY1pwZi1Mem1RTm5GTHdQdkQ1LTNBYmZ3VldaVktSVk1CbnRBekNRVUZtTnFWWUFiSFh3SVRoTHdoRmNYUFB2OTYxbC1J?oc=5",
-      "published": "Mon, 09 Nov 2026 07:58:47 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
       "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
@@ -105,17 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVlvd1ZnekMySXU0aEZsLTFZbkNhVENVbmxhLXZpNUYzQzhoMTE2djl2SjI1TFFLMmNTeENya2xWUWJIR2hUY1JUTDJtakQ4bmR0OFBZZ0dBY3lhWENkMC1qR0pzdFV2UVp0TmVlVWF2c0FDa3UzV0Z6VFdOUHpMd3JkbkItZ1pnTG9SVWhlNFl2TUYyVVVBVkxpMnpfVFdhQW9aU3pKMUZWRkhuMkJiM0Q0Mzk1elF4ZWIzbVUtOE81X0Njc3ctSV91Nk9pcWp1Tnpj0gHYAUFVX3lxTE5laVczay04aGY2R04xWGJ2RzYwU1V2eXY5dkFHMlAwUVdkQ2Y3bURnVG9NOTB1Znd6LXdpMGNqOE9xSjVVOEpZZ001N2dTaWRpd2ZjSHVIODBuWENOZU1na2dxSS1qenVCNXBHbUVzZEV3Vkd3dVZVdnFJZk5meWQ1dHQ2OUNQSTFEYkJ2N2ZkV1RDYTA3ZUY1dVR3XzhLN0k5VXQyZEdEdjBmYk1WNi1TcE1zVkM3QVdiSWFoYWFCdGM2a2RzRm96RTRhWFpuRjg4TWpiMzhpNw?oc=5",
-      "published": "Sat, 07 Nov 2026 12:01:13 GMT",
-      "summary": "US warns Americans in West Asia of Iran-backed Houthi attacks, travel disruptions&nbsp;&nbsp;Moneycontrol.com",
+      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdaU0ZUeVc3YXU0Qk8wQ3AzUlhzUkZGX296WG52VEFnVjRwUkt4SFZWZWx6TEFiaVVjYmZuY1UxUDdvY1dFM0tJTkNXZElpMVNGblVDQTFQTnJKVHNtOEEtWmJWN3RhMWNJaGtrZ29tXy1SQW9OcHEyb3ZQczlBb0l4bXVBX3BhQ0FQekZRQW1BVHhRWl9PRVB6M0JvZm1CYUZTVUpsNW53QnVJQTZjdW5ZOWlkaVRKdktuOHFWc1JBLUk?oc=5",
-      "published": "Thu, 05 Nov 2026 12:19:20 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFNVVXl2cDBhMTVpZWRfWWJrSFFhYnRBZXlXT2Q0OWpWQVdHOUpRUnZPZDlWZ2xrOVVZWF9ieUFtaU1ieG9PZlBHQmJ5ZF9JNzl2OVZsSDlDNUxSZEllLUlVNzBEN2daNnBNWVpnZ3ltM0FGazdtMzFNX0pwVk13YW9BOU91UTNacDQwa2hJMkY4dU5xVUFOY1pwZi1Mem1RTm5GTHdQdkQ1LTNBYmZ3VldaVktSVk1CbnRBekNRVUZtTnFWWUFiSFh3SVRoTHdoRmNYUFB2OTYxbC1J?oc=5",
+      "published": "Mon, 09 Nov 2026 07:58:47 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
