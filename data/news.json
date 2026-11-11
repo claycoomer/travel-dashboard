@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-11T11:32:06.242097+00:00",
+  "last_updated": "2026-11-11T18:58:22.397817+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Scandic\u2019s Dalata Deal Just Got Its First Report Card",
+      "link": "https://skift.com/2026/11/11/scandics-dalata-deal-just-got-its-first-report-card/",
+      "published": "Wed, 11 Nov 2026 18:49:15 +0000",
+      "summary": "Scandic paid \u20ac500 million for a business that fills more rooms and earns more per room than its own operation. The first combined numbers back the deal. The test now is whether it can integrate slowly enough to protect the occupancy that made Dalata worth buying.",
+      "source": "Skift"
+    },
+    {
+      "title": "Playing Catch-Up: Can American Close the Gap With Delta and United?",
+      "link": "https://skift.com/2026/11/11/playing-catch-up-can-american-close-the-gap-with-delta-and-united/",
+      "published": "Wed, 11 Nov 2026 17:49:47 +0000",
+      "summary": "American is the biggest U.S. airline but the least profitable of the Big Three. The changes underway are widespread: from new routes and premium offerings to Tate\u2019s cookies.",
+      "source": "Skift"
+    },
+    {
+      "title": "Delhi\u2019s Smog Collides With India\u2019s Peak Tourism Season",
+      "link": "https://skift.com/2026/11/11/delhis-smog-collides-with-indias-peak-tourism-season/",
+      "published": "Wed, 11 Nov 2026 16:23:13 +0000",
+      "summary": "Air quality in northern India has plummeted as the so-called pollution season gets underway. It is now a regular feature of traveling to the region in winter. Masks have emerged as a solution \u2014 a Band-Aid to a structural problem fueled by emissions.",
+      "source": "Skift"
+    },
+    {
+      "title": "Visit Oslo Follows Its Viral Anti-Ad With a Horror Christmas Musical",
+      "link": "https://skift.com/2026/11/11/visit-oslo-horror-musical-halfdan-video/",
+      "published": "Wed, 11 Nov 2026 16:11:44 +0000",
+      "summary": "Visit Oslo needed a unique twist to its &quot;Is It Even a City?&quot; sequel to help fill hotels in the winter. Its project manager says the final result is almost as popular as the original.",
+      "source": "Skift"
+    },
+    {
+      "title": "What Happens When the Destination Comes Second?",
+      "link": "https://skift.com/2026/11/11/what-happens-when-the-destination-comes-second/",
+      "published": "Wed, 11 Nov 2026 14:30:00 +0000",
+      "summary": "Tourism marketing has to account for travelers whose plans begin with an experience rather than a place.",
+      "source": "Skift"
+    },
+    {
+      "title": "Duffel-Katanox Partnership Targets AI Agents, Hotel Booking Breakdowns",
+      "link": "https://skift.com/2026/11/11/duffel-katanox-partnership-targets-ai-agents-hotel-booking-breakdowns/",
+      "published": "Wed, 11 Nov 2026 14:01:36 +0000",
+      "summary": "For travel sellers building AI agents, booking the room is only part of the job. Duffel and Katanox want to bring payments, commissions, and financing into the same system.",
+      "source": "Skift"
+    },
     {
       "title": "Malaysia Airlines Overtakes AirAsia on India Routes by Standing Still",
       "link": "https://skift.com/2026/11/11/malaysia-airlines-overtakes-airasia-on-india-routes-by-standing-still/",
@@ -21,101 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Japan Is Closing in on the U.S. as High Costs and Politics Deter Travelers, Brand USA Says",
-      "link": "https://skift.com/2026/11/10/brand-usa-top-destination-closing-gap/",
-      "published": "Tue, 10 Nov 2026 20:41:15 +0000",
-      "summary": "Research shows the U.S. losing ground to Japan as costs and politics turn travelers away. Brand USA is betting the lost demand is deferred, not gone, but its budget to win it back is shrinking.",
-      "source": "Skift"
+      "title": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels. - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWVHRnB1VnV1Y3p6WDdZcjloaHhNSjBzczZ4U1VfTmlWLUFEQWhaTUx3M096bWpKNlVEQVFVQ1hhMzFoQUlwd1RrQ3dPN0FQdy0wTHQxWkxUSFhZUDdobmh4MkNmbDZKXzRoMUhEQ3FBSGh3Z3FJUFdUZkZxYlM5Q0RVNm93TWxMRjFBUDExTEF4bkUxeDJmZTU5MTZfM1hlQ0IyZlNMeDJUX0lJ?oc=5",
+      "published": "Tue, 10 Nov 2026 23:20:49 GMT",
+      "summary": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels.&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
     },
     {
-      "title": "Spirit\u2019s $10 Million Data Sale to Google Clears Hurdle as Unions Win Privacy Protections",
-      "link": "https://skift.com/2026/11/10/spirits-10-million-dollar-data-sale-clears-hurdle-as-unions-win-privacy-protections/",
-      "published": "Tue, 10 Nov 2026 19:47:13 +0000",
-      "summary": "If the sale clears, Google gets about 1.9 billion Spirit emails and 30 million lines of code to train its AI models, for $10 million. The unions\u2019 win means employee data will be scrubbed first.",
-      "source": "Skift"
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
+      "published": "Tue, 10 Nov 2026 19:21:10 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
     },
     {
-      "title": "Aman Confirms Its Secret Third Brand Is Atma, Opening in Miami in 2031",
-      "link": "https://skift.com/2026/11/10/aman-confirms-its-secret-third-brand-is-atma-opening-in-miami-in-2031/",
-      "published": "Tue, 10 Nov 2026 19:39:04 +0000",
-      "summary": "Aman has confirmed what the paper trail suggested to Skift in January. The open question is delivery: Janu, the group&apos;s second brand, has one hotel open after more than six years since its launch.",
-      "source": "Skift"
+      "title": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZkRlMzdlJHVmNjSmZPMjBWVktzUUtwbkZhWG9UTnVZUE1FdFRUWTh4OGdodGRSc2U3WXZrR3FUM1VNQ3RRSTVBSGc0MlV3YTl6aFAzM1QtaWNCX3g5MlZ3bGpaMjVNdlZYRmZCVGRaeHBNbkQ5LURZNEMySWI3bEdDY19vaklENFhmSzdlWkRlemNFVTQtcjA3bVBHUWRGT0x1ZUN1QVFqWnRVN2JmcNIBxAFBVV95cUxNUHdVeENHQk41aXNLdHZXZjdYcDhJNmpMWGdLS29FcHNWd3hLSGVXNElQdi13V0VIYTNjRloxZ3M4SmdpeUhyMGc1Z1RkMmNjMXJzOXJhVThHeXBSbzZNOXo5Y2RWZEhDRUZ5S1NXakhNNDdnMmFabDBJUzhpa0JpNU1STVYyeWpTbmxXbjJCbk43VUlPVXVsTGhDd3Zzb0dCNnFXWGtwUEN1OUhhZV9WUEZrNzdIcHVpbFN1SDNUaE4wRTBP?oc=5",
+      "published": "Wed, 11 Nov 2026 15:39:00 GMT",
+      "summary": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
     },
     {
-      "title": "OpenAI Acquires Odessia, the AI Travel Agent From Sonder\u2019s Co-Founder",
-      "link": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
-      "published": "Tue, 10 Nov 2026 19:31:07 +0000",
-      "summary": "OpenAI didn&apos;t acquire Odessia for its revenue. It bought a team that built a working AI travel agent in months, plus a founder who ran a lodging company, which included hotels and short-term rentals, for a decade. It&apos;s a sign ChatGPT wants to do more in travel than send",
-      "source": "Skift"
+      "title": "\u2018Security Alert\u2019: United Airlines Issues Travel Warning For All U.S.-Dublin Flights Amid Embassy\u2019s Advisory - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDNqdWg4elZYWXJmVVEzNVhJMGVTeGY0cHR2MG12MXBWY3YyU0RIUlZoZzU3dUJlcVkzUHc1SFVlNkJMWkZKc1FTMjNvdk9uOHhEeXNua0hqdi13LVdQTktoWWpFRXQ0WHNESk15bkp4dWlhNHJyME9sdXRaOGxEdFZsZnhkUDdkLUJpMWd5QzZmVXAwcFZvNTl6UERINUh2V084OEo2MFlEcUozbXEtXzgxYlRSN1dCQ01CcGNjaVZJM0E0WFRZ?oc=5",
+      "published": "Tue, 10 Nov 2026 23:58:14 GMT",
+      "summary": "\u2018Security Alert\u2019: United Airlines Issues Travel Warning For All U.S.-Dublin Flights Amid Embassy\u2019s Advisory&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
     },
     {
-      "title": "Prices Prop Up Travel as Demand Cools",
-      "link": "https://skift.com/2026/11/10/prices-prop-up-travel-as-demand-cools/",
-      "published": "Tue, 10 Nov 2026 17:14:52 +0000",
-      "summary": "Travel interest is slipping, but revenue is holding because prices are doing the work. That cushion only lasts as long as travelers keep paying more, which makes falling search activity worth watching closely heading into 2027.",
-      "source": "Skift"
+      "title": "EXCLUSIVE: Trump's FAA touts new AI-powered tool helping thousands of passengers avoid flight delays - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcDRVNHRRd0FHclNPVmN5Wl9sN09pdFJfa01Kd2hFdHdMWWx4bEQzRFBfMDByVURmQXdnRGZXWWp2NnVzWFl3Q19RbklTVnVUdzFTXzdhTkxtd3ZFUHZROVBjSzlPODM1ZmNfTW02TTU2MF9kLWNzSnM2blpyRHZ5djBZaW8xYzhvZXlnX0JHVGtYQnBHeW1QRnRmd0IyZ3FxMVZsRDREODRpQm83Z2dtcWladEpSQ3czSmtYTzV1YUx4Z1hjQ0c00gHMAUFVX3lxTE9uQ1RleXFRdkNoRXFIeGVoMXlKQ1AxeHJ1Nkk4M2VvMUZmTjctVFZDRG9vVnQzdVlVdnlMbVRLNWpEdzhNU29ZRnRlejlramh0QUZSUDNoelloWG1FNFhidG5zQTZNY1RkZWN4aTI1VXFObjdfNWxMNkpjVHhiTWpNWVY0VEo5eFRreVduME0yVlBKNHAxRWkwVk1oQWRsZWhEU0xQVVM1d08tT210UUY0OXkwbmhxU2NFYlA4X2xEMWRYQjc4eEstM1VKTw?oc=5",
+      "published": "Mon, 09 Nov 2026 10:00:38 GMT",
+      "summary": "EXCLUSIVE: Trump's FAA touts new AI-powered tool helping thousands of passengers avoid flight delays&nbsp;&nbsp;Fox News",
+      "source": "Google News Travel"
     },
     {
-      "title": "\u2018Is This Hilton?\u2019 An Ad Blitz Answers: Yes, We Have Lifestyle Hotels",
-      "link": "https://skift.com/2026/11/10/is-this-hilton-an-ad-blitz-answers-yes-we-have-lifestyle-hotels/",
-      "published": "Tue, 10 Nov 2026 15:26:40 +0000",
-      "summary": "Hilton spent years buying and licensing non-traditional hotel brands. Its new ad campaign is the bill coming due: It has to teach travelers about the new places to stay.",
-      "source": "Skift"
+      "title": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFVBSElhZ3pMZERVWE90SDNIZlVVUVQ0M3UydzFONG0yVzY4dW00NTd5bWpIQ3VQeVRzeDR1Ti1rSTBsNm16czY2Mm1TVlU3VzB5TFJHNjlITDY4R3pEUnF2SjNlaU84MzdVN2VIblNwMXVJTFNtakE5NC0yVUlBc1BNQ3JfNnVPVG1Jb1NRekJrX3lwWmRyeWp5cGFrVld2OThLNDB1UGI3dWNPUVBXdtIBxAFBVV95cUxNZ1NBM3dyMnRmWkFOblUzSDNKSTZ0T0xrSUlfaUdnRGVldEJJNk55cV9CME04WU1iUDMyems2OUJoMUstYkhEZUFjZVRLbDR3aWZUV0MwYi1ZYTBVYmRxUjlWOHdfQzdYY20zSHJkWW5wWm5qbUlKcy1BRUdjZDhENFdKYjhHcEdxeHlsWVhhYS04b2RYQzBITWlIdHZoUnpDcy1RSUl3MGNfdWlDRE5vYVJ5dzlfUnFTanF3N1FQaWtzcFdZ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:51:00 GMT",
+      "summary": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Nearly 2,000 Boeing Jets Are Being Checked for a Dangerous Mid-Flight Problem, and It\u2019s Not the Plane You\u2019ve Been Worried About - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2JneUxvQjBRZlEtQnlOcHlzRXFCZnRscGZRdVRSZTM4QzNhTU1iT2VTOXlyNGZLYnJsVUdUYzBxSXVyeGJJSkVvZ21iUWx3ZldfSHFUUGNFd3VCTkgxSFFQcVJFQV9DVk9ONzROX21SeVFrUk1IUjZhVW5uLXlXTzBkb2U?oc=5",
+      "published": "Wed, 11 Nov 2026 17:30:00 GMT",
+      "summary": "Nearly 2,000 Boeing Jets Are Being Checked for a Dangerous Mid-Flight Problem, and It\u2019s Not the Plane You\u2019ve Been Worried About&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
     },
     {
       "title": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUtlLVQ3cjhPd1N2bFJaeUkxcUNBWmtSa2dSNmZsMGVoQVl4S01oSkEwaGZ5SG9uTU9yX2JvdUF3TVdicjJ2NThlQXVNc1JhNHlIbmxGeExGVV9kNXF4X1A5X2dfTEJrVUdQYVJXMkpCbE40TzBPWDZlemhUNWEwd1RXa2k1VWd2M3h3ZDUzbUFMYUVRUDlId2Z2VGhUWXNwTDJCVTZ4TVNzN2V4OURCV2tHY00yUWdTbUgzUGFhOUFySmZIUzlyTExvQzdVdkIxRjVabw?oc=5",
       "published": "Mon, 09 Nov 2026 10:55:52 GMT",
       "summary": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "American Airlines Issues Industrial Action Travel Warning For Two Of Europe\u2019s Busiest Airports: \u2018Last-Minute Cancellations\u2019 - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWE1pdVFoUnRhZkcxYXljZTJPR1ZMQ0RqUVNGcngzN0h3d01EWHZhcnVnZHFTTUZsOGdvR2ZzckdpWmpTTV9lMUttMmJERXl0X3Q3ZVBuX0l3MUwtYWtEeHdCQXZJemlxMnE4TFpqTUJWa0xUWWpfNUVHeXJDOTNEb1VKS1FudUlnVGJ2bXYxQ3BGWFhjNFZEQWltT0d0Q3E3aldUQzN3cEtWRlhPRFhfT210dG1TbnhLU2d1dWotQzdmV0d0V1QzMW03Si1qQQ?oc=5",
-      "published": "Mon, 09 Nov 2026 12:20:20 GMT",
-      "summary": "American Airlines Issues Industrial Action Travel Warning For Two Of Europe\u2019s Busiest Airports: \u2018Last-Minute Cancellations\u2019&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Saudi Arabia right now? What US and UK travel advice says after the Riyadh attack - Nacionale",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeW8yalhsbjcwRy1uYzRFcHpHV1lUMjZPRzUtYkdLclBHWVdSbVQwZ1RTc1lOdHg2bTJmaUxhbzNqdmViRmRaV3pnQlRUbHhFZ1pLRnlVaHFJMExmY3Q3RF9aa0VHQXRuUWZTZmc0WUlYTzNLOWZpU0tfa2JxVk1VUlZ0NUoxSGVSbkM3ZHM5dVRvTzAyeGVTM3hvdEhsd1RqRlhjTDkzUlI0dEF6X1JqMXVVN2pXdw?oc=5",
-      "published": "Sun, 08 Nov 2026 18:36:07 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia right now? What US and UK travel advice says after the Riyadh attack&nbsp;&nbsp;Nacionale",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Urgent travel alert as nationwide strike threatens widespread disruption and delays - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVBWaTdqakY2c0NPT2VtU1A5UDBBUzJrdVF1aGFpd3dzbnlJT3ByNFBkTlJJUjFPQmRlSVE3SVlqQ2Y5SEhYc1V0UEF2NXV6bGRSblQzUUdlOVI5dldhclZ1VHpCNHc3cURNeEJmQ2FLVk55cElwWnVyeHlVQzhnYlR5b3VIOEVSRXF6Q05NNmU0eDRtYVdSODZHWnZuMkNCcjVZb2lRaXBKa2PSAbABQVVfeXFMTWZWcWwxcHkweWJtb09YYTNkUHBMa0NBNTFIX0poSWQwU3IwOF82bGJNbFRDcmxzVmVXckVDdjZmc1NOazduTTZsUXI3ZkcyYUhXVEdLZ0VzOWRFcV9EcEhNRFpTMXhpQXpTV21iNGFiNmtrbTlfc3hRNU1kZGh2alhHS09UNkQzNWZZZVdjRXpPMGxUM0p4MzRQUUF6OTlTb1FfR3dKUEpNd3FTZzJUSmE?oc=5",
-      "published": "Sat, 07 Nov 2026 21:41:56 GMT",
-      "summary": "Urgent travel alert as nationwide strike threatens widespread disruption and delays&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: ASEAN Summit \u2013 Traffic, Security, and Flight Disruptions in Metro Manila (November 2026) - U.S. Embassy in the Philippines (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeG16eFFQa01DWFdVZld4OFB4WjhlT3lqMmJHZGkzOUdKVXNsNGlqWHZmSzE2eHBrRy1McWF6eXFFWkVLQnpoZmFRZjdITWtVTThBa19HLTNEeHZBMW0xQTdnMWJVSTh2X0F1NnQ1WmdpTVhyRXVXblB5d1V2WDdIRF8wWmh3azFwd3hUSC1JVHNOV2NNdmFacGs5WkljY2p3eEtCRmhUaFBTR3ZFQWdKRWp4ZGItYXVQbW9wbFcyZjM?oc=5",
-      "published": "Tue, 10 Nov 2026 01:03:48 GMT",
-      "summary": "Security Alert: ASEAN Summit \u2013 Traffic, Security, and Flight Disruptions in Metro Manila (November 2026)&nbsp;&nbsp;U.S. Embassy in the Philippines (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11 - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2xpX0ZYME5aYWY3MXpJNng5ck1nMUlKM3dETDE3TzZoZXFUQWpaMEIyOWV1NnJjQ3NwNzJuNEs0ZEpkUmRXSkhQbDlJbEtUQmF4ZExIN0hid09Wc1VVZ2pqRG1xRUl0ZU5Hb2g1UUdOUEowNFlfZnZlZUJhcGtFa1hhMXZ0R0VTbVgwSUwyMHgySlVwWE5Uc2lCYXZvOFJaNktXNXBnb2ZPTzBTanFGQXlHcHNJOWhhbkpHUWpyZG9iR2JWNkdXellyQ0Y1TmVaTHR4bDRMWkN6YXRwS09rcNIB8wFBVV95cUxPbHVic2ZscFRRbF9zYkhDdHlRVE5FUERGbVEzanlXaTI1enVQMDZFYjVXT1FuSkhtdVFFN3BrWkdYUzlxN2lETXNzdDBCZ0xVdi1MS1dvZE1Mc1lRSkZfeHBXbndMd0RLck1qNXIzYms1elpVRGNzSFJvMmQxdU1zNkhoNjNDenRTZU85cnFCWmRFVGYxVFVVZWs5N2RMX3ZmcVdZWDFTQTNUamZBTXNIUXpUb3hPNDRqcGJkaDd2dEVRNEZiQktIT0NBWDBGUkpaVFdsRHZya3BZYk5veUR0OFlOaGdHY094Q0VQMmNVNDFoa1k?oc=5",
-      "published": "Wed, 11 Nov 2026 07:43:39 GMT",
-      "summary": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFNVVXl2cDBhMTVpZWRfWWJrSFFhYnRBZXlXT2Q0OWpWQVdHOUpRUnZPZDlWZ2xrOVVZWF9ieUFtaU1ieG9PZlBHQmJ5ZF9JNzl2OVZsSDlDNUxSZEllLUlVNzBEN2daNnBNWVpnZ3ltM0FGazdtMzFNX0pwVk13YW9BOU91UTNacDQwa2hJMkY4dU5xVUFOY1pwZi1Mem1RTm5GTHdQdkQ1LTNBYmZ3VldaVktSVk1CbnRBekNRVUZtTnFWWUFiSFh3SVRoTHdoRmNYUFB2OTYxbC1J?oc=5",
-      "published": "Mon, 09 Nov 2026 07:58:47 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
       "source": "Google News Travel"
     }
   ]
