@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-11-11T03:38:33.667438+00:00",
+  "last_updated": "2026-11-11T11:32:06.242097+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Malaysia Airlines Overtakes AirAsia on India Routes by Standing Still",
+      "link": "https://skift.com/2026/11/11/malaysia-airlines-overtakes-airasia-on-india-routes-by-standing-still/",
+      "published": "Wed, 11 Nov 2026 09:30:00 +0000",
+      "summary": "AirAsia\u2019s fuel-driven retreat should be a gift to its rivals, but high fuel costs and scarce aircraft mean few can afford to take advantage. Malaysia Airlines has overtaken it on India routes with 1% more seats in a market that shrank 10%. The longer AirAsia stays small, the more",
+      "source": "Skift"
+    },
+    {
+      "title": "Ras Al Khaimah Airport Courts Wynn\u2019s Jet Set but Waits on Airlines",
+      "link": "https://skift.com/2026/11/11/ras-al-khaimah-airport-courts-wynns-jet-set-but-waits-on-airlines/",
+      "published": "Wed, 11 Nov 2026 06:01:00 +0000",
+      "summary": "Ras Al Khaimah\u2019s airport is betting on Wynn\u2019s new integrated resort and other luxury hotels to bring in five-star travelers. For now, it is upgrading the terminal it has and holding the new one until airlines commit. The resort\u2019s delay pushes any payoff to late 2027.",
+      "source": "Skift"
+    },
     {
       "title": "Japan Is Closing in on the U.S. as High Costs and Politics Deter Travelers, Brand USA Says",
       "link": "https://skift.com/2026/11/10/brand-usa-top-destination-closing-gap/",
@@ -49,20 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Airbnb Opens Its API to Business Travel, Starting With Perk: Exclusive",
-      "link": "https://skift.com/2026/11/10/airbnb-opens-its-api-to-business-travel-starting-with-perk-exclusive/",
-      "published": "Tue, 10 Nov 2026 11:00:00 +0000",
-      "summary": "Airbnb has courted business travelers for a decade, but corporate bookings mostly happened off to the side, through referral deals and workarounds. Letting Perk tap its API puts live Airbnb listings inside a corporate booking tool for what Perk says is the first time. Rival trave",
-      "source": "Skift"
-    },
-    {
-      "title": "Hotel Chains\u2019 Middle East Recovery Stalls as Peak Season Arrives",
-      "link": "https://skift.com/2026/11/10/hotel-chains-middle-east-recovery-stalls-as-peak-season-arrives/",
-      "published": "Tue, 10 Nov 2026 06:15:00 +0000",
-      "summary": "The Middle East is a small slice of most hotel chains\u2019 revenue but a bigger part of their pipelines. So far, they\u2019re holding to their development plans, even as a second weak peak season looms.",
-      "source": "Skift"
-    },
-    {
       "title": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks - Cond\u00e9 Nast Traveller Middle East",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUtlLVQ3cjhPd1N2bFJaeUkxcUNBWmtSa2dSNmZsMGVoQVl4S01oSkEwaGZ5SG9uTU9yX2JvdUF3TVdicjJ2NThlQXVNc1JhNHlIbmxGeExGVV9kNXF4X1A5X2dfTEJrVUdQYVJXMkpCbE40TzBPWDZlemhUNWEwd1RXa2k1VWd2M3h3ZDUzbUFMYUVRUDlId2Z2VGhUWXNwTDJCVTZ4TVNzN2V4OURCV2tHY00yUWdTbUgzUGFhOUFySmZIUzlyTExvQzdVdkIxRjVabw?oc=5",
       "published": "Mon, 09 Nov 2026 10:55:52 GMT",
@@ -98,10 +98,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights status update: Emirates, Etihad, flydubai, Air Arabia cancellations and delays for November 10 - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOUJZVFkyVzZ5NWJWXzAxeGZyMW5iS0d0bDZqajk5NklnSWZ0bU1VVXQ0ajhxdkVybFZ0NUVmdmdGb3A0dXFyWkZUdVpPSldwTlVKbGgwbnl0X3RFWVBrTE9ab1N4cWstTnZBeTgzaDRabXZZb25UclJURTBFd1MzUE5FQzdqQVpsZFRRLTZOTXNEb2xMZnp1VFlLS1ZKejVLR05yUkNyUWtrbGg1SlExQlAtTWxMNXlrS3M1b1RtdXVjQkkzTHJENDB0Ry1RT1RVMU9ad2hxYXMxSFlxLW1SUXM5WGdhWjJj0gH7AUFVX3lxTE8xU0g4UFZyVDVyUGdfenlkTTBReUc2S3NUVHUtRHk5WG9YSllJNWhFMFVJQlBmY0l5V2hTSEJMS3BjbE5ua3Z4QTAxSnAwMEhCREhRdkhoVHJfdDAxSjZXaW0zMm5ucUt2b1k1V29NSWdGb1BiRm4zZ09UNTJqdlpzWUtTZzlXRkRmV1FRdXFtSHk5WkJ1U2dsMUFPN3lFR01WV0dOb1l6UFFWUTA3RDVPS1J1SmgxWlVyRkR2Z1ROMGZmM1VLVzV0QjFQSGgxQy1nUFNpekdmaHFvc2FCekU5RWdZamNpOFdsdFk5S2lvbmd6Tld3bzhnakow?oc=5",
-      "published": "Tue, 10 Nov 2026 08:47:18 GMT",
-      "summary": "UAE flights status update: Emirates, Etihad, flydubai, Air Arabia cancellations and delays for November 10&nbsp;&nbsp;Gulf News",
+      "title": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11 - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2xpX0ZYME5aYWY3MXpJNng5ck1nMUlKM3dETDE3TzZoZXFUQWpaMEIyOWV1NnJjQ3NwNzJuNEs0ZEpkUmRXSkhQbDlJbEtUQmF4ZExIN0hid09Wc1VVZ2pqRG1xRUl0ZU5Hb2g1UUdOUEowNFlfZnZlZUJhcGtFa1hhMXZ0R0VTbVgwSUwyMHgySlVwWE5Uc2lCYXZvOFJaNktXNXBnb2ZPTzBTanFGQXlHcHNJOWhhbkpHUWpyZG9iR2JWNkdXellyQ0Y1TmVaTHR4bDRMWkN6YXRwS09rcNIB8wFBVV95cUxPbHVic2ZscFRRbF9zYkhDdHlRVE5FUERGbVEzanlXaTI1enVQMDZFYjVXT1FuSkhtdVFFN3BrWkdYUzlxN2lETXNzdDBCZ0xVdi1MS1dvZE1Mc1lRSkZfeHBXbndMd0RLck1qNXIzYms1elpVRGNzSFJvMmQxdU1zNkhoNjNDenRTZU85cnFCWmRFVGYxVFVVZWs5N2RMX3ZmcVdZWDFTQTNUamZBTXNIUXpUb3hPNDRqcGJkaDd2dEVRNEZiQktIT0NBWDBGUkpaVFdsRHZya3BZYk5veUR0OFlOaGdHY094Q0VQMmNVNDFoa1k?oc=5",
+      "published": "Wed, 11 Nov 2026 07:43:39 GMT",
+      "summary": "UAE flights status update: Latest Emirates, Etihad, Air Arabia, flydubai cancellations and delays for Nov 11&nbsp;&nbsp;Gulf News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFNVVXl2cDBhMTVpZWRfWWJrSFFhYnRBZXlXT2Q0OWpWQVdHOUpRUnZPZDlWZ2xrOVVZWF9ieUFtaU1ieG9PZlBHQmJ5ZF9JNzl2OVZsSDlDNUxSZEllLUlVNzBEN2daNnBNWVpnZ3ltM0FGazdtMzFNX0pwVk13YW9BOU91UTNacDQwa2hJMkY4dU5xVUFOY1pwZi1Mem1RTm5GTHdQdkQ1LTNBYmZ3VldaVktSVk1CbnRBekNRVUZtTnFWWUFiSFh3SVRoTHdoRmNYUFB2OTYxbC1J?oc=5",
+      "published": "Mon, 09 Nov 2026 07:58:47 GMT",
+      "summary": "Dubai and Middle East flight disruption: the latest updates for passengers as Saudi Arabia faces more attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
       "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
