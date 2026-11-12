@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-11-12T01:43:22.582768+00:00",
+  "last_updated": "2026-11-12T11:57:48.444173+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Air India\u2019s Losses Are Still Bigger Than Singapore Airlines\u2019 Profit",
+      "link": "https://skift.com/2026/11/12/air-indias-losses-are-still-bigger-than-singapore-airlines-profit/",
+      "published": "Thu, 12 Nov 2026 10:22:59 +0000",
+      "summary": "Singapore Airlines\u2019 India bet is costly. Losses are shrinking, but the stake only pays off if Air India fixes its costs. Until then, the profitable core airline is footing the bill.",
+      "source": "Skift"
+    },
+    {
+      "title": "Mantis Keeps Building in Gulf as Demand Shrinks to Locals",
+      "link": "https://skift.com/2026/11/11/mantis-keeps-building-in-the-gulf-as-demand-shrinks-to-locals/",
+      "published": "Thu, 12 Nov 2026 04:30:00 +0000",
+      "summary": "The war means Mantis\u2019 Gulf properties are serving only a domestic market for now. Its long-term bet on the region, as it builds out its &quot;circuit&quot; tourism offer, depends on international travelers coming back.",
+      "source": "Skift"
+    },
+    {
+      "title": "Dusit Takes Low-Risk Bet on Yangon as Others Retreat",
+      "link": "https://skift.com/2026/11/11/dusit-takes-low-risk-bet-on-yangon-as-others-retreat/",
+      "published": "Thu, 12 Nov 2026 02:00:00 +0000",
+      "summary": "Dusit, a Thai hotels and hospitality group, is entering Myanmar as others write off projects and close hotels, but on terms that limit its exposure: management contracts on existing hotels, a focus on business travel, and outside checks on the owner. If leisure demand stays weak,",
+      "source": "Skift"
+    },
     {
       "title": "MCR\u2019s Tyler Morse Wants to Ban AI Bots From Booking His Hotels",
       "link": "https://skift.com/2026/11/11/mcrs-tyler-morse-wants-to-ban-ai-bots-from-booking-his-hotels/",
@@ -42,38 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Delhi\u2019s Smog Collides With India\u2019s Peak Tourism Season",
-      "link": "https://skift.com/2026/11/11/delhis-smog-collides-with-indias-peak-tourism-season/",
-      "published": "Wed, 11 Nov 2026 16:23:13 +0000",
-      "summary": "Air quality in northern India has plummeted as the so-called pollution season gets underway. It is now a regular feature of traveling to the region in winter. Masks have emerged as a solution \u2014 a Band-Aid to a structural problem fueled by emissions.",
-      "source": "Skift"
-    },
-    {
-      "title": "Visit Oslo Follows Its Viral Anti-Ad With a Horror Christmas Musical",
-      "link": "https://skift.com/2026/11/11/visit-oslo-horror-musical-halfdan-video/",
-      "published": "Wed, 11 Nov 2026 16:11:44 +0000",
-      "summary": "Visit Oslo needed a unique twist to its &quot;Is It Even a City?&quot; sequel to help fill hotels in the winter. Its project manager says the final result is almost as popular as the original.",
-      "source": "Skift"
-    },
-    {
-      "title": "What Happens When the Destination Comes Second?",
-      "link": "https://skift.com/2026/11/11/what-happens-when-the-destination-comes-second/",
-      "published": "Wed, 11 Nov 2026 14:30:00 +0000",
-      "summary": "Tourism marketing has to account for travelers whose plans begin with an experience rather than a place.",
-      "source": "Skift"
+      "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won\u2019t Cover a Hotel. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2VsVWotSFhyV3VYTUdnZkN1WkdRWlpIX3VUSDRIWjgyMGxEUzBtblZUYW1DMHAxVWhwT2RvSXBtUW1tZU4welhvZG5ESGZDTVhNaUJlTnpYc3Y0elFhdFpxTTg4SUlHSGdsaW84U3AxdWdXS0lqYnQya3FFZlk1cTRPd2F5UVczVDFld0tUdXRzaW8?oc=5",
+      "published": "Thu, 12 Nov 2026 10:02:35 GMT",
+      "summary": "Help! A Broken Toilet Grounded My Plane, and the Airline Won\u2019t Cover a Hotel.&nbsp;&nbsp;The New York Times",
+      "source": "Google News Travel"
     },
     {
       "title": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels. - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWVHRnB1VnV1Y3p6WDdZcjloaHhNSjBzczZ4U1VfTmlWLUFEQWhaTUx3M096bWpKNlVEQVFVQ1hhMzFoQUlwd1RrQ3dPN0FQdy0wTHQxWkxUSFhZUDdobmh4MkNmbDZKXzRoMUhEQ3FBSGh3Z3FJUFdUZkZxYlM5Q0RVNm93TWxMRjFBUDExTEF4bkUxeDJmZTU5MTZfM1hlQ0IyZlNMeDJUX0lJ?oc=5",
       "published": "Tue, 10 Nov 2026 23:20:49 GMT",
       "summary": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels.&nbsp;&nbsp;Yahoo",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZkRlMzdlJHVmNjSmZPMjBWVktzUUtwbkZhWG9UTnVZUE1FdFRUWTh4OGdodGRSc2U3WXZrR3FUM1VNQ3RRSTVBSGc0MlV3YTl6aFAzM1QtaWNCX3g5MlZ3bGpaMjVNdlZYRmZCVGRaeHBNbkQ5LURZNEMySWI3bEdDY19vaklENFhmSzdlWkRlemNFVTQtcjA3bVBHUWRGT0x1ZUN1QVFqWnRVN2JmcNIBxAFBVV95cUxNUHdVeENHQk41aXNLdHZXZjdYcDhJNmpMWGdLS29FcHNWd3hLSGVXNElQdi13V0VIYTNjRloxZ3M4SmdpeUhyMGc1Z1RkMmNjMXJzOXJhVThHeXBSbzZNOXo5Y2RWZEhDRUZ5S1NXakhNNDdnMmFabDBJUzhpa0JpNU1STVYyeWpTbmxXbjJCbk43VUlPVXVsTGhDd3Zzb0dCNnFXWGtwUEN1OUhhZV9WUEZrNzdIcHVpbFN1SDNUaE4wRTBP?oc=5",
-      "published": "Wed, 11 Nov 2026 15:39:00 GMT",
-      "summary": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
       "source": "Google News Travel"
     },
     {
@@ -84,6 +84,20 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZkRlMzdlJHVmNjSmZPMjBWVktzUUtwbkZhWG9UTnVZUE1FdFRUWTh4OGdodGRSc2U3WXZrR3FUM1VNQ3RRSTVBSGc0MlV3YTl6aFAzM1QtaWNCX3g5MlZ3bGpaMjVNdlZYRmZCVGRaeHBNbkQ5LURZNEMySWI3bEdDY19vaklENFhmSzdlWkRlemNFVTQtcjA3bVBHUWRGT0x1ZUN1QVFqWnRVN2JmcNIBxAFBVV95cUxNUHdVeENHQk41aXNLdHZXZjdYcDhJNmpMWGdLS29FcHNWd3hLSGVXNElQdi13V0VIYTNjRloxZ3M4SmdpeUhyMGc1Z1RkMmNjMXJzOXJhVThHeXBSbzZNOXo5Y2RWZEhDRUZ5S1NXakhNNDdnMmFabDBJUzhpa0JpNU1STVYyeWpTbmxXbjJCbk43VUlPVXVsTGhDd3Zzb0dCNnFXWGtwUEN1OUhhZV9WUEZrNzdIcHVpbFN1SDNUaE4wRTBP?oc=5",
+      "published": "Wed, 11 Nov 2026 15:39:00 GMT",
+      "summary": "Over 428 flights delayed, 51 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJHb3JWSEhmc1BHMWxtalktN2E1bHZPZkN4dFRDT2dfVGFSLTNLRktaUXphdHVkZm9JT0dWTG5PamFFLUxTNlVGS01GVm5EYllERWRTSE9RQVBPNWNjWmNuWmZFdTJKNzFHZmRBS3VYT3JtYUwyWnNoQTE5Q09wNVh0R1lqanZubEU0VmdhSmZ2OUNXaVdR?oc=5",
+      "published": "Wed, 11 Nov 2026 22:43:00 GMT",
+      "summary": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights&nbsp;&nbsp;WSJ",
+      "source": "Google News Travel"
+    },
+    {
       "title": "\u2018Security Alert\u2019: United Airlines Issues Travel Warning For All U.S.-Dublin Flights Amid Embassy\u2019s Advisory - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDNqdWg4elZYWXJmVVEzNVhJMGVTeGY0cHR2MG12MXBWY3YyU0RIUlZoZzU3dUJlcVkzUHc1SFVlNkJMWkZKc1FTMjNvdk9uOHhEeXNua0hqdi13LVdQTktoWWpFRXQ0WHNESk15bkp4dWlhNHJyME9sdXRaOGxEdFZsZnhkUDdkLUJpMWd5QzZmVXAwcFZvNTl6UERINUh2V084OEo2MFlEcUozbXEtXzgxYlRSN1dCQ01CcGNjaVZJM0E0WFRZ?oc=5",
       "published": "Tue, 10 Nov 2026 23:58:14 GMT",
@@ -91,31 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Flights to SFO halted Monday morning as dense fog cuts visibility - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2otWGlIUkRXZ2FQMHVLc1I4S0JjVi1jNE9wckV4b1hkWTl0QnBCN1FYbFVqaWQ2alE1dkVYTWpqSFpwVk1tZVpZbDdud1BXYXdyREw3bDlrc2hpR3ZQTEd5NHFIUnV0Z2tpRXJsNHBKdUlKa3Z0NWUxbmFQNHQ0cQ?oc=5",
-      "published": "Mon, 09 Nov 2026 20:49:45 GMT",
-      "summary": "Flights to SFO halted Monday morning as dense fog cuts visibility&nbsp;&nbsp;San Francisco Chronicle",
+      "title": "United flight sends out hijack alert after passenger claiming to have bomb attempts to storm cockpit - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYUZ3N05nWnRJcWQ4aHVkcWt0UmpQTHpGQVJva1dkVEFMejBqZ1U0S1lQWHZ5TVVqZW9RRHFtN0pxWWVEYWg5ZjBqVmtmRDBTaU5kejlHakpNc2YyRGltam1rY2pLYUlIekVwR0w3Z0dQalFCS2FEUmwzSnFkSC1pNUVtay1BTGVUeHNjaVBGZ1J4WjdnVU1xaVBCTWpYc09UV2JtN2d4alZDOFJMUm1NQ2pXU01UMmU4eTMxczVPRF9rRkEtb1d2dndLTkVuSVpFeHEzTGtTaGtwMlhSYzdfQVlKbEJZaHYzcVc0TExB?oc=5",
+      "published": "Wed, 11 Nov 2026 02:03:04 GMT",
+      "summary": "United flight sends out hijack alert after passenger claiming to have bomb attempts to storm cockpit&nbsp;&nbsp;New York Post",
       "source": "Google News Travel"
     },
     {
-      "title": "EXCLUSIVE: Trump's FAA touts new AI-powered tool helping thousands of passengers avoid flight delays - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcDRVNHRRd0FHclNPVmN5Wl9sN09pdFJfa01Kd2hFdHdMWWx4bEQzRFBfMDByVURmQXdnRGZXWWp2NnVzWFl3Q19RbklTVnVUdzFTXzdhTkxtd3ZFUHZROVBjSzlPODM1ZmNfTW02TTU2MF9kLWNzSnM2blpyRHZ5djBZaW8xYzhvZXlnX0JHVGtYQnBHeW1QRnRmd0IyZ3FxMVZsRDREODRpQm83Z2dtcWladEpSQ3czSmtYTzV1YUx4Z1hjQ0c00gHMAUFVX3lxTE9uQ1RleXFRdkNoRXFIeGVoMXlKQ1AxeHJ1Nkk4M2VvMUZmTjctVFZDRG9vVnQzdVlVdnlMbVRLNWpEdzhNU29ZRnRlejlramh0QUZSUDNoelloWG1FNFhidG5zQTZNY1RkZWN4aTI1VXFObjdfNWxMNkpjVHhiTWpNWVY0VEo5eFRreVduME0yVlBKNHAxRWkwVk1oQWRsZWhEU0xQVVM1d08tT210UUY0OXkwbmhxU2NFYlA4X2xEMWRYQjc4eEstM1VKTw?oc=5",
-      "published": "Mon, 09 Nov 2026 10:00:38 GMT",
-      "summary": "EXCLUSIVE: Trump's FAA touts new AI-powered tool helping thousands of passengers avoid flight delays&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Flight delays at SFO after ground stop issued due to fog - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMW83RlFXS25CT1RxMlh6akhuaURBWnBvalhTVlEwQ0ktSFdBTW00cVZDY0FfNzFSV1RTYlYteHltaEtVNTdsWnplZTBRelRQNGdOZmluNjNTOFpOVGhsem5IcGRaS08yOXpzMHJySkstRGo4YWtPbnJDc1FSS0hMdS1tYW9lMUR6UFhtYWJJS0YyajNyQ1g1YdIBngFBVV95cUxNM3RtNU9tWkNuZTlPNjBfRy1DT3FtNVUtTk1vM25SeWk0bVh3OUJ6QWNKYUh6aDJLbVROdzBhMjhWblBwMkFabWVUT3FWM3R6OHF2WlFJbUxrMmJfcm1vZ3RnZTB5NTlTV3owNlp4ZlVZT0N1Z3c5VFM4TDRuZHBUQmlsUUw2VjhqMmNPamktMXp6YnBEQVV2cGR1bW1xQQ?oc=5",
-      "published": "Mon, 09 Nov 2026 18:59:00 GMT",
-      "summary": "Flight delays at SFO after ground stop issued due to fog&nbsp;&nbsp;KRON4",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFVBSElhZ3pMZERVWE90SDNIZlVVUVQ0M3UydzFONG0yVzY4dW00NTd5bWpIQ3VQeVRzeDR1Ti1rSTBsNm16czY2Mm1TVlU3VzB5TFJHNjlITDY4R3pEUnF2SjNlaU84MzdVN2VIblNwMXVJTFNtakE5NC0yVUlBc1BNQ3JfNnVPVG1Jb1NRekJrX3lwWmRyeWp5cGFrVld2OThLNDB1UGI3dWNPUVBXdtIBxAFBVV95cUxNZ1NBM3dyMnRmWkFOblUzSDNKSTZ0T0xrSUlfaUdnRGVldEJJNk55cV9CME04WU1iUDMyems2OUJoMUstYkhEZUFjZVRLbDR3aWZUV0MwYi1ZYTBVYmRxUjlWOHdfQzdYY20zSHJkWW5wWm5qbUlKcy1BRUdjZDhENFdKYjhHcEdxeHlsWVhhYS04b2RYQzBITWlIdHZoUnpDcy1RSUl3MGNfdWlDRE5vYVJ5dzlfUnFTanF3N1FQaWtzcFdZ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:51:00 GMT",
-      "summary": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "title": "Bristol Airport warning as thick fog disrupts flights - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BSWJkb0o2SUZvaWpqbXJLckcwTHlzLWhoSlV0NENNYy0xa3BGNTdWSW1ENHNFRUg0Z1dIZTR0b3dZdGpvRmtnaG90WXJmWjFoLUVHYlFzbVpiUEE?oc=5",
+      "published": "Mon, 09 Nov 2026 11:31:02 GMT",
+      "summary": "Bristol Airport warning as thick fog disrupts flights&nbsp;&nbsp;BBC",
       "source": "Google News Travel"
     }
   ]
