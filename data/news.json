@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-11-11T18:58:22.397817+00:00",
+  "last_updated": "2026-11-12T01:43:22.582768+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "MCR\u2019s Tyler Morse Wants to Ban AI Bots From Booking His Hotels",
+      "link": "https://skift.com/2026/11/11/mcrs-tyler-morse-wants-to-ban-ai-bots-from-booking-his-hotels/",
+      "published": "Wed, 11 Nov 2026 21:46:26 +0000",
+      "summary": "MCR Hotels CEO and Chairman Tyler Morse dislikes AI personal assistants because they &quot;make more rational decisions.&quot; He prefers human customers, who can more easily be persuaded to make impulse purchases.",
+      "source": "Skift"
+    },
+    {
+      "title": "Citi Says AI Companies Should Pay When Their Agents Book the Wrong Travel",
+      "link": "https://skift.com/2026/11/11/citi-says-ai-companies-should-pay-when-their-agents-book-the-wrong-travel/",
+      "published": "Wed, 11 Nov 2026 21:29:35 +0000",
+      "summary": "AI agents are already booking travel, and they get things wrong. The industry hasn\u2019t settled who absorbs the cost when they do. Citi wants the agent companies on the hook, which would spare hotels and airlines, but could slow how fast agents transact.",
+      "source": "Skift"
+    },
+    {
+      "title": "United Airlines Moves to Block Personal AI Agents From Booking Flights",
+      "link": "https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/",
+      "published": "Wed, 11 Nov 2026 19:49:44 +0000",
+      "summary": "United is the first carrier in the U.S. to explicitly say it will restrict access to third-party AI agents.",
+      "source": "Skift"
+    },
     {
       "title": "Scandic\u2019s Dalata Deal Just Got Its First Report Card",
       "link": "https://skift.com/2026/11/11/scandics-dalata-deal-just-got-its-first-report-card/",
@@ -42,38 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Duffel-Katanox Partnership Targets AI Agents, Hotel Booking Breakdowns",
-      "link": "https://skift.com/2026/11/11/duffel-katanox-partnership-targets-ai-agents-hotel-booking-breakdowns/",
-      "published": "Wed, 11 Nov 2026 14:01:36 +0000",
-      "summary": "For travel sellers building AI agents, booking the room is only part of the job. Duffel and Katanox want to bring payments, commissions, and financing into the same system.",
-      "source": "Skift"
-    },
-    {
-      "title": "Malaysia Airlines Overtakes AirAsia on India Routes by Standing Still",
-      "link": "https://skift.com/2026/11/11/malaysia-airlines-overtakes-airasia-on-india-routes-by-standing-still/",
-      "published": "Wed, 11 Nov 2026 09:30:00 +0000",
-      "summary": "AirAsia\u2019s fuel-driven retreat should be a gift to its rivals, but high fuel costs and scarce aircraft mean few can afford to take advantage. Malaysia Airlines has overtaken it on India routes with 1% more seats in a market that shrank 10%. The longer AirAsia stays small, the more",
-      "source": "Skift"
-    },
-    {
-      "title": "Ras Al Khaimah Airport Courts Wynn\u2019s Jet Set but Waits on Airlines",
-      "link": "https://skift.com/2026/11/11/ras-al-khaimah-airport-courts-wynns-jet-set-but-waits-on-airlines/",
-      "published": "Wed, 11 Nov 2026 06:01:00 +0000",
-      "summary": "Ras Al Khaimah\u2019s airport is betting on Wynn\u2019s new integrated resort and other luxury hotels to bring in five-star travelers. For now, it is upgrading the terminal it has and holding the new one until airlines commit. The resort\u2019s delay pushes any payoff to late 2027.",
-      "source": "Skift"
-    },
-    {
       "title": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels. - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWVHRnB1VnV1Y3p6WDdZcjloaHhNSjBzczZ4U1VfTmlWLUFEQWhaTUx3M096bWpKNlVEQVFVQ1hhMzFoQUlwd1RrQ3dPN0FQdy0wTHQxWkxUSFhZUDdobmh4MkNmbDZKXzRoMUhEQ3FBSGh3Z3FJUFdUZkZxYlM5Q0RVNm93TWxMRjFBUDExTEF4bkUxeDJmZTU5MTZfM1hlQ0IyZlNMeDJUX0lJ?oc=5",
       "published": "Tue, 10 Nov 2026 23:20:49 GMT",
       "summary": "These are the worst airports for holiday weather delays. Here's how to winter-proof your travels.&nbsp;&nbsp;Yahoo",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
-      "published": "Tue, 10 Nov 2026 19:21:10 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -84,10 +77,24 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
+      "published": "Tue, 10 Nov 2026 19:21:10 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
+    },
+    {
       "title": "\u2018Security Alert\u2019: United Airlines Issues Travel Warning For All U.S.-Dublin Flights Amid Embassy\u2019s Advisory - TheTravel",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDNqdWg4elZYWXJmVVEzNVhJMGVTeGY0cHR2MG12MXBWY3YyU0RIUlZoZzU3dUJlcVkzUHc1SFVlNkJMWkZKc1FTMjNvdk9uOHhEeXNua0hqdi13LVdQTktoWWpFRXQ0WHNESk15bkp4dWlhNHJyME9sdXRaOGxEdFZsZnhkUDdkLUJpMWd5QzZmVXAwcFZvNTl6UERINUh2V084OEo2MFlEcUozbXEtXzgxYlRSN1dCQ01CcGNjaVZJM0E0WFRZ?oc=5",
       "published": "Tue, 10 Nov 2026 23:58:14 GMT",
       "summary": "\u2018Security Alert\u2019: United Airlines Issues Travel Warning For All U.S.-Dublin Flights Amid Embassy\u2019s Advisory&nbsp;&nbsp;TheTravel",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flights to SFO halted Monday morning as dense fog cuts visibility - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2otWGlIUkRXZ2FQMHVLc1I4S0JjVi1jNE9wckV4b1hkWTl0QnBCN1FYbFVqaWQ2alE1dkVYTWpqSFpwVk1tZVpZbDdud1BXYXdyREw3bDlrc2hpR3ZQTEd5NHFIUnV0Z2tpRXJsNHBKdUlKa3Z0NWUxbmFQNHQ0cQ?oc=5",
+      "published": "Mon, 09 Nov 2026 20:49:45 GMT",
+      "summary": "Flights to SFO halted Monday morning as dense fog cuts visibility&nbsp;&nbsp;San Francisco Chronicle",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +105,17 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Flight delays at SFO after ground stop issued due to fog - KRON4",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMW83RlFXS25CT1RxMlh6akhuaURBWnBvalhTVlEwQ0ktSFdBTW00cVZDY0FfNzFSV1RTYlYteHltaEtVNTdsWnplZTBRelRQNGdOZmluNjNTOFpOVGhsem5IcGRaS08yOXpzMHJySkstRGo4YWtPbnJDc1FSS0hMdS1tYW9lMUR6UFhtYWJJS0YyajNyQ1g1YdIBngFBVV95cUxNM3RtNU9tWkNuZTlPNjBfRy1DT3FtNVUtTk1vM25SeWk0bVh3OUJ6QWNKYUh6aDJLbVROdzBhMjhWblBwMkFabWVUT3FWM3R6OHF2WlFJbUxrMmJfcm1vZ3RnZTB5NTlTV3owNlp4ZlVZT0N1Z3c5VFM4TDRuZHBUQmlsUUw2VjhqMmNPamktMXp6YnBEQVV2cGR1bW1xQQ?oc=5",
+      "published": "Mon, 09 Nov 2026 18:59:00 GMT",
+      "summary": "Flight delays at SFO after ground stop issued due to fog&nbsp;&nbsp;KRON4",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFVBSElhZ3pMZERVWE90SDNIZlVVUVQ0M3UydzFONG0yVzY4dW00NTd5bWpIQ3VQeVRzeDR1Ti1rSTBsNm16czY2Mm1TVlU3VzB5TFJHNjlITDY4R3pEUnF2SjNlaU84MzdVN2VIblNwMXVJTFNtakE5NC0yVUlBc1BNQ3JfNnVPVG1Jb1NRekJrX3lwWmRyeWp5cGFrVld2OThLNDB1UGI3dWNPUVBXdtIBxAFBVV95cUxNZ1NBM3dyMnRmWkFOblUzSDNKSTZ0T0xrSUlfaUdnRGVldEJJNk55cV9CME04WU1iUDMyems2OUJoMUstYkhEZUFjZVRLbDR3aWZUV0MwYi1ZYTBVYmRxUjlWOHdfQzdYY20zSHJkWW5wWm5qbUlKcy1BRUdjZDhENFdKYjhHcEdxeHlsWVhhYS04b2RYQzBITWlIdHZoUnpDcy1RSUl3MGNfdWlDRE5vYVJ5dzlfUnFTanF3N1FQaWtzcFdZ?oc=5",
       "published": "Mon, 09 Nov 2026 14:51:00 GMT",
       "summary": "Over 803 flights delayed, 56 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Nearly 2,000 Boeing Jets Are Being Checked for a Dangerous Mid-Flight Problem, and It\u2019s Not the Plane You\u2019ve Been Worried About - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2JneUxvQjBRZlEtQnlOcHlzRXFCZnRscGZRdVRSZTM4QzNhTU1iT2VTOXlyNGZLYnJsVUdUYzBxSXVyeGJJSkVvZ21iUWx3ZldfSHFUUGNFd3VCTkgxSFFQcVJFQV9DVk9ONzROX21SeVFrUk1IUjZhVW5uLXlXTzBkb2U?oc=5",
-      "published": "Wed, 11 Nov 2026 17:30:00 GMT",
-      "summary": "Nearly 2,000 Boeing Jets Are Being Checked for a Dangerous Mid-Flight Problem, and It\u2019s Not the Plane You\u2019ve Been Worried About&nbsp;&nbsp;Yahoo",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUtlLVQ3cjhPd1N2bFJaeUkxcUNBWmtSa2dSNmZsMGVoQVl4S01oSkEwaGZ5SG9uTU9yX2JvdUF3TVdicjJ2NThlQXVNc1JhNHlIbmxGeExGVV9kNXF4X1A5X2dfTEJrVUdQYVJXMkpCbE40TzBPWDZlemhUNWEwd1RXa2k1VWd2M3h3ZDUzbUFMYUVRUDlId2Z2VGhUWXNwTDJCVTZ4TVNzN2V4OURCV2tHY00yUWdTbUgzUGFhOUFySmZIUzlyTExvQzdVdkIxRjVabw?oc=5",
-      "published": "Mon, 09 Nov 2026 10:55:52 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     }
   ]
