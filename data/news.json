@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-11-13T11:41:02.296233+00:00",
+  "last_updated": "2026-11-13T18:54:12.085073+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Beyond Miles: Earning Loyalty Through Proactive Care",
+      "link": "https://skift.com/2026/11/13/beyond-miles-earning-loyalty-through-proactive-care/",
+      "published": "Fri, 13 Nov 2026 14:08:50 +0000",
+      "summary": "Airlines can expand the value of loyalty currencies by allowing travelers to redeem rewards for services beyond flights and upgrades.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Airlines Can Own the Whole Trip in the AI Era",
+      "link": "https://skift.com/2026/11/13/how-airlines-can-own-the-whole-trip-in-the-ai-era/",
+      "published": "Fri, 13 Nov 2026 14:04:20 +0000",
+      "summary": "Airlines have an opportunity to extend their customer relationships beyond flights as AI agents reshape travel planning and booking.",
+      "source": "Skift"
+    },
+    {
+      "title": "New Webinar:\u00a0Turning Travel Disruptions Into Guest Loyalty",
+      "link": "https://skift.com/2026/11/13/new-webinar-turning-travel-disruptions-into-guest-loyalty/",
+      "published": "Fri, 13 Nov 2026 14:00:00 +0000",
+      "summary": "This sponsored content was created in collaboration with a Skift partner. Travel is sold in pieces. Guests experience it as one trip. When a flight delay knocks out the connection, the first hotel night, and the plans after it, guests expect someone to help put it back together. ",
+      "source": "Skift"
+    },
+    {
+      "title": "How Proactive AI Is Changing the Airline Customer Experience",
+      "link": "https://skift.com/2026/11/13/how-proactive-ai-is-changing-the-airline-customer-experience/",
+      "published": "Fri, 13 Nov 2026 13:55:43 +0000",
+      "summary": "Airlines considering proactive AI agents face an implementation decision: how much responsibility should they give the technology before it has demonstrated reliable performance in routine customer service?",
+      "source": "Skift"
+    },
+    {
+      "title": "The Hotel Restaurant Is Becoming the Main Event Again",
+      "link": "https://skift.com/2026/11/13/the-hotel-restaurant-is-becoming-the-main-event-again/",
+      "published": "Fri, 13 Nov 2026 13:00:00 +0000",
+      "summary": "Hotel restaurants are becoming destinations again. The smartest owners are giving chefs and operators the freedom to create places with their own character and following, rather than trying to serve every guest at every hour.",
+      "source": "Skift"
+    },
     {
       "title": "Saudi Hotel Builders Keep Going as Attacks Scare Off Foreign Visitors",
       "link": "https://skift.com/2026/11/12/saudi-hotel-builders-keep-going-as-attacks-scare-off-foreign-visitors/",
@@ -28,41 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "One Night in Bangkok: Eurovision Asia Tests Thailand\u2019s Bet on Events",
-      "link": "https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/",
-      "published": "Fri, 13 Nov 2026 02:00:00 +0000",
-      "summary": "Thailand wants events to offset falling arrivals. Early data shows Eurovision Asia riding Bangkok&apos;s seasonal upswing, not driving it. One night won&apos;t move the needle, but a steady calendar of events just might.",
-      "source": "Skift"
-    },
-    {
-      "title": "Boeing on Market Forces Shaping Fleets and Routes Through 2045",
-      "link": "https://skift.com/2026/11/12/boeing-on-market-forces-shaping-fleets-and-routes-through-2045/",
-      "published": "Fri, 13 Nov 2026 01:58:21 +0000",
-      "summary": "Aviation&apos;s next phase of growth will require airlines, manufacturers, and airports to make long-term investment decisions around sharply different regional demand patterns.",
-      "source": "Skift"
-    },
-    {
-      "title": "Expedia Confirms Cyberattack Through Third-Party Vendor",
-      "link": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/",
-      "published": "Fri, 13 Nov 2026 01:53:47 +0000",
-      "summary": "Expedia says attackers reached its systems through a compromised technology provider. The company has not disclosed the extent of any data exposure.",
-      "source": "Skift"
-    },
-    {
-      "title": "How Embraer and Porter Airlines Consider Matching the Jet to the Market",
-      "link": "https://skift.com/2026/11/12/how-embraer-and-porter-airlines-consider-matching-the-jet-to-the-market/",
-      "published": "Fri, 13 Nov 2026 01:46:48 +0000",
-      "summary": "Airlines choosing new aircraft must weigh lower per-seat operating costs against the revenue consequences of deploying more capacity than a market can support.",
-      "source": "Skift"
-    },
-    {
-      "title": "Flight Attendants Union Chief Targets Regional Pay, Delta, and Worker Data",
-      "link": "https://skift.com/2026/11/12/flight-attendants-union-targets-regional-pay-delta-and-worker-data/",
-      "published": "Thu, 12 Nov 2026 23:42:20 +0000",
-      "summary": "The era of catch-up flight attendant raises is ending, but airlines shouldn\u2019t expect labor costs to ease. The next fights are over regional pay and worker data.",
-      "source": "Skift"
-    },
-    {
       "title": "Weather across the northeast causes flight delays, cancellations at Logan, other airports - WCVB",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjhzN3h1MDVjLUFTaE5FeVZUdDlnNFMtNVJGUWNjcFJscmQxcmFHYnZMcExCaGhNWjhpSTgwN3U1aDBja3JvYV9oTW5BMHd2ejRnRDhiQnNBZ2ZJYjdCSW9WRklzdS14T1NTelVyYVpndEVOeVdUa3NlZjVVX3IwcGotczhPNjFZZ0x5LWhLMlM?oc=5",
       "published": "Fri, 13 Nov 2026 03:23:00 GMT",
@@ -70,17 +70,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
-      "published": "Tue, 10 Nov 2026 19:21:10 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
       "title": "Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFkc0dSNlJpUS1peHBLWjFUd2xiQmJqX3FvbkdVRk9YeWh1MlFrWWt1aVFaZmFVX2s0cHdJOG45SFh6UEpTWnJOdUNWMlZwLWpqUllGSnJBdDVzdjFqZ1ZQLWM4d3pTenY5dHQ5T0dwTEZKMS1KM19KSmg4Snh6bUlDUnZNd3NCSHNLa0Rya2xxUXZfU2k0dWdMNFNzNVpyUldsUXp2NERyTGVJTnJqRtIBxAFBVV95cUxOOS1PNE1lS2RuNW1HRG9hZE5Xa2dFaFhXay1fc3E0aWEyRmNPaWd5bEg4WmJmaG9iSnpKdDNwc1dQRHI1SUtuSVRtLWRFR3o1Q254OGZCaEN3OGxRRmtJTDk4aVNfVUs0c2xhc0ZvbFpYazhGajAtRnlRSzZoNnNnenVJczd3a3M4QUZ5dUNBMjhhbzg3Nk1uQXVHVU5MUklaelpCYnFIUG9vZTlxSVVaYWZpWWNkNEVZX1lGbmFucktUa1Ez?oc=5",
       "published": "Thu, 12 Nov 2026 15:51:00 GMT",
       "summary": "Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
+      "published": "Tue, 10 Nov 2026 19:21:10 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 10, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -98,6 +98,13 @@
       "source": "Google News Travel"
     },
     {
+      "title": "Flying Today? How the Microsoft Outage Could Affect Your Trip - FTN news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPck5Oa2VoR2xpcUtzMTc0TEROSjBER1l4Ui0tTlZIYmR5b0FNblNTc0ZLNTJTV2ZkVDk1cDNhNncya09OeGVTaG9qbU9hcC1mSFF0RUtVam5IZEhxZ1FEYUJkbFhQczUxQmp4dm4xTTN0RktHV0JSS3EwaU1KWE14ZWRBczVfWjZX?oc=5",
+      "published": "Fri, 13 Nov 2026 11:03:18 GMT",
+      "summary": "Flying Today? How the Microsoft Outage Could Affect Your Trip&nbsp;&nbsp;FTN news",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Severe Hail Storm Forces Inspections Of Over 2 Dozen American Airlines Jets In Philadelphia - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0FJU0R5MGp2ZUVaV0dOaTQ5ZUhzZ0prN2ZmU3hjLWpIb1ZRMnhtejV6WTFCV1c4Mmx6dkVFRjc5MWU0cjgtTldSMllDUF80UWdmUVlSOC04MDR6Zk1mbFlVQ3A0UndWTFBCYzN0NDZLd3llUERBOE5FQXZoU0Vha0oyQ3RESW1lSi1PTk8yU0lDR1JJemUxV0dRYVg2a0R5?oc=5",
       "published": "Fri, 13 Nov 2026 06:15:11 GMT",
@@ -109,13 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXBJUjRORVVwN1pyLWY5alZ3SzdkZEdIMDhUQnJqenRwdEVMRE5NdHp1U2Nibkt0LUpiRGg3VmJDU0UzZi1lTThZa3hnN0JiWDFadFZ5NHNpOHdpODVSdnpPZEQwblZTaVE3X3p0RUw5VFpvSXZRVGtTTnpXakd2S1BLUjlPcWo4?oc=5",
       "published": "Thu, 12 Nov 2026 19:42:05 GMT",
       "summary": "Rain and wind force air travel delays around New York City&nbsp;&nbsp;New York Daily News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Aborted Landings Force FAA to Halt Flights at Major US Hub - https://travelhost.com/",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaE1PX19BMFVfQUxGWnhZVHN0ZlhxaDF0WHVWNjNVNThCU1FhZGh0RjJnYUJOZmZaRU12ejFadm1GTDNKYU1BdjVqRTMzT29aZ21faWZpOGw2MHhINll2UF84dUxoN2dtdW1LUmN4ci1NRkVFdWNnRXRPem1XU1JHeXNuYkFkTG5rMTFaNTVvekI3dw?oc=5",
-      "published": "Wed, 11 Nov 2026 20:33:00 GMT",
-      "summary": "Aborted Landings Force FAA to Halt Flights at Major US Hub&nbsp;&nbsp;https://travelhost.com/",
       "source": "Google News Travel"
     }
   ]
