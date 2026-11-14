@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T00:31:49.656800+00:00",
+  "last_updated": "2026-11-14T11:03:09.340860+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,8 +7,8 @@
   ],
   "items": [
     {
-      "title": "FAA Orders Rare Nationwide Ground Stop Over Air Traffic Control Comms Issue",
-      "link": "https://skift.com/2026/11/13/faa-orders-rare-nationwide-ground-stop-over-air-traffic-control-comms-issue/",
+      "title": "FAA Lifts 4-Hour Nationwide Ground Stop; Disruptions to Last Into Weekend",
+      "link": "https://skift.com/2026/11/13/nationwide-ground-stop-lifted-delays-to-last/",
       "published": "Fri, 13 Nov 2026 22:00:21 +0000",
       "summary": "This is only the third nationwide ground stop in 25 years. The last one, during a 2023 system outage, lasted about two hours.",
       "source": "Skift"
@@ -63,10 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb - CNN",
+      "title": "Live updates: Thousands of travelers stranded as some flights resume after hours-long ground stop - CNN",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
-      "published": "Sat, 14 Nov 2026 00:24:00 GMT",
-      "summary": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb&nbsp;&nbsp;CNN\u2018What a mess, man!\u2019 SLO County travelers stuck as FAA orders ground stop on all flights&nbsp;&nbsp;San Luis Obispo TribuneLive Updates: FAA Declares Rare Nationwide Ground S",
+      "published": "Sat, 14 Nov 2026 09:46:06 GMT",
+      "summary": "Live updates: Thousands of travelers stranded as some flights resume after hours-long ground stop&nbsp;&nbsp;CNNLive Updates: Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop&nbsp;&nbsp;The New York TimesFAA lifts ground stop after more than four hours, but ",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZW1GZWEta2VkZFA1V1dtRFdBY3JQX0JOd0JzTTJQTkhtaXBzWXY3cnhSTzBrOFVobHpSZjl4SGt1cnhSR3B1OGcwM1RhUWw2dEJmU2g4MmRzWXA2QWVYaGNkT3dXRFc3cGNXcUNwdlFvNkxpcF96ZVhEVk9PQ081T1ZpdGVhb1Zp?oc=5",
+      "published": "Fri, 13 Nov 2026 14:45:20 GMT",
+      "summary": "Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
@@ -77,24 +84,31 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Dubai and Middle East flight disruption: the latest updates for passengers as airline suspensions continue - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHdiRkNER09FQi1RcFBLUDRNSnhzVjB3TVZmbDM1QkdsV2FHb0syczMxelZXYmk3QkExVjBZU2lHM1Y5aExCYmd3TlFKZW5sc3AzVDI4S1ZmMVRGa3lqZG43WmktVzlZR08yODEwdEhsc29EdGxkalNCYkFoejVRWXAyTk5LcUtpRko4elNkXzcxaWQtZjN5aTZVZG5rYnZ4WGdCNG5qdkNnSDNWVVlnczY3LU9wbnNZQWJJYzYzZlo3dnpDZ0lMRDRPUDJVWUpuV2plakh6Um4?oc=5",
-      "published": "Fri, 13 Nov 2026 08:40:43 GMT",
-      "summary": "Dubai and Middle East flight disruption: the latest updates for passengers as airline suspensions continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Air India Warns of US Flight Delays amid Nationwide Airport Disruptions - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTl9MMXpvajl3UGJMWWNoNG85XzAxeDRuR2tTZ2RMOVluUDJhVm1WNGJ6MHF3bW9kRUxkdjdpOEU0X1M3cGFLTl9CU0o0djlxdWtZaU1pa2hlZFl2YXVEMEFrSHQxcGRRN3R5MkVhMEZCUnV5MnpRU2Y4RW1PMHhsRmdleEVLSWZiQVNYSmxEeGJHdDlwZUdMek1jbE5YSUZ0Rno0RW1GWFNsUEE2XzF3WHVIdmg2WG12RUHSAb8BQVVfeXFMTlR1ZVRrZXJGeTJMd3h3UmdXQ2h4T3Z5MlhpY3hld1lodXk2UGotODJPaGJQbVg0UHF3V2Z4NHNqdHZnNExuV0FBNk5rY0h1TVBvc0ltSVhWeU8wSXJlRER3QUQ4ZlN1SWhZakR5MTdTWVYwNUdWZUE3SjdtQjk5aG9CX3ZlVmVHSkpuLUR4M2lCRE92T1JSXzUzY05qSDRMTzl1aUw4dC1fM3E3S0hRLWdRajVOSnVDbGs3Wk5YRHc?oc=5",
+      "published": "Sat, 14 Nov 2026 06:11:21 GMT",
+      "summary": "Air India Warns of US Flight Delays amid Nationwide Airport Disruptions&nbsp;&nbsp;Deccan Chronicle",
       "source": "Google News Travel"
     },
     {
-      "title": "FAA Halts All Flights At JFK, LaGuardia, And Newark Amid Flood Advisory - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVDVrXzRPRFc1b1lfdkp2UFlnaGhnbllJU1EzRjNPdU9LOWc2UV9icEhONm1ncnlQVDh5TVIxTUJrcHJ1ZDliN1ZldXVUbjdvN2lpZmpBSmtNS190S1JWZ0pfelo2UDFuMUplTml3angxN2h2RFQ4MTJWWGFvdzBUWHh4UVNFVEVXY2hQR1k2LVp6QQ?oc=5",
-      "published": "Thu, 12 Nov 2026 21:53:41 GMT",
-      "summary": "FAA Halts All Flights At JFK, LaGuardia, And Newark Amid Flood Advisory&nbsp;&nbsp;TheTravel",
+      "title": "4,700 Flights Cancelled, 10,000 Delayed! Why Are Flight Operations Disrupted At US Airports? - Curly Tales",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3VvOW1iNlNmVm0wOHFPNnhRRFN5anRwODlPV2phbGZhU0J3RUhxMkFxcjd2NzI2Qk9fME41WkZwd2pkNHBIYXM5eUR6R0poVkszRHVOVWk4WW5jTUwwYnlfWlY4dW9sWjU3QWtCTFpmVk11QWd5Y0dDbmtVV0hiQlVFZWdLRkZ1U1VLX0FhT3B2MVMzcVBXak5rTGl3WHlQSF9acWQ2MXVwelZBOUHSAbMBQVVfeXFMT3pWRkk4WDZZbW53X281MGhTZWxDVHR1MDUzZEE1Qi1QUEhDY2xxckN1RFFId3RaVFlHTVpvLTBoLXJrUGZHSmc1dHkwUE1fNFUyNDFPaVhtTDdDbVR1QzVwRWlFaUxlbV80THdzRmc3dTF6dTBPakNMMFc4SHJYY2ZTYnRUZjFaTENGQ3ZkM09JaWQ0TEJUcDc4SFhBdDNZQjk3Ni1Qb1JKNzVELU8xMzl0b2M?oc=5",
+      "published": "Sat, 14 Nov 2026 06:39:01 GMT",
+      "summary": "4,700 Flights Cancelled, 10,000 Delayed! Why Are Flight Operations Disrupted At US Airports?&nbsp;&nbsp;Curly Tales",
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights status update: Latest cancellations and delays for Friday, November 13 - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1hRRGRDWmRxTUViZGhqLXZTTTJrMjh1YlZBdEhwVTZobmxic0liNkNFSU1jV0ZDLUxrVVk5QXpqdE1Wanc2dGI4bDEzNXFqamNEMmxjclVrOFVJWlBXeU1jOW90QWN5SUFWWmg0aW9uNmJpYnBlMnNSSXF5SEdWQzkyUThMVFBidWhiZU5JaERKRWJqUzIzTnFWSG45QVVOQUthbEpSSkdmd3ljbjZOTXBKQll0N3duTUtUbUdiS3kydkM0Y1JRbWVUONIB3gFBVV95cUxNdUdwaUlnYXBPZUl2WVdQVTRyNHVHYVFicWVfRE1nc0loUXlrTV9CTmJ4VjhqVUtUWTNUSTZwSF9qSC1jczZ5WGtFUVNUZnBMWHJqWVFZNVI1SHZWSjZzR2pyLVgzR2ZGdFh2Yk5mOHJqaDR2dWwtbW5Ta2hqVmJGOENjcm8yb2xJdDJnb1Rac0Y2ZklMdDIzYVRVaHl2TGc4dzBrT3lqbmMzbTA5Zm5fZ3ZsMktXNEQwTXNSb1RGNEpZeWY3NHR4ZEZNeGZaLXFMdmJLRU42M3pRRFdlQkE?oc=5",
-      "published": "Fri, 13 Nov 2026 08:34:37 GMT",
-      "summary": "UAE flights status update: Latest cancellations and delays for Friday, November 13&nbsp;&nbsp;Gulf News",
+      "title": "US flight disruption: Air India advises passengers to check latest status - Cityairnews",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzFTRmZ2elBwazVSQWZQNnVsMERPMlFoS1FqMlg5N0g4OXZjOHd0bWhORGprLXFHVVNqa1Z1Y1B3elB5ZXdZMFc5Yl92WWpjOGdERGRjLUFMemFjUzdRdWFqSGFHY2tiZUM0bHh2dWlvdFVsTEM5MUVpMFdkZDNIVWlIZ1ZnaUE0cXE0cVJac1lERl9vRmxRQXA5WllZYThuOHVDcXV6TmJpa2gx?oc=5",
+      "published": "Sat, 14 Nov 2026 06:37:39 GMT",
+      "summary": "US flight disruption: Air India advises passengers to check latest status&nbsp;&nbsp;Cityairnews",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "US tech outage halts flights; Air India issues alert - The Avenue Mail",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YQl83dlgxa21paWVUREFydzhKQ1lmYjd2dzFrRW1fekFSQlQtVVB0ZU83U2I1TWFXTVpLTDJwNklUTUV5TVlULVBuUVA2bXJsU0prV0VrMVRiZDNpRjlVd0xCM2NFNVFQaDE0dWVmcm9BUQ?oc=5",
+      "published": "Sat, 14 Nov 2026 05:23:58 GMT",
+      "summary": "US tech outage halts flights; Air India issues alert&nbsp;&nbsp;The Avenue Mail",
       "source": "Google News Travel"
     },
     {
@@ -102,20 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUtlLVQ3cjhPd1N2bFJaeUkxcUNBWmtSa2dSNmZsMGVoQVl4S01oSkEwaGZ5SG9uTU9yX2JvdUF3TVdicjJ2NThlQXVNc1JhNHlIbmxGeExGVV9kNXF4X1A5X2dfTEJrVUdQYVJXMkpCbE40TzBPWDZlemhUNWEwd1RXa2k1VWd2M3h3ZDUzbUFMYUVRUDlId2Z2VGhUWXNwTDJCVTZ4TVNzN2V4OURCV2tHY00yUWdTbUgzUGFhOUFySmZIUzlyTExvQzdVdkIxRjVabw?oc=5",
       "published": "Mon, 09 Nov 2026 10:55:52 GMT",
       "summary": "Is it safe to travel to Saudi Arabia? Latest advice as flights remain disrupted following fresh attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again) - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmRwcUV0aHctZFQ0S1JObnBOVXV5N3B2bVJQWXF6VUhXeF9Tb0hzbUV4M1ZxTHI0eEVHVHZlSzlOR0VlRnZSaVVhRDN5dTdYbGVTb19KNTdBR1hieEdIeE1UZF9ka0ttU2FDdWhPejJTNlEtTmh4MVhwcVItRGtSMXk4RkNPYzIzcWpwUFFuT1FvT1paLTdxTDZqQjA4X2Ruclk1STRSS1BBZkFCVkF5VG9LWVVjU3U1WEtPM2FlSy1JTU9lbV8tbzBZY3lXZVdnR3d1QQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "Multiple Countries Have Issued Travel Alerts to the Middle East (Again)&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
