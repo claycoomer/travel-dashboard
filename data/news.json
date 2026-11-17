@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-16T23:53:40.102220+00:00",
+  "last_updated": "2026-11-17T05:36:41.481427+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Adani Turns Its Airports Into a Hotel Business",
+      "link": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
+      "published": "Tue, 17 Nov 2026 04:44:20 +0000",
+      "summary": "As it uses its airports and surrounding land to build a hotel business, Adani is betting that its planned airport cities can attract enough businesses and visitors to support thousands of hotel rooms.",
+      "source": "Skift"
+    },
     {
       "title": "United Airlines Resolves Tech Issue That Caused Systemwide Outage",
       "link": "https://skift.com/2026/11/16/united-airlines-resolves-tech-issue-that-caused-systemwide-outage/",
@@ -56,17 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "In Jordan, Arab Travelers Fill Amman While Petra Waits for the West",
-      "link": "https://skift.com/2026/11/16/in-jordan-arab-travelers-fill-amman-while-petra-waits-for-the-west/",
-      "published": "Mon, 16 Nov 2026 12:36:58 +0000",
-      "summary": "Jordan\u2019s tourism income is growing only because Arab and Asian visitors are replacing Western ones, and they are heading for Amman, not Petra. Until Western governments lift their travel warnings, the sites Jordan built its tourism on will keep struggling.",
-      "source": "Skift"
+      "title": "United Airlines Flights Resume After \u2018Widespread System Outage\u2019 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWU5TTEMwajFpdFFfcjFxc2RWdFZ5dGxWamh6UjZ5ZHM2ZHhfODVDVWx3Tm5zanVacS1CclgyWkhQUGE1R29jemxHSS1vTGFzenRZLTRtUHZPWmFnRHlFZDB6anRETHBqS3pzd0FzeEI5SXFfdVpocFF2cnVQM00yX0gtaEFMdw?oc=5",
+      "published": "Tue, 17 Nov 2026 00:59:37 GMT",
+      "summary": "United Airlines Flights Resume After \u2018Widespread System Outage\u2019&nbsp;&nbsp;The New York Times",
+      "source": "Google News Travel"
     },
     {
-      "title": "Monday air travel faces key test after FAA ground stop as possible cause emerges - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXpodGZBblp4MEhQaWFrcjhwVkRkeG5xb2NrU0p2SWozLXJ5dHdTTG9ONGE4SlNlLW9QalRleEJCdU9sQlRLV19EVlhwM05BMHZRbVVVQl9zOWFJYXdYam1CQzViSXlzcVQ4MGxJNUdlaXptWkVleDMyRl9kN2NmWnR3VENmbG0zNDE1aUxmTGV0MFJYMUMzbW1pS2YzMF9tb25HODBsMkxXekFjaW1rb3ZmcWpoOFVNeGfSAb8BQVVfeXFMTlg0NWlrQ3RSaHRZdGVnVGVFZTFFNzduRXNRZTctV1RscHFhemNud3FDT2p2RWdwTk84OFJPWS1wNkhCWVh0bUNFZzV5WTNqVk04bllUWEVuMHFuSUxHV2YwUk83WTV3dTJEUGc3dDBEcF8xMmdwVWhkeXQzX3NWUEJSa01laW4tYzl1SjQ0UEFyN3N6bGNDTU0xZzZNWExYSjJTWFFJeXo2azFVMVMtdk9xRmQ5Q2ZscktDdXpjaUk?oc=5",
-      "published": "Mon, 16 Nov 2026 13:00:00 GMT",
-      "summary": "Monday air travel faces key test after FAA ground stop as possible cause emerges&nbsp;&nbsp;Fox Business\u2018Working on floppy disks\u2019: FAA has fielded years of warnings about old systems&nbsp;&nbsp;CNNBefore air travel meltdown, federal transportation officials received years of ques",
+      "title": "November 13, 2026 \u2014 Some US flights resume after hours-long ground stop - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+      "published": "Sat, 14 Nov 2026 15:06:00 GMT",
+      "summary": "November 13, 2026 \u2014 Some US flights resume after hours-long ground stop&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
@@ -77,45 +84,38 @@
       "source": "Google News Travel"
     },
     {
-      "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-      "published": "Mon, 16 Nov 2026 19:59:32 GMT",
-      "summary": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks&nbsp;&nbsp;Fox News",
+      "title": "United Airlines says it has resolved a \u2018widespread system outage\u2019 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
+      "published": "Mon, 16 Nov 2026 23:38:33 GMT",
+      "summary": "United Airlines says it has resolved a \u2018widespread system outage\u2019&nbsp;&nbsp;NBC News",
       "source": "Google News Travel"
     },
     {
-      "title": "Trump clipped Biden's payouts for stranded travelers. It may not have helped during the ground stop - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmJ3eFo5X3RCa0VGOFEtTWhoWkU1ZG5sLV9nYWU5WVd0OERRWEI4VEFFRGZvaUM3S0lUNFRpcXBMQ1kydFoxSEhPUUhsME5NVFhwYXBIZXpPMmpOMWlEQzhBNU5YZEJ6VnBacm5QWFRHNEF4azlOSU03RW1xZVdac3NkM3NWdUtPbm84ZU5IOERfLWhqbHhLendlcUZ3X2FINVdtTktTMlM0Ni1xRU1IUThMclloejVUaW9TazlKa1hoZUdoNjQyNjlxLUhXQQ?oc=5",
-      "published": "Mon, 16 Nov 2026 23:21:24 GMT",
-      "summary": "Trump clipped Biden's payouts for stranded travelers. It may not have helped during the ground stop&nbsp;&nbsp;WRAL",
+      "title": "\u2018Working on floppy disks\u2019: FAA has fielded years of warnings about old systems - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZGNNTkFwem1hdDVWTkp3VkVlcXc1NXktM2UxRkhudmxDOHJUXzJPVWpBS09iS2Z5OHJjY01PUkRIYlpmemJiRnVLWFdCa0N6RDhDcmFqRXhXVFRnY0xvdXFoWmZRQ09say1Xd05ZVmM?oc=5",
+      "published": "Mon, 16 Nov 2026 23:23:26 GMT",
+      "summary": "\u2018Working on floppy disks\u2019: FAA has fielded years of warnings about old systems&nbsp;&nbsp;CNNAffected by the FAA ground stop? Here's what you need to know.&nbsp;&nbsp;YahooMonday air travel faces key test after FAA ground stop as possible cause emerges&nbsp;&nbsp;Fox Business",
       "source": "Google News Travel"
     },
     {
-      "title": "Trump blames Biden for airline ground stop - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWVXa1gzUEZOSVdCR2VvX1lJQnN2SGNBT3plTTVsU2hDZjdWSFg5Wi1TU2VUdzBuQVJheFhWRUo5Y2RBU2R2b29uVFU4OXVodnlyelpidHl4MzRMMlhwNFZoTTVHV1hqUnEwQ3g1T0dKYUVNSjl6RjV2MkI2dV8zZ2xUVmhUb1huSG1WZmlYLUxIb3VCS0JXVmVlaw?oc=5",
-      "published": "Sun, 15 Nov 2026 22:40:48 GMT",
-      "summary": "Trump blames Biden for airline ground stop&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "title": "State Department warns Americans in Europe to 'remain vigilant' during holidays - 9News",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTRlMC0wbTF6NWt1Q3hBSld1QmpiUFZTRlYxMDh3LUFjVENVc1RlczlTSmNkRGF1TU9xQjAtengyQkxrcFJwN0dnZ0JoNU92YmNXUGZESE9ZdV9aVHBjUUdnc0dWazNCeHFNOUFfektWZzM3blJIYkplTk40Ynhwd0IzUzU2M2drdkU4dFg4Z3YzcXdMYXpGbXFnSmE3U1ZzOS1hMnMzWTZKUW41V05EWUlVQWRkLUFhVjV1Z3g2ZGdkdmUzRjFLZVk2Sl9rbnNxcEhrbFExdy1lTWRWVFlaQkpNZXF5ajQ?oc=5",
+      "published": "Mon, 16 Nov 2026 22:41:00 GMT",
+      "summary": "State Department warns Americans in Europe to 'remain vigilant' during holidays&nbsp;&nbsp;9News",
       "source": "Google News Travel"
     },
     {
-      "title": "Trump blames Biden as US flight disruption continues - RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52ZmdRdzRHTkZvekdjaWJ1MmVGY2U1TC1JQ2RjdlR1RmFBVjlFeWhsXzNtZkoxQnVnZmNmY1BjNTUtU2RNVUhkaWhsRnBTYnFzSkRuRC0tMUl3SWYtOEdKS3JXOTZtUjUxT01OWlJ3?oc=5",
-      "published": "Sun, 15 Nov 2026 18:02:01 GMT",
-      "summary": "Trump blames Biden as US flight disruption continues&nbsp;&nbsp;RTE.ie",
+      "title": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZESEhXTWRPNDJEOGZqM0ZUOUdHeHJlVndERnFVejFBYmNfbnV3OUVIdTRFUEI2eHdqTkhPOWJ0OHY5RTd1WWh2VzV0YS1sVk41QVZfSXpmcmdvMXM2dDVNX3dnQ1l5VmRfOXNrSGUzVzQ5VkJnNDl1OUdXN1ByUDltakdoTVp1b2t0ZE5R0gGTAUFVX3lxTE80VGZ5dW9Tb3hkTDNXTHFnNmxnWXhER1RQbGpWMjB2cEZBX0E5a0xNRXVjNVR2czRCbmVUTkJxRHlNUmFlRXBMWlVEOVNnRHZVY0JNeUx6aDdqalZnbUFpYVZ5WXE5Ukl1RFhvbU5lUGpuRXZ1WFp0M0tBWXU2a3VFenBFTVVPbE9lNGZfUi1Oa3ZkZw?oc=5",
+      "published": "Sat, 14 Nov 2026 11:23:08 GMT",
+      "summary": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "source": "Google News Travel"
     },
     {
-      "title": "I've been a flight attendant for 7 years. Here are 3 things I recommend doing when your flight gets canceled or delayed. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkRnRnhpclk4cFYzbXFCMkN4bFlNOXlVcTdYaTI1QzBjc3llVndLWHZ1UDc3akd1YkVRVGRfRTcwWVlLZklvVVpPcS1fVWw2VW4zZGZzR3BBWnhZVkdvQnJMLURLbk9iaEI4c2plZ3JsdXZHSWg5dlVtTHlWOE9Hdm1lTVRDcElQVjY1WDVVd2htVXgtVWFzRUVGb2dZRGM?oc=5",
-      "published": "Mon, 16 Nov 2026 15:03:00 GMT",
-      "summary": "I've been a flight attendant for 7 years. Here are 3 things I recommend doing when your flight gets canceled or delayed.&nbsp;&nbsp;Business Insider",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "United Airlines says it resolved system outage that delayed flights - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdVNQc3RhVm1FaTNNOXdkNXlfaHZ3NE10blRxN215NUNwbW1KdmlqOWRmQlZrY0RtbDJmaC1OeUpVU3ptTDZTWUF6anZMbmRScEd0YTA1NVhIMGNwc01uLXU4ZlhVRGc?oc=5",
-      "published": "Mon, 16 Nov 2026 22:12:23 GMT",
-      "summary": "United Airlines says it resolved system outage that delayed flights&nbsp;&nbsp;CNN",
+      "title": "What to do if your Little Rock flight was canceled: refunds, rebooking and alerts - KATV",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWFVqSkF6Rkt2SGRORUJnQU13RnhIUG5OVkMyc0ZaVzVIOEpHZUJqWkxacl9OREdvS3Bxb2hWX2hvazVnVk14V0l1a2RyNlA3U1ZNUjBQckt1YTlaLS1YVmFmSE5mS3JzR1IzcFYtdUZGVU9ubEgySDJpcl9wZnVRNGV1UWtYcllWalZXWUxYQ3Yza2doX3BfcXpyT09HNGZfUWtsS0ttbVpJM2JuUkNKS3VRUlBUay1DOGRLYTBTZTdSMVBRRHBuVjI0RGstcjhCLXgxSDFFWjBnd3VjYXVVTzdzNm92VHVNT0FIQlVmaW1tYmpQVlZqV0UxRjU0Z0FSRTRBQmpQeVRyRWVnZ0RiVS15SllEUG1rQWxRYWJWQ2FBaTFoOVBuOTRydHFsZUlRZ3VtbHpR?oc=5",
+      "published": "Mon, 16 Nov 2026 23:18:26 GMT",
+      "summary": "What to do if your Little Rock flight was canceled: refunds, rebooking and alerts&nbsp;&nbsp;KATV",
       "source": "Google News Travel"
     }
   ]
