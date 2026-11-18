@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-17T17:11:03.869799+00:00",
+  "last_updated": "2026-11-18T01:56:15.731141+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Marriott Bonvoy Sign-Ins Were Down for Hours",
+      "link": "https://skift.com/2026/11/17/marriott-bonvoy-sign-ins-were-down-for-hours-disrupting-mobile-keys/",
+      "published": "Tue, 17 Nov 2026 22:42:59 +0000",
+      "summary": "Marriott\u2019s website and app briefly blocked loyalty member log-ins Tuesday. The company says the outage wasn\u2019t a cyberattack. United Airlines and many non-travel companies have suffered various tech disruptions in recent days.",
+      "source": "Skift"
+    },
+    {
+      "title": "Kayak Adds 28 AI Features, Letting Travelers Ask for the Cheapest Dates to Fly",
+      "link": "https://skift.com/2026/11/17/kayak-adds-28-ai-features-letting-travelers-ask-for-the-cheapest-dates-to-fly/",
+      "published": "Tue, 17 Nov 2026 22:12:03 +0000",
+      "summary": "Booking\u2019s metasearch company is betting that live prices and comparison tools, not just conversations, will keep travelers from starting their search on Google or a chatbot.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Aviation Forum 2026: Airlines Contend with Costs, Double Down on What Works",
+      "link": "https://skift.com/2026/11/17/skift-aviation-forum-2026-airlines-contend-with-costs-double-down-on-what-works/",
+      "published": "Tue, 17 Nov 2026 21:54:01 +0000",
+      "summary": "Disruptions to the longstanding status quo across product, technology, loyalty, and operations are fragmenting customer engagement and putting pressure on airlines and other aviation companies to make decisions today that will impact the next 10 years.",
+      "source": "Skift"
+    },
+    {
+      "title": "Asia Slump Drives Seventh Straight Month of Falling U.S. Overseas Arrivals",
+      "link": "https://skift.com/2026/11/17/asia-slump-drives-seventh-straight-month-of-falling-u-s-overseas-arrivals/",
+      "published": "Tue, 17 Nov 2026 21:08:42 +0000",
+      "summary": "A 12.6% drop from Asia fueled the seventh straight month of U.S. inbound travel declines, more evidence that the U.S. is losing ground as other countries compete for the same long-haul travelers.",
+      "source": "Skift"
+    },
+    {
+      "title": "Booking Holdings\u2019 AI Agent Vayo Can Now Reserve Flights and Hotels",
+      "link": "https://skift.com/2026/11/17/booking-holdings-ai-agent-vayo-can-now-reserve-flights-and-hotels/",
+      "published": "Tue, 17 Nov 2026 20:29:29 +0000",
+      "summary": "Booking Holdings\u2019 newest AI agent can now transact to book hotels, flights, and other trip arrangements. But Vayo&apos;s ability to complete reservations depends on supplier sites.",
+      "source": "Skift"
+    },
+    {
+      "title": "Accor to Buy Out Ennismore Partners for $1.8 Billion \u2014 No IPO for Now",
+      "link": "https://skift.com/2026/11/17/accor-to-buy-out-ennismore-partners-for-1-8-billion-no-ipo-for-now/",
+      "published": "Tue, 17 Nov 2026 18:15:25 +0000",
+      "summary": "Accor is paying up to own its fastest-growing business outright rather than list it now. The valuation is more than double what Ennismore was worth four years ago.",
+      "source": "Skift"
+    },
     {
       "title": "The Multi-Billion-Dollar Loyalty Mirage: Why We Still Don\u2019t Know What Airline Cards Really Earn",
       "link": "https://skift.com/2026/11/17/the-multi-billion-dollar-loyalty-mirage-why-we-still-dont-know-what-airline-cards-really-earn/",
@@ -21,73 +63,17 @@
       "source": "Skift"
     },
     {
-      "title": "Construction Delays and Exits Force Hotel Giants to Cut Room Growth Forecasts",
-      "link": "https://skift.com/2026/11/17/construction-delays-and-exits-force-hotel-giants-to-cut-room-growth-forecasts/",
-      "published": "Tue, 17 Nov 2026 11:30:00 +0000",
-      "summary": "Record pipelines aren&apos;t translating into the net room growth that major hotel groups had forecast, and 2027 isn&apos;t looking much better, as a whole.",
-      "source": "Skift"
-    },
-    {
-      "title": "Dubai Airport Heads for 26% Traffic Drop as Nearly Half Its Airlines Stay Away",
-      "link": "https://skift.com/2026/11/17/dubai-airport-heads-for-26-traffic-drop-as-nearly-half-its-airlines-stay-away/",
-      "published": "Tue, 17 Nov 2026 11:28:49 +0000",
-      "summary": "Dubai International can\u2019t recover on its home airlines alone. Every month foreign carriers stay away, rival hubs keep more of the transfer traffic DXB used to own.",
-      "source": "Skift"
-    },
-    {
-      "title": "Carbon Bills Climb for Europe\u2019s Airlines as Free Permits End",
-      "link": "https://skift.com/2026/11/17/carbon-bills-climb-for-europes-airlines-as-free-permits-end/",
-      "published": "Tue, 17 Nov 2026 08:50:52 +0000",
-      "summary": "Emissions and SAF costs are now a standing line in European airlines\u2019 results, arriving while fuel prices are already high. The question for 2027 is how much they can pass on to passengers.",
-      "source": "Skift"
-    },
-    {
-      "title": "Adani Turns Its Airports Into a Hotel Business",
-      "link": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
-      "published": "Tue, 17 Nov 2026 04:44:20 +0000",
-      "summary": "As it uses its airports and surrounding land to build a hotel business, Adani is betting that its planned airport cities can attract enough businesses and visitors to support thousands of hotel rooms.",
-      "source": "Skift"
-    },
-    {
-      "title": "United Airlines Resolves Tech Issue That Caused Systemwide Outage",
-      "link": "https://skift.com/2026/11/16/united-airlines-resolves-tech-issue-that-caused-systemwide-outage/",
-      "published": "Mon, 16 Nov 2026 22:57:51 +0000",
-      "summary": "Two major U.S. disruptions in four days add pressure on airlines and the FAA to show their systems can hold up heading into Thanksgiving.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airlines Brace for Up to $1 Billion Hit From Ground Stop, but Holiday Demand Holds Steady",
-      "link": "https://skift.com/2026/11/16/ground-stop-dent-airlines-fourth-quarter-holiday-demand-steady/",
-      "published": "Mon, 16 Nov 2026 21:22:27 +0000",
-      "summary": "Thanksgiving travelers have mostly shrugged off Friday\u2019s ground stop. The four largest carriers haven\u2019t been so lucky, facing up to $964 million in losses this quarter.",
-      "source": "Skift"
-    },
-    {
-      "title": "Monday air travel faces key test after FAA ground stop as possible cause emerges - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXpodGZBblp4MEhQaWFrcjhwVkRkeG5xb2NrU0p2SWozLXJ5dHdTTG9ONGE4SlNlLW9QalRleEJCdU9sQlRLV19EVlhwM05BMHZRbVVVQl9zOWFJYXdYam1CQzViSXlzcVQ4MGxJNUdlaXptWkVleDMyRl9kN2NmWnR3VENmbG0zNDE1aUxmTGV0MFJYMUMzbW1pS2YzMF9tb25HODBsMkxXekFjaW1rb3ZmcWpoOFVNeGfSAb8BQVVfeXFMTlg0NWlrQ3RSaHRZdGVnVGVFZTFFNzduRXNRZTctV1RscHFhemNud3FDT2p2RWdwTk84OFJPWS1wNkhCWVh0bUNFZzV5WTNqVk04bllUWEVuMHFuSUxHV2YwUk83WTV3dTJEUGc3dDBEcF8xMmdwVWhkeXQzX3NWUEJSa01laW4tYzl1SjQ0UEFyN3N6bGNDTU0xZzZNWExYSjJTWFFJeXo2azFVMVMtdk9xRmQ5Q2ZscktDdXpjaUk?oc=5",
-      "published": "Mon, 16 Nov 2026 13:00:00 GMT",
-      "summary": "Monday air travel faces key test after FAA ground stop as possible cause emerges&nbsp;&nbsp;Fox BusinessAviation experts explain why the FAA ground stop was \u2018preventable\u2019&nbsp;&nbsp;The IndependentWhat flights are like right now after massive FAA ground stop&nbsp;&nbsp;USA Today",
+      "title": "What we know about why everything seems to be breaking at once - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONVl6ckMtUEtTQ01oUHRtVlhjUXBtTS05cmFvNzdpbzJrQTBoTDZLZk5LQjcwZWZBQmlaSjIteHRJN0gyT2Flc3E5TkZoVDdMYjBqQzhyZVhxOWZDOWwwYkducHFvZmZYd3pZaWdLUVpPZ3FTU0NJdHhqQi1rWFBaRTB1bThKcHljaGxwcFZsSTctLUF5ek5oRzJUcE95N3IzejREMnFHeDdpc3R1d2tN?oc=5",
+      "published": "Wed, 18 Nov 2026 01:38:43 GMT",
+      "summary": "What we know about why everything seems to be breaking at once&nbsp;&nbsp;The Washington Post",
       "source": "Google News Travel"
     },
     {
-      "title": "Exclusive | FAA Pauses Router Installations After Nationwide Ground Stop - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0N2dk5BU0xvZWZZQkZ1SFZGYWNvNWJKTHh5bnpHU21pLXdkb3BIVmlieUlKQkpYZHJqcGVWMmQteWNtaVJydDdhYmpNVG5nMks3NW5FYkNhT0h2cmJDcmcyWERLb040Vk41SV9GMUlFWkYtY2ZmckkyQXNfdXEzX0RPMFNkbzF6SkNGbGJfX3FCUV9VRFBqMTgzVGsxYU02Qm9HVFF6WFhTYXc?oc=5",
-      "published": "Tue, 17 Nov 2026 16:20:00 GMT",
-      "summary": "Exclusive | FAA Pauses Router Installations After Nationwide Ground Stop&nbsp;&nbsp;WSJ",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 - U.S. Embassy in Bulgaria (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjh2MUdrZWVuWFhEM1l5aC13UnF6N3hhbXhobTlLaHJZbThzTGdjbkxfM3dEVkRaYWI0a2h6VTgyQWs2U2RXQXhLb2RXQWk1VURURTdYWjFkbS1LU3BiYmViVVNwaU8tWXBUU2VfQmdUR2pWZ05FbDJHbkZrTTVOWkVNWFhrdGI1?oc=5",
-      "published": "Mon, 16 Nov 2026 15:25:19 GMT",
-      "summary": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026&nbsp;&nbsp;U.S. Embassy in Bulgaria (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "United Airlines says it resolved system outage that delayed flights - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdVNQc3RhVm1FaTNNOXdkNXlfaHZ3NE10blRxN215NUNwbW1KdmlqOWRmQlZrY0RtbDJmaC1OeUpVU3ptTDZTWUF6anZMbmRScEd0YTA1NVhIMGNwc01uLXU4ZlhVRGc?oc=5",
-      "published": "Mon, 16 Nov 2026 22:12:23 GMT",
-      "summary": "United Airlines says it resolved system outage that delayed flights&nbsp;&nbsp;CNN",
+      "title": "\u2018Working on floppy disks\u2019: FAA has fielded years of warnings about old systems - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFRXg5OFJHMWdhMjRMZEcxaUFpR2hjSEpjb2dSN1lCMTEtMkhuMEFQeGFna3g5cFVQRnYwR1QwZ3VXRWxweVZyNWxlTVgwM3FYU2JHRm15TndMSlhzM2cxME5ZYnpqNk1CQ3FWYzNtTkRodmVZd3c?oc=5",
+      "published": "Mon, 16 Nov 2026 23:23:26 GMT",
+      "summary": "\u2018Working on floppy disks\u2019: FAA has fielded years of warnings about old systems&nbsp;&nbsp;CNNBefore air travel meltdown, federal transportation officials received years of questions and warnings, records show&nbsp;&nbsp;CBS NewsWhat flights are like right now after massive FAA gr",
       "source": "Google News Travel"
     },
     {
@@ -98,24 +84,38 @@
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines says it has resolved a \u2018widespread system outage\u2019 - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
-      "published": "Mon, 16 Nov 2026 23:38:33 GMT",
-      "summary": "United Airlines says it has resolved a \u2018widespread system outage\u2019&nbsp;&nbsp;NBC News",
+      "title": "Security Alert: U.S. Embassy London, November 16, 2026 - U.S. Embassy and Consulates in the United Kingdom (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0FxUEtJVHQtY1N1SnFLQnhZQ3BWU0t2NHVtdFRaZWNaNmFGaExFS2hPNVIwM3pYdzdjWFZIYkJyd2k2NjhsQndUcVBBOUZvSmlKOE1CQTNSeTRnSERXWlppM3dFb2NKOFJSYTh0TDRKTjlsNVd6WlYxZURGR1BGNmNn?oc=5",
+      "published": "Mon, 16 Nov 2026 15:33:35 GMT",
+      "summary": "Security Alert: U.S. Embassy London, November 16, 2026&nbsp;&nbsp;U.S. Embassy and Consulates in the United Kingdom (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVV6WkxCR1dHSldhS0kzVjI3OTVhUzk3MmxXVnlBX2RLSVhoeGI0cXlaQ3VDelF5NzdweUtqOUpxY1FKdGpLTW50Rm5YZlU0ZlBiUHpOY3RXWDFLOS1JOHp0LUVIU2VYRFN4N0czYTNsd3pvMk8xQ1lBVnVIVFhiTmxUTQ?oc=5",
-      "published": "Mon, 16 Nov 2026 22:25:00 GMT",
-      "summary": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop&nbsp;&nbsp;CBS News",
+      "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
+      "published": "Mon, 16 Nov 2026 19:59:32 GMT",
+      "summary": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines Hit by System Outage Days After FAA Ground Stop - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdUVTFpWFNaa2xRYUdVSXkxUkh3amNoNmJXNE11eDFkOGxtY2R3TnlhVFh2Z1o4S2d2eWs0XzhIVDd4bDhYZzduMmxuRWRnRFVLRjVScjhzN1pxd0VNOGd4U3poS1hHMkZLQlRBLXRvVjdnTUMzVGdQSXpYOHlhVzFkOEtKODFNWEYxdmF1WXlhdEVaT1FRNjRB?oc=5",
-      "published": "Mon, 16 Nov 2026 22:25:37 GMT",
-      "summary": "United Airlines Hit by System Outage Days After FAA Ground Stop&nbsp;&nbsp;Yahoo Finance",
+      "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+      "published": "Tue, 17 Nov 2026 09:19:00 GMT",
+      "summary": "1.5-hour-long system outage forces United Airlines to delay departing flights&nbsp;&nbsp;AP News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "I've been a flight attendant for 7 years. Here are 3 things I recommend doing when your flight gets canceled or delayed. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkRnRnhpclk4cFYzbXFCMkN4bFlNOXlVcTdYaTI1QzBjc3llVndLWHZ1UDc3akd1YkVRVGRfRTcwWVlLZklvVVpPcS1fVWw2VW4zZGZzR3BBWnhZVkdvQnJMLURLbk9iaEI4c2plZ3JsdXZHSWg5dlVtTHlWOE9Hdm1lTVRDcElQVjY1WDVVd2htVXgtVWFzRUVGb2dZRGM?oc=5",
+      "published": "Mon, 16 Nov 2026 15:03:00 GMT",
+      "summary": "I've been a flight attendant for 7 years. Here are 3 things I recommend doing when your flight gets canceled or delayed.&nbsp;&nbsp;Business Insider",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Navigating Thanksgiving travel - KOAT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUnY3SkszcWxlQXY0dWRRRmV3TzlSTWI0TnlaNlU2TmFNNlBTTlB1N1Y5eWVyY2x3Wl9tUFZmazl0QXRxRjYwdjQ5NTJoeFh3WUUyU1VkYzU4TEc3LXhfODNtX2F5MmtlbmJTSVJUeFYtQzlFX2Jj?oc=5",
+      "published": "Wed, 18 Nov 2026 01:28:00 GMT",
+      "summary": "Navigating Thanksgiving travel&nbsp;&nbsp;KOAT",
       "source": "Google News Travel"
     }
   ]
