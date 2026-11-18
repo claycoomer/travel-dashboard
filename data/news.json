@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-11-18T12:25:48.485803+00:00",
+  "last_updated": "2026-11-18T22:45:06.002701+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Booking Holdings Leaves Priceline Out of B2B Unit Amid FTC Scrutiny",
+      "link": "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+      "published": "Wed, 18 Nov 2026 22:27:08 +0000",
+      "summary": "Leaving Priceline out of the B2B consolidation is a blow to the goals of Booking Partner Division.",
+      "source": "Skift"
+    },
+    {
+      "title": "Airbnb Pitches Hotels: We Care More About Stays Than Booking.com Does",
+      "link": "https://skift.com/2026/11/18/airbnb-pitches-hotels-we-care-more-about-stays-than-booking-com-does/",
+      "published": "Wed, 18 Nov 2026 21:12:16 +0000",
+      "summary": "Airbnb could deliver lots of new customers to hotels. But will that hurt its short-term rental business?",
+      "source": "Skift"
+    },
+    {
+      "title": "Lola CEO Steve Hafner on Meta\u2019s Muse: \u2018The More They Scale, the More Money They Will Lose\u2019",
+      "link": "https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/",
+      "published": "Wed, 18 Nov 2026 20:11:51 +0000",
+      "summary": "It&apos;s hard to bet against Muse, given Meta&apos;s resources. Although Hafner doubts Muse&apos;s approach, it wouldn&apos;t be the first business to swap business models.",
+      "source": "Skift"
+    },
+    {
+      "title": "From Premier Inn to Rick Stein, Britain\u2019s Travel Businesses Are Paying for Higher Labor Costs",
+      "link": "https://skift.com/2026/11/18/from-premier-inn-to-rick-stein-britains-travel-businesses-are-paying-for-higher-labor-costs/",
+      "published": "Wed, 18 Nov 2026 17:36:38 +0000",
+      "summary": "The UK&apos;s 2025 increases in minimum wage, payroll tax and property tax were meant to fall on big employers. Company filings now landing show they hit hospitality and travel businesses of every size, from Premier Inn&apos;s owner to a celebrity chef&apos;s seaside restaurants ",
+      "source": "Skift"
+    },
+    {
+      "title": "The AI Agent Is Travel\u2019s Ad Blocker",
+      "link": "https://skift.com/2026/11/18/the-ai-agent-is-travels-ad-blocker/",
+      "published": "Wed, 18 Nov 2026 14:30:00 +0000",
+      "summary": "Travel companies have built profitable businesses around persuading customers to spend more. AI agents working for travelers may be harder to persuade.",
+      "source": "Skift"
+    },
     {
       "title": "Tony Fernandes Pushes AirAsia\u2019s Comeback to 2028",
       "link": "https://skift.com/2026/11/18/tony-fernandes-pushes-airasias-comeback-to-2028/",
@@ -28,94 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Air India Express Names Finance Chief as CEO to Turn Growth Into Profit",
-      "link": "https://skift.com/2026/11/18/air-india-express-names-finance-chief-as-ceo-to-turn-growth-into-profit/",
-      "published": "Wed, 18 Nov 2026 09:19:54 +0000",
-      "summary": "Air India and Air India Express now both have new CEOs, and the group\u2019s transformation looks steadier for it. The harder test is whether the new leaders can cut losses that are still running in the billions.",
-      "source": "Skift"
-    },
-    {
-      "title": "Climate Change Could Squeeze a Third of Tourist Destinations by 2050",
-      "link": "https://skift.com/2026/11/18/climate-change-could-squeeze-a-third-of-tourist-destinations-by-2050/",
-      "published": "Wed, 18 Nov 2026 09:01:00 +0000",
-      "summary": "Climate change won\u2019t just bring more extreme weather. It will shorten the seasons and change the activities many destinations are built on. Operators should be planning now for shoulder seasons and cooler-hour itineraries, not waiting for the next heat wave.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airlines Race to Keep Up With Vietnam\u2019s Indian Travel Boom",
-      "link": "https://skift.com/2026/11/17/airlines-race-to-keep-up-with-vietnams-indian-travel-boom/",
-      "published": "Wed, 18 Nov 2026 04:31:02 +0000",
-      "summary": "Indian arrivals to Vietnam are growing more than twice as fast as the overall market, and Vietnamese carriers are chasing that demand into cities like Ahmedabad. Seats alone won\u2019t lock it in, though. Vietnam still needs the food, guides, and wedding and events products Indian tra",
-      "source": "Skift"
-    },
-    {
-      "title": "Klook\u2019s AI Agent Handles the Admin, but Operators Want Help Selling",
-      "link": "https://skift.com/2026/11/17/klooks-ai-agent-handles-the-admin-but-operators-want-help-selling/",
-      "published": "Wed, 18 Nov 2026 04:00:00 +0000",
-      "summary": "Klook\u2019s K.ai doesn\u2019t just advise small operators. It makes the changes for them, and an early user says it is already saving time. The bigger payoff, for operators and for Klook, could come from the tools still in development, such as pricing advice that helps them sell more.",
-      "source": "Skift"
-    },
-    {
-      "title": "Accor\u2019s $1.8 Billion Ennismore Buyout Tops 4 Rival Lifestyle Deals Combined",
-      "link": "https://skift.com/2026/11/17/accors-1-8-billion-ennismore-buyout-tops-4-rival-lifestyle-deals-combined/",
-      "published": "Wed, 18 Nov 2026 02:26:14 +0000",
-      "summary": "Hotel groups have spent years buying lifestyle brands. Accor just committed $1.8 billion to buyout the minority investors in its Ennismore joint venture. A comparison with past deals adds some enlightening context.",
-      "source": "Skift"
-    },
-    {
-      "title": "Flying In The Winter? These Mistakes Could Derail Your Trip - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fWEhfS01kSHpPT21ZODk3TzdvZmlNSE1rQ0ExUGtJS28yQzBpbWJvMVM1di03REQzOW9yajlVWVVlN0NGZXMtZi1abkY2OGJNa2ZFbW4wVnltMG1qbjVBTV9oY0ZqMzVRWGQtSWhOY01TUkpVQzIyeA?oc=5",
-      "published": "Wed, 18 Nov 2026 12:00:00 GMT",
-      "summary": "Flying In The Winter? These Mistakes Could Derail Your Trip&nbsp;&nbsp;Forbes",
+      "title": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzdseTVtZlVrbzJzel83Uk54d1ptX210TmMzOWo1dnowbUJxTC14TXluNzBsUE9tb3RBWndtNUV1dXBuN2VaV0EzYklXRW8zbVhLRjJXUUxWUTlkamRYTnVfbjBFaFktVmV0MlQwZ3gyakRsdWhTMjJaY1VVNWJ3RVAwYk1rTnd2OXpfUWx3?oc=5",
+      "published": "Wed, 18 Nov 2026 17:17:50 GMT",
+      "summary": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker&nbsp;&nbsp;YahooBefore air travel meltdown, federal transportation officials received years of questions and warnings, records show&nbsp;&nbsp;CBS NewsWhat flights are like right now after massive FAA gro",
       "source": "Google News Travel"
     },
     {
-      "title": "A National Meltdown With Nobody Manning the Help Desk - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHdMUERsSzNMQ0laanVlNEVzdVdidk1UUnF2Qk01aERvekc4VWtxMnhSaUVTWlE1NkxIc01RbE5kSFdnZjk5ZzF2RFRielQ1RFVScVdKMndFOWVRMVRxWG5Qa2hwc0hCME45d25tMXY2SjZHWlhlSEplNjE1UlU2aUdRZ0Q?oc=5",
-      "published": "Wed, 18 Nov 2026 04:59:05 GMT",
-      "summary": "A National Meltdown With Nobody Manning the Help Desk&nbsp;&nbsp;The New York Times",
+      "title": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 - U.S. Embassy in Bulgaria (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjh2MUdrZWVuWFhEM1l5aC13UnF6N3hhbXhobTlLaHJZbThzTGdjbkxfM3dEVkRaYWI0a2h6VTgyQWs2U2RXQXhLb2RXQWk1VURURTdYWjFkbS1LU3BiYmViVVNwaU8tWXBUU2VfQmdUR2pWZ05FbDJHbkZrTTVOWkVNWFhrdGI1?oc=5",
+      "published": "Mon, 16 Nov 2026 15:25:19 GMT",
+      "summary": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026&nbsp;&nbsp;U.S. Embassy in Bulgaria (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "Before air travel meltdown, federal transportation officials received years of questions and warnings, records show - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcGpwWVlsRVdYY09VMHgzV3lzUS0yMVNMVmR3Q1h4dFFYSmx4Vlo2R204VXN0blVUYzNzMlI2OW1XUFZkWS1rbEYycU5CR29id1RFeFNKdjVjQVFna3lqV2xUTzJIWUhWUDYycWh0cw?oc=5",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "summary": "Before air travel meltdown, federal transportation officials received years of questions and warnings, records show&nbsp;&nbsp;CBS NewsWhat flights are like right now after massive FAA ground stop&nbsp;&nbsp;USA TodayWith the busiest travel season ahead, how likely is it that ano",
+      "title": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFpHY2ZpZFJZUHN3X2xYakdpS1JacUEzOHV4c2pUQmZrc0tvaEZiSlJoaVZ4Y3FnVUpNTGRnZTRhclBncU96YmNfMTA3SWpDT0ZrcFloeE0tekJ2cF8tQ3JGZ052UG1ZMk10VTh4X2NfNXNWQ0RJSTBzNEY3X3JRX2JsRkl5Y0RuSUNGbVR4LTVUZi0wMVFHc1JmM1JHT1lFYkEwVTNBUGg1WVRZZkdSU2xLcVUwNlUtZWNHekl4Y1k2d0d0dnc2aDQ0OHoxd0MzTzJ0M3Z0Rm5wb0IzUVl0eU5oQXU?oc=5",
+      "published": "Wed, 18 Nov 2026 07:26:30 GMT",
+      "summary": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Embassy London, November 16, 2026 - U.S. Embassy and Consulates in the United Kingdom (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0FxUEtJVHQtY1N1SnFLQnhZQ3BWU0t2NHVtdFRaZWNaNmFGaExFS2hPNVIwM3pYdzdjWFZIYkJyd2k2NjhsQndUcVBBOUZvSmlKOE1CQTNSeTRnSERXWlppM3dFb2NKOFJSYTh0TDRKTjlsNVd6WlYxZURGR1BGNmNn?oc=5",
-      "published": "Mon, 16 Nov 2026 15:33:35 GMT",
-      "summary": "Security Alert: U.S. Embassy London, November 16, 2026&nbsp;&nbsp;U.S. Embassy and Consulates in the United Kingdom (.gov)",
+      "title": "U.S.-Bound Travelers Issued New Air Travel Warning By Global Affairs Canada Effective Immediately - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFNIZm9lZDN0cDY3U1p0S3dVaWhaVVhqVUtvbGRBeDlhcThNNmdDYlVRR1N1Y3RWUDVjMVNsN1dwcjg2STVLOFdWZHNHZnBUeVpFTWt0ejNrc2hKc2w2YU9RazZrOW81M3d2b25rUVEwMjVWcl9UdnpsWElfZkRSdktkRU9KTjU4TEhVdVBZOXhTckt3cEpDcFZNSnZ6cUlHTFV2QW93M21WRXFwVWoyTXc5TE5UVjhRdmhj?oc=5",
+      "published": "Sun, 15 Nov 2026 13:49:20 GMT",
+      "summary": "U.S.-Bound Travelers Issued New Air Travel Warning By Global Affairs Canada Effective Immediately&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines says it resolved system outage that delayed flights - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdVNQc3RhVm1FaTNNOXdkNXlfaHZ3NE10blRxN215NUNwbW1KdmlqOWRmQlZrY0RtbDJmaC1OeUpVU3ptTDZTWUF6anZMbmRScEd0YTA1NVhIMGNwc01uLXU4ZlhVRGc?oc=5",
-      "published": "Mon, 16 Nov 2026 22:12:23 GMT",
-      "summary": "United Airlines says it resolved system outage that delayed flights&nbsp;&nbsp;CNN",
+      "title": "UAE flights status update: Etihad, flydubai extend Saudi cancellations as Gulf attacks escalate on November 18 - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGJfdGd2ZUFuUFZXUnlVaFBDYnd0RDRIc21vZ0FkMEVGWFozbWlYVjBob1FYZzF6UFluZmE0RlR5d2hudVMybHc2TlJSRE1ULXFUSkVVQmRIMDFydlZKR2VqamdJcnRzS1pwb0dORzdTZF9iQ0ZoM0QwZG1laE8xRzNaeW1IdTlyMkdOZlN2WWVyRkN0WWZGZjFOSTZvSE5tNUc0MGdORGZWeUxUcGZzTFV1bDQ0cGlPVndwMldqYThHcWIzamNKb2VINDY3YVdHaHV5dFY4Z25semJrVktjRnpIUlNVaUtSMVBFbks3Z9IBhAJBVV95cUxNU0VTalJZcUdmOEFoQXhGS1ZHTTFmZS1yYTliN1FZZjUwU2ZwRHd6eXhXTklXMm95QU5kNDlXazJGMGVWekFmSllUVDRweEdHck5xd0RWRmRrbjB1Q19WSkxxd2hTM1BWVUFVQWJjdzZnMkpmRmtWMzhEbXg5TUFPdEMyUGtucE50MV9rdEJ1NDc4eFZqV25WekxHMFFHaUZmdFV0dzZkc2hKUkNCMnFaTWpTczlnT09rLXoza0JQRWtPZHhmcmtRcjRTUmM2Tm44aUR6eFc5SS1pQVNFS25JYm8tajJPc0RFa2dJUk9ST1VxYmR4aEk0R01sQUhJeUxiQy1CNA?oc=5",
+      "published": "Wed, 18 Nov 2026 08:24:22 GMT",
+      "summary": "UAE flights status update: Etihad, flydubai extend Saudi cancellations as Gulf attacks escalate on November 18&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
-      "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWJGaWVHYmFmMVJySTBzR0h2clJBbnBqSjFQTGh1cGIxa3k0bmV3ZVk0WXNfT0NKeTdSZ3JqYWRmMVhRTGFpbWJtTUgyM3M0Q0d6Xy0wVDN4VlpmUG1BWnZFMGtjT2ZKM2oyelVOOGY5Rk1kdXh1NVRpTjhBMVh1MXJEYUZpaVNGeXlFR096R1FqN04yTFlEV0R4LTM1eXFGMEZfYkhVVTJUQdIBrwFBVV95cUxQX2JYQmctakdNb0VvQnZTUEoxMW5QNFN1R0tFeHhBQlFkRG1QUWpJZXEybVNFelRSa0ItUHJBclRFOURLWWZWLTZfcXo3em9GSlN6QVdfcFdBaExmQ0FOQVVucmxYT1ZsclpxUW4xS21rTklrR0pyQ0FRQ2UtQWVucWk2Q2VGcDZmM3NfY3NwN0dtU28yZU9pbU5Qa201bEJHX3pFb1JDcnpRZ2J5c3lv?oc=5",
-      "published": "Mon, 16 Nov 2026 19:59:32 GMT",
-      "summary": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks&nbsp;&nbsp;Fox News",
+      "title": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom faces renewed missile and drone fire - Cond\u00e9 Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaUlNVlFoQ0Q0SmNtVzdONWk1VHlJbEI4R1dVRVpQMzFRalhaVmFvNWk4a2FWX0hMc0hWZXFJaTdVdVliaUU5bERkcHc1WENjSDlYZktrT1U4NV82UzBNTUU1b2swOWk3aWJyaXBjYTQ4YlYzM0tIVXhHVXNneWswQ2Njb0hMS0hGQU9kbkE0aFF6MHdDeGdDeGZoMmZ0dVNPU3NpdWFJTklDZzFaMGNOYmtwQ2lkY3NlOXg5bU92SHlHN2lPMUEyeDAxeFQ4eGJfbkpzdFNiYmFyZw?oc=5",
+      "published": "Mon, 16 Nov 2026 10:36:01 GMT",
+      "summary": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom faces renewed missile and drone fire&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
       "source": "Google News Travel"
     },
     {
-      "title": "Congress skeptical as Trump officials seek $50B for air travel system - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
-      "published": "Tue, 17 Nov 2026 17:09:52 GMT",
-      "summary": "Congress skeptical as Trump officials seek $50B for air travel system&nbsp;&nbsp;AP News",
+      "title": "UAE flights status update: Saudi cancellations continue; latest delays and airline updates for November 16 - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQUJXVVdnUEVtUjN1TFlHT05SWEYzaE0yTm1zNHhPMXBGdDI0WlVDUE1WY1ZiVDJwMDFBaG1melJZT2xKLTVGZVp1X2NXRVQxZHlYRGJMNnlnNVlybHJpZEFSa3RwQ2FHLTlWSlBiQThVZjNJbUtaSnQyZE56NWxJRS1nLVBWMnVBRUJxNFMyQzFvOUtnNENFSW8yendoU2xSSDBHUXQwVlRRQlZqMDJjX1hQVDdrSHhQTktJQjhxNFN4Vm5HbW9LTHRGSHhrenRLbDhXUlZZc01TRkd3QWtEdURiWFVDZzhMb0HSAf8BQVVfeXFMTTFfOUx1RHhBVnJFelEzajhheXVDODFZT3dWUU1NaXBSU2FTQVZlOFEzeUlUbTdLbzZJR0JLTFlKTkR6WUJrdHh3akhncEtCN3VYOHYyTm9oakdXazJXUnJKOXRxTHJxR3hONFZyRTFXU1V1a082aFVzRU5DbldlQjMxckZHdC1XeUVBRm1DQTM1NzRId2oyeTAzdlhUaWFKTkt4SnVKbS0zLXdOQVNHYlFxSTJWTll2eGc3YXBPeS1pZE1vOUdtLXBlcWRWdm1Ec0luaFhLc1FBWlp6NHM0clM0cV9vcHBXa0pZeVV4MXBwa2owcG1IU2JyNkQ3cjYw?oc=5",
+      "published": "Mon, 16 Nov 2026 08:05:26 GMT",
+      "summary": "UAE flights status update: Saudi cancellations continue; latest delays and airline updates for November 16&nbsp;&nbsp;Gulf News",
       "source": "Google News Travel"
     },
     {
-      "title": "Mullin Heads to Congress as Questions Swirl Over Flight Disruptions, Football Trip and Immigration - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUE9TaWFUNGRFcGZCWVY2Z3MyZTI3cDI5TF9mc3QtTmhmS3YyUTU1V2c3N1pkcW55LXFUaE9zbGItOFFuNXNoNXQ3YzBhT2Y5TmtTdFhGb3VFQzlNd2dvd0FUZDhxc0dWOFNLNmpWR1gxdXlVRjdqZHRtdmt1anJ3TUxVSGRpYVBkVG9UUFNCbFpQWEk4U0ZBcmNuTTVIVW9EWjBadVRKU09qRDZJeDRxdmtSc1ZyWTlKVVJxdG9qSUVkbVlEaVdPWFlDa0E3LXZGMW9uTTROdWVPYVdKRmhwVVp4NHBKbkF2clE?oc=5",
-      "published": "Wed, 18 Nov 2026 12:01:00 GMT",
-      "summary": "Mullin Heads to Congress as Questions Swirl Over Flight Disruptions, Football Trip and Immigration&nbsp;&nbsp;U.S. News & World Report",
+      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
       "source": "Google News Travel"
     }
   ]
