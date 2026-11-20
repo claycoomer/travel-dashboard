@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-11-19T16:54:31.970277+00:00",
+  "last_updated": "2026-11-20T01:29:49.924665+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Sabre Wants to Be the Transaction Engine Behind AI Travel Bookings",
+      "link": "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/",
+      "published": "Thu, 19 Nov 2026 22:25:28 +0000",
+      "summary": "AI platforms could become a new front door for travel bookings. Sabre wants to handle the transactions behind them, even if someone else controls the customer relationship.",
+      "source": "Skift"
+    },
+    {
+      "title": "United CFO Plays Down JetBlue Deal Chatter: \u2018Very Large Debt Balance\u2019",
+      "link": "https://skift.com/2026/11/19/united-cfo-plays-down-jetblue-deal-chatter/",
+      "published": "Thu, 19 Nov 2026 21:50:45 +0000",
+      "summary": "As merger talk with JetBlue has made a comeback, United is shutting it down, with CEO Scott Kirby still set on a mega-merger with American.",
+      "source": "Skift"
+    },
+    {
+      "title": "LA-Area Voters Approve Wave of Hotel Tax Hikes Ahead of 2028 Olympics",
+      "link": "https://skift.com/2026/11/19/los-angeles-area-raise-hotel-taxes-before-olympics/",
+      "published": "Thu, 19 Nov 2026 18:34:52 +0000",
+      "summary": "A dozen cities in Los Angeles and Orange counties raised or updated lodging taxes in recent elections as cities prepare for a surge in visitors during the 2028 Los Angeles Olympics.",
+      "source": "Skift"
+    },
     {
       "title": "Travelers Want Less Screen Time and More Time on the Water",
       "link": "https://skift.com/2026/11/19/outdoor-water-experiences-hospitality-opportunities-2027/",
@@ -42,34 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Booking Holdings Leaves Priceline Out of B2B Unit Amid FTC Scrutiny",
-      "link": "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
-      "published": "Wed, 18 Nov 2026 22:27:08 +0000",
-      "summary": "Leaving Priceline out of the B2B consolidation is a blow to the goals of Booking Partner Division.",
-      "source": "Skift"
-    },
-    {
-      "title": "Airbnb Pitches Hotels: We Care More About Stays Than Booking.com Does",
-      "link": "https://skift.com/2026/11/18/airbnb-pitches-hotels-we-care-more-about-stays-than-booking-com-does/",
-      "published": "Wed, 18 Nov 2026 21:12:16 +0000",
-      "summary": "Airbnb could deliver lots of new customers to hotels. But will that hurt its short-term rental business?",
-      "source": "Skift"
-    },
-    {
-      "title": "Lola CEO Steve Hafner on Meta\u2019s Muse: \u2018The More They Scale, the More Money They Will Lose\u2019",
-      "link": "https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/",
-      "published": "Wed, 18 Nov 2026 20:11:51 +0000",
-      "summary": "It&apos;s hard to bet against Muse, given Meta&apos;s resources. Although Hafner doubts Muse&apos;s approach, it wouldn&apos;t be the first business to swap business models.",
-      "source": "Skift"
-    },
-    {
-      "title": "Travel editor Peter Greenberg on tech outages, flight impacts - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRFptSE56aDdVeUdKVnUyV2tBbDRzbmhJbnhCTmxuZC1XVDlncVg1XzF2Rnk0cEhXRXlFMndFWWVSQzV4TXVLNEo2ZlhVLVJCc3kxZWZKdFQxVnNoMzFHOGxlVXcxWkIyYlh0NjJMY3R1dGhzNnNHWWtSVTV5dWtfZDI5eFYwWmRiZk93NFoxRElSSTZURE1WT09EX3BoUWt1?oc=5",
-      "published": "Thu, 19 Nov 2026 15:06:00 GMT",
-      "summary": "Travel editor Peter Greenberg on tech outages, flight impacts&nbsp;&nbsp;CBS News",
-      "source": "Google News Travel"
-    },
-    {
       "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHdMUERsSzNMQ0laanVlNEVzdVdidk1UUnF2Qk01aERvekc4VWtxMnhSaUVTWlE1NkxIc01RbE5kSFdnZjk5ZzF2RFRielQ1RFVScVdKMndFOWVRMVRxWG5Qa2hwc0hCME45d25tMXY2SjZHWlhlSEplNjE1UlU2aUdRZ0Q?oc=5",
       "published": "Wed, 18 Nov 2026 00:05:32 GMT",
@@ -77,17 +70,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 - U.S. Embassy in Bulgaria (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjh2MUdrZWVuWFhEM1l5aC13UnF6N3hhbXhobTlLaHJZbThzTGdjbkxfM3dEVkRaYWI0a2h6VTgyQWs2U2RXQXhLb2RXQWk1VURURTdYWjFkbS1LU3BiYmViVVNwaU8tWXBUU2VfQmdUR2pWZ05FbDJHbkZrTTVOWkVNWFhrdGI1?oc=5",
-      "published": "Mon, 16 Nov 2026 15:25:19 GMT",
-      "summary": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026&nbsp;&nbsp;U.S. Embassy in Bulgaria (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Ground stop lifted for flights headed to DJT Airport in West Palm Beach, flights resume - WPEC",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWndfS0I2OXN0SVdwZ25UV1JDRW5lTFFBUnRJSjZyQ2pzeUtqMkdCOEhMYWJEVW83WWhnRF95b1QwQ01uT2xiME1JdjFkSW53T0RqTEdvTFB5YWFZQXNQcDNwMHZrZ1JzX0JaUEpYMkZXMUJuVmxPbTBOdDJPczcyN09YYXloYVB0S3hBa1pkSDdFcDFyWWlENkJWSm1BZ0N5dXNaM0YwdlRfa1dHb04tUThLMEtOWFU3YmdPZkpSbUc2SEdpTVNxUFNqRENZd1RUMnNkMHlGUE9fNmJxclN3SVZMbHF6RDFlV2lib29mdW9PbzI3QVY2R1ZuNVZLLVFXcklR?oc=5",
-      "published": "Thu, 19 Nov 2026 03:27:58 GMT",
-      "summary": "Ground stop lifted for flights headed to DJT Airport in West Palm Beach, flights resume&nbsp;&nbsp;WPEC",
+      "title": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzdseTVtZlVrbzJzel83Uk54d1ptX210TmMzOWo1dnowbUJxTC14TXluNzBsUE9tb3RBWndtNUV1dXBuN2VaV0EzYklXRW8zbVhLRjJXUUxWUTlkamRYTnVfbjBFaFktVmV0MlQwZ3gyakRsdWhTMjJaY1VVNWJ3RVAwYk1rTnd2OXpfUWx3?oc=5",
+      "published": "Wed, 18 Nov 2026 17:17:50 GMT",
+      "summary": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
@@ -105,17 +91,31 @@
       "source": "Google News Travel"
     },
     {
-      "title": "US plans to announce cause of outage that led to nationwide ground stop, FAA says - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekQyVG44ZHFsRmVSUnU2aFAtQUM5X096RElNeDdiT3oxakVuaUNGODA2SFo2U2otZkJObl9YN2MxNDlTT0UzTVZmeEJzNXVXb2RqME5zcnhqVGVSTzlQUldpLWZZMDlfNldUNDdva0pqR0Fxak5rbnRtMUwwYjNLY0dROW96Yi0xSlA4aQ?oc=5",
-      "published": "Thu, 19 Nov 2026 15:28:59 GMT",
-      "summary": "US plans to announce cause of outage that led to nationwide ground stop, FAA says&nbsp;&nbsp;Yahoo",
+      "title": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 - U.S. Embassy in Bulgaria (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjh2MUdrZWVuWFhEM1l5aC13UnF6N3hhbXhobTlLaHJZbThzTGdjbkxfM3dEVkRaYWI0a2h6VTgyQWs2U2RXQXhLb2RXQWk1VURURTdYWjFkbS1LU3BiYmViVVNwaU8tWXBUU2VfQmdUR2pWZ05FbDJHbkZrTTVOWkVNWFhrdGI1?oc=5",
+      "published": "Mon, 16 Nov 2026 15:25:19 GMT",
+      "summary": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026&nbsp;&nbsp;U.S. Embassy in Bulgaria (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "United Airlines says it has resolved a \u2018widespread system outage\u2019 - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
-      "published": "Mon, 16 Nov 2026 23:38:33 GMT",
-      "summary": "United Airlines says it has resolved a \u2018widespread system outage\u2019&nbsp;&nbsp;NBC News",
+      "title": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhGNXl4X1JnMkFqZnBDc1JxVGE5UFM5aGtYREtzc3d5RFRlamxTVF9Lc1I1TnRzZGlfVzQzbjBtTVBxdmdRS0F6SlJ3UkpDdThhc1VlaGFXYWlkWjhRTTRYMDQ3TlhjQWJENFhHaGFEVVdsMFpBNFZEYlN0ZE1IeEVvc2x2QWpZMjJhc1NwQ0FGbjJsLUZJMnd4LXJDdkY2YlI4anNNOU84dUhLZXfSAbMBQVVfeXFMTnJOQVJJTlR0bFc4bEhYOGRPZG16VkhGWFZZWHdHT3VRc21ZYVNIcEdJQ3BmMERMdVlFS1lMaVFRT2UxMTBSWktxS0N2amE4YjY5VjJNU0JwMjZ5OE9XTzd5V3lXZHJ3YnhDcjB5Q3JzRVdzSWp6WkJqZ2lxTVFMUGNYamVxOW9MdzJsNTdCOUxZdzI2blhocElPYkIwMkVYTkRzU2RPeXp0U0NVY2JOM0I5TU0?oc=5",
+      "published": "Wed, 18 Nov 2026 16:33:01 GMT",
+      "summary": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel&nbsp;&nbsp;Fox News",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Will the nationwide ground stop impact your Thanksgiving flight? Here\u2019s what to know - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3BPM2RtY3JJaXJZSGR0WF94eFZKa1owYWd0MXVDNGRob3Q4eTFoY0dOUDlDb2s0dU42Y3ZYbjBESTRPQzlQX1E3VGg5NUhYa1pudUlET1Qxem9pMXFDOTZxY21kLXg5a0dsdUNnVkc4Nkdsbkc1d0ZDVHF0V1B4endSZy05b0pOYjVUdVNwRloxRnU2QzZLM3d6cmp5Yld1UmREdUJPY09NbEtRaGdVdXJEWjFITXRsTi1pRWlubllfcmYz0gHYAUFVX3lxTE42R3ZwZnRmNlVxUm9BMlo4QzM4QXNJa3RlZnFhUWxqYnQ0N1ZvSGxjNnBGVEtaNHNhTHVIMXpKalU2ellnbzF1R0dDVlVRUVJvSHF0TS1VRzB0UXJwZ0FUVTVUOS1ZbUtvT1lfa2tRTmtiX2VYdTlRcXVmY1VPenhLdXBRdjBSWHF6Q3p0NDdSNG01MC1IVDZfMHVtckZxcm1oaWRUbG5SWk9qOGZZUGh4Nl8tZ1hYUTh0NXpiNkZYejdrZ29ZUDBsVzJOTWhPejdkVF83eTN2cQ?oc=5",
+      "published": "Thu, 19 Nov 2026 17:02:00 GMT",
+      "summary": "Will the nationwide ground stop impact your Thanksgiving flight? Here\u2019s what to know&nbsp;&nbsp;Cleveland.com",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "What flights are like right now after massive FAA ground stop - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3d1OWRWUExRMHlva19vMmNNM1EwSXZuVnljT1BGTzktSzc0ZEc3Vi1ZNUs0dDB2Um9rWWRVTlNzdEVuU0FKZ2thTy1uUDA4X3Zzd01tN0RrUnpmOXpJQnpwWW1mNm5FcXRiaE1EcWQtRG16aXh2dkcwaXdyRTc2bjRKZWdIZWwtel9GNVlzOExHODZsS3JsNkQ4d215ZkZvVUkxbmFPNE5kNUFvYXVDSzVObHNhNjA?oc=5",
+      "published": "Mon, 16 Nov 2026 20:05:00 GMT",
+      "summary": "What flights are like right now after massive FAA ground stop&nbsp;&nbsp;USA Today",
       "source": "Google News Travel"
     }
   ]
