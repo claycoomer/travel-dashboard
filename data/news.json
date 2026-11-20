@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-20T01:29:49.924665+00:00",
+  "last_updated": "2026-11-20T12:18:03.609897+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Airport Shutdown Wiped 65% Off Riyadh Hotel RevPAR in October",
+      "link": "https://skift.com/2026/11/19/airport-shutdown-wiped-65-off-riyadh-hotel-revpar-in-october/",
+      "published": "Fri, 20 Nov 2026 04:00:00 +0000",
+      "summary": "Riyadh\u2019s hotels lost their peak season when the airport shut. With BA, Cathay Pacific and others suspended into the new year and Houthi strikes still hitting the capital, the recovery hasn\u2019t started.",
+      "source": "Skift"
+    },
     {
       "title": "Sabre Wants to Be the Transaction Engine Behind AI Travel Bookings",
       "link": "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/",
@@ -56,13 +63,6 @@
       "source": "Skift"
     },
     {
-      "title": "Luxury Tours Pushed Deeper Into Amazon As Gateways Urbanize",
-      "link": "https://skift.com/2026/11/19/luxury-tours-pushed-deeper-into-amazon-as-gateways-urbanize/",
-      "published": "Thu, 19 Nov 2026 07:00:00 +0000",
-      "summary": "As luxury Amazon trips grow in popularity, operators are having to go further to deliver what they sell: remoteness. Gateway cities, including Brazil\u2019s Manaus, are sprawling, and lodges that once felt remote no longer are.",
-      "source": "Skift"
-    },
-    {
       "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHdMUERsSzNMQ0laanVlNEVzdVdidk1UUnF2Qk01aERvekc4VWtxMnhSaUVTWlE1NkxIc01RbE5kSFdnZjk5ZzF2RFRielQ1RFVScVdKMndFOWVRMVRxWG5Qa2hwc0hCME45d25tMXY2SjZHWlhlSEplNjE1UlU2aUdRZ0Q?oc=5",
       "published": "Wed, 18 Nov 2026 00:05:32 GMT",
@@ -70,10 +70,31 @@
       "source": "Google News Travel"
     },
     {
-      "title": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzdseTVtZlVrbzJzel83Uk54d1ptX210TmMzOWo1dnowbUJxTC14TXluNzBsUE9tb3RBWndtNUV1dXBuN2VaV0EzYklXRW8zbVhLRjJXUUxWUTlkamRYTnVfbjBFaFktVmV0MlQwZ3gyakRsdWhTMjJaY1VVNWJ3RVAwYk1rTnd2OXpfUWx3?oc=5",
-      "published": "Wed, 18 Nov 2026 17:17:50 GMT",
-      "summary": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker&nbsp;&nbsp;Yahoo",
+      "title": "Florida\u2019s airport flooding may be the start of a holiday mess - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEotOEFNNVpmbDZIcVRYWXZyZTdhSVF0R09tN1hsMVBWSWNaVUpKVXcyV0E5QnpJcmRMbGZ4WkpfcGRqNVhaVHFENVk4MGxUMTlpSi1Ta0xHNlRCTDZYd3pxbUs5MmtHbWtpblFwa2RKNjYzd0xLYk50S3lQalJQdVZ4bHdoUnh1T2xfSUtTVS1xZw?oc=5",
+      "published": "Thu, 19 Nov 2026 22:50:13 GMT",
+      "summary": "Florida\u2019s airport flooding may be the start of a holiday mess&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 17, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR09zN0VLa0JOQ0FCNkV6QmRCMzlTNngzWS0wT055WE9UcDZ6RFNSSDYtR25rVUNuQllIMmFndXZBODh6czJyMVBJUXZOaFdzdV84NzBjSmxQczJPbDhTWXYya0tabWNha3NuTjk0TjdIaUxKZ2JJQzk3dWZ3NXN2cndtMURfZW9qLTBkY3dR?oc=5",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 17, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Ground stop lifted for flights headed to DJT Airport in West Palm Beach, flights resume - WPEC",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWndfS0I2OXN0SVdwZ25UV1JDRW5lTFFBUnRJSjZyQ2pzeUtqMkdCOEhMYWJEVW83WWhnRF95b1QwQ01uT2xiME1JdjFkSW53T0RqTEdvTFB5YWFZQXNQcDNwMHZrZ1JzX0JaUEpYMkZXMUJuVmxPbTBOdDJPczcyN09YYXloYVB0S3hBa1pkSDdFcDFyWWlENkJWSm1BZ0N5dXNaM0YwdlRfa1dHb04tUThLMEtOWFU3YmdPZkpSbUc2SEdpTVNxUFNqRENZd1RUMnNkMHlGUE9fNmJxclN3SVZMbHF6RDFlV2lib29mdW9PbzI3QVY2R1ZuNVZLLVFXcklR?oc=5",
+      "published": "Thu, 19 Nov 2026 03:27:58 GMT",
+      "summary": "Ground stop lifted for flights headed to DJT Airport in West Palm Beach, flights resume&nbsp;&nbsp;WPEC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNTc09oNHBNWUtyWmhyV2tlWDUtcFZ4WGJ3MVQ2dUdQV0c1eEh6c1JhZmw5WUxlRm1aR3pHa0lDYTRydTZHaENyU2tuZVp0bDZ6VUhYang1SHExbzRJaV81d1FGNXlfTHpvY2VUUS1CZWdYenBreEF3SVJxWXlldldTQ2tDR09fdlVJMmxxMHVnajRPYmlmbXpENTdXQnJuM2c?oc=5",
+      "published": "Fri, 20 Nov 2026 05:07:00 GMT",
+      "summary": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound&nbsp;&nbsp;AP News",
       "source": "Google News Travel"
     },
     {
@@ -84,38 +105,17 @@
       "source": "Google News Travel"
     },
     {
-      "title": "The big question after the FAA ground stop: Is flying safe? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTczVTNadEY3MURBbUVxNW15cndVWk5VZGZfR1VCbXRoazRqNnZ4azUtR1M1RW1RQlFEUXo3em82QUNjZmcycVYwX3NYVEx5ajlTTE9OUFlIVkJ5ZnNZQlAxNlB0cTRNWVAwSGxrZTZMSmJ0QzNFSzFKVjFnSUprYU1fRWI1TzhOX0Y2RnBtYlh6cHJjQ2NRb01ya2RrUHZhcWVYMHR2UEE?oc=5",
-      "published": "Tue, 17 Nov 2026 13:14:00 GMT",
-      "summary": "The big question after the FAA ground stop: Is flying safe?&nbsp;&nbsp;USA Today",
+      "title": "FAA Ground Stop Impacts 2,000 Local Travelers - The Ticker",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXd3U2kxWFB0OE9yVVE3ODBkaThMcno2UlhRVERjTEtqam5MXzAyRmRGNEx6dV9EMG9BUm1HSGNCbElkeURja29sS0t0a2RXaXd3VEZBUGxUenNtZnByNnZlN25LbmhHU2FLcXJHeFFBWEVRRFN3YWtSVHRrekNBNE5kWFZkQTRx?oc=5",
+      "published": "Thu, 19 Nov 2026 05:04:43 GMT",
+      "summary": "FAA Ground Stop Impacts 2,000 Local Travelers&nbsp;&nbsp;The Ticker",
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 - U.S. Embassy in Bulgaria (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjh2MUdrZWVuWFhEM1l5aC13UnF6N3hhbXhobTlLaHJZbThzTGdjbkxfM3dEVkRaYWI0a2h6VTgyQWs2U2RXQXhLb2RXQWk1VURURTdYWjFkbS1LU3BiYmViVVNwaU8tWXBUU2VfQmdUR2pWZ05FbDJHbkZrTTVOWkVNWFhrdGI1?oc=5",
-      "published": "Mon, 16 Nov 2026 15:25:19 GMT",
-      "summary": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026&nbsp;&nbsp;U.S. Embassy in Bulgaria (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhGNXl4X1JnMkFqZnBDc1JxVGE5UFM5aGtYREtzc3d5RFRlamxTVF9Lc1I1TnRzZGlfVzQzbjBtTVBxdmdRS0F6SlJ3UkpDdThhc1VlaGFXYWlkWjhRTTRYMDQ3TlhjQWJENFhHaGFEVVdsMFpBNFZEYlN0ZE1IeEVvc2x2QWpZMjJhc1NwQ0FGbjJsLUZJMnd4LXJDdkY2YlI4anNNOU84dUhLZXfSAbMBQVVfeXFMTnJOQVJJTlR0bFc4bEhYOGRPZG16VkhGWFZZWHdHT3VRc21ZYVNIcEdJQ3BmMERMdVlFS1lMaVFRT2UxMTBSWktxS0N2amE4YjY5VjJNU0JwMjZ5OE9XTzd5V3lXZHJ3YnhDcjB5Q3JzRVdzSWp6WkJqZ2lxTVFMUGNYamVxOW9MdzJsNTdCOUxZdzI2blhocElPYkIwMkVYTkRzU2RPeXp0U0NVY2JOM0I5TU0?oc=5",
-      "published": "Wed, 18 Nov 2026 16:33:01 GMT",
-      "summary": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Will the nationwide ground stop impact your Thanksgiving flight? Here\u2019s what to know - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3BPM2RtY3JJaXJZSGR0WF94eFZKa1owYWd0MXVDNGRob3Q4eTFoY0dOUDlDb2s0dU42Y3ZYbjBESTRPQzlQX1E3VGg5NUhYa1pudUlET1Qxem9pMXFDOTZxY21kLXg5a0dsdUNnVkc4Nkdsbkc1d0ZDVHF0V1B4endSZy05b0pOYjVUdVNwRloxRnU2QzZLM3d6cmp5Yld1UmREdUJPY09NbEtRaGdVdXJEWjFITXRsTi1pRWlubllfcmYz0gHYAUFVX3lxTE42R3ZwZnRmNlVxUm9BMlo4QzM4QXNJa3RlZnFhUWxqYnQ0N1ZvSGxjNnBGVEtaNHNhTHVIMXpKalU2ellnbzF1R0dDVlVRUVJvSHF0TS1VRzB0UXJwZ0FUVTVUOS1ZbUtvT1lfa2tRTmtiX2VYdTlRcXVmY1VPenhLdXBRdjBSWHF6Q3p0NDdSNG01MC1IVDZfMHVtckZxcm1oaWRUbG5SWk9qOGZZUGh4Nl8tZ1hYUTh0NXpiNkZYejdrZ29ZUDBsVzJOTWhPejdkVF83eTN2cQ?oc=5",
-      "published": "Thu, 19 Nov 2026 17:02:00 GMT",
-      "summary": "Will the nationwide ground stop impact your Thanksgiving flight? Here\u2019s what to know&nbsp;&nbsp;Cleveland.com",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "What flights are like right now after massive FAA ground stop - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3d1OWRWUExRMHlva19vMmNNM1EwSXZuVnljT1BGTzktSzc0ZEc3Vi1ZNUs0dDB2Um9rWWRVTlNzdEVuU0FKZ2thTy1uUDA4X3Zzd01tN0RrUnpmOXpJQnpwWW1mNm5FcXRiaE1EcWQtRG16aXh2dkcwaXdyRTc2bjRKZWdIZWwtel9GNVlzOExHODZsS3JsNkQ4d215ZkZvVUkxbmFPNE5kNUFvYXVDSzVObHNhNjA?oc=5",
-      "published": "Mon, 16 Nov 2026 20:05:00 GMT",
-      "summary": "What flights are like right now after massive FAA ground stop&nbsp;&nbsp;USA Today",
+      "title": "Holiday travelers on alert after series of technology outages - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2xIb2p0RUY5THExRGF6cmxJdng2eUp3dkR5TnprX2F5c3hMY2NRenRnQnBQTm5YTFNyN0dxTmRDMExPS05zWUM5dVZ5QTZPSFlwdzJ0emhpcV84OVRPdXlXT0lhbUpPSkhfbXhZQlEtcVhMY1BsMlBrdklOSldvUGNxdFoza0Zv0gGOAUFVX3lxTE1KTUhoOU9RNTU3NXFxTC1iNFZzLWQwQ3pnNjc0RzVqWm1hQV9ycURuREdjYUw3TFFQN2dXcjN6M0FiaGZqOTAxUVdlSzY5Y29hU3NFYkRqVURhUV9GN0M1ZVFKZC1iMlVjcm01YWowVl9fUjNmLXJQZXV5NlVpTTN0WEhGSmtXTmszVks2SVE?oc=5",
+      "published": "Thu, 19 Nov 2026 23:53:50 GMT",
+      "summary": "Holiday travelers on alert after series of technology outages&nbsp;&nbsp;6abc Philadelphia",
       "source": "Google News Travel"
     }
   ]
