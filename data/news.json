@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T22:25:22.709671+00:00",
+  "last_updated": "2026-11-21T04:40:41.736023+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -63,6 +63,13 @@
       "source": "Skift"
     },
     {
+      "title": "US will soon announce root cause behind FAA nationwide ground stop - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS1lDWmpyendldk0xZVAtZlFfeWlDLUpqN1pyZHVDMkhSZzdTNTBkOHBZcGZzVGhDTXY1VmpXeTRSaldQRlhFVGlWREU0WmUwV2VFTlpRbjFnWV9nTk9SZHJoelVNeXBBWThIWmI2VmkteTJWOUxzcmk3VVE0blJqc2QxOFdMWFVrZWoyS1BRdHFNMjNJWVJaRDNkUkQtQURXR2hteUF4NUJVMnl3ellFTlEtVmZyTjRxMXVHZjV3?oc=5",
+      "published": "Fri, 20 Nov 2026 14:52:51 GMT",
+      "summary": "US will soon announce root cause behind FAA nationwide ground stop&nbsp;&nbsp;Ars TechnicaFAA ground stop fuels flight delay worries ahead of holiday travel rush&nbsp;&nbsp;Fox NewsOver 707 flights delayed, 48 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Florida\u2019s airport flooding may be the start of a holiday mess - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEotOEFNNVpmbDZIcVRYWXZyZTdhSVF0R09tN1hsMVBWSWNaVUpKVXcyV0E5QnpJcmRMbGZ4WkpfcGRqNVhaVHFENVk4MGxUMTlpSi1Ta0xHNlRCTDZYd3pxbUs5MmtHbWtpblFwa2RKNjYzd0xLYk50S3lQalJQdVZ4bHdoUnh1T2xfSUtTVS1xZw?oc=5",
       "published": "Thu, 19 Nov 2026 22:50:13 GMT",
@@ -70,31 +77,24 @@
       "source": "Google News Travel"
     },
     {
-      "title": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzdseTVtZlVrbzJzel83Uk54d1ptX210TmMzOWo1dnowbUJxTC14TXluNzBsUE9tb3RBWndtNUV1dXBuN2VaV0EzYklXRW8zbVhLRjJXUUxWUTlkamRYTnVfbjBFaFktVmV0MlQwZ3gyakRsdWhTMjJaY1VVNWJ3RVAwYk1rTnd2OXpfUWx3?oc=5",
-      "published": "Wed, 18 Nov 2026 17:17:50 GMT",
-      "summary": "The FAA found what grounded every flight in America, and it wasn\u2019t a hacker&nbsp;&nbsp;YahooOver 925 flights delayed, 72 canceled amid widespread U.S. travel disruptions&nbsp;&nbsp;NJ.com(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abo",
+      "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zX2hQZHU3TmdvZThORDBRUVFaVVYxU2xDd1FQc3RjcWhyUWZVeUFocGdvRkctVldzbUVMZjd2bVI5bzR2YlJxYy1CSFR4VnU2TnBzU1FOSkdSTFE?oc=5",
+      "published": "Sat, 21 Nov 2026 01:02:08 GMT",
+      "summary": "Trump says US flight systems are 'ancient' but 'safe' after ground stop&nbsp;&nbsp;BBC",
       "source": "Google News Travel"
     },
     {
-      "title": "Flying for Thanksgiving? See your airport's risk of flight delays - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLV9jMGdCNEJ3WG9DM2U0SGxZdXRoOC10RFE4dGtLVm5GRDN3VmpLenpjUTB6MkJFb3ZrUFpMRWJFMXZINFVmU2drZEpyUjRvU0xaX3pGQzd4MmI0OGpiOTRMQ1FrZldwa1VfUFRMUDAwT0Jxd0hXZnRnRzh5Q0dnazU0ZDlwQQ?oc=5",
+      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 17, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR09zN0VLa0JOQ0FCNkV6QmRCMzlTNngzWS0wT055WE9UcDZ6RFNSSDYtR25rVUNuQllIMmFndXZBODh6czJyMVBJUXZOaFdzdV84NzBjSmxQczJPbDhTWXYya0tabWNha3NuTjk0TjdIaUxKZ2JJQzk3dWZ3NXN2cndtMURfZW9qLTBkY3dR?oc=5",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 17, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flying for Thanksgiving? See your airport's risk of flight delays - WTAE",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVQ1OExIMjlLdzkta2xaVXhEX1FtX1dWemdVNkI4VnJsaGFmMEFKVm41SC1LQUpKaEtPTkFMbC1jT3VOS29XV1dSS3JIQVp4WXpBNm5OR2lYMVpScnU3UEw4UFA0OV9yUHB4b0RaSVNZalZzMUF5LWpyY3FDZkhIY3RqRzE4UQ?oc=5",
       "published": "Fri, 20 Nov 2026 21:37:00 GMT",
-      "summary": "Flying for Thanksgiving? See your airport's risk of flight delays&nbsp;&nbsp;KCCI",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "US will soon announce root cause behind FAA nationwide ground stop - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS1lDWmpyendldk0xZVAtZlFfeWlDLUpqN1pyZHVDMkhSZzdTNTBkOHBZcGZzVGhDTXY1VmpXeTRSaldQRlhFVGlWREU0WmUwV2VFTlpRbjFnWV9nTk9SZHJoelVNeXBBWThIWmI2VmkteTJWOUxzcmk3VVE0blJqc2QxOFdMWFVrZWoyS1BRdHFNMjNJWVJaRDNkUkQtQURXR2hteUF4NUJVMnl3ellFTlEtVmZyTjRxMXVHZjV3?oc=5",
-      "published": "Fri, 20 Nov 2026 14:52:51 GMT",
-      "summary": "US will soon announce root cause behind FAA nationwide ground stop&nbsp;&nbsp;Ars Technica",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Holiday travelers on alert after series of technology outages - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2xIb2p0RUY5THExRGF6cmxJdng2eUp3dkR5TnprX2F5c3hMY2NRenRnQnBQTm5YTFNyN0dxTmRDMExPS05zWUM5dVZ5QTZPSFlwdzJ0emhpcV84OVRPdXlXT0lhbUpPSkhfbXhZQlEtcVhMY1BsMlBrdklOSldvUGNxdFoza0Zv0gGOAUFVX3lxTE1KTUhoOU9RNTU3NXFxTC1iNFZzLWQwQ3pnNjc0RzVqWm1hQV9ycURuREdjYUw3TFFQN2dXcjN6M0FiaGZqOTAxUVdlSzY5Y29hU3NFYkRqVURhUV9GN0M1ZVFKZC1iMlVjcm01YWowVl9fUjNmLXJQZXV5NlVpTTN0WEhGSmtXTmszVks2SVE?oc=5",
-      "published": "Thu, 19 Nov 2026 23:53:50 GMT",
-      "summary": "Holiday travelers on alert after series of technology outages&nbsp;&nbsp;6abc Philadelphia",
+      "summary": "Flying for Thanksgiving? See your airport's risk of flight delays&nbsp;&nbsp;WTAE",
       "source": "Google News Travel"
     },
     {
@@ -105,10 +105,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "American Airlines Flight 3230 Catches Fire As Pilot Issues \u2018Mayday\u2019 En Route To Portland - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnBqNktTM1JCdmFYckljeDhvaWpRVklaQmFYeGNOUXg5NjNDZlB1RFNxSGhFSm1mU1NYTWR0TUR5UG83NGx4eW9Rc0NOS3RQVWQ2NlJOSFhjN0NRMG56TFlTcEtPOTI2R1F3czk0MzZwY3FEVkNzS0ZzbktTQ0xoRFlmbDNOY3ZhWjlqZ3djSVhmV0tLT1dVZW9yYXY4dUtTQ2RTemJfb0FVSnF4bkR5UG9NRQ?oc=5",
-      "published": "Fri, 20 Nov 2026 03:26:00 GMT",
-      "summary": "American Airlines Flight 3230 Catches Fire As Pilot Issues \u2018Mayday\u2019 En Route To Portland&nbsp;&nbsp;TheTravel",
+      "title": "Holiday travelers on alert after series of technology outages - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2xIb2p0RUY5THExRGF6cmxJdng2eUp3dkR5TnprX2F5c3hMY2NRenRnQnBQTm5YTFNyN0dxTmRDMExPS05zWUM5dVZ5QTZPSFlwdzJ0emhpcV84OVRPdXlXT0lhbUpPSkhfbXhZQlEtcVhMY1BsMlBrdklOSldvUGNxdFoza0Zv0gGOAUFVX3lxTE1KTUhoOU9RNTU3NXFxTC1iNFZzLWQwQ3pnNjc0RzVqWm1hQV9ycURuREdjYUw3TFFQN2dXcjN6M0FiaGZqOTAxUVdlSzY5Y29hU3NFYkRqVURhUV9GN0M1ZVFKZC1iMlVjcm01YWowVl9fUjNmLXJQZXV5NlVpTTN0WEhGSmtXTmszVks2SVE?oc=5",
+      "published": "Thu, 19 Nov 2026 23:53:50 GMT",
+      "summary": "Holiday travelers on alert after series of technology outages&nbsp;&nbsp;6abc Philadelphia",
       "source": "Google News Travel"
     },
     {
