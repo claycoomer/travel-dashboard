@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-22T21:23:29.365200+00:00",
+  "last_updated": "2026-11-23T04:35:34.924073+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Italy\u2019s WeRoad Lets Korean Superapp NOL Own Its Customers: Exclusive",
+      "link": "https://skift.com/2026/11/22/italys-weroad-lets-korean-superapp-nol-own-its-customers-exclusive/",
+      "published": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "summary": "WeRoad is entering South Korea without selling a single trip directly, letting NOL own the customer. If it works, it could become the template for how Western tour operators get into Asia.",
+      "source": "Skift"
+    },
     {
       "title": "Accor\u2019s Largest Shareholder Moves to Oust CEO After Ennismore Buyout",
       "link": "https://skift.com/2026/11/20/accors-largest-shareholder-moves-to-oust-ceo-after-ennismore-buyout/",
@@ -56,17 +63,10 @@
       "source": "Skift"
     },
     {
-      "title": "Sabre Wants to Be the Transaction Engine Behind AI Travel Bookings",
-      "link": "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/",
-      "published": "Thu, 19 Nov 2026 22:25:28 +0000",
-      "summary": "AI platforms could become a new front door for travel bookings. Sabre wants to handle the transactions behind them, even if someone else controls the customer relationship.",
-      "source": "Skift"
-    },
-    {
-      "title": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights - The New York Times",
+      "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
-      "published": "Sun, 22 Nov 2026 16:09:17 GMT",
-      "summary": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights&nbsp;&nbsp;The New York TimesGround Stop at World\u2019s Busiest Airport Delays Delta Flights Across US&nbsp;&nbsp;NewsweekDelta Tech Outage Triggers Delays and Halts at Atlanta Hub&nbsp;&nbsp;Bloomberg.comDelta f",
+      "published": "Sun, 22 Nov 2026 21:14:10 GMT",
+      "summary": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters&nbsp;&nbsp;The New York TimesDelta restores system after nationwide flight delays as Thanksgiving travel begins&nbsp;&nbsp;YahooGround Stop at World\u2019s Busiest Airport Delays Delta Flights Across US",
       "source": "Google News Travel"
     },
     {
@@ -84,6 +84,27 @@
       "source": "Google News Travel"
     },
     {
+      "title": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmlpamoxSXV1ZFJlUUJNNFVTazVTQkQ1WmFmTENqUGE0LUxSMm5HZkEwOWJzWG1DWXFxaWhoaFJvMWYwQk5KX0NLUzh3VlBNU3dOQkZQeW5RZWVwNlhyYTlyRDBGZ3RhZUpVM3pDMW5aYnhwNExDeEs4WWRPUGlDVF9mSlF6Q19mOEltS1d4V2x4djI1b0ZV?oc=5",
+      "published": "Sun, 15 Nov 2026 15:03:00 GMT",
+      "summary": "FAA Ground Stop: Latest Airline Advice As More Than 1,000 Flights Canceled&nbsp;&nbsp;Newsweek",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Severe Flight Warning Hits Major Middle East Transit Hubs - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREpjb3VkQmowNkpia00taVhNNGFyaG43M1MzMjlVdW51LW5tYVJiYVpkcDRnMENWRjJaNWx3dEQ1bVBsSU16VklESFFIY2hvWEEwWWhtM0tyb0FPa2FEV2FSdldwcFhDWnZRZjJfWXlsUEFHeGotOUhFTWd3WVR0TjlQaXkxSlc0U2ptb2NBYw?oc=5",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "summary": "Severe Flight Warning Hits Major Middle East Transit Hubs&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "FAA says it has lifted nationwide ground stop that snarled airports: Live updates - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWhZYUtOTmlFM1RhRmo0Z05tUXJuNjBzUXNhTFRDOWs1TlFoOG1LZ0FfeVg0LVJVN1psZHpIZy1mZnRBSGpYY1J2RlVUQW5fZGNzQ3dDcGhoZWI0T20zVlU2LWJZeHhzZV9GUXdUanpPRndFRFBNQkk1TXB3SFpINTZrWDVvWjRNUHdpbHVJdHVfSjZvSUczamdmRFpHQWpiR0RSOWl4UlN2QThUODBaVWV6Nm0tNDZYUFlfdUdsOWxCR2otOGxB?oc=5",
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "summary": "FAA says it has lifted nationwide ground stop that snarled airports: Live updates&nbsp;&nbsp;USA Today",
+      "source": "Google News Travel"
+    },
+    {
       "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 2, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUhwRVFDOXUydTY0MnJDbm5sNUVnZXoydG9leGVsT3hWZ243eXBuUms3MXZhcmtpcmx6ZFFTNDhqNlpxeUZjSWdORHBTQ25GUUkxUUhoUXlhdmk3cjR4MkN4dHgtMlN6Y2hFaVQyMm9KUnY3c3FQekpmaTVHNFFnZ1doQ0l2bEV4SHVEdg?oc=5",
       "published": "Mon, 02 Nov 2026 08:00:00 GMT",
@@ -91,31 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "UAE flights status update: Saudi cancellations extend as regional tensions rise on November 20 - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUl0RDBLX2FKVVZFeFhaUTFoRnhoYkRSdGQ0SHpmQzRidzVVOF9xcVNMMkVPNG16STM5SzNlRkQ5QmNSeDFoYWtrRVVhTnJpNUlQandwU1VwS0xmUmJlOUY0SDBFT1FtcFNqQVJ4YW1vbzhYLVVNbDZES2VOcldBWl8zaGpwQ0cyQXJ6dzFGNnJzN2MzaERnXzN3WXRuY2lmeWNuNkgyQ1kxMjZlX1U2YnJCWHFxdUJMY01ra3RxMzNzV2VjeWlTcnkxTzFuaHBwRm9zM1NJSW5GR05V0gHvAUFVX3lxTE1ubEZ4WUU0V0xLaE1BZG1IdF94TDNhZS1tX01uUkhCQ2ZoLUFia1R4T0xFMHU0b2g1QkVUc0hQdHVrMzF0eV9uZEFWaWlFYkRHcl9GOUxiU3BoNFl2MFE0Z0pWZnZLRUhTNjh5QkItU0dkVVo2Q19Hdmg5ZW9MTGdnSXJ6RVBPYVY1a3RjWjVZMXJHcTlsaEw2SG5DeUZNWnkyQVZpSFU4ZUQ0eUxOdVBqMW5kUnNKXzBjd2kxRjlmRDliaVVNUThjcEk2a0cyeWVaVExfdHF4a0kxeExPYVBKVmg1dnJDUmFjRE9yR1lV?oc=5",
-      "published": "Sat, 21 Nov 2026 08:37:17 GMT",
-      "summary": "UAE flights status update: Saudi cancellations extend as regional tensions rise on November 20&nbsp;&nbsp;Gulf News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Dubai and Middle East flight disruption: airlines extend route suspensions as Saudi Arabia faces fresh attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9TR3lsV1J1TDZ3ZlFlUDNFZ05PdlQwbll5VS13ZGpoWEtSQ240RGdwdVpwM2w2cmlfVi1jNkJVdGp6VzlCS1c3UGc1Y3dIS0xWdzBXc0V0N0d3RDRUOTExSTc0dmxBR3ZFMWdmQndNamdfbUVXOWw4RTZfWUdnNGxjZU43RklPb0I1WmJwcHFoVnZBRmhOYk1sWUo4TkRkN1dwRFViczFYb0tYSDRENmpxTTVpdE0wZGlycEtZOTNUbVhHYmhnOUpOWGswaW1IVUFsV0pIWHh3Zy1ESUE?oc=5",
-      "published": "Fri, 20 Nov 2026 07:24:57 GMT",
-      "summary": "Dubai and Middle East flight disruption: airlines extend route suspensions as Saudi Arabia faces fresh attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. government issues 'reconsider travel' advisory for entire region - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhLV0s1NEU1Q0hfLXk3N1psOGl3d3ZOZ1lFRmxuYUg1UXFFNWNhaXhlYTc1TWVwc3o4cGUzaERaSlBvZkZiXzVuY3B3M2Z2RUk3NHdqdktNV1VEYTIwUXlQaGE1ajVpeV93c3pRWkZPdkVPb1Q4UzU3MUp4WTh5QWRMb1U4VTFRaVlfRmh3S0NxNE9TTUNUQ2dHemYxbkE4b004OQ?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. government issues 'reconsider travel' advisory for entire region&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions - Travel + Leisure",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3VEcmNJX0U2X3Z3NTNQU2g4czNncWdCdlhUMXBGYTVjMXZTVkZKandUS19MNTNZS2Mybk9GT0dBXzFJZXFlaWdsb1NDWWxMZE5UbGZralJkdDI0eG84X294Q3pQX3ZiSFMxZVlzOHRJaDhObS1KMWFXSl91Skp1bHdObkdhc1BYbFZJd0hBZTU5UmlCUmpFdy13?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. Embassies Issue Security Alerts for 10 Countries\u2014What Travelers Need to Know About Possible Flight Disruptions&nbsp;&nbsp;Travel + Leisure",
+      "title": "Europe Travel Warning 2026: US Embassy Holiday Alert - TravelPirates",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUpZYWlNWlAtZG1RNWhIQTI5VWVVeVl4YVBKdlNOaGlGOFBMU1hPcGtyclp3Rl9IM0wyVXNJck0zczF5ZWhRYWhqQjVmZ0h5UFNya2Q2ZVAtOVlhSUNvb1RxTFJOQlpnaERLWnZyMGlUMEVTNmhwR0EtanExU25kSXpRejVSRHhyQ3c0R2dLWC16UUE?oc=5",
+      "published": "Wed, 18 Nov 2026 20:58:00 GMT",
+      "summary": "Europe Travel Warning 2026: US Embassy Holiday Alert&nbsp;&nbsp;TravelPirates",
       "source": "Google News Travel"
     }
   ]
