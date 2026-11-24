@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T19:37:18.662481+00:00",
+  "last_updated": "2026-11-24T04:29:38.404519+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
@@ -7,10 +7,17 @@
   ],
   "items": [
     {
+      "title": "The Pressures on Expedia B2B",
+      "link": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
+      "published": "Mon, 23 Nov 2026 21:50:53 +0000",
+      "summary": "Expedia&apos;s partner business has carried the company&apos;s growth for years. A slowdown caused by a tough comparison to last year&apos;s fourth quarter would be a blip. One driven by deteriorating economics and potentially a stronger rival in Booking Holdings would be a much ",
+      "source": "Skift"
+    },
+    {
       "title": "New Webinar: Who Remembers the Traveler? Building a Connected Customer Journey in the Age of AI",
       "link": "https://skift.com/2026/11/23/new-webinar-who-remembers-the-traveler-building-a-connected-customer-journey-in-the-age-of-ai/",
       "published": "Mon, 23 Nov 2026 14:38:14 +0000",
-      "summary": "This sponsored content was created in collaboration with a Skift partner.Travelers now pass through roughly 65 touchpoints before booking a trip, up from 45 in 2018, according to Skift Research and McKinsey. Travel brands own only a handful of them. Even within those, sales, book",
+      "summary": "This sponsored content was created in collaboration with a Skift partner. Travelers now pass through roughly 65 touchpoints before booking a trip, up from 45 in 2018, according to Skift Research and McKinsey. Travel brands own only a handful of them. Even within those, sales, boo",
       "source": "Skift"
     },
     {
@@ -56,66 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Italy\u2019s WeRoad Lets Korean Superapp NOL Own Its Customers: Exclusive",
-      "link": "https://skift.com/2026/11/22/italys-weroad-lets-korean-superapp-nol-own-its-customers-exclusive/",
-      "published": "Mon, 23 Nov 2026 00:00:00 +0000",
-      "summary": "WeRoad is entering South Korea without selling a single trip directly, letting NOL own the customer. NOL handles bookings, payments and customer service, while WeRoad runs the trips. If it works, it could become the template for how Western tour operators get into Asia.",
-      "source": "Skift"
+      "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFFDN0VnYTFzcXhya09Nbnl6QnVaZ2NIa1pYS1lDLW44bG5SZmM1eW4yeS03M3VaMk9kenFWRjlFejFwNW9yY3RJU0tOX01jeGhGTW1JSURvZXlZWGtSV1ZDdGJZVU84R2JSYjh2aHRreWlkZlc1YkxJZF9TdVdnMWhHaXphR1pUWHNjOHhCdHI?oc=5",
+      "published": "Mon, 23 Nov 2026 00:47:00 GMT",
+      "summary": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving&nbsp;&nbsp;AP News",
+      "source": "Google News Travel"
     },
     {
-      "title": "Staffing issue prompts ground stop at O\u2019Hare Airport - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3BZUGY5TVdFUEpmVTlZRFp4b0V6aGZielgxSkgyVklHNjRHaFVrTDJ4UlNZdUJQWmRvNHVtZ3ZIX2Y4VXFPbVZTeldZaWFpbkt3NElkVnNyb3JZUFVYalhicW52dlRSZ1E3THNXb3JJWnZKMUd2Si13OVhGTXlqS1FJYkxBWnVsV3U2blZ3MDFIUdIBlwFBVV95cUxPbHkyXzRaNGJ5VXUxb1J5LVlQek5JeXZRRzJsemx2OXc1NTY4T3dzbTBKOF82dEU4dU5RVEZGWmpvam9BU0t5d1dwazBGVWgxc3Q4MGF3Y2wxZFdEdERlZmI1ZlNBSy15akFxX0dieGhlTTJxSll5Ulg5eDNoTG5fSV9LYU5GUGlud2Z2dHlmZmVnTUdVaWRJ?oc=5",
-      "published": "Mon, 23 Nov 2026 17:45:21 GMT",
-      "summary": "Staffing issue prompts ground stop at O\u2019Hare Airport&nbsp;&nbsp;WGN-TV",
+      "title": "Delta Air Lines says system issue that delayed flights nationwide has been resolved - CNN",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia1lORnFBYlkxMVNaMGx4TW5CLTFGM3pjMHJhWlpIUWk3Q2NGRmpmMVNTTU1tcmxRTWVtUjE4VXVudGJIM0dOUC1VTm9PY2NrTkNIMDFMMDFCX1U2cHg2cTUtSHo4aDU3OXlVV21R?oc=5",
+      "published": "Sun, 22 Nov 2026 15:56:12 GMT",
+      "summary": "Delta Air Lines says system issue that delayed flights nationwide has been resolved&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
       "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
       "published": "Sun, 22 Nov 2026 16:09:17 GMT",
-      "summary": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters&nbsp;&nbsp;The New York TimesDelta Air Lines says system issue that delayed flights nationwide has been resolved&nbsp;&nbsp;CNNDelta restores system after nationwide flight delays as Thanksgiving t",
+      "summary": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters&nbsp;&nbsp;The New York Times",
       "source": "Google News Travel"
     },
     {
-      "title": "Thanksgiving travel forecast: Storms on both coasts could snarl busiest travel days; San Francisco braces for potentially record king tides - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxON0cwNW9hU2dSTzMtZ3hHaEtONDdsb2JhQnpFeXE1UU5ZSGNtRE5iUUE1SktVVEQyWEhncnJ1eE1oOE1XSE83SUwyejM2cTdYOUdwalhWbEtSR1YzVmZieE9fOGEtSHV5WlZIb0swZ2hSWEhldGdvYnFYXzJCcU8wbl9SQmdPRkthcVZGT2hwX3dBRklzdV9CNXpZeFRBbEhMa1pSNkVMLUxoVFdIc3R6MVkxYXVIYy1ha0YwcF9qVEROX2R2N09zWG9tYWJYVmtIekszdzJCU1cxdHY4NGI5cThZeC0ySzYxbzJ0bl9QcnA4dEJ1S2IySFgtZEFfa2ZwYXJBU1BSdkNCcW4tZlEwZTJRcUlscGppaXRDeVZKTUtrVWR3TjE4?oc=5",
-      "published": "Mon, 23 Nov 2026 11:47:27 GMT",
-      "summary": "Thanksgiving travel forecast: Storms on both coasts could snarl busiest travel days; San Francisco braces for potentially record king tides&nbsp;&nbsp;Yahoo",
+      "title": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORk9WTmM0VHpkZ3owZ1ZtOGZLRnRwRnh0eVFPTG5UYWh3SGdfaElhdlk4emJVUllXUjNlbmxZeGZIZ1RGUlZYZm9FcTdEMVFUNkFzQzc2aHpnTXE4QVJKb0Jic3ZQLXFJVkNybVBJLU90bnNUaklPRXc2WlZ0clBxWVhCdTJBSkI1dTRycWNYUHFGOWhYektOeEVEc1Q5bW1DVzBiZGdFVnJQS3h5MGVDTDJLcmhkTy1TQnQ2ekctUQ?oc=5",
+      "published": "Sun, 22 Nov 2026 16:38:00 GMT",
+      "summary": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos&nbsp;&nbsp;New York Post",
       "source": "Google News Travel"
     },
     {
-      "title": "Holiday travel chaos looms as storms target millions along the West Coast with dangerous coastal flooding - FOX Weather",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F0VTJIek1UZ0dUYzUxVDg4N1ZoUEtwbDJGMlE0bnB4VDJiNVNhc2lfYmVCZUhld3JGWlg4MzAxZjFoR1ZmaFhJd3pPNW1aNTlmSV9ITVYxRjlnTFVfQWV5YnZBNFZOY3VUWTdlZFVFbEJPVnllakw1ZnRmc3g3UXBIR2VGSVFzRXhtN3RqTkREX052QUQtZzQ4Qm1ocGNJaFdfMG5HWXF2RGRGbTl30gG0AUFVX3lxTE9sNTVFNkFLdC01MllWbzJZZ3YzWHhXNlRqcHdvOTc4N0tORWZPbUxIVU00ei1IMEd5VkRyOWtaekVsN3JzRW5lTVdyUXBsc2xfVnFXXzMyRDVzRFNLM0tUOXB4OGFfcHU5VmVKcnpJcmltaUxBT2JLd3VRR2gxc2hwUGZUY3NNN2JNX2lKWjhFQWl2aVJHWW9icmFNMS1tX21ETWMwYTFNOUtXN2EyX1JsZU9mYQ?oc=5",
-      "published": "Sun, 22 Nov 2026 12:30:00 GMT",
-      "summary": "Holiday travel chaos looms as storms target millions along the West Coast with dangerous coastal flooding&nbsp;&nbsp;FOX Weather",
+      "title": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlROV2FlWWs3RTNlTHlwZWxWanV4NXVxM29JYmlZWXQ1Z0ZfSDlNdXg4YXN3YWdkenZhX1ExTDE1YzVaejQ4WWxTZ29OMUpiQ05VZE80NTg2TDg5djFMNUZBMU1ZMFdoMGdVMGcyNjF2YlhiQ3lnaWZ4YUhnLXp0dER3aU5nc3RUWkJnaEZpbzA5eExDTG9uaERNY3lWemtxUjlUN3dOQdIBrAFBVV95cUxPRERsbjZBQ0dJbVdraDJLc2dQbmptcU81R1NvTVlSc2Uwd1B0MERTVk5Gb1JqTXB5MHg2SUV0S2RROHpOU3F0SFF5Z0RZMkFLcElPMnRNQVl0VDlzeGU1dE1uTkQ1VlhUNjZHbWc0aVRSeENHY2ZRc2pqVUN6MG5HMTd1VElZNDJwNVQ2eFpkNHNsb3A1QkQyb3g3NndwZ0lMd3ZHYjhJTkZkNmM0?oc=5",
+      "published": "Mon, 23 Nov 2026 20:05:23 GMT",
+      "summary": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "FBI, TSA warn of potential terror threats before Thanksgiving travel rush: Report - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWN1aWZJSVQ2UUdjel9RWWJTemdjYXFBaFNrZGNjVEExT3VmU0RaWkpuYU9OdnhRR1dablBsT3RYRzg0cWQ3Ui1KcFRYbnZDenFFV0trY1NMeWFnVkxxY1R5YmIxd3NzdnZ2ZkpubUt2ZG95MWQ1cC1hM2pPY0QtWGl4NkdDeU1mVlBodWJDZlg0SXhIdEQ1NGtoSjNJc1lx0gGmAUFVX3lxTE9lVGxVVXQ2aVVsSXZhdldHZlpVMXoyd2pqT3U4TXJycmg3YjA2MEVSM3p4V0d0Y3MtaHBDZXRnLTNGWHpiN1R2WVh5TllxVEozWVFCc2Z1a1ROWlJCNFdrSjFXbEFrZk15MDlqbHcwSnBUdjRzNF9JZzBMNmNTY2RfbnBNV3ozNWN5VlVPQnBVNnFfS2pfMU5JdnhJd1VnUXU3aGtnMFE?oc=5",
-      "published": "Sun, 22 Nov 2026 05:26:32 GMT",
-      "summary": "FBI, TSA warn of potential terror threats before Thanksgiving travel rush: Report&nbsp;&nbsp;NewsNation",
+      "title": "These U.S. Airlines Are Most Likely to Bump You From a Flight\u2014and One Carrier Denied Boarding to Nearly 2,500 Travelers - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0tfUjI2dmlnTWItU0lwS1FSdlROR3BDelV5cnhPTHJDOGhfWHJpYUk0THhBUzBWUkpMekFFZUpGQzZYQjNrNDROckZSSmZFM0dkLVVaUlRCTDVoSVMzX2xfMnN5WWRad1JEQWpiZW5XYjRocF9BcWVCLUpVOEtGOWtoMC15cDlubnd1d2NiMTVZNUtW?oc=5",
+      "published": "Mon, 23 Nov 2026 15:16:00 GMT",
+      "summary": "These U.S. Airlines Are Most Likely to Bump You From a Flight\u2014and One Carrier Denied Boarding to Nearly 2,500 Travelers&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
-      "title": "Flight disruptions and travel advisories at RDU airport - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbV9DX1pqWWlYT3BDSktlWUZJWk9BSXdiZ3hSSUNmOGpRcEdfRFlMZ21LS0lyaXRSVVpaNG9iQm01cVZ6NE90cWpWYU1Wdi1Gakhqa1NSbktVTGFkZWE1d0Q3R2lLRGRvbkdjUEIzb2NUS0J2b3Y3R0ZrUS1uMVFOUU95eGNuV0RPOHlmdy1WdGxNZW5ROGlTSzNyanI0Zw?oc=5",
-      "published": "Mon, 23 Nov 2026 18:20:27 GMT",
-      "summary": "Flight disruptions and travel advisories at RDU airport&nbsp;&nbsp;WRAL",
+      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
+      "published": "Sun, 22 Nov 2026 21:49:00 GMT",
+      "summary": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays&nbsp;&nbsp;WSJ",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta says system restored after tech issue causes flight delays at Atlanta airport - Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTFhYeDFhNTE3T0x2R2d2c3dNM2Y3MktIWTc4LVFKd0dwcGIzbXhJbEUtQTdNZUk4LWpJZzZZQ1MwaDBGQTdnTTdhak1qeEdfeTB2SEFaRG5jWTByTzV5anowWVpMTlU0WHhYamtPd3EtTjg3bEplVDBIZmY1bkV0ZVhXWXV1aG5oRHFPMmRvZmRpN2xKNmoyUDN30gGuAUFVX3lxTE01Rkt1eFNDeDNIRzc5ZTFha1NEU1pOYnZ3RDJmVXFSVFFwZThzeU54blQ4SW5wMzk2ZkJIUExTbzFNOUttVXltbC1GZ3hodUJ0dm1lS1dlaC1aZDNCZFRiZVpIdk12VG84YWtHM09YYWZyM0JfakRHdlZiM3FDVDRTNDI5NE1mdDZOY2NNanFIVXc0aFQzT09XV2VUYzJncWpQT2VYd0lsWlVJVGRpQQ?oc=5",
-      "published": "Sun, 22 Nov 2026 13:16:00 GMT",
-      "summary": "Delta says system restored after tech issue causes flight delays at Atlanta airport&nbsp;&nbsp;Atlanta News First",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Thousands of bags were stuck at airports as passengers now urged to track luggage, pack lighter - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlFpdzFxOTJwZ1RxMmpLdU1xVzJsbEVjRUZMOERNa0xzT1pFa3JOVmtQcnFBWlJDam5zUUNiN1hOMXU4UW91VzZocGZGT3FXQmtpanVNNGd4X3llVTlRM01OeWxUOFZMR0VPb25PYXh2cEV2RHNxRU12ZzEwY0FhUTM0WmQ3N1FuUUhrZkV0WjNiX2h3Q2JiS28yZDYtU2lYS09jWjVHVXJ4cjJEZ2hMdk5Ba9IBuAFBVV95cUxQMHgwdWdQSHNDUy1wYTZvaDU0SWdMQUU3V0lHX0k5aTNSZW0zeWk1aVk3V1BLYWZhSnhDS3dLQ3lGYXFzVWZ1Y1JKVmYtREh4T1YtZWI0VWJ1cUhaTnIzZkFZTlB3YklFd3hCQ0RpQkpYQkh3MXFPbWtnMmdteThoeWRLZ2NOcE4ta1FrREIyZXIySWkyM011eUdTcDdCNXY5UjQyRURULXNDX3FRa2FvaXFXTXNKOUdn?oc=5",
-      "published": "Sat, 21 Nov 2026 18:26:10 GMT",
-      "summary": "Thousands of bags were stuck at airports as passengers now urged to track luggage, pack lighter&nbsp;&nbsp;Fox News",
+      "title": "Airlines Are Having Technical Problems. Here\u2019s How to Protect Your Holiday Travel Plans - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2hRem13Zktselo4S3g3ekx2aVV3UEVucVg0dmpudWFzeUtpWmtCSjJXWEFZNXh1QkF6NnVPZ0VoaE1QTzJPdE1VSWd2a2tzVEFWT2hUaGdBbHR2UnE4MC1vVFlGaDNIbEhjanpyYW1TZk5qQUlfcmx5TnVuZTZBWXpqbE0wNnA5Y3dlS295OFhyZ0d1SXNITg?oc=5",
+      "published": "Mon, 23 Nov 2026 19:03:14 GMT",
+      "summary": "Airlines Are Having Technical Problems. Here\u2019s How to Protect Your Holiday Travel Plans&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
