@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-24T04:29:38.404519+00:00",
+  "last_updated": "2026-11-24T19:10:45.020970+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Skift Global Forum East: Five Decisions in the Room",
+      "link": "https://skift.com/2026/11/24/skift-global-forum-east-five-decisions-in-the-room/",
+      "published": "Tue, 24 Nov 2026 16:00:49 +0000",
+      "summary": "The most ambitious growth story in global tourism is being tested on every front as multiple wars fester throughout the Middle East. Every decision travel executives make today has to consider the long-term impact when these conflicts resolve.",
+      "source": "Skift"
+    },
+    {
+      "title": "Without a COP31 Deal, Destinations Have a Weaker Signal for Climate Resilience",
+      "link": "https://skift.com/2026/11/24/without-a-cop31-deal-destinations-have-a-weaker-signal-for-climate-resilience/",
+      "published": "Tue, 24 Nov 2026 15:11:53 +0000",
+      "summary": "A failed decision at COP31 doesn\u2019t stop tourism being able to take action on the ground. Without a guiding goal, destinations risk losing a long-term investment signal and political backstop for climate resilience and adaptation.",
+      "source": "Skift"
+    },
+    {
+      "title": "Hyatt Is \u2018Sharpening\u2019 Its Brands So AI Can Tell Them Apart",
+      "link": "https://skift.com/2026/11/24/hyatt-is-sharpening-its-brands-so-ai-can-tell-them-apart/",
+      "published": "Tue, 24 Nov 2026 12:30:00 +0000",
+      "summary": "Hyatt is drawing sharper distinctions among brands such as Andaz and Thompson. Getting hotels to deliver on those promises is the harder task.",
+      "source": "Skift"
+    },
+    {
+      "title": "Why Big Investors Are Buying Europe\u2019s Holiday Parks",
+      "link": "https://skift.com/2026/11/24/why-big-investors-are-buying-europes-holiday-parks/",
+      "published": "Tue, 24 Nov 2026 12:00:00 +0000",
+      "summary": "The world&apos;s biggest investors are discovering Europe&apos;s holiday parks, where valuable properties don&apos;t always mean profitable businesses.",
+      "source": "Skift"
+    },
+    {
+      "title": "AirAsia\u2019s Q3 Shows Why Fernandes Pushed the Comeback to 2028",
+      "link": "https://skift.com/2026/11/24/airasias-q3-shows-why-fernandes-pushed-the-comeback-to-2028/",
+      "published": "Tue, 24 Nov 2026 11:12:46 +0000",
+      "summary": "AirAsia has shown it can charge more. It hasn&apos;t shown it can make money at its new, smaller size. Until the $1 billion debt financing lands, the balance sheet, not demand, decides when the comeback starts.",
+      "source": "Skift"
+    },
+    {
+      "title": "Iran War Strains Gulf Hotel Contracts, but Owners Aren\u2019t Walking Away Yet",
+      "link": "https://skift.com/2026/11/24/iran-war-strains-gulf-hotel-contracts-but-owners-arent-walking-away-yet/",
+      "published": "Tue, 24 Nov 2026 09:07:00 +0000",
+      "summary": "Six months of weak trading has exposed how lopsided Gulf hotel management agreements are, with owners carrying the losses while operators keep collecting fees. For now, both sides would rather renegotiate than fight, but that patience depends on a recovery that hasn&apos;t come y",
+      "source": "Skift"
+    },
     {
       "title": "The Pressures on Expedia B2B",
       "link": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
@@ -21,101 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "What Pursuit\u2019s $485 Million Business Says About the Economics of Attractions",
-      "link": "https://skift.com/2026/11/23/what-pursuits-485-million-business-says-about-the-economics-of-attractions/",
-      "published": "Mon, 23 Nov 2026 13:30:00 +0000",
-      "summary": "Pursuit is earning more from each visitor, but the real test is how much cash is left after reinvesting in its attractions and lodges.",
-      "source": "Skift"
-    },
-    {
-      "title": "Belgian Travel Industry Fury at \u201811th Strike in 11 Months\u2019",
-      "link": "https://skift.com/2026/11/23/belgian-travel-industry-fury-at-11th-strike-in-11-months/",
-      "published": "Mon, 23 Nov 2026 13:01:39 +0000",
-      "summary": "How many strikes are too many? With almost all of the country&apos;s flights grounded on Monday, many of Belgium\u2019s travel leaders have had enough.",
-      "source": "Skift"
-    },
-    {
-      "title": "Cruise\u2019s Hidden Middleman: What Filings Reveal About Private Equity Ownership and Profits",
-      "link": "https://skift.com/2026/11/23/world-travel-holdings-private-equity-investment/",
-      "published": "Mon, 23 Nov 2026 12:30:00 +0000",
-      "summary": "Citation\u2019s majority stake in cruise seller World Travel Holdings is a bet that operators will keep needing middlemen.",
-      "source": "Skift"
-    },
-    {
-      "title": "Fuel Pushes Thai Airways Into Q3 Loss as It Awaits New CEO",
-      "link": "https://skift.com/2026/11/23/fuel-pushes-thai-airways-into-q3-loss-as-it-awaits-new-ceo/",
-      "published": "Mon, 23 Nov 2026 11:45:35 +0000",
-      "summary": "Thai Airways&apos; demand held up in the third quarter; its costs didn&apos;t. With fuel still high, a CEO still to be named and the fourth quarter likely to look similar, 2027 will be about protecting margins rather than pushing growth.",
-      "source": "Skift"
-    },
-    {
-      "title": "Radisson\u2019s First Paid Membership Targets Diners, Not Guests: Exclusive",
-      "link": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/",
-      "published": "Mon, 23 Nov 2026 10:02:05 +0000",
-      "summary": "Radisson is joining the paid membership trend, but with a twist as it courts local diners, not frequent travelers. The discounts are generous, so the economics have to work hotel by hotel.",
-      "source": "Skift"
-    },
-    {
-      "title": "Mr & Mrs Smith Booked More Under Hyatt but Earned Less on Each Stay",
-      "link": "https://skift.com/2026/11/23/mr-mrs-smith-booked-more-under-hyatt-but-earned-less-on-each-stay/",
-      "published": "Mon, 23 Nov 2026 08:44:47 +0000",
-      "summary": "Hyatt bought Mr &amp; Mrs Smith to bring boutique hotels into its loyalty program, and that\u2019s working: World of Hyatt members now make most of its bookings. But those bookings bring in less money each, the UK business posted a loss in 2025, and Hyatt has taken a goodwill charge i",
-      "source": "Skift"
-    },
-    {
-      "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFFDN0VnYTFzcXhya09Nbnl6QnVaZ2NIa1pYS1lDLW44bG5SZmM1eW4yeS03M3VaMk9kenFWRjlFejFwNW9yY3RJU0tOX01jeGhGTW1JSURvZXlZWGtSV1ZDdGJZVU84R2JSYjh2aHRreWlkZlc1YkxJZF9TdVdnMWhHaXphR1pUWHNjOHhCdHI?oc=5",
-      "published": "Mon, 23 Nov 2026 00:47:00 GMT",
-      "summary": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving&nbsp;&nbsp;AP News",
+      "title": "Thanksgiving travel live updates: Flight delays, weather and traffic as millions head out - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16eTBQRV9JQVpPOUI2ZWJScmpvTGczdU1aQmdSTmZZRENGdlNDUlM3NTB6Rms5aXBmWTBWU0JJMktKeHNoc09QSndGZjNSc0xaWFRWVjlYZFZ6dW5ERGdwUlFZeno1MTQ1aEFkWXI4eno?oc=5",
+      "published": "Tue, 24 Nov 2026 18:28:00 GMT",
+      "summary": "Thanksgiving travel live updates: Flight delays, weather and traffic as millions head out&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta Air Lines says system issue that delayed flights nationwide has been resolved - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBia1lORnFBYlkxMVNaMGx4TW5CLTFGM3pjMHJhWlpIUWk3Q2NGRmpmMVNTTU1tcmxRTWVtUjE4VXVudGJIM0dOUC1VTm9PY2NrTkNIMDFMMDFCX1U2cHg2cTUtSHo4aDU3OXlVV21R?oc=5",
-      "published": "Sun, 22 Nov 2026 15:56:12 GMT",
-      "summary": "Delta Air Lines says system issue that delayed flights nationwide has been resolved&nbsp;&nbsp;CNN",
+      "title": "Thanksgiving Travel: Where To Expect Crowded Airports, Worst Weather - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVZ5ODlLNE1nNVBQOHBiWmVjQ1NnRDRzTl9rZzJRZktlNHczdkJ4NW8tcEV2OXNuRjR0MXBaZ2ctTjFJam05aVpMRFkzMTNlbUpnSFlhcmNXWEtyVzVfM0htRWF4blQ2cHVTUnE1eXhrRU44NUIxb0VVUDI3OHgxQ3BrRDl1a01EbDhhaF93aVVXNUZPdXEtSkRMQmVFYjZKNFI1MUk2Z2tmdmdVbV9BdkJR?oc=5",
+      "published": "Tue, 24 Nov 2026 18:38:45 GMT",
+      "summary": "Thanksgiving Travel: Where To Expect Crowded Airports, Worst Weather&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters - The New York Times",
+      "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
+      "published": "Tue, 24 Nov 2026 11:38:49 GMT",
+      "summary": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding&nbsp;&nbsp;BBC",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
       "published": "Sun, 22 Nov 2026 16:09:17 GMT",
-      "summary": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters&nbsp;&nbsp;The New York Times",
+      "summary": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights&nbsp;&nbsp;The New York Times",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORk9WTmM0VHpkZ3owZ1ZtOGZLRnRwRnh0eVFPTG5UYWh3SGdfaElhdlk4emJVUllXUjNlbmxZeGZIZ1RGUlZYZm9FcTdEMVFUNkFzQzc2aHpnTXE4QVJKb0Jic3ZQLXFJVkNybVBJLU90bnNUaklPRXc2WlZ0clBxWVhCdTJBSkI1dTRycWNYUHFGOWhYektOeEVEc1Q5bW1DVzBiZGdFVnJQS3h5MGVDTDJLcmhkTy1TQnQ2ekctUQ?oc=5",
-      "published": "Sun, 22 Nov 2026 16:38:00 GMT",
-      "summary": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos&nbsp;&nbsp;New York Post",
+      "title": "U.S. Travelers Issued Nationwide Flight Disruption Warning Over New FAA Rule At All Airports From November 24 - TheTravel",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMnRSQUYySTdONmpMNElvLWdOU3RjbUwwY1M0Tk1ZRlE3ZjJzb1pyNGRUcDFKTGFPakVVN0N6blBNYVU0U042VFZVdmhycjFfRkpSeWZ2V1IxUFEwNkRrZWMydVBySklfTTlNbjlSbUw3c0NPRFFqNUxkYkFpQUl6dmJpX2pUUDMzalJpT3VxWUVfOHhJVFVXNlZnY0s1X251VmlLSXpHQW8yaWwySU9rZUx5ZDFHQVRuYkEwRTZlSk9Gc0h4eENZT3I4aDQySWs?oc=5",
+      "published": "Tue, 24 Nov 2026 10:09:20 GMT",
+      "summary": "U.S. Travelers Issued Nationwide Flight Disruption Warning Over New FAA Rule At All Airports From November 24&nbsp;&nbsp;TheTravel",
       "source": "Google News Travel"
     },
     {
-      "title": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlROV2FlWWs3RTNlTHlwZWxWanV4NXVxM29JYmlZWXQ1Z0ZfSDlNdXg4YXN3YWdkenZhX1ExTDE1YzVaejQ4WWxTZ29OMUpiQ05VZE80NTg2TDg5djFMNUZBMU1ZMFdoMGdVMGcyNjF2YlhiQ3lnaWZ4YUhnLXp0dER3aU5nc3RUWkJnaEZpbzA5eExDTG9uaERNY3lWemtxUjlUN3dOQdIBrAFBVV95cUxPRERsbjZBQ0dJbVdraDJLc2dQbmptcU81R1NvTVlSc2Uwd1B0MERTVk5Gb1JqTXB5MHg2SUV0S2RROHpOU3F0SFF5Z0RZMkFLcElPMnRNQVl0VDlzeGU1dE1uTkQ1VlhUNjZHbWc0aVRSeENHY2ZRc2pqVUN6MG5HMTd1VElZNDJwNVQ2eFpkNHNsb3A1QkQyb3g3NndwZ0lMd3ZHYjhJTkZkNmM0?oc=5",
-      "published": "Mon, 23 Nov 2026 20:05:23 GMT",
-      "summary": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident&nbsp;&nbsp;Fox News",
+      "title": "Holiday travel expected to surge following FAA system outage - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaHhnQUE5OHhtSGFpWjRreFBuSVJEZDlLV1pLdDZlVi1fQ0lvdXNEaXdqOXU1dTZuQjFJQ0hTU2ZIMjBsdVpRZzR4VnVIejVjcFpDUlNB?oc=5",
+      "published": "Sun, 22 Nov 2026 12:55:58 GMT",
+      "summary": "Holiday travel expected to surge following FAA system outage&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "These U.S. Airlines Are Most Likely to Bump You From a Flight\u2014and One Carrier Denied Boarding to Nearly 2,500 Travelers - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0tfUjI2dmlnTWItU0lwS1FSdlROR3BDelV5cnhPTHJDOGhfWHJpYUk0THhBUzBWUkpMekFFZUpGQzZYQjNrNDROckZSSmZFM0dkLVVaUlRCTDVoSVMzX2xfMnN5WWRad1JEQWpiZW5XYjRocF9BcWVCLUpVOEtGOWtoMC15cDlubnd1d2NiMTVZNUtW?oc=5",
-      "published": "Mon, 23 Nov 2026 15:16:00 GMT",
-      "summary": "These U.S. Airlines Are Most Likely to Bump You From a Flight\u2014and One Carrier Denied Boarding to Nearly 2,500 Travelers&nbsp;&nbsp;Yahoo",
+      "title": "FAA forecasts busiest Thanksgiving air travel in 16 years - WCYB",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNS0VvM3VEX0s1UFdoSXBhcXc0WldqVjJrM3FDYmZlU0d4Z2o1SDF5SndsazBDRGxzMmZLbm1HVHdpMkNOZWFUb3l6bFppTDl3cm5LTnFONXVmSU0tM3E1UEVEMV9MZHdkMnk5eGJTX3MyVE10UUhKUk5OT2prbkhIbXVxOGJlbXk4bTBvamdQU1BOY2taTUNDSkRXNXRWTUZseFN3Mm9WdG5pbkJ4TXZsd2ttQmdTYWJPZkNBLUFWRFA3QWNUZ2lvZ0lUZ2xULUU5YlF6M0VMVzdHYzZobGlxdXZWamVTOWp4R3VnX0FLYWIzRGFlSS1KSjluLU9LWTNBTy1TUUZTaEY3OWEwb29teXh1U2hUZTFCLXdXLW5XSDZXMGhwMUh4RlkwVENwMnNXTzFxX0pGRmZhTnJxR2Y5MzVQdnJTOUI2bFd1bWQ1dEx3SjdlRDFmaUEzRWR3SVJrV0tnTWtn?oc=5",
+      "published": "Tue, 24 Nov 2026 16:44:13 GMT",
+      "summary": "FAA forecasts busiest Thanksgiving air travel in 16 years&nbsp;&nbsp;WCYB",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
-      "published": "Sun, 22 Nov 2026 21:49:00 GMT",
-      "summary": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays&nbsp;&nbsp;WSJ",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Airlines Are Having Technical Problems. Here\u2019s How to Protect Your Holiday Travel Plans - Fodors Travel Guide",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2hRem13Zktselo4S3g3ekx2aVV3UEVucVg0dmpudWFzeUtpWmtCSjJXWEFZNXh1QkF6NnVPZ0VoaE1QTzJPdE1VSWd2a2tzVEFWT2hUaGdBbHR2UnE4MC1vVFlGaDNIbEhjanpyYW1TZk5qQUlfcmx5TnVuZTZBWXpqbE0wNnA5Y3dlS295OFhyZ0d1SXNITg?oc=5",
-      "published": "Mon, 23 Nov 2026 19:03:14 GMT",
-      "summary": "Airlines Are Having Technical Problems. Here\u2019s How to Protect Your Holiday Travel Plans&nbsp;&nbsp;Fodors Travel Guide",
+      "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JUTmdteldnZkMwR3RLRk84NmM4ZDVYRTV2dWRrYkM4T1NOcUhmMEY4YVFHeWVfTjJJeUl2NFZjX1NYZmJpcm92enhyc0NqZWxfSjZDYUhQVVBoVnQzOGdjdnpEVTBURm8wUlNIZGlTYzZ4aDRGTDVodkR0Sm9lMEdNWnY5RTJCZTBXT2VmTk9Ca0tPaGNXc3M2dnRsOTjSAaQBQVVfeXFMUHYydW5jN1R5UmV4emFlaXg2b3dLTnYtVW4xdG1BR3U4NTFYazVId0Fuc2pVUXpqY1RqZWVfNHAyajhzTjJ2MlJOZ1c2bDZ3ZnlPWTlvWGZjb0l1ajZqN2JkX3NGek1LOGZ0RW4zczlDOHRjeXVZUWQ1U0pERkJVU0dfLVc3YVFKbTlCMEpSSFNkaGdKaUJZLUlZNThZN1Fha2QtWlE?oc=5",
+      "published": "Tue, 24 Nov 2026 17:18:19 GMT",
+      "summary": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     }
   ]
