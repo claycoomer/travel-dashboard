@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-11-24T19:10:45.020970+00:00",
+  "last_updated": "2026-11-25T03:13:49.660000+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "American Drops Lawsuit Over Gates at Chicago O\u2019Hare but It\u2019s Still Locked in a Battle With United",
+      "link": "https://skift.com/2026/11/24/american-drops-lawsuit-over-gates-at-chicago-o-hare/",
+      "published": "Tue, 24 Nov 2026 23:18:37 +0000",
+      "summary": "American has spent much of the year building back its Chicago presence, even earning another gate at O\u2019Hare just from increasing capacity at the airport, which has been the backdrop of an intense turf war with United.",
+      "source": "Skift"
+    },
+    {
+      "title": "Google Folds Hotel Ads Into Search, Upending How Properties Bid and Measure",
+      "link": "https://skift.com/2026/11/24/google-folds-hotel-ads-into-search-upending-how-properties-bid-and-measure/",
+      "published": "Tue, 24 Nov 2026 21:53:25 +0000",
+      "summary": "Goodbye to metasearch having its own ad budget and scorecard. Google lets hotels place ads in its price-comparison results, but is changing how they place those ads. Will the new process make ad buys harder to scrutinize?",
+      "source": "Skift"
+    },
     {
       "title": "Skift Global Forum East: Five Decisions in the Room",
       "link": "https://skift.com/2026/11/24/skift-global-forum-east-five-decisions-in-the-room/",
@@ -49,31 +63,45 @@
       "source": "Skift"
     },
     {
-      "title": "The Pressures on Expedia B2B",
-      "link": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
-      "published": "Mon, 23 Nov 2026 21:50:53 +0000",
-      "summary": "Expedia&apos;s partner business has carried the company&apos;s growth for years. A slowdown caused by a tough comparison to last year&apos;s fourth quarter would be a blip. One driven by deteriorating economics and potentially a stronger rival in Booking Holdings would be a much ",
-      "source": "Skift"
-    },
-    {
-      "title": "New Webinar: Who Remembers the Traveler? Building a Connected Customer Journey in the Age of AI",
-      "link": "https://skift.com/2026/11/23/new-webinar-who-remembers-the-traveler-building-a-connected-customer-journey-in-the-age-of-ai/",
-      "published": "Mon, 23 Nov 2026 14:38:14 +0000",
-      "summary": "This sponsored content was created in collaboration with a Skift partner. Travelers now pass through roughly 65 touchpoints before booking a trip, up from 45 in 2018, according to Skift Research and McKinsey. Travel brands own only a handful of them. Even within those, sales, boo",
-      "source": "Skift"
-    },
-    {
-      "title": "Thanksgiving travel live updates: Flight delays, weather and traffic as millions head out - CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16eTBQRV9JQVpPOUI2ZWJScmpvTGczdU1aQmdSTmZZRENGdlNDUlM3NTB6Rms5aXBmWTBWU0JJMktKeHNoc09QSndGZjNSc0xaWFRWVjlYZFZ6dW5ERGdwUlFZeno1MTQ1aEFkWXI4eno?oc=5",
-      "published": "Tue, 24 Nov 2026 18:28:00 GMT",
-      "summary": "Thanksgiving travel live updates: Flight delays, weather and traffic as millions head out&nbsp;&nbsp;CNN",
+      "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JUTmdteldnZkMwR3RLRk84NmM4ZDVYRTV2dWRrYkM4T1NOcUhmMEY4YVFHeWVfTjJJeUl2NFZjX1NYZmJpcm92enhyc0NqZWxfSjZDYUhQVVBoVnQzOGdjdnpEVTBURm8wUlNIZGlTYzZ4aDRGTDVodkR0Sm9lMEdNWnY5RTJCZTBXT2VmTk9Ca0tPaGNXc3M2dnRsOTjSAaQBQVVfeXFMUHYydW5jN1R5UmV4emFlaXg2b3dLTnYtVW4xdG1BR3U4NTFYazVId0Fuc2pVUXpqY1RqZWVfNHAyajhzTjJ2MlJOZ1c2bDZ3ZnlPWTlvWGZjb0l1ajZqN2JkX3NGek1LOGZ0RW4zczlDOHRjeXVZUWQ1U0pERkJVU0dfLVc3YVFKbTlCMEpSSFNkaGdKaUJZLUlZNThZN1Fha2QtWlE?oc=5",
+      "published": "Tue, 24 Nov 2026 17:18:19 GMT",
+      "summary": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     },
     {
-      "title": "Thanksgiving Travel: Where To Expect Crowded Airports, Worst Weather - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVZ5ODlLNE1nNVBQOHBiWmVjQ1NnRDRzTl9rZzJRZktlNHczdkJ4NW8tcEV2OXNuRjR0MXBaZ2ctTjFJam05aVpMRFkzMTNlbUpnSFlhcmNXWEtyVzVfM0htRWF4blQ2cHVTUnE1eXhrRU44NUIxb0VVUDI3OHgxQ3BrRDl1a01EbDhhaF93aVVXNUZPdXEtSkRMQmVFYjZKNFI1MUk2Z2tmdmdVbV9BdkJR?oc=5",
-      "published": "Tue, 24 Nov 2026 18:38:45 GMT",
-      "summary": "Thanksgiving Travel: Where To Expect Crowded Airports, Worst Weather&nbsp;&nbsp;Forbes",
+      "title": "Delays reported after brief ground stop at Chicago\u2019s O\u2019Hare on busiest day of Thanksgiving holiday - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16eTBQRV9JQVpPOUI2ZWJScmpvTGczdU1aQmdSTmZZRENGdlNDUlM3NTB6Rms5aXBmWTBWU0JJMktKeHNoc09QSndGZjNSc0xaWFRWVjlYZFZ6dW5ERGdwUlFZeno1MTQ1aEFkWXI4eno?oc=5",
+      "published": "Wed, 25 Nov 2026 01:41:00 GMT",
+      "summary": "Delays reported after brief ground stop at Chicago\u2019s O\u2019Hare on busiest day of Thanksgiving holiday&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Flights to O'Hare delayed due to equipment outage amid Thanksgiving rush, FAA says - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHZjQm1CWXBBTFJGN281YzZ6ZDZ5UG9za0h4SVJac2RoWnp3ZXRGMDh4LU80WW5Sa19zUm1VVzIzenJ2NXZyX2g3aURUTHVVNmRXQXpjekhnb0YxeUJsWHMtYVN0TGJFNTVHcmxlclBfQWhsT3kzbWdRWjk2M1ZucHZKc0E0V1JWdzZfbTNHQ2pnMHlFOGhaV1p3?oc=5",
+      "published": "Tue, 24 Nov 2026 22:08:05 GMT",
+      "summary": "Flights to O'Hare delayed due to equipment outage amid Thanksgiving rush, FAA says&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "FAA issues and lifts ground stop at Chicago\u2019s O\u2019Hare - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZFNyMDUwSUloYXNDWVBOYzNpQ0RscVlaMXhpN2hBcWd4TVhzODZwLWljdkg0NU9GXzBLZkljZkh2bElVZXpIRmFSUEpwUTFQNkg3QnpRYy0xd21leE4xZUg4ZGJlVkRxNWpsZ1pHcExmWEJ2NXVsVnRoMkNkalXSAYQBQVVfeXFMTlJ0TTdHUVdEb3RCdDhfYU81Rk9oMlpaM2hmZ0pKckZsRGM0SGFzWmdCODRNblhscUFEY2c4WWJ2WXBPU3ZNR2tqQ0V4c0pPMk9LVTBRRW5iTGpEM2RCbmtOcDhGaEprSUJrTjJDTjlSVUVfbW9iakd3WWphM3ZIZFE1MURx?oc=5",
+      "published": "Tue, 24 Nov 2026 22:57:00 GMT",
+      "summary": "FAA issues and lifts ground stop at Chicago\u2019s O\u2019Hare&nbsp;&nbsp;The Hill",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Airlines issue waivers for San Francisco travelers ahead of Thanksgiving storms: How to get a refund, rebook flights - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOExiMjd6b1lPOTl6MTczLVRFZ1hQOUVzN3VaQnctQkFSOXprcDlINGFIR3BIbXRHZUt6ME9xalNpblM5eVdlaXk3MHpCR0NBMmllZ3J1a0NXQjh3OFhyMkVBbW42QWczV21xQm9aVmtPSk9VNlRjQXBaYThRV0JuOG5PaWhFM0sxcFV0RF9DZmExdU1CcHZUM0ctQWdPdmdDc3hhbHZHbVRUV3BaTHfSAbMBQVVfeXFMTTBXeHE1d3BpY3pBVV85Mm9TWGtHeEVhUV9DLXNjT093cFAxazFwd3JnYUdGdWVqM3pSdTZjSS05QzFMUG5ZT3lRV2h1YVV1c04wQmJmU19rT1lzWWgtdXdVazlwdElVcHdFcjdpU2FvTktMZWJTczNQZWdpMkVfNEJrbGtUWkgxT0VMSF9OS2JMVmdzdUc5a0xYT3FZRXU3d0ctNlJQTDZxQUJRMWxtRDNzMUk?oc=5",
+      "published": "Tue, 24 Nov 2026 17:43:48 GMT",
+      "summary": "Airlines issue waivers for San Francisco travelers ahead of Thanksgiving storms: How to get a refund, rebook flights&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Security Alert: U.S. Embassy Jerusalem \u2013 November 24, 2026 - U.S. Embassy Jerusalem (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU5MOW9mMDhsc1llenpYdG1LM2NxMlQxSy1ZQ181MWdoUGJ6X3d6M0wzcjVMbWJSSWtQMDl3TGwtQ0dJWnVLajdYT05xM1UxQ3Z4WC12Mm1VbUM1dElRS093YnpnZXZseGdnZlhnMTFJeGp0NDQ4anlEZ2czZmVMMTRYYUdPUQ?oc=5",
+      "published": "Tue, 24 Nov 2026 21:07:08 GMT",
+      "summary": "Security Alert: U.S. Embassy Jerusalem \u2013 November 24, 2026&nbsp;&nbsp;U.S. Embassy Jerusalem (.gov)",
       "source": "Google News Travel"
     },
     {
@@ -88,34 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB?oc=5",
       "published": "Sun, 22 Nov 2026 16:09:17 GMT",
       "summary": "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights&nbsp;&nbsp;The New York Times",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "U.S. Travelers Issued Nationwide Flight Disruption Warning Over New FAA Rule At All Airports From November 24 - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMnRSQUYySTdONmpMNElvLWdOU3RjbUwwY1M0Tk1ZRlE3ZjJzb1pyNGRUcDFKTGFPakVVN0N6blBNYVU0U042VFZVdmhycjFfRkpSeWZ2V1IxUFEwNkRrZWMydVBySklfTTlNbjlSbUw3c0NPRFFqNUxkYkFpQUl6dmJpX2pUUDMzalJpT3VxWUVfOHhJVFVXNlZnY0s1X251VmlLSXpHQW8yaWwySU9rZUx5ZDFHQVRuYkEwRTZlSk9Gc0h4eENZT3I4aDQySWs?oc=5",
-      "published": "Tue, 24 Nov 2026 10:09:20 GMT",
-      "summary": "U.S. Travelers Issued Nationwide Flight Disruption Warning Over New FAA Rule At All Airports From November 24&nbsp;&nbsp;TheTravel",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Holiday travel expected to surge following FAA system outage - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaHhnQUE5OHhtSGFpWjRreFBuSVJEZDlLV1pLdDZlVi1fQ0lvdXNEaXdqOXU1dTZuQjFJQ0hTU2ZIMjBsdVpRZzR4VnVIejVjcFpDUlNB?oc=5",
-      "published": "Sun, 22 Nov 2026 12:55:58 GMT",
-      "summary": "Holiday travel expected to surge following FAA system outage&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "FAA forecasts busiest Thanksgiving air travel in 16 years - WCYB",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNS0VvM3VEX0s1UFdoSXBhcXc0WldqVjJrM3FDYmZlU0d4Z2o1SDF5SndsazBDRGxzMmZLbm1HVHdpMkNOZWFUb3l6bFppTDl3cm5LTnFONXVmSU0tM3E1UEVEMV9MZHdkMnk5eGJTX3MyVE10UUhKUk5OT2prbkhIbXVxOGJlbXk4bTBvamdQU1BOY2taTUNDSkRXNXRWTUZseFN3Mm9WdG5pbkJ4TXZsd2ttQmdTYWJPZkNBLUFWRFA3QWNUZ2lvZ0lUZ2xULUU5YlF6M0VMVzdHYzZobGlxdXZWamVTOWp4R3VnX0FLYWIzRGFlSS1KSjluLU9LWTNBTy1TUUZTaEY3OWEwb29teXh1U2hUZTFCLXdXLW5XSDZXMGhwMUh4RlkwVENwMnNXTzFxX0pGRmZhTnJxR2Y5MzVQdnJTOUI2bFd1bWQ1dEx3SjdlRDFmaUEzRWR3SVJrV0tnTWtn?oc=5",
-      "published": "Tue, 24 Nov 2026 16:44:13 GMT",
-      "summary": "FAA forecasts busiest Thanksgiving air travel in 16 years&nbsp;&nbsp;WCYB",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JUTmdteldnZkMwR3RLRk84NmM4ZDVYRTV2dWRrYkM4T1NOcUhmMEY4YVFHeWVfTjJJeUl2NFZjX1NYZmJpcm92enhyc0NqZWxfSjZDYUhQVVBoVnQzOGdjdnpEVTBURm8wUlNIZGlTYzZ4aDRGTDVodkR0Sm9lMEdNWnY5RTJCZTBXT2VmTk9Ca0tPaGNXc3M2dnRsOTjSAaQBQVVfeXFMUHYydW5jN1R5UmV4emFlaXg2b3dLTnYtVW4xdG1BR3U4NTFYazVId0Fuc2pVUXpqY1RqZWVfNHAyajhzTjJ2MlJOZ1c2bDZ3ZnlPWTlvWGZjb0l1ajZqN2JkX3NGek1LOGZ0RW4zczlDOHRjeXVZUWQ1U0pERkJVU0dfLVc3YVFKbTlCMEpSSFNkaGdKaUJZLUlZNThZN1Fha2QtWlE?oc=5",
-      "published": "Tue, 24 Nov 2026 17:18:19 GMT",
-      "summary": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption&nbsp;&nbsp;Fox News",
       "source": "Google News Travel"
     }
   ]
