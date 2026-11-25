@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-25T13:41:37.215518+00:00",
+  "last_updated": "2026-11-25T23:51:56.643483+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Middle East Tourism Has Split. Which Demand Gets Capital?",
+      "link": "https://skift.com/2026/11/25/middle-east-tourism-gulf-capital-2027/",
+      "published": "Wed, 25 Nov 2026 18:05:54 +0000",
+      "summary": "Gulf travel now runs at two speeds. Pilgrimage and resort demand held through 2026, while long-haul and corporate travel fell away. Every 2027 capital and capacity plan for the region depends on which market an operator underwrites.",
+      "source": "Skift"
+    },
+    {
+      "title": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+      "link": "https://skift.com/2026/11/25/clarins-family-takes-full-ownership-of-luxury-hotel-group-evok/",
+      "published": "Wed, 25 Nov 2026 18:03:57 +0000",
+      "summary": "The Courtin family behind the Clarins skincare empire  is combining what the hotel industry usually splits apart: the buildings, the brands, and the operations of a luxury hotel group, under one owner.",
+      "source": "Skift"
+    },
+    {
+      "title": "Skift Aviation Forum 2026: Your Questions Answered",
+      "link": "https://skift.com/2026/11/25/skift-aviation-forum-2026-your-questions-answered/",
+      "published": "Wed, 25 Nov 2026 17:55:00 +0000",
+      "summary": "Skift Intelligence responded to 41 unanswered audience questions from Skift Aviation Forum, based on what speakers actually said on the stage and further contextualized by insights from the complete Skift database.",
+      "source": "Skift"
+    },
+    {
+      "title": "Wanted: A Strategy Chief to Bring Air India\u2019s Two Airlines Closer",
+      "link": "https://skift.com/2026/11/25/wanted-a-strategy-chief-to-bring-air-indias-two-airlines-closer/",
+      "published": "Wed, 25 Nov 2026 15:45:26 +0000",
+      "summary": "IndiGo hired Air India Express&apos; former chief as its strategy officer in March. Now Air India is creating a strategy role of its own. It looks like both airlines agree the job is worth having.",
+      "source": "Skift"
+    },
+    {
+      "title": "Expedia to Buy Kiwi.com, Extending Its Acquisition Spree Into Flights",
+      "link": "https://skift.com/2026/11/25/expedia-to-buy-kiwi-com-extending-its-acquisition-spree-into-flights/",
+      "published": "Wed, 25 Nov 2026 15:22:50 +0000",
+      "summary": "Expedia is buying its way toward becoming a one-stop shop for travel sellers and customers, even as the economics of that strategy come under pressure.",
+      "source": "Skift"
+    },
+    {
+      "title": "How Amadeus Pulled Away From Sabre and Travelport",
+      "link": "https://skift.com/2026/11/25/how-amadeus-pulled-away-from-sabre-and-travelport/",
+      "published": "Wed, 25 Nov 2026 14:30:00 +0000",
+      "summary": "Amadeus gained distribution share and built a bigger airline IT business. Sabre and Travelport remain weighed down by heavy debt and a heavier reliance on distribution.",
+      "source": "Skift"
+    },
     {
       "title": "Culture Is Driving New Interest in Travel for Ramadan",
       "link": "https://skift.com/2026/11/25/abu-dhabi-ramadan-travel-tourism/",
@@ -21,66 +63,31 @@
       "source": "Skift"
     },
     {
-      "title": "As Dubai\u2019s Hotels Struggle, Branded Homes Keep Launching",
-      "link": "https://skift.com/2026/11/25/as-dubais-hotels-struggle-branded-homes-keep-launching/",
-      "published": "Wed, 25 Nov 2026 10:24:59 +0000",
-      "summary": "Dubai\u2019s hotels are under pressure, but developers are still signing deals for branded residences. The main bet is on buyers, with brands delivering a healthy premium over the wider market.",
-      "source": "Skift"
-    },
-    {
-      "title": "IndiGo Adds Southeast Asia Flights as Westbound Costs Climb",
-      "link": "https://skift.com/2026/11/25/indigo-adds-southeast-asia-flights-as-westbound-costs-climb/",
-      "published": "Wed, 25 Nov 2026 08:30:00 +0000",
-      "summary": "IndiGo calls it &quot;disciplined growth.&quot; It&apos;s also a retreat to safer ground: Southeast Asia suits its narrowbodies while fuel is expensive and Pakistan&apos;s airspace is closed. But it&apos;s the same region where IndiGo cut six routes this summer, so the real test ",
-      "source": "Skift"
-    },
-    {
-      "title": "6 Airlines, 1 App: Why Lufthansa Group Wants To Build a Superbrand",
-      "link": "https://skift.com/2026/11/25/6-airlines-1-app-why-lufthansa-group-wants-to-be-a-superbrand/",
-      "published": "Wed, 25 Nov 2026 07:00:00 +0000",
-      "summary": "Lufthansa Group has spent years bringing its airlines closer together behind the scenes. This latest move suggests Frankfurt increasingly wants to own the customer relationship, too.",
-      "source": "Skift"
-    },
-    {
-      "title": "India\u2019s Bloom Eyes Southeast Asia and Twice the Rooms After $75 Million Raise",
-      "link": "https://skift.com/2026/11/24/indias-bloom-eyes-southeast-asia-and-twice-the-rooms-after-75-million-raise/",
-      "published": "Wed, 25 Nov 2026 04:00:59 +0000",
-      "summary": "Bloom&apos;s pitch is profitable growth in a market where many chains chase room counts. Kedaara&apos;s $75 million will test whether that discipline survives as it scales up and leaves India for the first time.",
-      "source": "Skift"
-    },
-    {
-      "title": "American Drops Lawsuit Over Gates at Chicago O\u2019Hare but It\u2019s Still Locked in a Battle With United",
-      "link": "https://skift.com/2026/11/24/american-drops-lawsuit-over-gates-at-chicago-o-hare/",
-      "published": "Tue, 24 Nov 2026 23:18:37 +0000",
-      "summary": "American has spent much of the year building back its Chicago presence, even earning another gate at O\u2019Hare just from increasing capacity at the airport, which has been the backdrop of an intense turf war with United.",
-      "source": "Skift"
-    },
-    {
-      "title": "Google Folds Hotel Ads Into Search, Upending How Properties Bid and Measure",
-      "link": "https://skift.com/2026/11/24/google-folds-hotel-ads-into-search-upending-how-properties-bid-and-measure/",
-      "published": "Tue, 24 Nov 2026 21:53:25 +0000",
-      "summary": "Goodbye to metasearch having its own ad budget and scorecard. Google lets hotels place ads in its price-comparison results, but is changing how they place those ads. Will the new process make ad buys harder to scrutinize?",
-      "source": "Skift"
-    },
-    {
-      "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSGp1M1ZOUXBwYTVCbTRIWE53UDV5d056dmlGUW13WTJMcE1rcFlWNnhyelkzX3NWX1BmdGVOR3RzQjFnb29ZdGg0NEl0NGdkM0pMSDQ1NngxX1MyVEE3MkJvNC1uazZzcy05N3FGT0Npck5SSExJUVc5U211dDg?oc=5",
-      "published": "Wed, 25 Nov 2026 10:03:47 GMT",
-      "summary": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump&nbsp;&nbsp;The New York Times",
+      "title": "Where to expect stormy weather, travel delays and power outages on Thanksgiving - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmx5U0thbWZJUDhmbzBYdGNBQVI1aG5kQTVNR1puTGhqQzBqR1ozbW84Y1VwTXBwT3BiRkdZUTIwT2dyS21WT1gtR2NxSDRlc1ZrZG15UFlQeHk1UGlCSTVocV95M0RmZFdISFI1RnNCV3RXZUtEYk5yUkVkaDNCR0NRMjhoMmJZYldGWE54M1ljS3hyd2lOS2pKN1BKZm1feHozYk1qVVRoeXhoN1dzX3YwMTdUdTBSYlhB?oc=5",
+      "published": "Wed, 25 Nov 2026 22:48:09 GMT",
+      "summary": "Where to expect stormy weather, travel delays and power outages on Thanksgiving&nbsp;&nbsp;The Washington Post",
       "source": "Google News Travel"
     },
     {
-      "title": "Thanksgiving Travel - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREVDYmdNbkJkYzY3ODJpbE41Rks4bmNhV0h0MXRJUWhwbnlPbG50UGxIaGVBR2xETVNOSjhVcDY3Rm9KYk1IbklXUXZGelVHNjNHYWlxTnc1SHlJY2ZXTEM0RHJwbWl2U054S3FJdGRsM1BOUnloWWo1dlJsa24tUg?oc=5",
-      "published": "Wed, 25 Nov 2026 11:28:26 GMT",
-      "summary": "Thanksgiving Travel&nbsp;&nbsp;The New York TimesPrepare for flight changes ahead of holiday travel&nbsp;&nbsp;WRALTravelers are worried about airline tech meltdowns ahead of Thanksgiving. Should they be?&nbsp;&nbsp;Yahoo",
+      "title": "Travelers are worried about airline tech meltdowns ahead of Thanksgiving. Should they be? - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa09DTEoxblU4X3VEelFWTHBGSUtGTXJLdjNVZzRuSmZPUUZFcF9nUGptbnR3WTluUHVDQ3RXMElIWU5UeGxTQWJOV3BMazA0SVI3MXhqQ0NoMnpsM21BbXpsMEo3bUNqS0ZwM05iem1FZDdadnk1VldPSU5LeWpMN3A5bGFROXh4TW5vUG95TXpBSW90QUgyY2lIQVhxdw?oc=5",
+      "published": "Tue, 24 Nov 2026 20:58:20 GMT",
+      "summary": "Travelers are worried about airline tech meltdowns ahead of Thanksgiving. Should they be?&nbsp;&nbsp;YahooThanksgiving flights booked after key hour face double the risk of major delay&nbsp;&nbsp;Fox NewsThanksgiving Travel&nbsp;&nbsp;The New York Times",
       "source": "Google News Travel"
     },
     {
-      "title": "Thanksgiving weather live updates: travel disruption expected as storms and flooding forecast - CNN",
+      "title": "Thanksgiving weather live updates: Travel disruption expected as storms and flooding forecast - CNN",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16eTBQRV9JQVpPOUI2ZWJScmpvTGczdU1aQmdSTmZZRENGdlNDUlM3NTB6Rms5aXBmWTBWU0JJMktKeHNoc09QSndGZjNSc0xaWFRWVjlYZFZ6dW5ERGdwUlFZeno1MTQ1aEFkWXI4eno?oc=5",
-      "published": "Wed, 25 Nov 2026 12:50:00 GMT",
-      "summary": "Thanksgiving weather live updates: travel disruption expected as storms and flooding forecast&nbsp;&nbsp;CNN",
+      "published": "Wed, 25 Nov 2026 23:06:00 GMT",
+      "summary": "Thanksgiving weather live updates: Travel disruption expected as storms and flooding forecast&nbsp;&nbsp;CNN",
+      "source": "Google News Travel"
+    },
+    {
+      "title": "Thanksgiving Travel: \u2018Big Four\u2019 Airlines Issue Waivers For East Coast Hubs On Thursday - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZE9EcTV4cHFJUFQxUG5oTXVTVldUYWpPNWg4aU9hSUItSlhyX2NsVXVZRDVDdWNNMHltZVZtTkhfU3BZMk9ESDdGbVlXeDVqQWdoMTlIVUZKbE16QkZsUUU1WUlLZXZ2U20wc3M5a0o3R3RFTzU3NzN0QXZ6OUl4V25meGlNS3duS3kyT2NTbGdOM3E0OTJzMjRVNmVqMmpTY1dTMzZGS0pOVTBBNk41UXFR?oc=5",
+      "published": "Wed, 25 Nov 2026 14:32:00 GMT",
+      "summary": "Thanksgiving Travel: \u2018Big Four\u2019 Airlines Issue Waivers For East Coast Hubs On Thursday&nbsp;&nbsp;Forbes",
       "source": "Google News Travel"
     },
     {
@@ -91,17 +98,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JUTmdteldnZkMwR3RLRk84NmM4ZDVYRTV2dWRrYkM4T1NOcUhmMEY4YVFHeWVfTjJJeUl2NFZjX1NYZmJpcm92enhyc0NqZWxfSjZDYUhQVVBoVnQzOGdjdnpEVTBURm8wUlNIZGlTYzZ4aDRGTDVodkR0Sm9lMEdNWnY5RTJCZTBXT2VmTk9Ca0tPaGNXc3M2dnRsOTjSAaQBQVVfeXFMUHYydW5jN1R5UmV4emFlaXg2b3dLTnYtVW4xdG1BR3U4NTFYazVId0Fuc2pVUXpqY1RqZWVfNHAyajhzTjJ2MlJOZ1c2bDZ3ZnlPWTlvWGZjb0l1ajZqN2JkX3NGek1LOGZ0RW4zczlDOHRjeXVZUWQ1U0pERkJVU0dfLVc3YVFKbTlCMEpSSFNkaGdKaUJZLUlZNThZN1Fha2QtWlE?oc=5",
-      "published": "Tue, 24 Nov 2026 17:18:19 GMT",
-      "summary": "'Worst nightmare' as Delta flight comes to sudden halt due to cabin disruption&nbsp;&nbsp;Fox News",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Airlines issue waivers for San Francisco travelers ahead of Thanksgiving storms: How to get a refund, rebook flights - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOExiMjd6b1lPOTl6MTczLVRFZ1hQOUVzN3VaQnctQkFSOXprcDlINGFIR3BIbXRHZUt6ME9xalNpblM5eVdlaXk3MHpCR0NBMmllZ3J1a0NXQjh3OFhyMkVBbW42QWczV21xQm9aVmtPSk9VNlRjQXBaYThRV0JuOG5PaWhFM0sxcFV0RF9DZmExdU1CcHZUM0ctQWdPdmdDc3hhbHZHbVRUV3BaTHfSAbMBQVVfeXFMTTBXeHE1d3BpY3pBVV85Mm9TWGtHeEVhUV9DLXNjT093cFAxazFwd3JnYUdGdWVqM3pSdTZjSS05QzFMUG5ZT3lRV2h1YVV1c04wQmJmU19rT1lzWWgtdXdVazlwdElVcHdFcjdpU2FvTktMZWJTczNQZWdpMkVfNEJrbGtUWkgxT0VMSF9OS2JMVmdzdUc5a0xYT3FZRXU3d0ctNlJQTDZxQUJRMWxtRDNzMUk?oc=5",
-      "published": "Tue, 24 Nov 2026 17:43:48 GMT",
-      "summary": "Airlines issue waivers for San Francisco travelers ahead of Thanksgiving storms: How to get a refund, rebook flights&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "title": "How the FAA's new Line Up and Wait rules may \u2014 or may not \u2014 impact Thanksgiving holiday air travel - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1E5T0JSRTJwZWoyTE9vYXI1dmZPa3hId2wxNnNtdktLMW1Bc3Q2UUgtM2tZYVFRMHVUdEU0ekhydEdES0wxOEwzSG5GV281MkZxSmdzWHFWOEJRX2hEal9la1J2OXY3dm43NWR2QkxfXzYzQlhTZzl6RTViZlRNaXoycnRPbzhHWUNhNWtrcDE0ZXZiS01KNTJ5a2xMMHJqUm1icGs5SC1XVThFR1NMREFzeDBTMmRJUjNmMTJBWDVzQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 17:43:23 GMT",
+      "summary": "How the FAA's new Line Up and Wait rules may \u2014 or may not \u2014 impact Thanksgiving holiday air travel&nbsp;&nbsp;Yahoo",
       "source": "Google News Travel"
     },
     {
@@ -112,10 +112,10 @@
       "source": "Google News Travel"
     },
     {
-      "title": "New \u2018Line Up and Wait\u2019 FAA Rule: What it Means for Travelers - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTJfMWlyV0pyRzh4ZDJjVHNlbEhoMmhMTDNfM2xiVTN1T3lueTZ4b1AwcDBjck15a05BN0ZtdFhON2hJXzU1cnpOT3djQW1JY3otNThHZXNEX3FJV3lUWkp2QmhIbmszd1dTX3N5SUF3NWVNMmRYbVVXUHNWV3dlTEpxQXpCR2ozV1RHOVkwYkV2eUd5WFE?oc=5",
-      "published": "Tue, 24 Nov 2026 23:56:00 GMT",
-      "summary": "New \u2018Line Up and Wait\u2019 FAA Rule: What it Means for Travelers&nbsp;&nbsp;Newsweek",
+      "title": "Well, the Thanksgiving Travel News Is Pretty Terrible - Fodors Travel Guide",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekdWSktfalYwaTZuQlM2Y2E2bEZwZmNPRnVEcm5GSF9QTlZ6ejVLOVJDbDV3cDJmTUtwMVNkRTJXX2xDbHVoSFY0bUZSRVEtc3UzRjZ2OHNCcEN1R0FPNmFZTEtGUkVyS19hX2JmQU9sNXphcmdtX1cteFFkaG5OUUYtcHZyYjBJSzJPNGxxUUM?oc=5",
+      "published": "Wed, 25 Nov 2026 14:00:37 GMT",
+      "summary": "Well, the Thanksgiving Travel News Is Pretty Terrible&nbsp;&nbsp;Fodors Travel Guide",
       "source": "Google News Travel"
     }
   ]
