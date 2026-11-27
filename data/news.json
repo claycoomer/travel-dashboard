@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-11-27T02:31:05.853304+00:00",
+  "last_updated": "2026-11-27T13:16:57.392357+00:00",
   "sources": [
     "Skift",
     "Google News Travel",
     "Travel Weekly"
   ],
   "items": [
+    {
+      "title": "Agoda\u2019s COO on AI Booking: \u2018Nobody Knows\u2019 the Business Model Yet",
+      "link": "https://skift.com/2026/11/27/agodas-coo-on-ai-booking-nobody-knows-the-business-model-yet/",
+      "published": "Fri, 27 Nov 2026 10:19:53 +0000",
+      "summary": "Agoda wants to win AI agents&apos; business the way it wins travelers&apos;: on price, speed and reliability. What it can&apos;t say yet is what those agents will eventually cost it, and that answer will matter more to its margins than any integration.",
+      "source": "Skift"
+    },
+    {
+      "title": "Dubai Gets Some Airlines Back as Riyadh Waits on Houthis",
+      "link": "https://skift.com/2026/11/27/dubai-gets-some-airlines-back-as-riyadh-waits-on-houthis/",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000",
+      "summary": "Dubai&apos;s airline return hinges on a regulator&apos;s deadline. Riyadh&apos;s depends on weeks without strikes, and until then its hotels lose the regional traffic that fills them midweek.",
+      "source": "Skift"
+    },
     {
       "title": "Travelodge\u2019s New CEO Inherits Safety Reckoning, Rising Costs and Looming Debt",
       "link": "https://skift.com/2026/11/26/travelodges-new-ceo-inherits-safety-reckoning-rising-costs-and-looming-debt/",
@@ -49,73 +63,59 @@
       "source": "Skift"
     },
     {
-      "title": "Middle East Tourism Has Split. Which Demand Gets Capital?",
-      "link": "https://skift.com/2026/11/25/middle-east-tourism-gulf-capital-2027/",
-      "published": "Wed, 25 Nov 2026 18:05:54 +0000",
-      "summary": "Gulf travel now runs at two speeds. Pilgrimage and resort demand held through 2026, while long-haul and corporate travel fell away. Every 2027 capital and capacity plan for the region depends on which market an operator underwrites.",
-      "source": "Skift"
+      "title": "Thanksgiving storms live updates: Hundreds of thousands without power as heavy rains, winds and king tides batter coastal areas and severe weather disrupts holiday travel - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNRFBTNUhMeVhpZ2lzTEJKUjEyb2Y3YW9uZFh3azVzbllSSE1OMzZ6VmkyZ1JYd0pscHRRVVluMVRsSWZIaHI4QlJMVWpzdkVNUV96Z1ktZDBWbTFORXVXVk05T2R3Vko0VFc4ZU5ndnJqdVpEVEVORXY5MjhxWHlBWm9DTl9VZDl2Yk5UZHFzWlBwcTlSRjVTY2dfdUlBdElDRnBucVk1dF80dzN4S0ctekxqdXFTeEZpZDhWc01LV0dnU1d1Vll6UHprbWNhNGdSeHdKLV9TT25td2xWdGh2Rk1aV3ZPSzdxbVhzMnZUYURJeVY2WS1MSzRta2hGNHNzZ1Vra0x2cWMtUV9xYkkwMG5RbmsxakpVLVBOT2NvVXR0ZnBsWjNSRmFUclVHN21YWHFLNjk2VGVKUQ?oc=5",
+      "published": "Fri, 27 Nov 2026 12:56:32 GMT",
+      "summary": "Thanksgiving storms live updates: Hundreds of thousands without power as heavy rains, winds and king tides batter coastal areas and severe weather disrupts holiday travel&nbsp;&nbsp;Yahoo",
+      "source": "Google News Travel"
     },
     {
-      "title": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
-      "link": "https://skift.com/2026/11/25/clarins-family-takes-full-ownership-of-luxury-hotel-group-evok/",
-      "published": "Wed, 25 Nov 2026 18:03:57 +0000",
-      "summary": "The Courtin family behind the Clarins skincare empire  is combining what the hotel industry usually splits apart: the buildings, the brands, and the operations of a luxury hotel group, under one owner.",
-      "source": "Skift"
-    },
-    {
-      "title": "Live updates: Thanksgiving storms disrupt travel and leave hundreds of thousands without power - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDhpTndFUWxySkxnUGZrcnRjQlhtdWp3dmxFUE5UQ0NpakdVUXljdmNLSmpfMWw2SE5ReVk0N2psbm1Lb1B0bVp3NHJucUx3eEJvWFJoOXR6UkNOdG1pN2RsYm5Kc0tpMjlLWG15VXI2VjFpMk9xVFBGa3ZNSUg1OWl4QkN5MEw2eG82aWk4VTRmZl9BblNnMmhlQkFHQ0h1MEdXc0dxYTI4T2p5dHFYT0FNNVVvVEpEQmN5Y255dGEtUQ?oc=5",
-      "published": "Fri, 27 Nov 2026 01:48:00 GMT",
-      "summary": "Live updates: Thanksgiving storms disrupt travel and leave hundreds of thousands without power&nbsp;&nbsp;NBC NewsThanksgiving weather live: Hundreds of flights cancelled and thousands without power in US&nbsp;&nbsp;BBCMaps show where Thanksgiving storms are impacting holiday fes",
+      "title": "Conditions improving after Thanksgiving storm knocks out power, hampers travel - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16eTBQRV9JQVpPOUI2ZWJScmpvTGczdU1aQmdSTmZZRENGdlNDUlM3NTB6Rms5aXBmWTBWU0JJMktKeHNoc09QSndGZjNSc0xaWFRWVjlYZFZ6dW5ERGdwUlFZeno1MTQ1aEFkWXI4eno?oc=5",
+      "published": "Fri, 27 Nov 2026 12:54:00 GMT",
+      "summary": "Conditions improving after Thanksgiving storm knocks out power, hampers travel&nbsp;&nbsp;CNN",
       "source": "Google News Travel"
     },
     {
       "title": "Flight delays, flooding and power outages grow as storm batters East Coast - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5",
-      "published": "Fri, 27 Nov 2026 02:07:03 GMT",
+      "published": "Fri, 27 Nov 2026 03:17:00 GMT",
       "summary": "Flight delays, flooding and power outages grow as storm batters East Coast&nbsp;&nbsp;The Washington Post",
       "source": "Google News Travel"
     },
     {
-      "title": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom confirms another spate of attacks - Cond\u00e9 Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb3JvYlc0SmNBcThXZGtERUIzRHU2cEhCZDk5U1VuUzBWcGlyeUlKOFY2UTQzTmpOSXVZc0hDRTlyS1Z1MTY1N3hEVHpNVDhwN3lXdjNEZ3pJd3FpNjhEWHNCRUwwNlFXX0w0NlZKcXVnRXMyeWxvd1ZraGxlVmx2ZEhtallqRlpoRTVVY1g1NlFFVUNVeE9TSVhVQnlsWldmNjlfRE4zbmM1ZWdsNFBpQ2dlbjY4b0ZkTVpqSGJBN09jalM0elB3S0JTdk8yU2RxQnR3Qjh3?oc=5",
-      "published": "Thu, 26 Nov 2026 13:26:11 GMT",
-      "summary": "Is it safe to travel to Saudi Arabia? The latest advice, as the kingdom confirms another spate of attacks&nbsp;&nbsp;Cond\u00e9 Nast Traveller Middle East",
+      "title": "Thanksgiving weather live: Hundreds of flights cancelled and thousands without power in US - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YzIxZTdCRjdUaFNoUzJuQ2tJeEt4TnZpWFlaRk5CMEU0TXViZTVVWnNDM0ZPMGhsZ1F3NHB0ckN6M2U3U185QkVtelNuQkw3bEZUMGVn?oc=5",
+      "published": "Thu, 26 Nov 2026 23:04:01 GMT",
+      "summary": "Thanksgiving weather live: Hundreds of flights cancelled and thousands without power in US&nbsp;&nbsp;BBCThanksgiving storms disrupt travel and leave hundreds of thousands without power&nbsp;&nbsp;NBC NewsMaps show where Thanksgiving storms are impacting holiday festivities, disr",
       "source": "Google News Travel"
     },
     {
-      "title": "Airlines waive flight change fees as Thanksgiving storm threatens East Coast travel - WCNC",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcGNmT0FKeXFrUENpWEs5M0p6WWx1dmFVbEVQZzZHdFA3WnFEbkpJSnRPZHFvMl9kemZpekF5M1o3TG1JNU1OQjNyMnFIM0gyYi1nMmhTMEc4WTdBRGowLVMtNk1nUUxFcW82eFhPQzVaUW5XZmxNREJsMDdBcUdnVDZWcHFrREd6bG0wWFhERkIzOXFPdGJraTFtSVVfSzhYc3FRZFNCbjAwWWRSUkcyV0ZfbS05THJkV1VndjVtX2VzczFIdlNacTRHdTE0NmlXQUZOQVB5QVN5ZDVENThtU3BNLU1jUjg5UTZHOExxeDlIWVZZNXc2VGtqWTA?oc=5",
-      "published": "Wed, 25 Nov 2026 17:00:00 GMT",
-      "summary": "Airlines waive flight change fees as Thanksgiving storm threatens East Coast travel&nbsp;&nbsp;WCNC",
+      "title": "Security Alert: U.S. Embassy Jerusalem \u2013 November 24, 2026 - U.S. Embassy Jerusalem (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU5MOW9mMDhsc1llenpYdG1LM2NxMlQxSy1ZQ181MWdoUGJ6X3d6M0wzcjVMbWJSSWtQMDl3TGwtQ0dJWnVLajdYT05xM1UxQ3Z4WC12Mm1VbUM1dElRS093YnpnZXZseGdnZlhnMTFJeGp0NDQ4anlEZ2czZmVMMTRYYUdPUQ?oc=5",
+      "published": "Tue, 24 Nov 2026 21:07:08 GMT",
+      "summary": "Security Alert: U.S. Embassy Jerusalem \u2013 November 24, 2026&nbsp;&nbsp;U.S. Embassy Jerusalem (.gov)",
       "source": "Google News Travel"
     },
     {
-      "title": "The Big Thanksgiving Getaway: Midair Emergency, Lengthy TSA Lines - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFhnNGh3dW0zRzNveFpkY1NsYVF3S1pXcGxKZmlVUG1yTFVUcl9UR2xMaGw2WTlzc2RoaGdSWElKMVNlN2RPdC1ZWHFLaVVIQjJHMkEyb01weHNPX2Q1Tks0bTVuVWN5bG5wNUhITndBQlllWS1Gb1pFN0hCV0cwU193?oc=5",
-      "published": "Wed, 25 Nov 2026 23:19:00 GMT",
-      "summary": "The Big Thanksgiving Getaway: Midair Emergency, Lengthy TSA Lines&nbsp;&nbsp;Newsweek",
+      "title": "Thanksgiving Travel - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREVDYmdNbkJkYzY3ODJpbE41Rks4bmNhV0h0MXRJUWhwbnlPbG50UGxIaGVBR2xETVNOSjhVcDY3Rm9KYk1IbklXUXZGelVHNjNHYWlxTnc1SHlJY2ZXTEM0RHJwbWl2U054S3FJdGRsM1BOUnloWWo1dlJsa24tUg?oc=5",
+      "published": "Wed, 25 Nov 2026 11:28:26 GMT",
+      "summary": "Thanksgiving Travel&nbsp;&nbsp;The New York Times",
       "source": "Google News Travel"
     },
     {
-      "title": "Delta Air Lines Issues Travel Warning For 9 U.S. Airports Amid Major Thanksgiving Storm - TheTravel",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkNSb3pOcElKWkZESHhGR2RhazZMRmNxRFBIMDhvd1pVMUxzWEducXMwcWJLYlcwYTN4S0lxQzVLWVU3a0EwUFZnODM2R1hOQk9pcWFHWkpIU0ZaSm5sMFRfOFJMWk1YclBlV1Z3NkQyX1BOb3lqaUJiRnBvMU45VmNhQnQ1ajQ3aGI3SjRiSWFnczJFdlNQYU9nZWRZOWtKdkE1V1YyenUzM0ZMT1JFN19Nam85N0RfUjNTY25ZSXpEWGdHcFNuTFFTcw?oc=5",
-      "published": "Wed, 25 Nov 2026 00:40:00 GMT",
-      "summary": "Delta Air Lines Issues Travel Warning For 9 U.S. Airports Amid Major Thanksgiving Storm&nbsp;&nbsp;TheTravel",
+      "title": "Thanksgiving storms leave nearly a million without power across the US - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
+      "published": "Fri, 27 Nov 2026 04:38:19 GMT",
+      "summary": "Thanksgiving storms leave nearly a million without power across the US&nbsp;&nbsp;Al Jazeera",
       "source": "Google News Travel"
     },
     {
-      "title": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 2, 2026 - U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUhwRVFDOXUydTY0MnJDbm5sNUVnZXoydG9leGVsT3hWZ243eXBuUms3MXZhcmtpcmx6ZFFTNDhqNlpxeUZjSWdORHBTQ25GUUkxUUhoUXlhdmk3cjR4MkN4dHgtMlN6Y2hFaVQyMm9KUnY3c3FQekpmaTVHNFFnZ1doQ0l2bEV4SHVEdg?oc=5",
-      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
-      "summary": "Security Alert: U.S. Mission to Saudi Arabia \u2013 November 2, 2026&nbsp;&nbsp;U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-      "source": "Google News Travel"
-    },
-    {
-      "title": "Severe Flight Warning Hits Major Middle East Transit Hubs - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREpjb3VkQmowNkpia00taVhNNGFyaG43M1MzMjlVdW51LW5tYVJiYVpkcDRnMENWRjJaNWx3dEQ1bVBsSU16VklESFFIY2hvWEEwWWhtM0tyb0FPa2FEV2FSdldwcFhDWnZRZjJfWXlsUEFHeGotOUhFTWd3WVR0TjlQaXkxSlc0U2ptb2NBYw?oc=5",
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
-      "summary": "Severe Flight Warning Hits Major Middle East Transit Hubs&nbsp;&nbsp;Yahoo",
+      "title": "Storms disrupt Thanksgiving with flight delays, cancellations, and power outages across the US - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WekdzVi1ZVy1ZSVJydTIwUV9OU1pkUFVPOFp2Uld1V0VYS3IyaklYU2NrM2ctdFliNXlYbXpzS0ZRLXVueHZDQ1JzdlpXTElCbmlnOHpMbnNfTnhwT1RPMUFzUWtGampzcjAxdWJMaEhyLTZKaUJzdjJjcnlqdw?oc=5",
+      "published": "Fri, 27 Nov 2026 01:34:00 GMT",
+      "summary": "Storms disrupt Thanksgiving with flight delays, cancellations, and power outages across the US&nbsp;&nbsp;Business Insider",
       "source": "Google News Travel"
     }
   ]
